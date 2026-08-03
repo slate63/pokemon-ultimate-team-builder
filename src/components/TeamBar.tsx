@@ -1,5 +1,5 @@
 import React, { memo } from 'react';
-import { ResolvedTeam, ResolvedTeamMember } from '../types';
+import { ResolvedTeam, ResolvedTeamMember, PokemonType } from '../types';
 import { getPokemonSprite } from '../data/pokemonData';
 import { getPokemonSprite as getPokemonRetroSprite } from '../utils/spriteUtils';
 import { ALL_NATURES, getNatureTag } from '../utils/natureUtils';
@@ -13,6 +13,7 @@ interface TeamSlotProps {
   isHighlighted?: boolean;
   highlightLabel?: string;
   highlightCategory?: string;
+  highlightType?: PokemonType;
   hasAnyHighlight?: boolean;
   activeGen: number;
   spriteStyle: string;
@@ -30,6 +31,7 @@ const TeamSlot: React.FC<TeamSlotProps> = memo(({
   isHighlighted,
   highlightLabel,
   highlightCategory,
+  highlightType,
   hasAnyHighlight,
   activeGen,
   spriteStyle,
@@ -64,7 +66,7 @@ const TeamSlot: React.FC<TeamSlotProps> = memo(({
       <span className="slot-number">#{idx + 1}</span>
 
       {highlightLabel && (
-        <div className={`slot-highlight-badge badge-cat-${highlightCategory || 'default'}`}>
+        <div className={`slot-highlight-badge badge-cat-${highlightCategory || 'default'} ${highlightCategory === 'type' && highlightType ? `type-${highlightType}` : ''}`}>
           {highlightLabel}
         </div>
       )}
@@ -188,6 +190,7 @@ export const TeamBar: React.FC<TeamBarProps> = memo(({
               isHighlighted={!!highlightItem}
               highlightLabel={highlightItem?.label}
               highlightCategory={highlightItem?.category}
+              highlightType={highlightItem?.type}
               hasAnyHighlight={hasAnyHighlight}
               activeGen={activeGen}
               spriteStyle={spriteStyle}

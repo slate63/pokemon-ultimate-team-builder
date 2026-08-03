@@ -51,19 +51,20 @@ export const CoverageMatrix: React.FC<CoverageMatrixProps> = memo(({
 
   const activeCount = team.filter(Boolean).length;
 
-  const getCategoryShortLabel = (category: MatrixCategory): string => {
+  const getCategoryShortLabel = (category: MatrixCategory, type?: PokemonType): string => {
     switch (category) {
       case 'weak2x': return '2x Weak';
       case 'weak4x': return '4x Weak';
       case 'resist': return 'Resists';
       case 'immune': return 'Immune';
       case 'hit': return 'STAB Hit';
+      case 'type': return type ? `${type.toUpperCase()} TYPE` : 'SAME TYPE';
     }
   };
 
   const handleCellMouseEnter = (type: PokemonType, category: MatrixCategory) => {
     const slots = getMatchingTeamSlots(team, chart, type, category);
-    const label = getCategoryShortLabel(category);
+    const label = getCategoryShortLabel(category, type);
     const highlights: HighlightInfo[] = slots.map((slotIndex) => ({
       slotIndex,
       label,
@@ -74,12 +75,14 @@ export const CoverageMatrix: React.FC<CoverageMatrixProps> = memo(({
   };
 
   const handleTypeHeaderMouseEnter = (type: PokemonType) => {
-    const weak2xSlots = getMatchingTeamSlots(team, chart, type, 'weak2x');
-    const weak4xSlots = getMatchingTeamSlots(team, chart, type, 'weak4x');
-    const highlights: HighlightInfo[] = [
-      ...weak2xSlots.map((slotIndex) => ({ slotIndex, label: '2x Weak', type, category: 'weak2x' as MatrixCategory })),
-      ...weak4xSlots.map((slotIndex) => ({ slotIndex, label: '4x Weak', type, category: 'weak4x' as MatrixCategory })),
-    ];
+    const slots = getMatchingTeamSlots(team, chart, type, 'type');
+    const label = getCategoryShortLabel('type', type);
+    const highlights: HighlightInfo[] = slots.map((slotIndex) => ({
+      slotIndex,
+      label,
+      type,
+      category: 'type',
+    }));
     onHighlightSlots?.(highlights);
   };
 
@@ -169,6 +172,7 @@ export const CoverageMatrix: React.FC<CoverageMatrixProps> = memo(({
                     className="text-left matrix-cell-interactive"
                     onMouseEnter={() => handleTypeHeaderMouseEnter(type)}
                     onMouseLeave={handleCellMouseLeave}
+                    title="Hover to highlight Pokémon of this type in Team Bar"
                   >
                     <span className={`type-badge type-${type} type-badge-sm`}>
                       {type}

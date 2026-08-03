@@ -203,7 +203,7 @@ export function calculateTeamOffensiveCoverage(
   return result;
 }
 
-export type MatrixCategory = 'weak2x' | 'weak4x' | 'resist' | 'immune' | 'hit';
+export type MatrixCategory = 'weak2x' | 'weak4x' | 'resist' | 'immune' | 'hit' | 'type';
 
 /**
  * Get slot indices of team members that match a specific matrix cell criteria.
@@ -219,7 +219,15 @@ export function getMatchingTeamSlots(
   team.forEach((member, index) => {
     if (!member) return;
 
-    if (category === 'hit') {
+    if (category === 'type') {
+      const isOfType = member.pokemon.types.some(t => {
+        const typeStr = typeof t === 'string' ? t : ((t as any)?.type?.name || (t as any)?.name || String(t));
+        return typeStr.toLowerCase() === targetType.toLowerCase();
+      });
+      if (isOfType) {
+        matchingSlots.push(index);
+      }
+    } else if (category === 'hit') {
       const hasStab = member.pokemon.types.some(stabType => (chart[stabType]?.[targetType] ?? 1) > 1);
       if (hasStab) {
         matchingSlots.push(index);
