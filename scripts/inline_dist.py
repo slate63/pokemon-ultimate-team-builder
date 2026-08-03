@@ -99,6 +99,7 @@ html_template = f"""<!DOCTYPE html>
     <script type="module">
 {js_content}
     </script>
+    <!-- Cloudflare Web Analytics --><script type='module' src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{{"token": "b168b30a80e742bd9c18536e22330add"}}'></script><!-- End Cloudflare Web Analytics -->
   </body>
 </html>"""
 
