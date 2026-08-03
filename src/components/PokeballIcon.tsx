@@ -25,8 +25,8 @@ const BALL_SVGS: Record<string, React.ReactElement> = {
     <g clipPath="url(#header-ball-clip)">
       <circle cx="50" cy="50" r="50" fill="#F5F5F5" />
       <path d="M 0 50 A 50 50 0 0 1 100 50 Z" fill="#1A1A1A" />
-      <rect x="28" y="4" width="6" height="46" fill="#FFD700" />
-      <rect x="66" y="4" width="6" height="46" fill="#FFD700" />
+      <rect x="13.32" y="4" width="15.36" height="46" fill="#FFD700" />
+      <rect x="71.32" y="4" width="15.36" height="46" fill="#FFD700" />
       <rect x="0" y="44" width="100" height="12" fill="black" />
       <circle cx="50" cy="50" r="14" fill="#F5F5F5" stroke="black" strokeWidth="4" />
       <circle cx="50" cy="50" r="6" fill="black" />
