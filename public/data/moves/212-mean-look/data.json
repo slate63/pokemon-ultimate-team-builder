@@ -1,0 +1,86 @@
+{
+  "id": 212,
+  "name": "mean-look",
+  "generations": {
+    "2": {
+      "id": 212,
+      "name": "mean-look",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "3": {
+      "id": 212,
+      "name": "mean-look",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "4": {
+      "id": 212,
+      "name": "mean-look",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "5": {
+      "id": 212,
+      "name": "mean-look",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "6": {
+      "id": 212,
+      "name": "mean-look",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "7": {
+      "id": 212,
+      "name": "mean-look",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "8": {
+      "id": 212,
+      "name": "mean-look",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "9": {
+      "id": 212,
+      "name": "mean-look",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "status"
+    }
+  }
+}

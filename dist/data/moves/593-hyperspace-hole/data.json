@@ -1,0 +1,46 @@
+{
+  "id": 593,
+  "name": "hyperspace-hole",
+  "generations": {
+    "6": {
+      "id": 593,
+      "name": "hyperspace-hole",
+      "type": "psychic",
+      "power": 80,
+      "accuracy": 0,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "7": {
+      "id": 593,
+      "name": "hyperspace-hole",
+      "type": "psychic",
+      "power": 80,
+      "accuracy": 0,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "8": {
+      "id": 593,
+      "name": "hyperspace-hole",
+      "type": "psychic",
+      "power": 80,
+      "accuracy": 0,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "9": {
+      "id": 593,
+      "name": "hyperspace-hole",
+      "type": "psychic",
+      "power": 80,
+      "accuracy": 0,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "special"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 884,
+  "name": "pounce",
+  "generations": {
+    "9": {
+      "id": 884,
+      "name": "pounce",
+      "type": "bug",
+      "power": 50,
+      "accuracy": 100,
+      "pp": 20,
+      "priority": 0,
+      "damage_class": "physical"
+    }
+  }
+}

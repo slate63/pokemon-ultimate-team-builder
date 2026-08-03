@@ -1,0 +1,76 @@
+{
+  "id": 284,
+  "name": "eruption",
+  "generations": {
+    "3": {
+      "id": 284,
+      "name": "eruption",
+      "type": "fire",
+      "power": 150,
+      "accuracy": 100,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "4": {
+      "id": 284,
+      "name": "eruption",
+      "type": "fire",
+      "power": 150,
+      "accuracy": 100,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "5": {
+      "id": 284,
+      "name": "eruption",
+      "type": "fire",
+      "power": 150,
+      "accuracy": 100,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "6": {
+      "id": 284,
+      "name": "eruption",
+      "type": "fire",
+      "power": 150,
+      "accuracy": 100,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "7": {
+      "id": 284,
+      "name": "eruption",
+      "type": "fire",
+      "power": 150,
+      "accuracy": 100,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "8": {
+      "id": 284,
+      "name": "eruption",
+      "type": "fire",
+      "power": 150,
+      "accuracy": 100,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "9": {
+      "id": 284,
+      "name": "eruption",
+      "type": "fire",
+      "power": 150,
+      "accuracy": 100,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "special"
+    }
+  }
+}

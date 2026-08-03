@@ -1,0 +1,26 @@
+{
+  "id": 789,
+  "name": "spirit-break",
+  "generations": {
+    "8": {
+      "id": 789,
+      "name": "spirit-break",
+      "type": "fairy",
+      "power": 75,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "9": {
+      "id": 789,
+      "name": "spirit-break",
+      "type": "fairy",
+      "power": 75,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "physical"
+    }
+  }
+}

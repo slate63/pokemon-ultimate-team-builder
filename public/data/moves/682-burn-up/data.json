@@ -1,0 +1,36 @@
+{
+  "id": 682,
+  "name": "burn-up",
+  "generations": {
+    "7": {
+      "id": 682,
+      "name": "burn-up",
+      "type": "fire",
+      "power": 130,
+      "accuracy": 100,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "8": {
+      "id": 682,
+      "name": "burn-up",
+      "type": "fire",
+      "power": 130,
+      "accuracy": 100,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "9": {
+      "id": 682,
+      "name": "burn-up",
+      "type": "fire",
+      "power": 130,
+      "accuracy": 100,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "special"
+    }
+  }
+}

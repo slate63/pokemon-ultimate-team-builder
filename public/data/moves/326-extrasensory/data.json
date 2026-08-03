@@ -1,0 +1,76 @@
+{
+  "id": 326,
+  "name": "extrasensory",
+  "generations": {
+    "3": {
+      "id": 326,
+      "name": "extrasensory",
+      "type": "psychic",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 30,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "4": {
+      "id": 326,
+      "name": "extrasensory",
+      "type": "psychic",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 30,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "5": {
+      "id": 326,
+      "name": "extrasensory",
+      "type": "psychic",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 30,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "6": {
+      "id": 326,
+      "name": "extrasensory",
+      "type": "psychic",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 30,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "7": {
+      "id": 326,
+      "name": "extrasensory",
+      "type": "psychic",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 20,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "8": {
+      "id": 326,
+      "name": "extrasensory",
+      "type": "psychic",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 20,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "9": {
+      "id": 326,
+      "name": "extrasensory",
+      "type": "psychic",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 20,
+      "priority": 0,
+      "damage_class": "special"
+    }
+  }
+}

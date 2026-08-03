@@ -1,0 +1,76 @@
+{
+  "id": 270,
+  "name": "helping-hand",
+  "generations": {
+    "3": {
+      "id": 270,
+      "name": "helping-hand",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 20,
+      "priority": 5,
+      "damage_class": "status"
+    },
+    "4": {
+      "id": 270,
+      "name": "helping-hand",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 20,
+      "priority": 5,
+      "damage_class": "status"
+    },
+    "5": {
+      "id": 270,
+      "name": "helping-hand",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 20,
+      "priority": 5,
+      "damage_class": "status"
+    },
+    "6": {
+      "id": 270,
+      "name": "helping-hand",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 20,
+      "priority": 5,
+      "damage_class": "status"
+    },
+    "7": {
+      "id": 270,
+      "name": "helping-hand",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 20,
+      "priority": 5,
+      "damage_class": "status"
+    },
+    "8": {
+      "id": 270,
+      "name": "helping-hand",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 20,
+      "priority": 5,
+      "damage_class": "status"
+    },
+    "9": {
+      "id": 270,
+      "name": "helping-hand",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 20,
+      "priority": 5,
+      "damage_class": "status"
+    }
+  }
+}

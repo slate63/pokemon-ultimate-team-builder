@@ -1,0 +1,46 @@
+{
+  "id": 646,
+  "name": "gigavolt-havoc--physical",
+  "generations": {
+    "6": {
+      "id": 646,
+      "name": "gigavolt-havoc--physical",
+      "type": "electric",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 1,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "7": {
+      "id": 646,
+      "name": "gigavolt-havoc--physical",
+      "type": "electric",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 1,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "8": {
+      "id": 646,
+      "name": "gigavolt-havoc--physical",
+      "type": "electric",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 1,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "9": {
+      "id": 646,
+      "name": "gigavolt-havoc--physical",
+      "type": "electric",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 1,
+      "priority": 0,
+      "damage_class": "physical"
+    }
+  }
+}

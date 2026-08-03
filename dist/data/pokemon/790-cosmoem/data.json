@@ -1,0 +1,106 @@
+{
+  "id": 790,
+  "name": "cosmoem",
+  "generations": {
+    "7": {
+      "types": [
+        "psychic"
+      ],
+      "stats": {
+        "generation": 7,
+        "number": 790,
+        "hp": 43,
+        "attack": 29,
+        "defense": 131,
+        "special_attack": 29,
+        "special_defense": 131,
+        "speed": 37
+      },
+      "height": 0.1,
+      "weight": 999.9,
+      "moves": [
+        "teleport",
+        "cosmic-power"
+      ],
+      "abilities": [
+        "sturdy"
+      ],
+      "availability": [
+        "sun",
+        "moon",
+        "ultra-sun",
+        "ultra-moon"
+      ],
+      "description": "Motionless as if dead, its body is faintly warm to the touch. In the distant past, it was called the cocoon of the stars.",
+      "is_legendary": true,
+      "is_mythical": false,
+      "is_fully_evolved": false
+    },
+    "8": {
+      "types": [
+        "psychic"
+      ],
+      "stats": {
+        "generation": 8,
+        "number": 790,
+        "hp": 43,
+        "attack": 29,
+        "defense": 131,
+        "special_attack": 29,
+        "special_defense": 131,
+        "speed": 37
+      },
+      "height": 0.1,
+      "weight": 999.9,
+      "moves": [
+        "teleport",
+        "cosmic-power"
+      ],
+      "abilities": [
+        "sturdy"
+      ],
+      "availability": [
+        "sword",
+        "shield",
+        "brilliant-diamond",
+        "shining-pearl"
+      ],
+      "description": "Motionless as if dead, its body is faintly warm to the touch. In the distant past, it was called the cocoon of the stars.",
+      "is_legendary": true,
+      "is_mythical": false,
+      "is_fully_evolved": false
+    },
+    "9": {
+      "types": [
+        "psychic"
+      ],
+      "stats": {
+        "generation": 9,
+        "number": 790,
+        "hp": 43,
+        "attack": 29,
+        "defense": 131,
+        "special_attack": 29,
+        "special_defense": 131,
+        "speed": 37
+      },
+      "height": 0.1,
+      "weight": 999.9,
+      "moves": [
+        "teleport",
+        "cosmic-power"
+      ],
+      "abilities": [
+        "sturdy"
+      ],
+      "availability": [
+        "scarlet",
+        "violet"
+      ],
+      "description": "Motionless as if dead, its body is faintly warm to the touch. In the distant past, it was called the cocoon of the stars.",
+      "is_legendary": true,
+      "is_mythical": false,
+      "is_fully_evolved": false
+    }
+  }
+}

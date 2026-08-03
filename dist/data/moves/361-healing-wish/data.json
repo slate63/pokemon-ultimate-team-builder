@@ -1,0 +1,66 @@
+{
+  "id": 361,
+  "name": "healing-wish",
+  "generations": {
+    "4": {
+      "id": 361,
+      "name": "healing-wish",
+      "type": "psychic",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "5": {
+      "id": 361,
+      "name": "healing-wish",
+      "type": "psychic",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "6": {
+      "id": 361,
+      "name": "healing-wish",
+      "type": "psychic",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "7": {
+      "id": 361,
+      "name": "healing-wish",
+      "type": "psychic",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "8": {
+      "id": 361,
+      "name": "healing-wish",
+      "type": "psychic",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "9": {
+      "id": 361,
+      "name": "healing-wish",
+      "type": "psychic",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "status"
+    }
+  }
+}

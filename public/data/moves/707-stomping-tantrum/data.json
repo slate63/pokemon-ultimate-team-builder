@@ -1,0 +1,36 @@
+{
+  "id": 707,
+  "name": "stomping-tantrum",
+  "generations": {
+    "7": {
+      "id": 707,
+      "name": "stomping-tantrum",
+      "type": "ground",
+      "power": 75,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "8": {
+      "id": 707,
+      "name": "stomping-tantrum",
+      "type": "ground",
+      "power": 75,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "9": {
+      "id": 707,
+      "name": "stomping-tantrum",
+      "type": "ground",
+      "power": 75,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    }
+  }
+}

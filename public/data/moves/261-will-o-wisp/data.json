@@ -1,0 +1,76 @@
+{
+  "id": 261,
+  "name": "will-o-wisp",
+  "generations": {
+    "3": {
+      "id": 261,
+      "name": "will-o-wisp",
+      "type": "fire",
+      "power": 0,
+      "accuracy": 75,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "4": {
+      "id": 261,
+      "name": "will-o-wisp",
+      "type": "fire",
+      "power": 0,
+      "accuracy": 75,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "5": {
+      "id": 261,
+      "name": "will-o-wisp",
+      "type": "fire",
+      "power": 0,
+      "accuracy": 75,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "6": {
+      "id": 261,
+      "name": "will-o-wisp",
+      "type": "fire",
+      "power": 0,
+      "accuracy": 75,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "7": {
+      "id": 261,
+      "name": "will-o-wisp",
+      "type": "fire",
+      "power": 0,
+      "accuracy": 85,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "8": {
+      "id": 261,
+      "name": "will-o-wisp",
+      "type": "fire",
+      "power": 0,
+      "accuracy": 85,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "9": {
+      "id": 261,
+      "name": "will-o-wisp",
+      "type": "fire",
+      "power": 0,
+      "accuracy": 85,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "status"
+    }
+  }
+}

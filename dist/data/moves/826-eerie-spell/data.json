@@ -1,0 +1,26 @@
+{
+  "id": 826,
+  "name": "eerie-spell",
+  "generations": {
+    "8": {
+      "id": 826,
+      "name": "eerie-spell",
+      "type": "psychic",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "9": {
+      "id": 826,
+      "name": "eerie-spell",
+      "type": "psychic",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "special"
+    }
+  }
+}

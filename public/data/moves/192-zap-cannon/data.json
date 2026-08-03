@@ -1,0 +1,86 @@
+{
+  "id": 192,
+  "name": "zap-cannon",
+  "generations": {
+    "2": {
+      "id": 192,
+      "name": "zap-cannon",
+      "type": "electric",
+      "power": 100,
+      "accuracy": 50,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "3": {
+      "id": 192,
+      "name": "zap-cannon",
+      "type": "electric",
+      "power": 100,
+      "accuracy": 50,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "4": {
+      "id": 192,
+      "name": "zap-cannon",
+      "type": "electric",
+      "power": 100,
+      "accuracy": 50,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "5": {
+      "id": 192,
+      "name": "zap-cannon",
+      "type": "electric",
+      "power": 120,
+      "accuracy": 50,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "6": {
+      "id": 192,
+      "name": "zap-cannon",
+      "type": "electric",
+      "power": 120,
+      "accuracy": 50,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "7": {
+      "id": 192,
+      "name": "zap-cannon",
+      "type": "electric",
+      "power": 120,
+      "accuracy": 50,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "8": {
+      "id": 192,
+      "name": "zap-cannon",
+      "type": "electric",
+      "power": 120,
+      "accuracy": 50,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "9": {
+      "id": 192,
+      "name": "zap-cannon",
+      "type": "electric",
+      "power": 120,
+      "accuracy": 50,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "special"
+    }
+  }
+}

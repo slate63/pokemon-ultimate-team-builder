@@ -1,0 +1,26 @@
+{
+  "id": 806,
+  "name": "skitter-smack",
+  "generations": {
+    "8": {
+      "id": 806,
+      "name": "skitter-smack",
+      "type": "bug",
+      "power": 70,
+      "accuracy": 90,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "9": {
+      "id": 806,
+      "name": "skitter-smack",
+      "type": "bug",
+      "power": 70,
+      "accuracy": 90,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    }
+  }
+}

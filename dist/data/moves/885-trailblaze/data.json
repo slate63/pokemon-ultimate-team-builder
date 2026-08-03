@@ -1,0 +1,16 @@
+{
+  "id": 885,
+  "name": "trailblaze",
+  "generations": {
+    "9": {
+      "id": 885,
+      "name": "trailblaze",
+      "type": "grass",
+      "power": 50,
+      "accuracy": 100,
+      "pp": 20,
+      "priority": 0,
+      "damage_class": "physical"
+    }
+  }
+}

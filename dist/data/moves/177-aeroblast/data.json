@@ -1,0 +1,86 @@
+{
+  "id": 177,
+  "name": "aeroblast",
+  "generations": {
+    "2": {
+      "id": 177,
+      "name": "aeroblast",
+      "type": "flying",
+      "power": 100,
+      "accuracy": 95,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "3": {
+      "id": 177,
+      "name": "aeroblast",
+      "type": "flying",
+      "power": 100,
+      "accuracy": 95,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "4": {
+      "id": 177,
+      "name": "aeroblast",
+      "type": "flying",
+      "power": 100,
+      "accuracy": 95,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "5": {
+      "id": 177,
+      "name": "aeroblast",
+      "type": "flying",
+      "power": 100,
+      "accuracy": 95,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "6": {
+      "id": 177,
+      "name": "aeroblast",
+      "type": "flying",
+      "power": 100,
+      "accuracy": 95,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "7": {
+      "id": 177,
+      "name": "aeroblast",
+      "type": "flying",
+      "power": 100,
+      "accuracy": 95,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "8": {
+      "id": 177,
+      "name": "aeroblast",
+      "type": "flying",
+      "power": 100,
+      "accuracy": 95,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "9": {
+      "id": 177,
+      "name": "aeroblast",
+      "type": "flying",
+      "power": 100,
+      "accuracy": 95,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "special"
+    }
+  }
+}

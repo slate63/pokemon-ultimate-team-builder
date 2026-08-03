@@ -1,0 +1,85 @@
+{
+  "id": 957,
+  "name": "tinkatink",
+  "generations": {
+    "9": {
+      "types": [
+        "fairy",
+        "steel"
+      ],
+      "stats": {
+        "generation": 9,
+        "number": 957,
+        "hp": 50,
+        "attack": 45,
+        "defense": 45,
+        "special_attack": 35,
+        "special_defense": 64,
+        "speed": 58
+      },
+      "height": 0.4,
+      "weight": 8.9,
+      "moves": [
+        "swords-dance",
+        "slam",
+        "thunder-wave",
+        "light-screen",
+        "reflect",
+        "metronome",
+        "rest",
+        "rock-slide",
+        "substitute",
+        "thief",
+        "protect",
+        "sweet-kiss",
+        "endure",
+        "sleep-talk",
+        "encore",
+        "metal-claw",
+        "rock-smash",
+        "fake-out",
+        "flatter",
+        "facade",
+        "helping-hand",
+        "knock-off",
+        "endeavor",
+        "skill-swap",
+        "astonish",
+        "fake-tears",
+        "rock-tomb",
+        "metal-sound",
+        "covet",
+        "feint",
+        "fling",
+        "flash-cannon",
+        "stone-edge",
+        "stealth-rock",
+        "foul-play",
+        "quash",
+        "draining-kiss",
+        "play-rough",
+        "fairy-wind",
+        "baby-doll-eyes",
+        "ice-hammer",
+        "brutal-swing",
+        "steel-beam",
+        "skitter-smack",
+        "tera-blast",
+        "pounce"
+      ],
+      "abilities": [
+        "mold-breaker",
+        "own-tempo",
+        "pickpocket"
+      ],
+      "availability": [
+        "scarlet",
+        "violet"
+      ],
+      "description": "It swings its handmade hammer around to protect itself, but the hammer is often stolen by Pok\u00e9mon that eat metal.",
+      "is_legendary": false,
+      "is_mythical": false,
+      "is_fully_evolved": false
+    }
+  }
+}

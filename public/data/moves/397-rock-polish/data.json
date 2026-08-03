@@ -1,0 +1,66 @@
+{
+  "id": 397,
+  "name": "rock-polish",
+  "generations": {
+    "4": {
+      "id": 397,
+      "name": "rock-polish",
+      "type": "rock",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 20,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "5": {
+      "id": 397,
+      "name": "rock-polish",
+      "type": "rock",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 20,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "6": {
+      "id": 397,
+      "name": "rock-polish",
+      "type": "rock",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 20,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "7": {
+      "id": 397,
+      "name": "rock-polish",
+      "type": "rock",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 20,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "8": {
+      "id": 397,
+      "name": "rock-polish",
+      "type": "rock",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 20,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "9": {
+      "id": 397,
+      "name": "rock-polish",
+      "type": "rock",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 20,
+      "priority": 0,
+      "damage_class": "status"
+    }
+  }
+}

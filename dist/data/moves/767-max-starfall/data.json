@@ -1,0 +1,36 @@
+{
+  "id": 767,
+  "name": "max-starfall",
+  "generations": {
+    "7": {
+      "id": 767,
+      "name": "max-starfall",
+      "type": "fairy",
+      "power": 10,
+      "accuracy": 0,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "8": {
+      "id": 767,
+      "name": "max-starfall",
+      "type": "fairy",
+      "power": 10,
+      "accuracy": 0,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "9": {
+      "id": 767,
+      "name": "max-starfall",
+      "type": "fairy",
+      "power": 10,
+      "accuracy": 0,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    }
+  }
+}

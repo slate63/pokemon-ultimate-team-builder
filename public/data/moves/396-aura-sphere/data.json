@@ -1,0 +1,66 @@
+{
+  "id": 396,
+  "name": "aura-sphere",
+  "generations": {
+    "4": {
+      "id": 396,
+      "name": "aura-sphere",
+      "type": "fighting",
+      "power": 90,
+      "accuracy": 0,
+      "pp": 20,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "5": {
+      "id": 396,
+      "name": "aura-sphere",
+      "type": "fighting",
+      "power": 90,
+      "accuracy": 0,
+      "pp": 20,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "6": {
+      "id": 396,
+      "name": "aura-sphere",
+      "type": "fighting",
+      "power": 90,
+      "accuracy": 0,
+      "pp": 20,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "7": {
+      "id": 396,
+      "name": "aura-sphere",
+      "type": "fighting",
+      "power": 80,
+      "accuracy": 0,
+      "pp": 20,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "8": {
+      "id": 396,
+      "name": "aura-sphere",
+      "type": "fighting",
+      "power": 80,
+      "accuracy": 0,
+      "pp": 20,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "9": {
+      "id": 396,
+      "name": "aura-sphere",
+      "type": "fighting",
+      "power": 80,
+      "accuracy": 0,
+      "pp": 20,
+      "priority": 0,
+      "damage_class": "special"
+    }
+  }
+}

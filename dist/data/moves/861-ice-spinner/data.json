@@ -1,0 +1,26 @@
+{
+  "id": 861,
+  "name": "ice-spinner",
+  "generations": {
+    "8": {
+      "id": 861,
+      "name": "ice-spinner",
+      "type": "ice",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "9": {
+      "id": 861,
+      "name": "ice-spinner",
+      "type": "ice",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "physical"
+    }
+  }
+}

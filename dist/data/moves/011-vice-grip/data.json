@@ -1,0 +1,96 @@
+{
+  "id": 11,
+  "name": "vice-grip",
+  "generations": {
+    "1": {
+      "id": 11,
+      "name": "vice-grip",
+      "type": "normal",
+      "power": 55,
+      "accuracy": 100,
+      "pp": 30,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "2": {
+      "id": 11,
+      "name": "vice-grip",
+      "type": "normal",
+      "power": 55,
+      "accuracy": 100,
+      "pp": 30,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "3": {
+      "id": 11,
+      "name": "vice-grip",
+      "type": "normal",
+      "power": 55,
+      "accuracy": 100,
+      "pp": 30,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "4": {
+      "id": 11,
+      "name": "vice-grip",
+      "type": "normal",
+      "power": 55,
+      "accuracy": 100,
+      "pp": 30,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "5": {
+      "id": 11,
+      "name": "vice-grip",
+      "type": "normal",
+      "power": 55,
+      "accuracy": 100,
+      "pp": 30,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "6": {
+      "id": 11,
+      "name": "vice-grip",
+      "type": "normal",
+      "power": 55,
+      "accuracy": 100,
+      "pp": 30,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "7": {
+      "id": 11,
+      "name": "vice-grip",
+      "type": "normal",
+      "power": 55,
+      "accuracy": 100,
+      "pp": 30,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "8": {
+      "id": 11,
+      "name": "vice-grip",
+      "type": "normal",
+      "power": 55,
+      "accuracy": 100,
+      "pp": 30,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "9": {
+      "id": 11,
+      "name": "vice-grip",
+      "type": "normal",
+      "power": 55,
+      "accuracy": 100,
+      "pp": 30,
+      "priority": 0,
+      "damage_class": "physical"
+    }
+  }
+}

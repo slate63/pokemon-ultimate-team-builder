@@ -1,0 +1,96 @@
+{
+  "id": 78,
+  "name": "stun-spore",
+  "generations": {
+    "1": {
+      "id": 78,
+      "name": "stun-spore",
+      "type": "grass",
+      "power": 0,
+      "accuracy": 75,
+      "pp": 30,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "2": {
+      "id": 78,
+      "name": "stun-spore",
+      "type": "grass",
+      "power": 0,
+      "accuracy": 75,
+      "pp": 30,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "3": {
+      "id": 78,
+      "name": "stun-spore",
+      "type": "grass",
+      "power": 0,
+      "accuracy": 75,
+      "pp": 30,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "4": {
+      "id": 78,
+      "name": "stun-spore",
+      "type": "grass",
+      "power": 0,
+      "accuracy": 75,
+      "pp": 30,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "5": {
+      "id": 78,
+      "name": "stun-spore",
+      "type": "grass",
+      "power": 0,
+      "accuracy": 75,
+      "pp": 30,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "6": {
+      "id": 78,
+      "name": "stun-spore",
+      "type": "grass",
+      "power": 0,
+      "accuracy": 75,
+      "pp": 30,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "7": {
+      "id": 78,
+      "name": "stun-spore",
+      "type": "grass",
+      "power": 0,
+      "accuracy": 75,
+      "pp": 30,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "8": {
+      "id": 78,
+      "name": "stun-spore",
+      "type": "grass",
+      "power": 0,
+      "accuracy": 75,
+      "pp": 30,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "9": {
+      "id": 78,
+      "name": "stun-spore",
+      "type": "grass",
+      "power": 0,
+      "accuracy": 75,
+      "pp": 30,
+      "priority": 0,
+      "damage_class": "status"
+    }
+  }
+}

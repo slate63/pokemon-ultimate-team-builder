@@ -1,0 +1,107 @@
+{
+  "id": 872,
+  "name": "snom",
+  "generations": {
+    "8": {
+      "types": [
+        "ice",
+        "bug"
+      ],
+      "stats": {
+        "generation": 8,
+        "number": 872,
+        "hp": 30,
+        "attack": 25,
+        "defense": 35,
+        "special_attack": 45,
+        "special_defense": 30,
+        "speed": 20
+      },
+      "height": 0.3,
+      "weight": 3.8,
+      "moves": [
+        "rest",
+        "substitute",
+        "snore",
+        "powder-snow",
+        "protect",
+        "icy-wind",
+        "endure",
+        "attract",
+        "sleep-talk",
+        "mirror-coat",
+        "facade",
+        "icicle-spear",
+        "bug-buzz",
+        "bug-bite",
+        "round",
+        "struggle-bug",
+        "fairy-wind",
+        "skitter-smack"
+      ],
+      "abilities": [
+        "shield-dust",
+        "ice-scales"
+      ],
+      "availability": [
+        "sword",
+        "shield",
+        "brilliant-diamond",
+        "shining-pearl"
+      ],
+      "description": "It spits out thread imbued with a frigid sort of energy and uses it to tie its body to branches, disguising itself as an icicle while it sleeps.",
+      "is_legendary": false,
+      "is_mythical": false,
+      "is_fully_evolved": false
+    },
+    "9": {
+      "types": [
+        "ice",
+        "bug"
+      ],
+      "stats": {
+        "generation": 9,
+        "number": 872,
+        "hp": 30,
+        "attack": 25,
+        "defense": 35,
+        "special_attack": 45,
+        "special_defense": 30,
+        "speed": 20
+      },
+      "height": 0.3,
+      "weight": 3.8,
+      "moves": [
+        "rest",
+        "substitute",
+        "powder-snow",
+        "protect",
+        "icy-wind",
+        "sleep-talk",
+        "mirror-coat",
+        "facade",
+        "icicle-spear",
+        "bug-buzz",
+        "bug-bite",
+        "struggle-bug",
+        "fairy-wind",
+        "lunge",
+        "skitter-smack",
+        "tera-blast",
+        "pounce"
+      ],
+      "abilities": [
+        "shield-dust",
+        "ice-scales"
+      ],
+      "availability": [
+        "scarlet",
+        "violet"
+      ],
+      "description": "It spits out thread imbued with a frigid sort of energy and uses it to tie its body to branches, disguising itself as an icicle while it sleeps.",
+      "is_legendary": false,
+      "is_mythical": false,
+      "is_fully_evolved": false
+    }
+  }
+}

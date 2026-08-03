@@ -1,0 +1,86 @@
+{
+  "id": 233,
+  "name": "vital-throw",
+  "generations": {
+    "2": {
+      "id": 233,
+      "name": "vital-throw",
+      "type": "fighting",
+      "power": 70,
+      "accuracy": 0,
+      "pp": 10,
+      "priority": -1,
+      "damage_class": "physical"
+    },
+    "3": {
+      "id": 233,
+      "name": "vital-throw",
+      "type": "fighting",
+      "power": 70,
+      "accuracy": 0,
+      "pp": 10,
+      "priority": -1,
+      "damage_class": "physical"
+    },
+    "4": {
+      "id": 233,
+      "name": "vital-throw",
+      "type": "fighting",
+      "power": 70,
+      "accuracy": 0,
+      "pp": 10,
+      "priority": -1,
+      "damage_class": "physical"
+    },
+    "5": {
+      "id": 233,
+      "name": "vital-throw",
+      "type": "fighting",
+      "power": 70,
+      "accuracy": 0,
+      "pp": 10,
+      "priority": -1,
+      "damage_class": "physical"
+    },
+    "6": {
+      "id": 233,
+      "name": "vital-throw",
+      "type": "fighting",
+      "power": 70,
+      "accuracy": 0,
+      "pp": 10,
+      "priority": -1,
+      "damage_class": "physical"
+    },
+    "7": {
+      "id": 233,
+      "name": "vital-throw",
+      "type": "fighting",
+      "power": 70,
+      "accuracy": 0,
+      "pp": 10,
+      "priority": -1,
+      "damage_class": "physical"
+    },
+    "8": {
+      "id": 233,
+      "name": "vital-throw",
+      "type": "fighting",
+      "power": 70,
+      "accuracy": 0,
+      "pp": 10,
+      "priority": -1,
+      "damage_class": "physical"
+    },
+    "9": {
+      "id": 233,
+      "name": "vital-throw",
+      "type": "fighting",
+      "power": 70,
+      "accuracy": 0,
+      "pp": 10,
+      "priority": -1,
+      "damage_class": "physical"
+    }
+  }
+}

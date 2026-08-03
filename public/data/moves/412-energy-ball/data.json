@@ -1,0 +1,66 @@
+{
+  "id": 412,
+  "name": "energy-ball",
+  "generations": {
+    "4": {
+      "id": 412,
+      "name": "energy-ball",
+      "type": "grass",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "5": {
+      "id": 412,
+      "name": "energy-ball",
+      "type": "grass",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "6": {
+      "id": 412,
+      "name": "energy-ball",
+      "type": "grass",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "7": {
+      "id": 412,
+      "name": "energy-ball",
+      "type": "grass",
+      "power": 90,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "8": {
+      "id": 412,
+      "name": "energy-ball",
+      "type": "grass",
+      "power": 90,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "9": {
+      "id": 412,
+      "name": "energy-ball",
+      "type": "grass",
+      "power": 90,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "special"
+    }
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "name": "dragon",
+  "generations": {
+    "1": {
+      "double_damage_from": [
+        "ice",
+        "dragon"
+      ],
+      "double_damage_to": [
+        "dragon"
+      ],
+      "half_damage_from": [
+        "fire",
+        "water",
+        "grass",
+        "electric"
+      ],
+      "half_damage_to": [],
+      "no_damage_from": [],
+      "no_damage_to": []
+    },
+    "2": {
+      "double_damage_from": [
+        "ice",
+        "dragon"
+      ],
+      "double_damage_to": [
+        "dragon"
+      ],
+      "half_damage_from": [
+        "fire",
+        "water",
+        "grass",
+        "electric"
+      ],
+      "half_damage_to": [
+        "steel"
+      ],
+      "no_damage_from": [],
+      "no_damage_to": []
+    },
+    "3": {
+      "double_damage_from": [
+        "ice",
+        "dragon"
+      ],
+      "double_damage_to": [
+        "dragon"
+      ],
+      "half_damage_from": [
+        "fire",
+        "water",
+        "grass",
+        "electric"
+      ],
+      "half_damage_to": [
+        "steel"
+      ],
+      "no_damage_from": [],
+      "no_damage_to": []
+    },
+    "4": {
+      "double_damage_from": [
+        "ice",
+        "dragon"
+      ],
+      "double_damage_to": [
+        "dragon"
+      ],
+      "half_damage_from": [
+        "fire",
+        "water",
+        "grass",
+        "electric"
+      ],
+      "half_damage_to": [
+        "steel"
+      ],
+      "no_damage_from": [],
+      "no_damage_to": []
+    },
+    "5": {
+      "double_damage_from": [
+        "ice",
+        "dragon"
+      ],
+      "double_damage_to": [
+        "dragon"
+      ],
+      "half_damage_from": [
+        "fire",
+        "water",
+        "grass",
+        "electric"
+      ],
+      "half_damage_to": [
+        "steel"
+      ],
+      "no_damage_from": [],
+      "no_damage_to": []
+    },
+    "6": {
+      "double_damage_from": [
+        "ice",
+        "dragon",
+        "fairy"
+      ],
+      "double_damage_to": [
+        "dragon"
+      ],
+      "half_damage_from": [
+        "fire",
+        "water",
+        "grass",
+        "electric"
+      ],
+      "half_damage_to": [
+        "steel"
+      ],
+      "no_damage_from": [],
+      "no_damage_to": [
+        "fairy"
+      ]
+    },
+    "7": {
+      "double_damage_from": [
+        "ice",
+        "dragon",
+        "fairy"
+      ],
+      "double_damage_to": [
+        "dragon"
+      ],
+      "half_damage_from": [
+        "fire",
+        "water",
+        "grass",
+        "electric"
+      ],
+      "half_damage_to": [
+        "steel"
+      ],
+      "no_damage_from": [],
+      "no_damage_to": [
+        "fairy"
+      ]
+    },
+    "8": {
+      "double_damage_from": [
+        "ice",
+        "dragon",
+        "fairy"
+      ],
+      "double_damage_to": [
+        "dragon"
+      ],
+      "half_damage_from": [
+        "fire",
+        "water",
+        "grass",
+        "electric"
+      ],
+      "half_damage_to": [
+        "steel"
+      ],
+      "no_damage_from": [],
+      "no_damage_to": [
+        "fairy"
+      ]
+    },
+    "9": {
+      "double_damage_from": [
+        "ice",
+        "dragon",
+        "fairy"
+      ],
+      "double_damage_to": [
+        "dragon"
+      ],
+      "half_damage_from": [
+        "fire",
+        "water",
+        "grass",
+        "electric"
+      ],
+      "half_damage_to": [
+        "steel"
+      ],
+      "no_damage_from": [],
+      "no_damage_to": [
+        "fairy"
+      ]
+    }
+  }
+}

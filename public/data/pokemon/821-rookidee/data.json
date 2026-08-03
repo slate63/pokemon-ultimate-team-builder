@@ -1,0 +1,153 @@
+{
+  "id": 821,
+  "name": "rookidee",
+  "generations": {
+    "8": {
+      "types": [
+        "flying"
+      ],
+      "stats": {
+        "generation": 8,
+        "number": 821,
+        "hp": 38,
+        "attack": 47,
+        "defense": 35,
+        "special_attack": 33,
+        "special_defense": 35,
+        "speed": 57
+      },
+      "height": 0.2,
+      "weight": 1.8,
+      "moves": [
+        "fly",
+        "sand-attack",
+        "fury-attack",
+        "leer",
+        "peck",
+        "drill-peck",
+        "agility",
+        "focus-energy",
+        "swift",
+        "sky-attack",
+        "rest",
+        "substitute",
+        "thief",
+        "snore",
+        "reversal",
+        "spite",
+        "protect",
+        "scary-face",
+        "endure",
+        "swagger",
+        "attract",
+        "sleep-talk",
+        "rock-smash",
+        "facade",
+        "taunt",
+        "revenge",
+        "fake-tears",
+        "roost",
+        "pluck",
+        "tailwind",
+        "u-turn",
+        "payback",
+        "assurance",
+        "air-slash",
+        "brave-bird",
+        "nasty-plot",
+        "defog",
+        "hone-claws",
+        "round",
+        "retaliate",
+        "work-up",
+        "power-trip",
+        "dual-wingbeat"
+      ],
+      "abilities": [
+        "keen-eye",
+        "unnerve",
+        "big-pecks"
+      ],
+      "availability": [
+        "sword",
+        "shield",
+        "brilliant-diamond",
+        "shining-pearl"
+      ],
+      "description": "It will bravely challenge any opponent, no matter how powerful. This Pok\u00e9mon benefits from every battle\u2014even a defeat increases its strength a bit.",
+      "is_legendary": false,
+      "is_mythical": false,
+      "is_fully_evolved": false
+    },
+    "9": {
+      "types": [
+        "flying"
+      ],
+      "stats": {
+        "generation": 9,
+        "number": 821,
+        "hp": 38,
+        "attack": 47,
+        "defense": 35,
+        "special_attack": 33,
+        "special_defense": 35,
+        "speed": 57
+      },
+      "height": 0.2,
+      "weight": 1.8,
+      "moves": [
+        "fly",
+        "sand-attack",
+        "fury-attack",
+        "take-down",
+        "leer",
+        "peck",
+        "drill-peck",
+        "agility",
+        "swift",
+        "sky-attack",
+        "rest",
+        "substitute",
+        "thief",
+        "reversal",
+        "spite",
+        "protect",
+        "scary-face",
+        "endure",
+        "swagger",
+        "sleep-talk",
+        "rock-smash",
+        "facade",
+        "taunt",
+        "fake-tears",
+        "air-cutter",
+        "aerial-ace",
+        "roost",
+        "pluck",
+        "tailwind",
+        "u-turn",
+        "air-slash",
+        "brave-bird",
+        "nasty-plot",
+        "defog",
+        "hone-claws",
+        "power-trip",
+        "dual-wingbeat",
+        "tera-blast"
+      ],
+      "abilities": [
+        "keen-eye",
+        "unnerve",
+        "big-pecks"
+      ],
+      "availability": [
+        "scarlet",
+        "violet"
+      ],
+      "description": "It will bravely challenge any opponent, no matter how powerful. This Pok\u00e9mon benefits from every battle\u2014even a defeat increases its strength a bit.",
+      "is_legendary": false,
+      "is_mythical": false,
+      "is_fully_evolved": false
+    }
+  }
+}

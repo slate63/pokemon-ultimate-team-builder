@@ -1,0 +1,76 @@
+{
+  "id": 278,
+  "name": "recycle",
+  "generations": {
+    "3": {
+      "id": 278,
+      "name": "recycle",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "4": {
+      "id": 278,
+      "name": "recycle",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "5": {
+      "id": 278,
+      "name": "recycle",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "6": {
+      "id": 278,
+      "name": "recycle",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "7": {
+      "id": 278,
+      "name": "recycle",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "8": {
+      "id": 278,
+      "name": "recycle",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "9": {
+      "id": 278,
+      "name": "recycle",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "status"
+    }
+  }
+}

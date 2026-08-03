@@ -1,0 +1,36 @@
+{
+  "id": 685,
+  "name": "purify",
+  "generations": {
+    "7": {
+      "id": 685,
+      "name": "purify",
+      "type": "poison",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 20,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "8": {
+      "id": 685,
+      "name": "purify",
+      "type": "poison",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 20,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "9": {
+      "id": 685,
+      "name": "purify",
+      "type": "poison",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 20,
+      "priority": 0,
+      "damage_class": "status"
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "id": 262,
+  "name": "memento",
+  "generations": {
+    "3": {
+      "id": 262,
+      "name": "memento",
+      "type": "dark",
+      "power": 0,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "4": {
+      "id": 262,
+      "name": "memento",
+      "type": "dark",
+      "power": 0,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "5": {
+      "id": 262,
+      "name": "memento",
+      "type": "dark",
+      "power": 0,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "6": {
+      "id": 262,
+      "name": "memento",
+      "type": "dark",
+      "power": 0,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "7": {
+      "id": 262,
+      "name": "memento",
+      "type": "dark",
+      "power": 0,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "8": {
+      "id": 262,
+      "name": "memento",
+      "type": "dark",
+      "power": 0,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "9": {
+      "id": 262,
+      "name": "memento",
+      "type": "dark",
+      "power": 0,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "status"
+    }
+  }
+}

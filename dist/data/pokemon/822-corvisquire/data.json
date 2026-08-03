@@ -1,0 +1,143 @@
+{
+  "id": 822,
+  "name": "corvisquire",
+  "generations": {
+    "8": {
+      "types": [
+        "flying"
+      ],
+      "stats": {
+        "generation": 8,
+        "number": 822,
+        "hp": 68,
+        "attack": 67,
+        "defense": 55,
+        "special_attack": 43,
+        "special_defense": 55,
+        "speed": 77
+      },
+      "height": 0.8,
+      "weight": 16.0,
+      "moves": [
+        "fly",
+        "fury-attack",
+        "leer",
+        "peck",
+        "drill-peck",
+        "agility",
+        "focus-energy",
+        "swift",
+        "rest",
+        "substitute",
+        "thief",
+        "snore",
+        "reversal",
+        "protect",
+        "scary-face",
+        "endure",
+        "swagger",
+        "attract",
+        "sleep-talk",
+        "facade",
+        "taunt",
+        "revenge",
+        "fake-tears",
+        "pluck",
+        "u-turn",
+        "payback",
+        "assurance",
+        "air-slash",
+        "brave-bird",
+        "nasty-plot",
+        "hone-claws",
+        "round",
+        "retaliate",
+        "work-up",
+        "power-trip",
+        "dual-wingbeat"
+      ],
+      "abilities": [
+        "keen-eye",
+        "unnerve",
+        "big-pecks"
+      ],
+      "availability": [
+        "sword",
+        "shield",
+        "brilliant-diamond",
+        "shining-pearl"
+      ],
+      "description": "Smart enough to use tools in battle, these Pok\u00e9mon have been seen picking up rocks and flinging them or using ropes to wrap up enemies.",
+      "is_legendary": false,
+      "is_mythical": false,
+      "is_fully_evolved": false
+    },
+    "9": {
+      "types": [
+        "flying"
+      ],
+      "stats": {
+        "generation": 9,
+        "number": 822,
+        "hp": 68,
+        "attack": 67,
+        "defense": 55,
+        "special_attack": 43,
+        "special_defense": 55,
+        "speed": 77
+      },
+      "height": 0.8,
+      "weight": 16.0,
+      "moves": [
+        "fly",
+        "fury-attack",
+        "take-down",
+        "leer",
+        "peck",
+        "drill-peck",
+        "agility",
+        "swift",
+        "rest",
+        "substitute",
+        "thief",
+        "reversal",
+        "spite",
+        "protect",
+        "scary-face",
+        "endure",
+        "swagger",
+        "sleep-talk",
+        "sunny-day",
+        "facade",
+        "taunt",
+        "fake-tears",
+        "air-cutter",
+        "aerial-ace",
+        "pluck",
+        "tailwind",
+        "u-turn",
+        "air-slash",
+        "brave-bird",
+        "nasty-plot",
+        "hone-claws",
+        "hurricane",
+        "power-trip",
+        "dual-wingbeat",
+        "tera-blast"
+      ],
+      "abilities": [
+        "keen-eye",
+        "unnerve",
+        "big-pecks"
+      ],
+      "availability": [
+        "scarlet",
+        "violet"
+      ],
+      "description": "Smart enough to use tools in battle, these Pok\u00e9mon have been seen picking up rocks and flinging them or using ropes to wrap up enemies.",
+      "is_legendary": false,
+      "is_mythical": false,
+      "is_fully_evolved": false
+    }
+  }
+}

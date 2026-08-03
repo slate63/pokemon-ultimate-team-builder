@@ -1,0 +1,76 @@
+{
+  "id": 333,
+  "name": "icicle-spear",
+  "generations": {
+    "3": {
+      "id": 333,
+      "name": "icicle-spear",
+      "type": "ice",
+      "power": 10,
+      "accuracy": 100,
+      "pp": 30,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "4": {
+      "id": 333,
+      "name": "icicle-spear",
+      "type": "ice",
+      "power": 10,
+      "accuracy": 100,
+      "pp": 30,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "5": {
+      "id": 333,
+      "name": "icicle-spear",
+      "type": "ice",
+      "power": 10,
+      "accuracy": 100,
+      "pp": 30,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "6": {
+      "id": 333,
+      "name": "icicle-spear",
+      "type": "ice",
+      "power": 25,
+      "accuracy": 100,
+      "pp": 30,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "7": {
+      "id": 333,
+      "name": "icicle-spear",
+      "type": "ice",
+      "power": 25,
+      "accuracy": 100,
+      "pp": 30,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "8": {
+      "id": 333,
+      "name": "icicle-spear",
+      "type": "ice",
+      "power": 25,
+      "accuracy": 100,
+      "pp": 30,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "9": {
+      "id": 333,
+      "name": "icicle-spear",
+      "type": "ice",
+      "power": 25,
+      "accuracy": 100,
+      "pp": 30,
+      "priority": 0,
+      "damage_class": "physical"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": 774,
+  "name": "max-steelspike",
+  "generations": {
+    "7": {
+      "id": 774,
+      "name": "max-steelspike",
+      "type": "steel",
+      "power": 10,
+      "accuracy": 0,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "8": {
+      "id": 774,
+      "name": "max-steelspike",
+      "type": "steel",
+      "power": 10,
+      "accuracy": 0,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "9": {
+      "id": 774,
+      "name": "max-steelspike",
+      "type": "steel",
+      "power": 10,
+      "accuracy": 0,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    }
+  }
+}

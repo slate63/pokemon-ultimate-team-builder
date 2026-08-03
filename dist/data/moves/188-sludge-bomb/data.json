@@ -1,0 +1,86 @@
+{
+  "id": 188,
+  "name": "sludge-bomb",
+  "generations": {
+    "2": {
+      "id": 188,
+      "name": "sludge-bomb",
+      "type": "poison",
+      "power": 90,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "3": {
+      "id": 188,
+      "name": "sludge-bomb",
+      "type": "poison",
+      "power": 90,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "4": {
+      "id": 188,
+      "name": "sludge-bomb",
+      "type": "poison",
+      "power": 90,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "5": {
+      "id": 188,
+      "name": "sludge-bomb",
+      "type": "poison",
+      "power": 90,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "6": {
+      "id": 188,
+      "name": "sludge-bomb",
+      "type": "poison",
+      "power": 90,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "7": {
+      "id": 188,
+      "name": "sludge-bomb",
+      "type": "poison",
+      "power": 90,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "8": {
+      "id": 188,
+      "name": "sludge-bomb",
+      "type": "poison",
+      "power": 90,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "9": {
+      "id": 188,
+      "name": "sludge-bomb",
+      "type": "poison",
+      "power": 90,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "special"
+    }
+  }
+}

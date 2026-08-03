@@ -1,0 +1,16 @@
+{
+  "id": 887,
+  "name": "hyper-drill",
+  "generations": {
+    "9": {
+      "id": 887,
+      "name": "hyper-drill",
+      "type": "normal",
+      "power": 100,
+      "accuracy": 100,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "physical"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": 876,
+  "name": "hydro-steam",
+  "generations": {
+    "8": {
+      "id": 876,
+      "name": "hydro-steam",
+      "type": "water",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "9": {
+      "id": 876,
+      "name": "hydro-steam",
+      "type": "water",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "special"
+    }
+  }
+}

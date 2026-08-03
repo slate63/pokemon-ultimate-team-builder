@@ -1,0 +1,262 @@
+{
+  "name": "fighting",
+  "generations": {
+    "1": {
+      "double_damage_from": [
+        "flying",
+        "psychic"
+      ],
+      "double_damage_to": [
+        "normal",
+        "rock",
+        "ice"
+      ],
+      "half_damage_from": [
+        "rock",
+        "bug"
+      ],
+      "half_damage_to": [
+        "flying",
+        "poison",
+        "bug",
+        "psychic"
+      ],
+      "no_damage_from": [],
+      "no_damage_to": [
+        "ghost"
+      ]
+    },
+    "2": {
+      "double_damage_from": [
+        "flying",
+        "psychic"
+      ],
+      "double_damage_to": [
+        "normal",
+        "rock",
+        "steel",
+        "ice",
+        "dark"
+      ],
+      "half_damage_from": [
+        "rock",
+        "bug",
+        "dark"
+      ],
+      "half_damage_to": [
+        "flying",
+        "poison",
+        "bug",
+        "psychic"
+      ],
+      "no_damage_from": [],
+      "no_damage_to": [
+        "ghost"
+      ]
+    },
+    "3": {
+      "double_damage_from": [
+        "flying",
+        "psychic"
+      ],
+      "double_damage_to": [
+        "normal",
+        "rock",
+        "steel",
+        "ice",
+        "dark"
+      ],
+      "half_damage_from": [
+        "rock",
+        "bug",
+        "dark"
+      ],
+      "half_damage_to": [
+        "flying",
+        "poison",
+        "bug",
+        "psychic"
+      ],
+      "no_damage_from": [],
+      "no_damage_to": [
+        "ghost"
+      ]
+    },
+    "4": {
+      "double_damage_from": [
+        "flying",
+        "psychic"
+      ],
+      "double_damage_to": [
+        "normal",
+        "rock",
+        "steel",
+        "ice",
+        "dark"
+      ],
+      "half_damage_from": [
+        "rock",
+        "bug",
+        "dark"
+      ],
+      "half_damage_to": [
+        "flying",
+        "poison",
+        "bug",
+        "psychic"
+      ],
+      "no_damage_from": [],
+      "no_damage_to": [
+        "ghost"
+      ]
+    },
+    "5": {
+      "double_damage_from": [
+        "flying",
+        "psychic"
+      ],
+      "double_damage_to": [
+        "normal",
+        "rock",
+        "steel",
+        "ice",
+        "dark"
+      ],
+      "half_damage_from": [
+        "rock",
+        "bug",
+        "dark"
+      ],
+      "half_damage_to": [
+        "flying",
+        "poison",
+        "bug",
+        "psychic"
+      ],
+      "no_damage_from": [],
+      "no_damage_to": [
+        "ghost"
+      ]
+    },
+    "6": {
+      "double_damage_from": [
+        "flying",
+        "psychic",
+        "fairy"
+      ],
+      "double_damage_to": [
+        "normal",
+        "rock",
+        "steel",
+        "ice",
+        "dark"
+      ],
+      "half_damage_from": [
+        "rock",
+        "bug",
+        "dark"
+      ],
+      "half_damage_to": [
+        "flying",
+        "poison",
+        "bug",
+        "psychic",
+        "fairy"
+      ],
+      "no_damage_from": [],
+      "no_damage_to": [
+        "ghost"
+      ]
+    },
+    "7": {
+      "double_damage_from": [
+        "flying",
+        "psychic",
+        "fairy"
+      ],
+      "double_damage_to": [
+        "normal",
+        "rock",
+        "steel",
+        "ice",
+        "dark"
+      ],
+      "half_damage_from": [
+        "rock",
+        "bug",
+        "dark"
+      ],
+      "half_damage_to": [
+        "flying",
+        "poison",
+        "bug",
+        "psychic",
+        "fairy"
+      ],
+      "no_damage_from": [],
+      "no_damage_to": [
+        "ghost"
+      ]
+    },
+    "8": {
+      "double_damage_from": [
+        "flying",
+        "psychic",
+        "fairy"
+      ],
+      "double_damage_to": [
+        "normal",
+        "rock",
+        "steel",
+        "ice",
+        "dark"
+      ],
+      "half_damage_from": [
+        "rock",
+        "bug",
+        "dark"
+      ],
+      "half_damage_to": [
+        "flying",
+        "poison",
+        "bug",
+        "psychic",
+        "fairy"
+      ],
+      "no_damage_from": [],
+      "no_damage_to": [
+        "ghost"
+      ]
+    },
+    "9": {
+      "double_damage_from": [
+        "flying",
+        "psychic",
+        "fairy"
+      ],
+      "double_damage_to": [
+        "normal",
+        "rock",
+        "steel",
+        "ice",
+        "dark"
+      ],
+      "half_damage_from": [
+        "rock",
+        "bug",
+        "dark"
+      ],
+      "half_damage_to": [
+        "flying",
+        "poison",
+        "bug",
+        "psychic",
+        "fairy"
+      ],
+      "no_damage_from": [],
+      "no_damage_to": [
+        "ghost"
+      ]
+    }
+  }
+}

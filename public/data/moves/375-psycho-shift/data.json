@@ -1,0 +1,66 @@
+{
+  "id": 375,
+  "name": "psycho-shift",
+  "generations": {
+    "4": {
+      "id": 375,
+      "name": "psycho-shift",
+      "type": "psychic",
+      "power": 0,
+      "accuracy": 90,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "5": {
+      "id": 375,
+      "name": "psycho-shift",
+      "type": "psychic",
+      "power": 0,
+      "accuracy": 90,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "6": {
+      "id": 375,
+      "name": "psycho-shift",
+      "type": "psychic",
+      "power": 0,
+      "accuracy": 90,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "7": {
+      "id": 375,
+      "name": "psycho-shift",
+      "type": "psychic",
+      "power": 0,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "8": {
+      "id": 375,
+      "name": "psycho-shift",
+      "type": "psychic",
+      "power": 0,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "9": {
+      "id": 375,
+      "name": "psycho-shift",
+      "type": "psychic",
+      "power": 0,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "status"
+    }
+  }
+}

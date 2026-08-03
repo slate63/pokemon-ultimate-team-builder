@@ -1,0 +1,66 @@
+{
+  "id": 413,
+  "name": "brave-bird",
+  "generations": {
+    "4": {
+      "id": 413,
+      "name": "brave-bird",
+      "type": "flying",
+      "power": 120,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "5": {
+      "id": 413,
+      "name": "brave-bird",
+      "type": "flying",
+      "power": 120,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "6": {
+      "id": 413,
+      "name": "brave-bird",
+      "type": "flying",
+      "power": 120,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "7": {
+      "id": 413,
+      "name": "brave-bird",
+      "type": "flying",
+      "power": 120,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "8": {
+      "id": 413,
+      "name": "brave-bird",
+      "type": "flying",
+      "power": 120,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "9": {
+      "id": 413,
+      "name": "brave-bird",
+      "type": "flying",
+      "power": 120,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "physical"
+    }
+  }
+}

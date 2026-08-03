@@ -1,0 +1,26 @@
+{
+  "id": 810,
+  "name": "corrosive-gas",
+  "generations": {
+    "8": {
+      "id": 810,
+      "name": "corrosive-gas",
+      "type": "poison",
+      "power": 0,
+      "accuracy": 100,
+      "pp": 40,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "9": {
+      "id": 810,
+      "name": "corrosive-gas",
+      "type": "poison",
+      "power": 0,
+      "accuracy": 100,
+      "pp": 40,
+      "priority": 0,
+      "damage_class": "status"
+    }
+  }
+}

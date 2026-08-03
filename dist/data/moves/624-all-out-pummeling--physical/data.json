@@ -1,0 +1,46 @@
+{
+  "id": 624,
+  "name": "all-out-pummeling--physical",
+  "generations": {
+    "6": {
+      "id": 624,
+      "name": "all-out-pummeling--physical",
+      "type": "fighting",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 1,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "7": {
+      "id": 624,
+      "name": "all-out-pummeling--physical",
+      "type": "fighting",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 1,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "8": {
+      "id": 624,
+      "name": "all-out-pummeling--physical",
+      "type": "fighting",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 1,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "9": {
+      "id": 624,
+      "name": "all-out-pummeling--physical",
+      "type": "fighting",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 1,
+      "priority": 0,
+      "damage_class": "physical"
+    }
+  }
+}

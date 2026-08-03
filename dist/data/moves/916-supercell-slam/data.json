@@ -1,0 +1,16 @@
+{
+  "id": 916,
+  "name": "supercell-slam",
+  "generations": {
+    "9": {
+      "id": 916,
+      "name": "supercell-slam",
+      "type": "electric",
+      "power": 100,
+      "accuracy": 95,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "physical"
+    }
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "name": "psychic",
+  "generations": {
+    "1": {
+      "double_damage_from": [
+        "bug"
+      ],
+      "double_damage_to": [
+        "fighting",
+        "poison"
+      ],
+      "half_damage_from": [
+        "fighting",
+        "psychic"
+      ],
+      "half_damage_to": [
+        "psychic"
+      ],
+      "no_damage_from": [
+        "ghost"
+      ],
+      "no_damage_to": []
+    },
+    "2": {
+      "double_damage_from": [
+        "bug",
+        "ghost",
+        "dark"
+      ],
+      "double_damage_to": [
+        "fighting",
+        "poison"
+      ],
+      "half_damage_from": [
+        "fighting",
+        "psychic"
+      ],
+      "half_damage_to": [
+        "steel",
+        "psychic"
+      ],
+      "no_damage_from": [],
+      "no_damage_to": [
+        "dark"
+      ]
+    },
+    "3": {
+      "double_damage_from": [
+        "bug",
+        "ghost",
+        "dark"
+      ],
+      "double_damage_to": [
+        "fighting",
+        "poison"
+      ],
+      "half_damage_from": [
+        "fighting",
+        "psychic"
+      ],
+      "half_damage_to": [
+        "steel",
+        "psychic"
+      ],
+      "no_damage_from": [],
+      "no_damage_to": [
+        "dark"
+      ]
+    },
+    "4": {
+      "double_damage_from": [
+        "bug",
+        "ghost",
+        "dark"
+      ],
+      "double_damage_to": [
+        "fighting",
+        "poison"
+      ],
+      "half_damage_from": [
+        "fighting",
+        "psychic"
+      ],
+      "half_damage_to": [
+        "steel",
+        "psychic"
+      ],
+      "no_damage_from": [],
+      "no_damage_to": [
+        "dark"
+      ]
+    },
+    "5": {
+      "double_damage_from": [
+        "bug",
+        "ghost",
+        "dark"
+      ],
+      "double_damage_to": [
+        "fighting",
+        "poison"
+      ],
+      "half_damage_from": [
+        "fighting",
+        "psychic"
+      ],
+      "half_damage_to": [
+        "steel",
+        "psychic"
+      ],
+      "no_damage_from": [],
+      "no_damage_to": [
+        "dark"
+      ]
+    },
+    "6": {
+      "double_damage_from": [
+        "bug",
+        "ghost",
+        "dark"
+      ],
+      "double_damage_to": [
+        "fighting",
+        "poison"
+      ],
+      "half_damage_from": [
+        "fighting",
+        "psychic"
+      ],
+      "half_damage_to": [
+        "steel",
+        "psychic"
+      ],
+      "no_damage_from": [],
+      "no_damage_to": [
+        "dark"
+      ]
+    },
+    "7": {
+      "double_damage_from": [
+        "bug",
+        "ghost",
+        "dark"
+      ],
+      "double_damage_to": [
+        "fighting",
+        "poison"
+      ],
+      "half_damage_from": [
+        "fighting",
+        "psychic"
+      ],
+      "half_damage_to": [
+        "steel",
+        "psychic"
+      ],
+      "no_damage_from": [],
+      "no_damage_to": [
+        "dark"
+      ]
+    },
+    "8": {
+      "double_damage_from": [
+        "bug",
+        "ghost",
+        "dark"
+      ],
+      "double_damage_to": [
+        "fighting",
+        "poison"
+      ],
+      "half_damage_from": [
+        "fighting",
+        "psychic"
+      ],
+      "half_damage_to": [
+        "steel",
+        "psychic"
+      ],
+      "no_damage_from": [],
+      "no_damage_to": [
+        "dark"
+      ]
+    },
+    "9": {
+      "double_damage_from": [
+        "bug",
+        "ghost",
+        "dark"
+      ],
+      "double_damage_to": [
+        "fighting",
+        "poison"
+      ],
+      "half_damage_from": [
+        "fighting",
+        "psychic"
+      ],
+      "half_damage_to": [
+        "steel",
+        "psychic"
+      ],
+      "no_damage_from": [],
+      "no_damage_to": [
+        "dark"
+      ]
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": 718,
+  "name": "multi-attack",
+  "generations": {
+    "7": {
+      "id": 718,
+      "name": "multi-attack",
+      "type": "normal",
+      "power": 90,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "8": {
+      "id": 718,
+      "name": "multi-attack",
+      "type": "normal",
+      "power": 90,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "9": {
+      "id": 718,
+      "name": "multi-attack",
+      "type": "normal",
+      "power": 120,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    }
+  }
+}

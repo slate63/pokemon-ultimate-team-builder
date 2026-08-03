@@ -1,0 +1,36 @@
+{
+  "id": 772,
+  "name": "max-darkness",
+  "generations": {
+    "7": {
+      "id": 772,
+      "name": "max-darkness",
+      "type": "dark",
+      "power": 10,
+      "accuracy": 0,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "8": {
+      "id": 772,
+      "name": "max-darkness",
+      "type": "dark",
+      "power": 10,
+      "accuracy": 0,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "9": {
+      "id": 772,
+      "name": "max-darkness",
+      "type": "dark",
+      "power": 10,
+      "accuracy": 0,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    }
+  }
+}

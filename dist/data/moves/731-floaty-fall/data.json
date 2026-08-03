@@ -1,0 +1,36 @@
+{
+  "id": 731,
+  "name": "floaty-fall",
+  "generations": {
+    "7": {
+      "id": 731,
+      "name": "floaty-fall",
+      "type": "flying",
+      "power": 90,
+      "accuracy": 95,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "8": {
+      "id": 731,
+      "name": "floaty-fall",
+      "type": "flying",
+      "power": 90,
+      "accuracy": 95,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "9": {
+      "id": 731,
+      "name": "floaty-fall",
+      "type": "flying",
+      "power": 90,
+      "accuracy": 95,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "physical"
+    }
+  }
+}

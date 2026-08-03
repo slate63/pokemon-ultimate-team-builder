@@ -1,0 +1,46 @@
+{
+  "id": 598,
+  "name": "eerie-impulse",
+  "generations": {
+    "6": {
+      "id": 598,
+      "name": "eerie-impulse",
+      "type": "electric",
+      "power": 0,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "7": {
+      "id": 598,
+      "name": "eerie-impulse",
+      "type": "electric",
+      "power": 0,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "8": {
+      "id": 598,
+      "name": "eerie-impulse",
+      "type": "electric",
+      "power": 0,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "9": {
+      "id": 598,
+      "name": "eerie-impulse",
+      "type": "electric",
+      "power": 0,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "status"
+    }
+  }
+}

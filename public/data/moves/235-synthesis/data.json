@@ -1,0 +1,86 @@
+{
+  "id": 235,
+  "name": "synthesis",
+  "generations": {
+    "2": {
+      "id": 235,
+      "name": "synthesis",
+      "type": "grass",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "3": {
+      "id": 235,
+      "name": "synthesis",
+      "type": "grass",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "4": {
+      "id": 235,
+      "name": "synthesis",
+      "type": "grass",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "5": {
+      "id": 235,
+      "name": "synthesis",
+      "type": "grass",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "6": {
+      "id": 235,
+      "name": "synthesis",
+      "type": "grass",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "7": {
+      "id": 235,
+      "name": "synthesis",
+      "type": "grass",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "8": {
+      "id": 235,
+      "name": "synthesis",
+      "type": "grass",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "9": {
+      "id": 235,
+      "name": "synthesis",
+      "type": "grass",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "status"
+    }
+  }
+}

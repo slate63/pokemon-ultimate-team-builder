@@ -1,0 +1,91 @@
+{
+  "id": 840,
+  "name": "applin",
+  "generations": {
+    "8": {
+      "types": [
+        "grass",
+        "dragon"
+      ],
+      "stats": {
+        "generation": 8,
+        "number": 840,
+        "hp": 40,
+        "attack": 40,
+        "defense": 80,
+        "special_attack": 40,
+        "special_defense": 40,
+        "speed": 20
+      },
+      "height": 0.2,
+      "weight": 0.5,
+      "moves": [
+        "withdraw",
+        "defense-curl",
+        "rollout",
+        "attract",
+        "recycle",
+        "astonish",
+        "sucker-punch",
+        "draco-meteor",
+        "grassy-glide"
+      ],
+      "abilities": [
+        "ripen",
+        "gluttony",
+        "bulletproof"
+      ],
+      "availability": [
+        "sword",
+        "shield",
+        "brilliant-diamond",
+        "shining-pearl"
+      ],
+      "description": "It spends its entire life inside an apple. It hides from its natural enemies, bird Pok\u00e9mon, by pretending it\u2019s just an apple and nothing more.",
+      "is_legendary": false,
+      "is_mythical": false,
+      "is_fully_evolved": false
+    },
+    "9": {
+      "types": [
+        "grass",
+        "dragon"
+      ],
+      "stats": {
+        "generation": 9,
+        "number": 840,
+        "hp": 40,
+        "attack": 40,
+        "defense": 80,
+        "special_attack": 40,
+        "special_defense": 40,
+        "speed": 20
+      },
+      "height": 0.2,
+      "weight": 0.5,
+      "moves": [
+        "withdraw",
+        "defense-curl",
+        "rollout",
+        "recycle",
+        "astonish",
+        "sucker-punch",
+        "tera-blast",
+        "pounce"
+      ],
+      "abilities": [
+        "ripen",
+        "gluttony",
+        "bulletproof"
+      ],
+      "availability": [
+        "scarlet",
+        "violet"
+      ],
+      "description": "It spends its entire life inside an apple. It hides from its natural enemies, bird Pok\u00e9mon, by pretending it\u2019s just an apple and nothing more.",
+      "is_legendary": false,
+      "is_mythical": false,
+      "is_fully_evolved": false
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": 839,
+  "name": "barb-barrage",
+  "generations": {
+    "8": {
+      "id": 839,
+      "name": "barb-barrage",
+      "type": "poison",
+      "power": 60,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "9": {
+      "id": 839,
+      "name": "barb-barrage",
+      "type": "poison",
+      "power": 60,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    }
+  }
+}

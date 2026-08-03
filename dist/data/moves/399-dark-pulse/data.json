@@ -1,0 +1,66 @@
+{
+  "id": 399,
+  "name": "dark-pulse",
+  "generations": {
+    "4": {
+      "id": 399,
+      "name": "dark-pulse",
+      "type": "dark",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "5": {
+      "id": 399,
+      "name": "dark-pulse",
+      "type": "dark",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "6": {
+      "id": 399,
+      "name": "dark-pulse",
+      "type": "dark",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "7": {
+      "id": 399,
+      "name": "dark-pulse",
+      "type": "dark",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "8": {
+      "id": 399,
+      "name": "dark-pulse",
+      "type": "dark",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "9": {
+      "id": 399,
+      "name": "dark-pulse",
+      "type": "dark",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "special"
+    }
+  }
+}

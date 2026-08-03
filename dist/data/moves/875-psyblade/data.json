@@ -1,0 +1,26 @@
+{
+  "id": 875,
+  "name": "psyblade",
+  "generations": {
+    "8": {
+      "id": 875,
+      "name": "psyblade",
+      "type": "psychic",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "9": {
+      "id": 875,
+      "name": "psyblade",
+      "type": "psychic",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "physical"
+    }
+  }
+}
