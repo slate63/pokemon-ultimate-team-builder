@@ -1,6 +1,7 @@
+import { useState } from 'react';
 import { Header } from './components/Header';
 import { TeamBar } from './components/TeamBar';
-import { CoverageMatrix } from './components/CoverageMatrix';
+import { CoverageMatrix, HighlightInfo } from './components/CoverageMatrix';
 import { FilterToolbar } from './components/FilterToolbar';
 import { PokemonGrid } from './components/PokemonGrid';
 import { PokemonDetailModal } from './components/PokemonDetailModal';
@@ -15,6 +16,8 @@ import {
 
 export default function App() {
   const { pokemonRoster, loading, rosterById } = usePokemonData();
+
+  const [highlightedSlots, setHighlightedSlots] = useState<HighlightInfo[]>([]);
 
   const {
     selectedGameId,
@@ -100,6 +103,7 @@ export default function App() {
       <TeamBar
         team={resolvedTeam}
         activeSlotIndex={activeSlotIndex}
+        highlightedSlots={highlightedSlots}
         activeGen={activeGen}
         onSlotSelect={setActiveSlotIndex}
         onRemoveMember={handleRemoveMember}
@@ -110,7 +114,14 @@ export default function App() {
       />
 
       <main className="main-content-layout">
-        <CoverageMatrix team={resolvedTeam} typeChartData={typeChartData} activeGen={activeGen} />
+        <CoverageMatrix
+          team={resolvedTeam}
+          typeChartData={typeChartData}
+          activeGen={activeGen}
+          onHighlightSlots={setHighlightedSlots}
+        />
+
+
 
         <section className="roster-section">
           <FilterToolbar

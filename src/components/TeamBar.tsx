@@ -4,11 +4,16 @@ import { getPokemonSprite } from '../data/pokemonData';
 import { getPokemonSprite as getPokemonRetroSprite } from '../utils/spriteUtils';
 import { ALL_NATURES, getNatureTag } from '../utils/natureUtils';
 import { Sparkles, X, Plus, Info } from 'lucide-react';
+import { HighlightInfo } from './CoverageMatrix';
 
 interface TeamSlotProps {
   member: ResolvedTeamMember | null;
   idx: number;
   isSelected: boolean;
+  isHighlighted?: boolean;
+  highlightLabel?: string;
+  highlightCategory?: string;
+  hasAnyHighlight?: boolean;
   activeGen: number;
   spriteStyle: string;
   onSlotSelect: (index: number) => void;
@@ -22,6 +27,10 @@ const TeamSlot: React.FC<TeamSlotProps> = memo(({
   member,
   idx,
   isSelected,
+  isHighlighted,
+  highlightLabel,
+  highlightCategory,
+  hasAnyHighlight,
   activeGen,
   spriteStyle,
   onSlotSelect,
@@ -33,7 +42,7 @@ const TeamSlot: React.FC<TeamSlotProps> = memo(({
   if (!member) {
     return (
       <div
-        className={`slot-card empty ${isSelected ? 'selected' : ''}`}
+        className={`slot-card empty ${isSelected ? 'selected' : ''} ${isHighlighted ? 'highlighted' : ''} ${hasAnyHighlight && !isHighlighted ? 'dimmed' : ''}`}
         onClick={() => onSlotSelect(idx)}
         style={{ borderColor: isSelected ? 'var(--accent-blue)' : undefined }}
       >
@@ -48,11 +57,17 @@ const TeamSlot: React.FC<TeamSlotProps> = memo(({
 
   return (
     <div
-      className={`slot-card filled ${isSelected ? 'selected' : ''}`}
+      className={`slot-card filled ${isSelected ? 'selected' : ''} ${isHighlighted ? 'highlighted' : ''} ${hasAnyHighlight && !isHighlighted ? 'dimmed' : ''}`}
       style={{ borderColor: isSelected ? 'var(--accent-blue)' : undefined }}
       onClick={() => onSlotSelect(idx)}
     >
       <span className="slot-number">#{idx + 1}</span>
+
+      {highlightLabel && (
+        <div className={`slot-highlight-badge badge-cat-${highlightCategory || 'default'}`}>
+          {highlightLabel}
+        </div>
+      )}
 
       <div className="slot-actions" onClick={(e) => e.stopPropagation()}>
         <button
@@ -133,6 +148,7 @@ TeamSlot.displayName = 'TeamSlot';
 interface TeamBarProps {
   team: ResolvedTeam;
   activeSlotIndex: number | null;
+  highlightedSlots?: HighlightInfo[];
   activeGen: number;
   onSlotSelect: (index: number) => void;
   onRemoveMember: (index: number) => void;
@@ -145,6 +161,7 @@ interface TeamBarProps {
 export const TeamBar: React.FC<TeamBarProps> = memo(({
   team,
   activeSlotIndex,
+  highlightedSlots = [],
   activeGen,
   onSlotSelect,
   onRemoveMember,
@@ -153,27 +170,39 @@ export const TeamBar: React.FC<TeamBarProps> = memo(({
   onInspectMember,
   spriteStyle,
 }) => {
+  const hasAnyHighlight = highlightedSlots.length > 0;
+  const highlightMap = new Map<number, HighlightInfo>();
+  highlightedSlots.forEach((item) => highlightMap.set(item.slotIndex, item));
+
   return (
     <section className="team-bar-section">
       <div className="team-slots-grid">
-        {team.map((member, idx) => (
-          <TeamSlot
-            key={idx}
-            member={member}
-            idx={idx}
-            isSelected={activeSlotIndex === idx}
-            activeGen={activeGen}
-            spriteStyle={spriteStyle}
-            onSlotSelect={onSlotSelect}
-            onRemoveMember={onRemoveMember}
-            onToggleShiny={onToggleShiny}
-            onNatureChange={onNatureChange}
-            onInspectMember={onInspectMember}
-          />
-        ))}
+        {team.map((member, idx) => {
+          const highlightItem = highlightMap.get(idx);
+          return (
+            <TeamSlot
+              key={idx}
+              member={member}
+              idx={idx}
+              isSelected={activeSlotIndex === idx}
+              isHighlighted={!!highlightItem}
+              highlightLabel={highlightItem?.label}
+              highlightCategory={highlightItem?.category}
+              hasAnyHighlight={hasAnyHighlight}
+              activeGen={activeGen}
+              spriteStyle={spriteStyle}
+              onSlotSelect={onSlotSelect}
+              onRemoveMember={onRemoveMember}
+              onToggleShiny={onToggleShiny}
+              onNatureChange={onNatureChange}
+              onInspectMember={onInspectMember}
+            />
+          );
+        })}
       </div>
     </section>
   );
 });
 
 TeamBar.displayName = 'TeamBar';
+

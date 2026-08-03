@@ -203,6 +203,44 @@ export function calculateTeamOffensiveCoverage(
   return result;
 }
 
+export type MatrixCategory = 'weak2x' | 'weak4x' | 'resist' | 'immune' | 'hit';
+
+/**
+ * Get slot indices of team members that match a specific matrix cell criteria.
+ */
+export function getMatchingTeamSlots(
+  team: ResolvedTeam,
+  chart: TypeChartMatrix = TYPE_CHART,
+  targetType: PokemonType,
+  category: MatrixCategory
+): number[] {
+  const matchingSlots: number[] = [];
+
+  team.forEach((member, index) => {
+    if (!member) return;
+
+    if (category === 'hit') {
+      const hasStab = member.pokemon.types.some(stabType => (chart[stabType]?.[targetType] ?? 1) > 1);
+      if (hasStab) {
+        matchingSlots.push(index);
+      }
+    } else {
+      const mult = getDefensiveMultiplier(targetType, member.pokemon.types, chart);
+      if (category === 'weak2x' && mult > 1 && mult < 4) {
+        matchingSlots.push(index);
+      } else if (category === 'weak4x' && mult >= 4) {
+        matchingSlots.push(index);
+      } else if (category === 'resist' && mult < 1 && mult > 0) {
+        matchingSlots.push(index);
+      } else if (category === 'immune' && mult === 0) {
+        matchingSlots.push(index);
+      }
+    }
+  });
+
+  return matchingSlots;
+}
+
 /**
  * Get shared weakness alerts (e.g. 3 or more team members weak to Ground)
  */
@@ -221,3 +259,4 @@ export function getWeaknessAlerts(
   }
   return alerts.sort((a, b) => b.count - a.count);
 }
+

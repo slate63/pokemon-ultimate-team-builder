@@ -349,6 +349,78 @@ h1, h2, h3, h4, h5, h6 {
   transform: translateY(-2px);
 }
 
+/* Highlighted & Dimmed states for Matrix Hover */
+.slot-card.highlighted {
+  border-color: #facc15 !important;
+  box-shadow: 0 0 16px rgba(250, 204, 21, 0.6), 0 4px 14px rgba(0, 0, 0, 0.4);
+  transform: translateY(-4px) scale(1.03);
+  background: linear-gradient(180deg, rgba(250, 204, 21, 0.12) 0%, rgba(250, 204, 21, 0.03) 100%) !important;
+  z-index: 10;
+}
+
+.slot-card.highlighted .slot-sprite {
+  animation: slot-bounce 0.6s infinite alternate cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+@keyframes slot-bounce {
+  0% { transform: translateY(0) scale(1.1); }
+  100% { transform: translateY(-4px) scale(1.18); }
+}
+
+.slot-card.dimmed {
+  opacity: 0.35;
+  filter: grayscale(35%);
+  transition: all 0.25s ease;
+}
+
+.slot-highlight-badge {
+  position: absolute;
+  top: -10px;
+  background: #facc15;
+  color: #0f172a;
+  font-size: 0.65rem;
+  font-weight: 800;
+  padding: 0.15rem 0.5rem;
+  border-radius: 12px;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.4), 0 0 10px rgba(250, 204, 21, 0.6);
+  z-index: 12;
+  animation: popIn 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+
+.slot-highlight-badge.badge-cat-weak2x,
+.slot-highlight-badge.badge-cat-weak4x {
+  background: #f43f5e;
+  color: #ffffff;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.4), 0 0 10px rgba(244, 63, 94, 0.6);
+}
+
+.slot-highlight-badge.badge-cat-resist {
+  background: #10b981;
+  color: #ffffff;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.4), 0 0 10px rgba(16, 185, 129, 0.6);
+}
+
+.slot-highlight-badge.badge-cat-immune {
+  background: #a855f7;
+  color: #ffffff;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.4), 0 0 10px rgba(168, 85, 247, 0.6);
+}
+
+.slot-highlight-badge.badge-cat-hit {
+  background: #38bdf8;
+  color: #0f172a;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.4), 0 0 10px rgba(56, 189, 248, 0.6);
+}
+
+@keyframes popIn {
+  0% { transform: scale(0.6); opacity: 0; }
+  100% { transform: scale(1); opacity: 1; }
+}
+
+
+
 .slot-number {
   position: absolute;
   top: 0.35rem;
@@ -658,6 +730,80 @@ h1, h2, h3, h4, h5, h6 {
 .val-neutral {
   color: var(--text-dim);
 }
+
+/* Matrix Interactive Cells & Tooltip */
+.matrix-cell-interactive {
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.matrix-cell-interactive:hover {
+  background: rgba(250, 204, 21, 0.15) !important;
+  border-radius: 4px;
+}
+
+.cell-hover-badge {
+  display: inline-block;
+  padding: 0.1rem 0.3rem;
+  border-radius: 4px;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.matrix-cell-interactive:hover .cell-hover-badge {
+  transform: scale(1.2);
+  font-weight: 800;
+}
+
+.matrix-tooltip {
+  margin-bottom: 0.6rem;
+  background: rgba(15, 23, 42, 0.95);
+  border: 1px solid rgba(250, 204, 21, 0.4);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.5), 0 0 12px rgba(250, 204, 21, 0.2);
+  border-radius: 8px;
+  padding: 0.5rem 0.75rem;
+  animation: fadeIn 0.15s ease-out;
+}
+
+.matrix-tooltip-header {
+  font-size: 0.72rem;
+  font-weight: 700;
+  color: #facc15;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  margin-bottom: 0.35rem;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+  padding-bottom: 0.2rem;
+}
+
+.matrix-tooltip-members {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.matrix-tooltip-member {
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
+  background: rgba(255, 255, 255, 0.06);
+  padding: 0.2rem 0.45rem;
+  border-radius: 6px;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.matrix-tooltip-sprite {
+  width: 24px;
+  height: 24px;
+  object-fit: contain;
+}
+
+.matrix-tooltip-name {
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: var(--text-main);
+  text-transform: capitalize;
+}
+
 
 /* Roster Section */
 .roster-section {

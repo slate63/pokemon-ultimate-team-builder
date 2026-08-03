@@ -4,20 +4,35 @@ import {
   calculateTeamDefensiveCoverage,
   calculateTeamOffensiveCoverage,
   getWeaknessAlerts,
+  getMatchingTeamSlots,
+  MatrixCategory,
   POKEMON_TYPES
 } from '../utils/coverage';
 import { TypeChartData } from '../utils/typeChart';
 import { AlertTriangle, ShieldCheck, Zap } from 'lucide-react';
 import { StatRadarChart } from './StatRadarChart';
 
+export interface HighlightInfo {
+  slotIndex: number;
+  label: string;
+  type: PokemonType;
+  category: MatrixCategory;
+}
+
 interface CoverageMatrixProps {
   team: ResolvedTeam;
   /** Generation-specific type chart + type list. Falls back to defaults when null. */
   typeChartData?: TypeChartData | null;
   activeGen?: number;
+  onHighlightSlots?: (highlights: HighlightInfo[]) => void;
 }
 
-export const CoverageMatrix: React.FC<CoverageMatrixProps> = memo(({ team, typeChartData, activeGen }) => {
+export const CoverageMatrix: React.FC<CoverageMatrixProps> = memo(({
+  team,
+  typeChartData,
+  activeGen,
+  onHighlightSlots
+}) => {
   const chart = typeChartData?.chart;
   const types: PokemonType[] = typeChartData?.types ?? POKEMON_TYPES;
 
@@ -35,6 +50,68 @@ export const CoverageMatrix: React.FC<CoverageMatrixProps> = memo(({ team, typeC
   );
 
   const activeCount = team.filter(Boolean).length;
+
+  const getCategoryShortLabel = (category: MatrixCategory): string => {
+    switch (category) {
+      case 'weak2x': return '2x Weak';
+      case 'weak4x': return '4x Weak';
+      case 'resist': return 'Resists';
+      case 'immune': return 'Immune';
+      case 'hit': return 'STAB Hit';
+    }
+  };
+
+  const handleCellMouseEnter = (type: PokemonType, category: MatrixCategory) => {
+    const slots = getMatchingTeamSlots(team, chart, type, category);
+    const label = getCategoryShortLabel(category);
+    const highlights: HighlightInfo[] = slots.map((slotIndex) => ({
+      slotIndex,
+      label,
+      type,
+      category,
+    }));
+    onHighlightSlots?.(highlights);
+  };
+
+  const handleTypeHeaderMouseEnter = (type: PokemonType) => {
+    const weak2xSlots = getMatchingTeamSlots(team, chart, type, 'weak2x');
+    const weak4xSlots = getMatchingTeamSlots(team, chart, type, 'weak4x');
+    const highlights: HighlightInfo[] = [
+      ...weak2xSlots.map((slotIndex) => ({ slotIndex, label: '2x Weak', type, category: 'weak2x' as MatrixCategory })),
+      ...weak4xSlots.map((slotIndex) => ({ slotIndex, label: '4x Weak', type, category: 'weak4x' as MatrixCategory })),
+    ];
+    onHighlightSlots?.(highlights);
+  };
+
+  const handleCellMouseLeave = () => {
+    onHighlightSlots?.([]);
+  };
+
+  const renderCell = (
+    type: PokemonType,
+    category: MatrixCategory,
+    count: number,
+    valClassName: string,
+    prefix: string = ''
+  ) => {
+    const isInteractive = count > 0;
+    return (
+      <td
+        className={isInteractive ? 'matrix-cell-interactive' : ''}
+        onMouseEnter={() => isInteractive && handleCellMouseEnter(type, category)}
+        onMouseLeave={() => isInteractive && handleCellMouseLeave()}
+        title={isInteractive ? `Hover to highlight matching Pokémon in Team Bar` : undefined}
+      >
+        {count > 0 ? (
+          <span className={`${valClassName} ${isInteractive ? 'cell-hover-badge' : ''}`}>
+            {prefix}{count}
+          </span>
+        ) : (
+          <span className="val-neutral">-</span>
+        )}
+      </td>
+    );
+  };
 
   return (
     <aside className="analysis-panel">
@@ -88,53 +165,21 @@ export const CoverageMatrix: React.FC<CoverageMatrixProps> = memo(({ team, typeC
 
               return (
                 <tr key={type}>
-                  <td className="text-left">
+                  <td
+                    className="text-left matrix-cell-interactive"
+                    onMouseEnter={() => handleTypeHeaderMouseEnter(type)}
+                    onMouseLeave={handleCellMouseLeave}
+                  >
                     <span className={`type-badge type-${type} type-badge-sm`}>
                       {type}
                     </span>
                   </td>
                   
-                  <td>
-                    {def.weak2x > 0 ? (
-                      <span className="val-weak">{def.weak2x}</span>
-                    ) : (
-                      <span className="val-neutral">-</span>
-                    )}
-                  </td>
-
-                  <td>
-                    {def.weak4x > 0 ? (
-                      <span className="val-weak-4x">{def.weak4x}</span>
-                    ) : (
-                      <span className="val-neutral">-</span>
-                    )}
-                  </td>
-
-                  <td>
-                    {totalResist > 0 ? (
-                      <span className="val-resist">{totalResist}</span>
-                    ) : (
-                      <span className="val-neutral">-</span>
-                    )}
-                  </td>
-
-                  <td>
-                    {def.immune > 0 ? (
-                      <span className="val-immune">{def.immune}</span>
-                    ) : (
-                      <span className="val-neutral">-</span>
-                    )}
-                  </td>
-
-                  <td>
-                    {offCount > 0 ? (
-                      <span className="hit-count-active">
-                        ⚡ {offCount}
-                      </span>
-                    ) : (
-                      <span className="val-neutral">-</span>
-                    )}
-                  </td>
+                  {renderCell(type, 'weak2x', def.weak2x, 'val-weak')}
+                  {renderCell(type, 'weak4x', def.weak4x, 'val-weak-4x')}
+                  {renderCell(type, 'resist', totalResist, 'val-resist')}
+                  {renderCell(type, 'immune', def.immune, 'val-immune')}
+                  {renderCell(type, 'hit', offCount, 'hit-count-active', '⚡ ')}
                 </tr>
               );
             })}
@@ -148,4 +193,6 @@ export const CoverageMatrix: React.FC<CoverageMatrixProps> = memo(({ team, typeC
   );
 });
 
+
 CoverageMatrix.displayName = 'CoverageMatrix';
+
