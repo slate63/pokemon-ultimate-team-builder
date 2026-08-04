@@ -15,7 +15,6 @@ An interactive, high-performance web application for planning, building, and ana
 - **📈 Base Stats & Interactive Radar Charts**: Inspect comprehensive base stats with interactive radar chart visualizers for individual Pokémon and overall team stat averages.
 - **🔍 Advanced Search & Multi-Filter**: Filter Pokémon by generation, typing, stat ranges, evolution stages, abilities, and search by name or Pokédex number.
 - **✨ Complete Sprite & Form Visualizer**: View game-accurate sprite art, shiny forms, gender differences, and historical sprite variations across generations.
-- **📝 Moveset & Learnset Explorer**: Discover complete movesets, level-up moves, TMs, and egg moves tailored to selected game versions.
 - **🚀 Zero-Latency Offline Dataset**: Powered by pre-processed, indexed Pokémon data compiled from PokeAPI GraphQL for instant search and zero API lag.
 
 ---
@@ -43,7 +42,7 @@ An interactive, high-performance web application for planning, building, and ana
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/pokemon-ultimate-team-builder.git
+   git clone https://github.com/slate63/pokemon-ultimate-team-builder.git
    cd pokemon-ultimate-team-builder
    ```
 
