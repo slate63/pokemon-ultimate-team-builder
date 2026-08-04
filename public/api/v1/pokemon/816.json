@@ -1,0 +1,149 @@
+{
+  "id": 816,
+  "name": "sobble",
+  "generations": {
+    "8": {
+      "types": [
+        "water"
+      ],
+      "stats": {
+        "generation": 8,
+        "number": 816,
+        "hp": 50,
+        "attack": 40,
+        "defense": 40,
+        "special_attack": 70,
+        "special_defense": 40,
+        "speed": 70
+      },
+      "height": 0.3,
+      "weight": 4.0,
+      "moves": [
+        "pound",
+        "bind",
+        "growl",
+        "mist",
+        "water-gun",
+        "surf",
+        "double-team",
+        "light-screen",
+        "haze",
+        "reflect",
+        "swift",
+        "rest",
+        "substitute",
+        "snore",
+        "protect",
+        "endure",
+        "attract",
+        "sleep-talk",
+        "safeguard",
+        "baton-pass",
+        "rain-dance",
+        "whirlpool",
+        "facade",
+        "dive",
+        "weather-ball",
+        "muddy-water",
+        "bounce",
+        "mud-shot",
+        "water-pulse",
+        "u-turn",
+        "sucker-punch",
+        "aqua-ring",
+        "ice-shard",
+        "aqua-jet",
+        "soak",
+        "round",
+        "water-pledge",
+        "work-up",
+        "fell-stinger",
+        "liquidation",
+        "tearful-look"
+      ],
+      "abilities": [
+        "torrent",
+        "sniper"
+      ],
+      "availability": [
+        "sword",
+        "shield",
+        "brilliant-diamond",
+        "shining-pearl"
+      ],
+      "description": "When scared, this Pok\u00e9mon cries. Its tears pack the chemical punch of 100 onions, and attackers won\u2019t be able to resist weeping.",
+      "is_legendary": false,
+      "is_mythical": false,
+      "is_fully_evolved": false
+    },
+    "9": {
+      "types": [
+        "water"
+      ],
+      "stats": {
+        "generation": 9,
+        "number": 816,
+        "hp": 50,
+        "attack": 40,
+        "defense": 40,
+        "special_attack": 70,
+        "special_defense": 40,
+        "speed": 70
+      },
+      "height": 0.3,
+      "weight": 4.0,
+      "moves": [
+        "pound",
+        "bind",
+        "take-down",
+        "growl",
+        "mist",
+        "water-gun",
+        "hydro-pump",
+        "surf",
+        "double-team",
+        "light-screen",
+        "haze",
+        "reflect",
+        "waterfall",
+        "swift",
+        "rest",
+        "substitute",
+        "protect",
+        "endure",
+        "sleep-talk",
+        "rain-dance",
+        "whirlpool",
+        "facade",
+        "weather-ball",
+        "muddy-water",
+        "mud-shot",
+        "water-pulse",
+        "u-turn",
+        "sucker-punch",
+        "aqua-ring",
+        "ice-shard",
+        "aqua-jet",
+        "soak",
+        "water-pledge",
+        "fell-stinger",
+        "liquidation",
+        "tearful-look",
+        "tera-blast",
+        "chilling-water"
+      ],
+      "abilities": [
+        "torrent",
+        "sniper"
+      ],
+      "availability": [
+        "scarlet",
+        "violet"
+      ],
+      "description": "When scared, this Pok\u00e9mon cries. Its tears pack the chemical punch of 100 onions, and attackers won\u2019t be able to resist weeping.",
+      "is_legendary": false,
+      "is_mythical": false,
+      "is_fully_evolved": false
+    }
+  }
+}

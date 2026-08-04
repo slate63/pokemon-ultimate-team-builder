@@ -1,0 +1,26 @@
+{
+  "id": 830,
+  "name": "stone-axe",
+  "generations": {
+    "8": {
+      "id": 830,
+      "name": "stone-axe",
+      "type": "rock",
+      "power": 65,
+      "accuracy": 90,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "9": {
+      "id": 830,
+      "name": "stone-axe",
+      "type": "rock",
+      "power": 65,
+      "accuracy": 90,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "physical"
+    }
+  }
+}

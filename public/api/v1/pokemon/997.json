@@ -1,0 +1,74 @@
+{
+  "id": 997,
+  "name": "arctibax",
+  "generations": {
+    "9": {
+      "types": [
+        "dragon",
+        "ice"
+      ],
+      "stats": {
+        "generation": 9,
+        "number": 997,
+        "hp": 90,
+        "attack": 95,
+        "defense": 66,
+        "special_attack": 45,
+        "special_defense": 65,
+        "speed": 62
+      },
+      "height": 0.8,
+      "weight": 30.0,
+      "moves": [
+        "swords-dance",
+        "tackle",
+        "body-slam",
+        "take-down",
+        "leer",
+        "bite",
+        "ice-beam",
+        "blizzard",
+        "dig",
+        "focus-energy",
+        "rest",
+        "substitute",
+        "protect",
+        "scary-face",
+        "icy-wind",
+        "outrage",
+        "endure",
+        "sleep-talk",
+        "dragon-breath",
+        "rain-dance",
+        "crunch",
+        "facade",
+        "helping-hand",
+        "brick-break",
+        "aerial-ace",
+        "icicle-spear",
+        "dragon-claw",
+        "dragon-pulse",
+        "avalanche",
+        "ice-fang",
+        "draco-meteor",
+        "iron-head",
+        "dragon-tail",
+        "icicle-crash",
+        "tera-blast",
+        "snowscape"
+      ],
+      "abilities": [
+        "thermal-exchange",
+        "ice-body"
+      ],
+      "availability": [
+        "scarlet",
+        "violet"
+      ],
+      "description": "Arctibax freezes the air around it, protecting its face with an ice mask and turning its dorsal fin into a blade of ice.",
+      "is_legendary": false,
+      "is_mythical": false,
+      "is_fully_evolved": false
+    }
+  }
+}

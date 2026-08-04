@@ -1,0 +1,66 @@
+{
+  "id": 436,
+  "name": "lava-plume",
+  "generations": {
+    "4": {
+      "id": 436,
+      "name": "lava-plume",
+      "type": "fire",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "5": {
+      "id": 436,
+      "name": "lava-plume",
+      "type": "fire",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "6": {
+      "id": 436,
+      "name": "lava-plume",
+      "type": "fire",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "7": {
+      "id": 436,
+      "name": "lava-plume",
+      "type": "fire",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "8": {
+      "id": 436,
+      "name": "lava-plume",
+      "type": "fire",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "9": {
+      "id": 436,
+      "name": "lava-plume",
+      "type": "fire",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "special"
+    }
+  }
+}

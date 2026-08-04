@@ -1,0 +1,36 @@
+{
+  "id": 726,
+  "name": "lets-snuggle-forever",
+  "generations": {
+    "7": {
+      "id": 726,
+      "name": "lets-snuggle-forever",
+      "type": "fairy",
+      "power": 190,
+      "accuracy": 0,
+      "pp": 1,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "8": {
+      "id": 726,
+      "name": "lets-snuggle-forever",
+      "type": "fairy",
+      "power": 190,
+      "accuracy": 0,
+      "pp": 1,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "9": {
+      "id": 726,
+      "name": "lets-snuggle-forever",
+      "type": "fairy",
+      "power": 190,
+      "accuracy": 0,
+      "pp": 1,
+      "priority": 0,
+      "damage_class": "physical"
+    }
+  }
+}

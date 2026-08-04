@@ -1,0 +1,77 @@
+{
+  "id": 991,
+  "name": "iron-bundle",
+  "generations": {
+    "9": {
+      "types": [
+        "ice",
+        "water"
+      ],
+      "stats": {
+        "generation": 9,
+        "number": 991,
+        "hp": 56,
+        "attack": 80,
+        "defense": 114,
+        "special_attack": 124,
+        "special_defense": 60,
+        "speed": 136
+      },
+      "height": 0.6,
+      "weight": 11.0,
+      "moves": [
+        "ice-punch",
+        "body-slam",
+        "take-down",
+        "hydro-pump",
+        "ice-beam",
+        "blizzard",
+        "hyper-beam",
+        "drill-peck",
+        "agility",
+        "swift",
+        "rest",
+        "substitute",
+        "thief",
+        "powder-snow",
+        "protect",
+        "icy-wind",
+        "endure",
+        "sleep-talk",
+        "present",
+        "encore",
+        "rain-dance",
+        "whirlpool",
+        "facade",
+        "taunt",
+        "helping-hand",
+        "air-cutter",
+        "water-pulse",
+        "u-turn",
+        "fling",
+        "giga-impact",
+        "avalanche",
+        "acrobatics",
+        "freeze-dry",
+        "play-rough",
+        "electric-terrain",
+        "aurora-veil",
+        "flip-turn",
+        "tera-blast",
+        "ice-spinner",
+        "snowscape",
+        "chilling-water"
+      ],
+      "abilities": [
+        "quark-drive"
+      ],
+      "availability": [
+        "violet"
+      ],
+      "description": "Its shape is similar to a robot featured in a paranormal magazine article. The robot was said to have been created by an ancient civilization.",
+      "is_legendary": false,
+      "is_mythical": false,
+      "is_fully_evolved": true
+    }
+  }
+}

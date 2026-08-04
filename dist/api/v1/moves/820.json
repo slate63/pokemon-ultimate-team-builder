@@ -1,0 +1,26 @@
+{
+  "id": 820,
+  "name": "dragon-energy",
+  "generations": {
+    "8": {
+      "id": 820,
+      "name": "dragon-energy",
+      "type": "dragon",
+      "power": 150,
+      "accuracy": 100,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "9": {
+      "id": 820,
+      "name": "dragon-energy",
+      "type": "dragon",
+      "power": 150,
+      "accuracy": 100,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "special"
+    }
+  }
+}

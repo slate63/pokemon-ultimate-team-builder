@@ -1,0 +1,16 @@
+{
+  "id": 915,
+  "name": "temper-flare",
+  "generations": {
+    "9": {
+      "id": 915,
+      "name": "temper-flare",
+      "type": "fire",
+      "power": 75,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    }
+  }
+}

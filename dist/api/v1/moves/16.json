@@ -1,0 +1,96 @@
+{
+  "id": 16,
+  "name": "gust",
+  "generations": {
+    "1": {
+      "id": 16,
+      "name": "gust",
+      "type": "normal",
+      "power": 40,
+      "accuracy": 100,
+      "pp": 35,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "2": {
+      "id": 16,
+      "name": "gust",
+      "type": "normal",
+      "power": 40,
+      "accuracy": 100,
+      "pp": 35,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "3": {
+      "id": 16,
+      "name": "gust",
+      "type": "flying",
+      "power": 40,
+      "accuracy": 100,
+      "pp": 35,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "4": {
+      "id": 16,
+      "name": "gust",
+      "type": "flying",
+      "power": 40,
+      "accuracy": 100,
+      "pp": 35,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "5": {
+      "id": 16,
+      "name": "gust",
+      "type": "flying",
+      "power": 40,
+      "accuracy": 100,
+      "pp": 35,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "6": {
+      "id": 16,
+      "name": "gust",
+      "type": "flying",
+      "power": 40,
+      "accuracy": 100,
+      "pp": 35,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "7": {
+      "id": 16,
+      "name": "gust",
+      "type": "flying",
+      "power": 40,
+      "accuracy": 100,
+      "pp": 35,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "8": {
+      "id": 16,
+      "name": "gust",
+      "type": "flying",
+      "power": 40,
+      "accuracy": 100,
+      "pp": 35,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "9": {
+      "id": 16,
+      "name": "gust",
+      "type": "flying",
+      "power": 40,
+      "accuracy": 100,
+      "pp": 35,
+      "priority": 0,
+      "damage_class": "special"
+    }
+  }
+}

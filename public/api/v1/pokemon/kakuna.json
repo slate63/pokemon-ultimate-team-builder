@@ -1,0 +1,302 @@
+{
+  "id": 14,
+  "name": "kakuna",
+  "generations": {
+    "1": {
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "stats": {
+        "generation": 1,
+        "number": 14,
+        "hp": 45,
+        "attack": 25,
+        "defense": 50,
+        "special": 25,
+        "speed": 35
+      },
+      "height": 0.6,
+      "weight": 10.0,
+      "moves": [
+        "harden"
+      ],
+      "availability": [
+        "red",
+        "blue"
+      ],
+      "description": "Almost incapable of moving, this POK\u00e9MON can only harden its shell to protect itself from predators.",
+      "is_legendary": false,
+      "is_mythical": false,
+      "is_fully_evolved": false
+    },
+    "2": {
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "stats": {
+        "generation": 2,
+        "number": 14,
+        "hp": 45,
+        "attack": 25,
+        "defense": 50,
+        "special_attack": 25,
+        "special_defense": 25,
+        "speed": 35
+      },
+      "height": 0.6,
+      "weight": 10.0,
+      "moves": [
+        "harden"
+      ],
+      "availability": [
+        "silver",
+        "crystal"
+      ],
+      "description": "Almost incapable of moving, this POK\u00e9MON can only harden its shell to protect itself from predators.",
+      "is_legendary": false,
+      "is_mythical": false,
+      "is_fully_evolved": false
+    },
+    "3": {
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "stats": {
+        "generation": 3,
+        "number": 14,
+        "hp": 45,
+        "attack": 25,
+        "defense": 50,
+        "special_attack": 25,
+        "special_defense": 25,
+        "speed": 35
+      },
+      "height": 0.6,
+      "weight": 10.0,
+      "moves": [
+        "harden"
+      ],
+      "abilities": [
+        "shed-skin"
+      ],
+      "availability": [
+        "firered",
+        "leafgreen"
+      ],
+      "description": "Almost incapable of moving, this POK\u00e9MON can only harden its shell to protect itself from predators.",
+      "is_legendary": false,
+      "is_mythical": false,
+      "is_fully_evolved": false
+    },
+    "4": {
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "stats": {
+        "generation": 4,
+        "number": 14,
+        "hp": 45,
+        "attack": 25,
+        "defense": 50,
+        "special_attack": 25,
+        "special_defense": 25,
+        "speed": 35
+      },
+      "height": 0.6,
+      "weight": 10.0,
+      "moves": [
+        "string-shot",
+        "harden",
+        "iron-defense",
+        "bug-bite"
+      ],
+      "abilities": [
+        "shed-skin"
+      ],
+      "availability": [
+        "diamond",
+        "pearl",
+        "platinum",
+        "soulsilver"
+      ],
+      "description": "Almost incapable of moving, this POK\u00e9MON can only harden its shell to protect itself from predators.",
+      "is_legendary": false,
+      "is_mythical": false,
+      "is_fully_evolved": false
+    },
+    "5": {
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "stats": {
+        "generation": 5,
+        "number": 14,
+        "hp": 45,
+        "attack": 25,
+        "defense": 50,
+        "special_attack": 25,
+        "special_defense": 25,
+        "speed": 35
+      },
+      "height": 0.6,
+      "weight": 10.0,
+      "moves": [
+        "harden",
+        "iron-defense",
+        "bug-bite",
+        "electroweb"
+      ],
+      "abilities": [
+        "shed-skin"
+      ],
+      "availability": [
+        "black"
+      ],
+      "description": "Almost incapable of moving, this POK\u00e9MON can only harden its shell to protect itself from predators.",
+      "is_legendary": false,
+      "is_mythical": false,
+      "is_fully_evolved": false
+    },
+    "6": {
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "stats": {
+        "generation": 6,
+        "number": 14,
+        "hp": 45,
+        "attack": 25,
+        "defense": 50,
+        "special_attack": 25,
+        "special_defense": 25,
+        "speed": 35
+      },
+      "height": 0.6,
+      "weight": 10.0,
+      "moves": [
+        "harden",
+        "iron-defense",
+        "bug-bite",
+        "electroweb"
+      ],
+      "abilities": [
+        "shed-skin"
+      ],
+      "availability": [
+        "x",
+        "y",
+        "omega-ruby",
+        "alpha-sapphire"
+      ],
+      "description": "Almost incapable of moving, this POK\u00e9MON can only harden its shell to protect itself from predators.",
+      "is_legendary": false,
+      "is_mythical": false,
+      "is_fully_evolved": false
+    },
+    "7": {
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "stats": {
+        "generation": 7,
+        "number": 14,
+        "hp": 45,
+        "attack": 25,
+        "defense": 50,
+        "special_attack": 25,
+        "special_defense": 25,
+        "speed": 35
+      },
+      "height": 0.6,
+      "weight": 10.0,
+      "moves": [
+        "harden",
+        "iron-defense",
+        "bug-bite",
+        "electroweb"
+      ],
+      "abilities": [
+        "shed-skin"
+      ],
+      "availability": [
+        "ultra-sun",
+        "ultra-moon"
+      ],
+      "description": "Almost incapable of moving, this POK\u00e9MON can only harden its shell to protect itself from predators.",
+      "is_legendary": false,
+      "is_mythical": false,
+      "is_fully_evolved": false
+    },
+    "8": {
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "stats": {
+        "generation": 8,
+        "number": 14,
+        "hp": 45,
+        "attack": 25,
+        "defense": 50,
+        "special_attack": 25,
+        "special_defense": 25,
+        "speed": 35
+      },
+      "height": 0.6,
+      "weight": 10.0,
+      "moves": [
+        "harden"
+      ],
+      "abilities": [
+        "shed-skin"
+      ],
+      "availability": [
+        "sword",
+        "shield",
+        "brilliant-diamond",
+        "shining-pearl"
+      ],
+      "description": "Almost incapable of moving, this POK\u00e9MON can only harden its shell to protect itself from predators.",
+      "is_legendary": false,
+      "is_mythical": false,
+      "is_fully_evolved": false
+    },
+    "9": {
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "stats": {
+        "generation": 9,
+        "number": 14,
+        "hp": 45,
+        "attack": 25,
+        "defense": 50,
+        "special_attack": 25,
+        "special_defense": 25,
+        "speed": 35
+      },
+      "height": 0.6,
+      "weight": 10.0,
+      "moves": [],
+      "abilities": [
+        "shed-skin"
+      ],
+      "availability": [
+        "scarlet",
+        "violet"
+      ],
+      "description": "Almost incapable of moving, this POK\u00e9MON can only harden its shell to protect itself from predators.",
+      "is_legendary": false,
+      "is_mythical": false,
+      "is_fully_evolved": false
+    }
+  }
+}

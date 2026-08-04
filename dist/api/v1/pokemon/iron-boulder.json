@@ -1,0 +1,85 @@
+{
+  "id": 1022,
+  "name": "iron-boulder",
+  "generations": {
+    "9": {
+      "types": [
+        "rock",
+        "psychic"
+      ],
+      "stats": {
+        "generation": 9,
+        "number": 1022,
+        "hp": 90,
+        "attack": 120,
+        "defense": 80,
+        "special_attack": 68,
+        "special_defense": 108,
+        "speed": 124
+      },
+      "height": 1.5,
+      "weight": 162.5,
+      "moves": [
+        "swords-dance",
+        "horn-attack",
+        "body-slam",
+        "take-down",
+        "double-edge",
+        "leer",
+        "hyper-beam",
+        "counter",
+        "rock-throw",
+        "earthquake",
+        "psychic",
+        "agility",
+        "quick-attack",
+        "rest",
+        "slash",
+        "substitute",
+        "protect",
+        "scary-face",
+        "sandstorm",
+        "endure",
+        "sleep-talk",
+        "megahorn",
+        "facade",
+        "taunt",
+        "brick-break",
+        "rock-tomb",
+        "aerial-ace",
+        "iron-defense",
+        "rock-blast",
+        "close-combat",
+        "poison-jab",
+        "air-slash",
+        "x-scissor",
+        "giga-impact",
+        "psycho-cut",
+        "zen-headbutt",
+        "iron-head",
+        "stone-edge",
+        "psyshock",
+        "quick-guard",
+        "bulldoze",
+        "wild-charge",
+        "sacred-sword",
+        "electric-terrain",
+        "solar-blade",
+        "throat-chop",
+        "meteor-beam",
+        "tera-blast",
+        "mighty-cleave"
+      ],
+      "abilities": [
+        "quark-drive"
+      ],
+      "availability": [
+        "violet"
+      ],
+      "description": "It resembles a Pok\u00e9mon described in a dubious magazine as a Terrakion that had been modified by an evil organization.",
+      "is_legendary": false,
+      "is_mythical": false,
+      "is_fully_evolved": true
+    }
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": 229,
+  "name": "rapid-spin",
+  "generations": {
+    "2": {
+      "id": 229,
+      "name": "rapid-spin",
+      "type": "normal",
+      "power": 20,
+      "accuracy": 100,
+      "pp": 40,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "3": {
+      "id": 229,
+      "name": "rapid-spin",
+      "type": "normal",
+      "power": 20,
+      "accuracy": 100,
+      "pp": 40,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "4": {
+      "id": 229,
+      "name": "rapid-spin",
+      "type": "normal",
+      "power": 20,
+      "accuracy": 100,
+      "pp": 40,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "5": {
+      "id": 229,
+      "name": "rapid-spin",
+      "type": "normal",
+      "power": 20,
+      "accuracy": 100,
+      "pp": 40,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "6": {
+      "id": 229,
+      "name": "rapid-spin",
+      "type": "normal",
+      "power": 20,
+      "accuracy": 100,
+      "pp": 40,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "7": {
+      "id": 229,
+      "name": "rapid-spin",
+      "type": "normal",
+      "power": 20,
+      "accuracy": 100,
+      "pp": 40,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "8": {
+      "id": 229,
+      "name": "rapid-spin",
+      "type": "normal",
+      "power": 20,
+      "accuracy": 100,
+      "pp": 40,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "9": {
+      "id": 229,
+      "name": "rapid-spin",
+      "type": "normal",
+      "power": 50,
+      "accuracy": 100,
+      "pp": 40,
+      "priority": 0,
+      "damage_class": "physical"
+    }
+  }
+}

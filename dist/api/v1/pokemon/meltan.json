@@ -1,0 +1,112 @@
+{
+  "id": 808,
+  "name": "meltan",
+  "generations": {
+    "7": {
+      "types": [
+        "steel"
+      ],
+      "stats": {
+        "generation": 7,
+        "number": 808,
+        "hp": 46,
+        "attack": 65,
+        "defense": 65,
+        "special_attack": 55,
+        "special_defense": 35,
+        "speed": 34
+      },
+      "height": 0.2,
+      "weight": 8.0,
+      "moves": [],
+      "abilities": [
+        "magnet-pull"
+      ],
+      "availability": [],
+      "description": "It dissolves and eats metal. Circulating liquid metal within its body is how it generates energy.",
+      "is_legendary": false,
+      "is_mythical": true,
+      "is_fully_evolved": true
+    },
+    "8": {
+      "types": [
+        "steel"
+      ],
+      "stats": {
+        "generation": 8,
+        "number": 808,
+        "hp": 46,
+        "attack": 65,
+        "defense": 65,
+        "special_attack": 55,
+        "special_defense": 35,
+        "speed": 34
+      },
+      "height": 0.2,
+      "weight": 8.0,
+      "moves": [
+        "headbutt",
+        "tail-whip",
+        "thunder-shock",
+        "thunderbolt",
+        "thunder-wave",
+        "harden",
+        "acid-armor",
+        "rest",
+        "substitute",
+        "snore",
+        "protect",
+        "endure",
+        "sleep-talk",
+        "facade",
+        "iron-defense",
+        "gyro-ball",
+        "flash-cannon",
+        "round",
+        "steel-beam"
+      ],
+      "abilities": [
+        "magnet-pull"
+      ],
+      "availability": [
+        "sword",
+        "shield",
+        "brilliant-diamond",
+        "shining-pearl"
+      ],
+      "description": "It dissolves and eats metal. Circulating liquid metal within its body is how it generates energy.",
+      "is_legendary": false,
+      "is_mythical": true,
+      "is_fully_evolved": true
+    },
+    "9": {
+      "types": [
+        "steel"
+      ],
+      "stats": {
+        "generation": 9,
+        "number": 808,
+        "hp": 46,
+        "attack": 65,
+        "defense": 65,
+        "special_attack": 55,
+        "special_defense": 35,
+        "speed": 34
+      },
+      "height": 0.2,
+      "weight": 8.0,
+      "moves": [],
+      "abilities": [
+        "magnet-pull"
+      ],
+      "availability": [
+        "scarlet",
+        "violet"
+      ],
+      "description": "It dissolves and eats metal. Circulating liquid metal within its body is how it generates energy.",
+      "is_legendary": false,
+      "is_mythical": true,
+      "is_fully_evolved": true
+    }
+  }
+}

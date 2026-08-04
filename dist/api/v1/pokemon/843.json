@@ -1,0 +1,145 @@
+{
+  "id": 843,
+  "name": "silicobra",
+  "generations": {
+    "8": {
+      "types": [
+        "ground"
+      ],
+      "stats": {
+        "generation": 8,
+        "number": 843,
+        "hp": 52,
+        "attack": 57,
+        "defense": 75,
+        "special_attack": 35,
+        "special_defense": 50,
+        "speed": 46
+      },
+      "height": 2.2,
+      "weight": 7.6,
+      "moves": [
+        "slam",
+        "sand-attack",
+        "headbutt",
+        "wrap",
+        "earthquake",
+        "dig",
+        "screech",
+        "minimize",
+        "glare",
+        "rest",
+        "substitute",
+        "snore",
+        "protect",
+        "mud-slap",
+        "sandstorm",
+        "endure",
+        "attract",
+        "sleep-talk",
+        "facade",
+        "sand-tomb",
+        "mud-shot",
+        "poison-tail",
+        "last-resort",
+        "dragon-rush",
+        "earth-power",
+        "coil",
+        "round",
+        "bulldoze",
+        "drill-run",
+        "belch",
+        "brutal-swing",
+        "scale-shot",
+        "skitter-smack",
+        "scorching-sands"
+      ],
+      "abilities": [
+        "sand-spit",
+        "shed-skin",
+        "sand-veil"
+      ],
+      "availability": [
+        "sword",
+        "shield",
+        "brilliant-diamond",
+        "shining-pearl"
+      ],
+      "description": "As it digs, it swallows sand and stores it in its neck pouch. The pouch can hold more than 17 pounds of sand.",
+      "is_legendary": false,
+      "is_mythical": false,
+      "is_fully_evolved": false
+    },
+    "9": {
+      "types": [
+        "ground"
+      ],
+      "stats": {
+        "generation": 9,
+        "number": 843,
+        "hp": 52,
+        "attack": 57,
+        "defense": 75,
+        "special_attack": 35,
+        "special_defense": 50,
+        "speed": 46
+      },
+      "height": 2.2,
+      "weight": 7.6,
+      "moves": [
+        "slam",
+        "sand-attack",
+        "headbutt",
+        "body-slam",
+        "wrap",
+        "take-down",
+        "earthquake",
+        "dig",
+        "minimize",
+        "glare",
+        "rest",
+        "rock-slide",
+        "substitute",
+        "protect",
+        "scary-face",
+        "mud-slap",
+        "sandstorm",
+        "endure",
+        "sleep-talk",
+        "facade",
+        "rock-tomb",
+        "sand-tomb",
+        "mud-shot",
+        "poison-tail",
+        "rock-blast",
+        "last-resort",
+        "dragon-rush",
+        "earth-power",
+        "stone-edge",
+        "stealth-rock",
+        "coil",
+        "bulldoze",
+        "drill-run",
+        "belch",
+        "brutal-swing",
+        "scale-shot",
+        "skitter-smack",
+        "scorching-sands",
+        "tera-blast"
+      ],
+      "abilities": [
+        "sand-spit",
+        "shed-skin",
+        "sand-veil"
+      ],
+      "availability": [
+        "scarlet",
+        "violet"
+      ],
+      "description": "As it digs, it swallows sand and stores it in its neck pouch. The pouch can hold more than 17 pounds of sand.",
+      "is_legendary": false,
+      "is_mythical": false,
+      "is_fully_evolved": false
+    }
+  }
+}

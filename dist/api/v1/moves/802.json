@@ -1,0 +1,26 @@
+{
+  "id": 802,
+  "name": "misty-explosion",
+  "generations": {
+    "8": {
+      "id": 802,
+      "name": "misty-explosion",
+      "type": "fairy",
+      "power": 100,
+      "accuracy": 100,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "9": {
+      "id": 802,
+      "name": "misty-explosion",
+      "type": "fairy",
+      "power": 100,
+      "accuracy": 100,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "special"
+    }
+  }
+}

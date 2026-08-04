@@ -1,0 +1,16 @@
+{
+  "id": 888,
+  "name": "twin-beam",
+  "generations": {
+    "9": {
+      "id": 888,
+      "name": "twin-beam",
+      "type": "psychic",
+      "power": 40,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "special"
+    }
+  }
+}

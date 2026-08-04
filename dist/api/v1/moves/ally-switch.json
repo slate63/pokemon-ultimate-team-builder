@@ -1,0 +1,56 @@
+{
+  "id": 502,
+  "name": "ally-switch",
+  "generations": {
+    "5": {
+      "id": 502,
+      "name": "ally-switch",
+      "type": "psychic",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 15,
+      "priority": 2,
+      "damage_class": "status"
+    },
+    "6": {
+      "id": 502,
+      "name": "ally-switch",
+      "type": "psychic",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 15,
+      "priority": 2,
+      "damage_class": "status"
+    },
+    "7": {
+      "id": 502,
+      "name": "ally-switch",
+      "type": "psychic",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 15,
+      "priority": 2,
+      "damage_class": "status"
+    },
+    "8": {
+      "id": 502,
+      "name": "ally-switch",
+      "type": "psychic",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 15,
+      "priority": 2,
+      "damage_class": "status"
+    },
+    "9": {
+      "id": 502,
+      "name": "ally-switch",
+      "type": "psychic",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 15,
+      "priority": 2,
+      "damage_class": "status"
+    }
+  }
+}

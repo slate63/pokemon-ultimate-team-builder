@@ -1,0 +1,66 @@
+{
+  "id": 401,
+  "name": "aqua-tail",
+  "generations": {
+    "4": {
+      "id": 401,
+      "name": "aqua-tail",
+      "type": "water",
+      "power": 90,
+      "accuracy": 90,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "5": {
+      "id": 401,
+      "name": "aqua-tail",
+      "type": "water",
+      "power": 90,
+      "accuracy": 90,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "6": {
+      "id": 401,
+      "name": "aqua-tail",
+      "type": "water",
+      "power": 90,
+      "accuracy": 90,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "7": {
+      "id": 401,
+      "name": "aqua-tail",
+      "type": "water",
+      "power": 90,
+      "accuracy": 90,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "8": {
+      "id": 401,
+      "name": "aqua-tail",
+      "type": "water",
+      "power": 90,
+      "accuracy": 90,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "9": {
+      "id": 401,
+      "name": "aqua-tail",
+      "type": "water",
+      "power": 90,
+      "accuracy": 90,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    }
+  }
+}

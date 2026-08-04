@@ -1,0 +1,26 @@
+{
+  "id": 879,
+  "name": "electro-drift",
+  "generations": {
+    "8": {
+      "id": 879,
+      "name": "electro-drift",
+      "type": "electric",
+      "power": 100,
+      "accuracy": 100,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "9": {
+      "id": 879,
+      "name": "electro-drift",
+      "type": "electric",
+      "power": 100,
+      "accuracy": 100,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "special"
+    }
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "id": 990,
+  "name": "iron-treads",
+  "generations": {
+    "9": {
+      "types": [
+        "ground",
+        "steel"
+      ],
+      "stats": {
+        "generation": 9,
+        "number": 990,
+        "hp": 90,
+        "attack": 112,
+        "defense": 120,
+        "special_attack": 72,
+        "special_defense": 70,
+        "speed": 106
+      },
+      "height": 0.9,
+      "weight": 240.0,
+      "moves": [
+        "horn-attack",
+        "body-slam",
+        "take-down",
+        "double-edge",
+        "hyper-beam",
+        "thunder",
+        "earthquake",
+        "defense-curl",
+        "rest",
+        "rock-slide",
+        "substitute",
+        "protect",
+        "scary-face",
+        "mud-slap",
+        "sandstorm",
+        "rollout",
+        "megahorn",
+        "rapid-spin",
+        "facade",
+        "knock-off",
+        "endeavor",
+        "rock-tomb",
+        "metal-sound",
+        "iron-defense",
+        "mud-shot",
+        "gyro-ball",
+        "earth-power",
+        "giga-impact",
+        "thunder-fang",
+        "ice-fang",
+        "zen-headbutt",
+        "flash-cannon",
+        "iron-head",
+        "stone-edge",
+        "stealth-rock",
+        "heavy-slam",
+        "electro-ball",
+        "volt-switch",
+        "bulldoze",
+        "wild-charge",
+        "electric-terrain",
+        "high-horsepower",
+        "smart-strike",
+        "stomping-tantrum",
+        "body-press",
+        "steel-beam",
+        "steel-roller",
+        "tera-blast",
+        "ice-spinner",
+        "hard-press",
+        "supercell-slam"
+      ],
+      "abilities": [
+        "quark-drive"
+      ],
+      "availability": [
+        "violet"
+      ],
+      "description": "This Pok\u00e9mon closely resembles a scientific weapon that a paranormal magazine claimed was sent to this planet by aliens.",
+      "is_legendary": false,
+      "is_mythical": false,
+      "is_fully_evolved": true
+    }
+  }
+}

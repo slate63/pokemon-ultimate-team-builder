@@ -1,0 +1,26 @@
+{
+  "id": 786,
+  "name": "overdrive",
+  "generations": {
+    "8": {
+      "id": 786,
+      "name": "overdrive",
+      "type": "electric",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "9": {
+      "id": 786,
+      "name": "overdrive",
+      "type": "electric",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "special"
+    }
+  }
+}

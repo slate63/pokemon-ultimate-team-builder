@@ -1,0 +1,36 @@
+{
+  "id": 699,
+  "name": "soul-stealing-7-star-strike",
+  "generations": {
+    "7": {
+      "id": 699,
+      "name": "soul-stealing-7-star-strike",
+      "type": "ghost",
+      "power": 195,
+      "accuracy": 0,
+      "pp": 1,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "8": {
+      "id": 699,
+      "name": "soul-stealing-7-star-strike",
+      "type": "ghost",
+      "power": 195,
+      "accuracy": 0,
+      "pp": 1,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "9": {
+      "id": 699,
+      "name": "soul-stealing-7-star-strike",
+      "type": "ghost",
+      "power": 195,
+      "accuracy": 0,
+      "pp": 1,
+      "priority": 0,
+      "damage_class": "physical"
+    }
+  }
+}

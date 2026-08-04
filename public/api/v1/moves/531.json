@@ -1,0 +1,56 @@
+{
+  "id": 531,
+  "name": "heart-stamp",
+  "generations": {
+    "5": {
+      "id": 531,
+      "name": "heart-stamp",
+      "type": "psychic",
+      "power": 60,
+      "accuracy": 100,
+      "pp": 25,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "6": {
+      "id": 531,
+      "name": "heart-stamp",
+      "type": "psychic",
+      "power": 60,
+      "accuracy": 100,
+      "pp": 25,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "7": {
+      "id": 531,
+      "name": "heart-stamp",
+      "type": "psychic",
+      "power": 60,
+      "accuracy": 100,
+      "pp": 25,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "8": {
+      "id": 531,
+      "name": "heart-stamp",
+      "type": "psychic",
+      "power": 60,
+      "accuracy": 100,
+      "pp": 25,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "9": {
+      "id": 531,
+      "name": "heart-stamp",
+      "type": "psychic",
+      "power": 60,
+      "accuracy": 100,
+      "pp": 25,
+      "priority": 0,
+      "damage_class": "physical"
+    }
+  }
+}

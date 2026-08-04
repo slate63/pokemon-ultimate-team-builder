@@ -1,0 +1,96 @@
+{
+  "id": 19,
+  "name": "fly",
+  "generations": {
+    "1": {
+      "id": 19,
+      "name": "fly",
+      "type": "flying",
+      "power": 70,
+      "accuracy": 95,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "2": {
+      "id": 19,
+      "name": "fly",
+      "type": "flying",
+      "power": 70,
+      "accuracy": 95,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "3": {
+      "id": 19,
+      "name": "fly",
+      "type": "flying",
+      "power": 70,
+      "accuracy": 95,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "4": {
+      "id": 19,
+      "name": "fly",
+      "type": "flying",
+      "power": 70,
+      "accuracy": 95,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "5": {
+      "id": 19,
+      "name": "fly",
+      "type": "flying",
+      "power": 90,
+      "accuracy": 95,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "6": {
+      "id": 19,
+      "name": "fly",
+      "type": "flying",
+      "power": 90,
+      "accuracy": 95,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "7": {
+      "id": 19,
+      "name": "fly",
+      "type": "flying",
+      "power": 90,
+      "accuracy": 95,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "8": {
+      "id": 19,
+      "name": "fly",
+      "type": "flying",
+      "power": 90,
+      "accuracy": 95,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "9": {
+      "id": 19,
+      "name": "fly",
+      "type": "flying",
+      "power": 90,
+      "accuracy": 95,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "physical"
+    }
+  }
+}

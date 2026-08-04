@@ -1,0 +1,92 @@
+{
+  "id": 918,
+  "name": "spidops",
+  "generations": {
+    "9": {
+      "types": [
+        "bug"
+      ],
+      "stats": {
+        "generation": 9,
+        "number": 918,
+        "hp": 60,
+        "attack": 79,
+        "defense": 92,
+        "special_attack": 52,
+        "special_defense": 86,
+        "speed": 35
+      },
+      "height": 1.0,
+      "weight": 16.5,
+      "moves": [
+        "headbutt",
+        "tackle",
+        "body-slam",
+        "take-down",
+        "low-kick",
+        "counter",
+        "string-shot",
+        "leech-life",
+        "rest",
+        "substitute",
+        "thief",
+        "reversal",
+        "protect",
+        "scary-face",
+        "spikes",
+        "giga-drain",
+        "endure",
+        "false-swipe",
+        "sleep-talk",
+        "pain-split",
+        "rain-dance",
+        "sunny-day",
+        "facade",
+        "taunt",
+        "brick-break",
+        "knock-off",
+        "rock-tomb",
+        "bullet-seed",
+        "aerial-ace",
+        "block",
+        "feint",
+        "u-turn",
+        "assurance",
+        "fling",
+        "gastro-acid",
+        "toxic-spikes",
+        "poison-jab",
+        "x-scissor",
+        "bug-buzz",
+        "giga-impact",
+        "shadow-claw",
+        "grass-knot",
+        "bug-bite",
+        "circle-throw",
+        "struggle-bug",
+        "electroweb",
+        "sticky-web",
+        "throat-chop",
+        "lunge",
+        "skitter-smack",
+        "tera-blast",
+        "silk-trap",
+        "pounce",
+        "trailblaze",
+        "upper-hand"
+      ],
+      "abilities": [
+        "insomnia",
+        "stakeout"
+      ],
+      "availability": [
+        "scarlet",
+        "violet"
+      ],
+      "description": "It clings to branches and ceilings using its threads and moves without a sound. It takes out its prey before the prey even notices it.",
+      "is_legendary": false,
+      "is_mythical": false,
+      "is_fully_evolved": true
+    }
+  }
+}

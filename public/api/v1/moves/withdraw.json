@@ -1,0 +1,96 @@
+{
+  "id": 110,
+  "name": "withdraw",
+  "generations": {
+    "1": {
+      "id": 110,
+      "name": "withdraw",
+      "type": "water",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 40,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "2": {
+      "id": 110,
+      "name": "withdraw",
+      "type": "water",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 40,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "3": {
+      "id": 110,
+      "name": "withdraw",
+      "type": "water",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 40,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "4": {
+      "id": 110,
+      "name": "withdraw",
+      "type": "water",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 40,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "5": {
+      "id": 110,
+      "name": "withdraw",
+      "type": "water",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 40,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "6": {
+      "id": 110,
+      "name": "withdraw",
+      "type": "water",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 40,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "7": {
+      "id": 110,
+      "name": "withdraw",
+      "type": "water",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 40,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "8": {
+      "id": 110,
+      "name": "withdraw",
+      "type": "water",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 40,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "9": {
+      "id": 110,
+      "name": "withdraw",
+      "type": "water",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 40,
+      "priority": 0,
+      "damage_class": "status"
+    }
+  }
+}

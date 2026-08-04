@@ -1,0 +1,92 @@
+{
+  "id": 944,
+  "name": "shroodle",
+  "generations": {
+    "9": {
+      "types": [
+        "poison",
+        "normal"
+      ],
+      "stats": {
+        "generation": 9,
+        "number": 944,
+        "hp": 40,
+        "attack": 65,
+        "defense": 35,
+        "special_attack": 40,
+        "special_defense": 35,
+        "speed": 75
+      },
+      "height": 0.2,
+      "weight": 0.7,
+      "moves": [
+        "scratch",
+        "swords-dance",
+        "take-down",
+        "double-edge",
+        "leer",
+        "bite",
+        "dig",
+        "toxic",
+        "metronome",
+        "fury-swipes",
+        "rest",
+        "super-fang",
+        "slash",
+        "substitute",
+        "thief",
+        "protect",
+        "sludge-bomb",
+        "mud-slap",
+        "endure",
+        "swagger",
+        "sleep-talk",
+        "baton-pass",
+        "encore",
+        "rain-dance",
+        "sunny-day",
+        "psych-up",
+        "flatter",
+        "facade",
+        "taunt",
+        "helping-hand",
+        "knock-off",
+        "endeavor",
+        "poison-fang",
+        "mud-shot",
+        "u-turn",
+        "fling",
+        "copycat",
+        "poison-jab",
+        "switcheroo",
+        "nasty-plot",
+        "cross-poison",
+        "gunk-shot",
+        "venoshock",
+        "sludge-wave",
+        "acid-spray",
+        "foul-play",
+        "acrobatics",
+        "parting-shot",
+        "throat-chop",
+        "skitter-smack",
+        "tera-blast",
+        "pounce",
+        "trailblaze"
+      ],
+      "abilities": [
+        "unburden",
+        "pickpocket",
+        "prankster"
+      ],
+      "availability": [
+        "scarlet",
+        "violet"
+      ],
+      "description": "Though usually a mellow Pok\u00e9mon, it will sink its sharp, poison-soaked front teeth into any that anger it, causing paralysis in the object of its ire.",
+      "is_legendary": false,
+      "is_mythical": false,
+      "is_fully_evolved": false
+    }
+  }
+}

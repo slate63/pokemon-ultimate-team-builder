@@ -1,0 +1,74 @@
+{
+  "id": 978,
+  "name": "tatsugiri-curly",
+  "generations": {
+    "9": {
+      "types": [
+        "dragon",
+        "water"
+      ],
+      "stats": {
+        "generation": 9,
+        "number": 978,
+        "hp": 68,
+        "attack": 50,
+        "defense": 60,
+        "special_attack": 120,
+        "special_defense": 95,
+        "speed": 82
+      },
+      "height": 0.3,
+      "weight": 8.0,
+      "moves": [
+        "take-down",
+        "water-gun",
+        "hydro-pump",
+        "surf",
+        "hyper-beam",
+        "counter",
+        "harden",
+        "splash",
+        "rest",
+        "substitute",
+        "protect",
+        "icy-wind",
+        "outrage",
+        "endure",
+        "sleep-talk",
+        "baton-pass",
+        "rapid-spin",
+        "rain-dance",
+        "mirror-coat",
+        "whirlpool",
+        "memento",
+        "facade",
+        "taunt",
+        "helping-hand",
+        "muddy-water",
+        "dragon-dance",
+        "water-pulse",
+        "dragon-pulse",
+        "giga-impact",
+        "nasty-plot",
+        "draco-meteor",
+        "soak",
+        "lunge",
+        "tera-blast",
+        "chilling-water",
+        "dragon-cheer"
+      ],
+      "abilities": [
+        "commander",
+        "storm-drain"
+      ],
+      "availability": [
+        "scarlet",
+        "violet"
+      ],
+      "description": "This is a small dragon Pok\u00e9mon. It lives inside the mouth of Dondozo to protect itself from enemies on the outside.",
+      "is_legendary": false,
+      "is_mythical": false,
+      "is_fully_evolved": true
+    }
+  }
+}

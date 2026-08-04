@@ -1,0 +1,66 @@
+{
+  "id": 384,
+  "name": "power-swap",
+  "generations": {
+    "4": {
+      "id": 384,
+      "name": "power-swap",
+      "type": "psychic",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "5": {
+      "id": 384,
+      "name": "power-swap",
+      "type": "psychic",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "6": {
+      "id": 384,
+      "name": "power-swap",
+      "type": "psychic",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "7": {
+      "id": 384,
+      "name": "power-swap",
+      "type": "psychic",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "8": {
+      "id": 384,
+      "name": "power-swap",
+      "type": "psychic",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "9": {
+      "id": 384,
+      "name": "power-swap",
+      "type": "psychic",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "status"
+    }
+  }
+}

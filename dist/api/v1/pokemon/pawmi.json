@@ -1,0 +1,87 @@
+{
+  "id": 921,
+  "name": "pawmi",
+  "generations": {
+    "9": {
+      "types": [
+        "electric"
+      ],
+      "stats": {
+        "generation": 9,
+        "number": 921,
+        "hp": 45,
+        "attack": 50,
+        "defense": 20,
+        "special_attack": 40,
+        "special_defense": 25,
+        "speed": 60
+      },
+      "height": 0.3,
+      "weight": 2.5,
+      "moves": [
+        "scratch",
+        "slam",
+        "take-down",
+        "bite",
+        "growl",
+        "thunder-shock",
+        "thunderbolt",
+        "thunder-wave",
+        "thunder",
+        "dig",
+        "agility",
+        "quick-attack",
+        "swift",
+        "rest",
+        "super-fang",
+        "substitute",
+        "thief",
+        "protect",
+        "mach-punch",
+        "sweet-kiss",
+        "endure",
+        "charm",
+        "spark",
+        "sleep-talk",
+        "baton-pass",
+        "encore",
+        "metal-claw",
+        "rain-dance",
+        "sunny-day",
+        "crunch",
+        "fake-out",
+        "facade",
+        "charge",
+        "helping-hand",
+        "wish",
+        "fling",
+        "thunder-fang",
+        "discharge",
+        "charge-beam",
+        "electro-ball",
+        "entrainment",
+        "volt-switch",
+        "electroweb",
+        "wild-charge",
+        "play-rough",
+        "eerie-impulse",
+        "electric-terrain",
+        "nuzzle",
+        "tera-blast"
+      ],
+      "abilities": [
+        "static",
+        "natural-cure",
+        "iron-fist"
+      ],
+      "availability": [
+        "scarlet",
+        "violet"
+      ],
+      "description": "It has underdeveloped electric sacs on its cheeks. These sacs can produce electricity only if Pawmi rubs them furiously with the pads on its forepaws.",
+      "is_legendary": false,
+      "is_mythical": false,
+      "is_fully_evolved": false
+    }
+  }
+}

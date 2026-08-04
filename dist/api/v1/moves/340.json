@@ -1,0 +1,76 @@
+{
+  "id": 340,
+  "name": "bounce",
+  "generations": {
+    "3": {
+      "id": 340,
+      "name": "bounce",
+      "type": "flying",
+      "power": 85,
+      "accuracy": 85,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "4": {
+      "id": 340,
+      "name": "bounce",
+      "type": "flying",
+      "power": 85,
+      "accuracy": 85,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "5": {
+      "id": 340,
+      "name": "bounce",
+      "type": "flying",
+      "power": 85,
+      "accuracy": 85,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "6": {
+      "id": 340,
+      "name": "bounce",
+      "type": "flying",
+      "power": 85,
+      "accuracy": 85,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "7": {
+      "id": 340,
+      "name": "bounce",
+      "type": "flying",
+      "power": 85,
+      "accuracy": 85,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "8": {
+      "id": 340,
+      "name": "bounce",
+      "type": "flying",
+      "power": 85,
+      "accuracy": 85,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "9": {
+      "id": 340,
+      "name": "bounce",
+      "type": "flying",
+      "power": 85,
+      "accuracy": 85,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "physical"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 897,
+  "name": "wicked-torque",
+  "generations": {
+    "9": {
+      "id": 897,
+      "name": "wicked-torque",
+      "type": "dark",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    }
+  }
+}

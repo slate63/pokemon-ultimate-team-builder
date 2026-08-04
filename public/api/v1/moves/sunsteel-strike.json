@@ -1,0 +1,36 @@
+{
+  "id": 713,
+  "name": "sunsteel-strike",
+  "generations": {
+    "7": {
+      "id": 713,
+      "name": "sunsteel-strike",
+      "type": "steel",
+      "power": 100,
+      "accuracy": 100,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "8": {
+      "id": 713,
+      "name": "sunsteel-strike",
+      "type": "steel",
+      "power": 100,
+      "accuracy": 100,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "9": {
+      "id": 713,
+      "name": "sunsteel-strike",
+      "type": "steel",
+      "power": 100,
+      "accuracy": 100,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "physical"
+    }
+  }
+}

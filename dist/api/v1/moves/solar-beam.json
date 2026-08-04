@@ -1,0 +1,96 @@
+{
+  "id": 76,
+  "name": "solar-beam",
+  "generations": {
+    "1": {
+      "id": 76,
+      "name": "solar-beam",
+      "type": "grass",
+      "power": 200,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "2": {
+      "id": 76,
+      "name": "solar-beam",
+      "type": "grass",
+      "power": 200,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "3": {
+      "id": 76,
+      "name": "solar-beam",
+      "type": "grass",
+      "power": 200,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "4": {
+      "id": 76,
+      "name": "solar-beam",
+      "type": "grass",
+      "power": 200,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "5": {
+      "id": 76,
+      "name": "solar-beam",
+      "type": "grass",
+      "power": 200,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "6": {
+      "id": 76,
+      "name": "solar-beam",
+      "type": "grass",
+      "power": 200,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "7": {
+      "id": 76,
+      "name": "solar-beam",
+      "type": "grass",
+      "power": 200,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "8": {
+      "id": 76,
+      "name": "solar-beam",
+      "type": "grass",
+      "power": 200,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "9": {
+      "id": 76,
+      "name": "solar-beam",
+      "type": "grass",
+      "power": 120,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "special"
+    }
+  }
+}

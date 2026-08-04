@@ -1,0 +1,26 @@
+{
+  "id": 854,
+  "name": "last-respects",
+  "generations": {
+    "8": {
+      "id": 854,
+      "name": "last-respects",
+      "type": "ghost",
+      "power": 50,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "9": {
+      "id": 854,
+      "name": "last-respects",
+      "type": "ghost",
+      "power": 50,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    }
+  }
+}

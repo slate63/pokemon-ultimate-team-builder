@@ -1,0 +1,26 @@
+{
+  "id": 842,
+  "name": "shelter",
+  "generations": {
+    "8": {
+      "id": 842,
+      "name": "shelter",
+      "type": "steel",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "9": {
+      "id": 842,
+      "name": "shelter",
+      "type": "steel",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "status"
+    }
+  }
+}

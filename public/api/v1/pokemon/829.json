@@ -1,0 +1,109 @@
+{
+  "id": 829,
+  "name": "gossifleur",
+  "generations": {
+    "8": {
+      "types": [
+        "grass"
+      ],
+      "stats": {
+        "generation": 8,
+        "number": 829,
+        "hp": 40,
+        "attack": 40,
+        "defense": 60,
+        "special_attack": 40,
+        "special_defense": 60,
+        "speed": 10
+      },
+      "height": 0.4,
+      "weight": 2.2,
+      "moves": [
+        "sing",
+        "leech-seed",
+        "growth",
+        "razor-leaf",
+        "solar-beam",
+        "poison-powder",
+        "stun-spore",
+        "sleep-powder",
+        "light-screen",
+        "rest",
+        "substitute",
+        "snore",
+        "protect",
+        "giga-drain",
+        "endure",
+        "charm",
+        "attract",
+        "sleep-talk",
+        "rapid-spin",
+        "sweet-scent",
+        "synthesis",
+        "sunny-day",
+        "facade",
+        "helping-hand",
+        "hyper-voice",
+        "aromatherapy",
+        "bullet-seed",
+        "magical-leaf",
+        "worry-seed",
+        "energy-ball",
+        "leaf-storm",
+        "grass-knot",
+        "round",
+        "leaf-tornado",
+        "grassy-terrain",
+        "leafage",
+        "pollen-puff",
+        "grassy-glide"
+      ],
+      "abilities": [
+        "cotton-down",
+        "regenerator",
+        "effect-spore"
+      ],
+      "availability": [
+        "sword",
+        "shield",
+        "brilliant-diamond",
+        "shining-pearl"
+      ],
+      "description": "It anchors itself in the ground with its single leg, then basks in the sun. After absorbing enough sunlight, its petals spread as it blooms brilliantly.",
+      "is_legendary": false,
+      "is_mythical": false,
+      "is_fully_evolved": false
+    },
+    "9": {
+      "types": [
+        "grass"
+      ],
+      "stats": {
+        "generation": 9,
+        "number": 829,
+        "hp": 40,
+        "attack": 40,
+        "defense": 60,
+        "special_attack": 40,
+        "special_defense": 60,
+        "speed": 10
+      },
+      "height": 0.4,
+      "weight": 2.2,
+      "moves": [],
+      "abilities": [
+        "cotton-down",
+        "regenerator",
+        "effect-spore"
+      ],
+      "availability": [
+        "scarlet",
+        "violet"
+      ],
+      "description": "It anchors itself in the ground with its single leg, then basks in the sun. After absorbing enough sunlight, its petals spread as it blooms brilliantly.",
+      "is_legendary": false,
+      "is_mythical": false,
+      "is_fully_evolved": false
+    }
+  }
+}

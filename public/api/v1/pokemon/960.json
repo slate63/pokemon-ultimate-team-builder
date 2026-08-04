@@ -1,0 +1,77 @@
+{
+  "id": 960,
+  "name": "wiglett",
+  "generations": {
+    "9": {
+      "types": [
+        "water"
+      ],
+      "stats": {
+        "generation": 9,
+        "number": 960,
+        "hp": 10,
+        "attack": 55,
+        "defense": 25,
+        "special_attack": 35,
+        "special_defense": 25,
+        "speed": 95
+      },
+      "height": 1.2,
+      "weight": 1.8,
+      "moves": [
+        "slam",
+        "sand-attack",
+        "headbutt",
+        "wrap",
+        "take-down",
+        "water-gun",
+        "hydro-pump",
+        "surf",
+        "ice-beam",
+        "blizzard",
+        "dig",
+        "agility",
+        "swift",
+        "rest",
+        "substitute",
+        "protect",
+        "mud-slap",
+        "sandstorm",
+        "endure",
+        "sleep-talk",
+        "rain-dance",
+        "whirlpool",
+        "memento",
+        "facade",
+        "helping-hand",
+        "muddy-water",
+        "mud-shot",
+        "water-pulse",
+        "sucker-punch",
+        "earth-power",
+        "aqua-jet",
+        "foul-play",
+        "final-gambit",
+        "bulldoze",
+        "throat-chop",
+        "stomping-tantrum",
+        "liquidation",
+        "tera-blast",
+        "chilling-water"
+      ],
+      "abilities": [
+        "gooey",
+        "rattled",
+        "sand-veil"
+      ],
+      "availability": [
+        "scarlet",
+        "violet"
+      ],
+      "description": "This Pok\u00e9mon can pick up the scent of a Veluza just over 65 feet away and will hide itself in the sand.",
+      "is_legendary": false,
+      "is_mythical": false,
+      "is_fully_evolved": false
+    }
+  }
+}

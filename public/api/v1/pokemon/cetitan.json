@@ -1,0 +1,84 @@
+{
+  "id": 975,
+  "name": "cetitan",
+  "generations": {
+    "9": {
+      "types": [
+        "ice"
+      ],
+      "stats": {
+        "generation": 9,
+        "number": 975,
+        "hp": 170,
+        "attack": 113,
+        "defense": 65,
+        "special_attack": 45,
+        "special_defense": 55,
+        "speed": 73
+      },
+      "height": 4.5,
+      "weight": 700.0,
+      "moves": [
+        "ice-punch",
+        "tackle",
+        "body-slam",
+        "take-down",
+        "double-edge",
+        "growl",
+        "ice-beam",
+        "blizzard",
+        "hyper-beam",
+        "earthquake",
+        "amnesia",
+        "rest",
+        "substitute",
+        "curse",
+        "flail",
+        "powder-snow",
+        "protect",
+        "icy-wind",
+        "endure",
+        "charm",
+        "sleep-talk",
+        "rain-dance",
+        "facade",
+        "helping-hand",
+        "knock-off",
+        "hyper-voice",
+        "icicle-spear",
+        "bounce",
+        "water-pulse",
+        "giga-impact",
+        "avalanche",
+        "ice-shard",
+        "ice-fang",
+        "heavy-slam",
+        "echoed-voice",
+        "bulldoze",
+        "play-rough",
+        "high-horsepower",
+        "stomping-tantrum",
+        "liquidation",
+        "body-press",
+        "tera-blast",
+        "ice-spinner",
+        "snowscape",
+        "chilling-water",
+        "hard-press"
+      ],
+      "abilities": [
+        "thick-fat",
+        "slush-rush",
+        "sheer-force"
+      ],
+      "availability": [
+        "scarlet",
+        "violet"
+      ],
+      "description": "This Pok\u00e9mon wanders around snowy, icy areas. It protects its body with powerful muscles and a thick layer of fat under its skin.",
+      "is_legendary": false,
+      "is_mythical": false,
+      "is_fully_evolved": false
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": 715,
+  "name": "tearful-look",
+  "generations": {
+    "7": {
+      "id": 715,
+      "name": "tearful-look",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 20,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "8": {
+      "id": 715,
+      "name": "tearful-look",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 20,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "9": {
+      "id": 715,
+      "name": "tearful-look",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 20,
+      "priority": 0,
+      "damage_class": "status"
+    }
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "id": 268,
+  "name": "cascoon",
+  "generations": {
+    "3": {
+      "types": [
+        "bug"
+      ],
+      "stats": {
+        "generation": 3,
+        "number": 268,
+        "hp": 50,
+        "attack": 35,
+        "defense": 55,
+        "special_attack": 25,
+        "special_defense": 25,
+        "speed": 15
+      },
+      "height": 0.7,
+      "weight": 11.5,
+      "moves": [
+        "harden"
+      ],
+      "abilities": [
+        "shed-skin"
+      ],
+      "availability": [
+        "ruby",
+        "sapphire",
+        "emerald"
+      ],
+      "description": "CASCOON makes its protective cocoon by wrapping its body entirely with a fine silk from its mouth. Once the silk goes around its body, it hardens. This POK\u00e9MON prepares for its evolution inside the cocoon.",
+      "is_legendary": false,
+      "is_mythical": false,
+      "is_fully_evolved": false
+    },
+    "4": {
+      "types": [
+        "bug"
+      ],
+      "stats": {
+        "generation": 4,
+        "number": 268,
+        "hp": 50,
+        "attack": 35,
+        "defense": 55,
+        "special_attack": 25,
+        "special_defense": 25,
+        "speed": 15
+      },
+      "height": 0.7,
+      "weight": 11.5,
+      "moves": [
+        "string-shot",
+        "harden",
+        "iron-defense",
+        "bug-bite"
+      ],
+      "abilities": [
+        "shed-skin"
+      ],
+      "availability": [
+        "diamond",
+        "pearl",
+        "platinum"
+      ],
+      "description": "CASCOON makes its protective cocoon by wrapping its body entirely with a fine silk from its mouth. Once the silk goes around its body, it hardens. This POK\u00e9MON prepares for its evolution inside the cocoon.",
+      "is_legendary": false,
+      "is_mythical": false,
+      "is_fully_evolved": false
+    },
+    "5": {
+      "types": [
+        "bug"
+      ],
+      "stats": {
+        "generation": 5,
+        "number": 268,
+        "hp": 50,
+        "attack": 35,
+        "defense": 55,
+        "special_attack": 25,
+        "special_defense": 25,
+        "speed": 15
+      },
+      "height": 0.7,
+      "weight": 11.5,
+      "moves": [
+        "harden",
+        "iron-defense",
+        "bug-bite",
+        "electroweb"
+      ],
+      "abilities": [
+        "shed-skin"
+      ],
+      "availability": [],
+      "description": "CASCOON makes its protective cocoon by wrapping its body entirely with a fine silk from its mouth. Once the silk goes around its body, it hardens. This POK\u00e9MON prepares for its evolution inside the cocoon.",
+      "is_legendary": false,
+      "is_mythical": false,
+      "is_fully_evolved": false
+    },
+    "6": {
+      "types": [
+        "bug"
+      ],
+      "stats": {
+        "generation": 6,
+        "number": 268,
+        "hp": 50,
+        "attack": 35,
+        "defense": 55,
+        "special_attack": 25,
+        "special_defense": 25,
+        "speed": 15
+      },
+      "height": 0.7,
+      "weight": 11.5,
+      "moves": [
+        "harden",
+        "iron-defense",
+        "bug-bite",
+        "electroweb"
+      ],
+      "abilities": [
+        "shed-skin"
+      ],
+      "availability": [
+        "omega-ruby",
+        "alpha-sapphire"
+      ],
+      "description": "CASCOON makes its protective cocoon by wrapping its body entirely with a fine silk from its mouth. Once the silk goes around its body, it hardens. This POK\u00e9MON prepares for its evolution inside the cocoon.",
+      "is_legendary": false,
+      "is_mythical": false,
+      "is_fully_evolved": false
+    },
+    "7": {
+      "types": [
+        "bug"
+      ],
+      "stats": {
+        "generation": 7,
+        "number": 268,
+        "hp": 50,
+        "attack": 35,
+        "defense": 55,
+        "special_attack": 25,
+        "special_defense": 25,
+        "speed": 15
+      },
+      "height": 0.7,
+      "weight": 11.5,
+      "moves": [
+        "harden",
+        "iron-defense",
+        "bug-bite",
+        "electroweb"
+      ],
+      "abilities": [
+        "shed-skin"
+      ],
+      "availability": [],
+      "description": "CASCOON makes its protective cocoon by wrapping its body entirely with a fine silk from its mouth. Once the silk goes around its body, it hardens. This POK\u00e9MON prepares for its evolution inside the cocoon.",
+      "is_legendary": false,
+      "is_mythical": false,
+      "is_fully_evolved": false
+    },
+    "8": {
+      "types": [
+        "bug"
+      ],
+      "stats": {
+        "generation": 8,
+        "number": 268,
+        "hp": 50,
+        "attack": 35,
+        "defense": 55,
+        "special_attack": 25,
+        "special_defense": 25,
+        "speed": 15
+      },
+      "height": 0.7,
+      "weight": 11.5,
+      "moves": [
+        "tackle",
+        "poison-sting",
+        "harden",
+        "iron-defense"
+      ],
+      "abilities": [
+        "shed-skin"
+      ],
+      "availability": [
+        "sword",
+        "shield",
+        "brilliant-diamond",
+        "shining-pearl",
+        "legends-arceus"
+      ],
+      "description": "CASCOON makes its protective cocoon by wrapping its body entirely with a fine silk from its mouth. Once the silk goes around its body, it hardens. This POK\u00e9MON prepares for its evolution inside the cocoon.",
+      "is_legendary": false,
+      "is_mythical": false,
+      "is_fully_evolved": false
+    },
+    "9": {
+      "types": [
+        "bug"
+      ],
+      "stats": {
+        "generation": 9,
+        "number": 268,
+        "hp": 50,
+        "attack": 35,
+        "defense": 55,
+        "special_attack": 25,
+        "special_defense": 25,
+        "speed": 15
+      },
+      "height": 0.7,
+      "weight": 11.5,
+      "moves": [],
+      "abilities": [
+        "shed-skin"
+      ],
+      "availability": [
+        "scarlet",
+        "violet"
+      ],
+      "description": "CASCOON makes its protective cocoon by wrapping its body entirely with a fine silk from its mouth. Once the silk goes around its body, it hardens. This POK\u00e9MON prepares for its evolution inside the cocoon.",
+      "is_legendary": false,
+      "is_mythical": false,
+      "is_fully_evolved": false
+    }
+  }
+}

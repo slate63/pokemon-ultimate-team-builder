@@ -1,0 +1,46 @@
+{
+  "id": 672,
+  "name": "toxic-thread",
+  "generations": {
+    "6": {
+      "id": 672,
+      "name": "toxic-thread",
+      "type": "poison",
+      "power": 0,
+      "accuracy": 100,
+      "pp": 20,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "7": {
+      "id": 672,
+      "name": "toxic-thread",
+      "type": "poison",
+      "power": 0,
+      "accuracy": 100,
+      "pp": 20,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "8": {
+      "id": 672,
+      "name": "toxic-thread",
+      "type": "poison",
+      "power": 0,
+      "accuracy": 100,
+      "pp": 20,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "9": {
+      "id": 672,
+      "name": "toxic-thread",
+      "type": "poison",
+      "power": 0,
+      "accuracy": 100,
+      "pp": 20,
+      "priority": 0,
+      "damage_class": "status"
+    }
+  }
+}

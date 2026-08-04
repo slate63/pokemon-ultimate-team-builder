@@ -1,0 +1,16 @@
+{
+  "id": 891,
+  "name": "bitter-blade",
+  "generations": {
+    "9": {
+      "id": 891,
+      "name": "bitter-blade",
+      "type": "fire",
+      "power": 90,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    }
+  }
+}

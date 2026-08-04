@@ -1,0 +1,26 @@
+{
+  "id": 863,
+  "name": "revival-blessing",
+  "generations": {
+    "8": {
+      "id": 863,
+      "name": "revival-blessing",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 1,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "9": {
+      "id": 863,
+      "name": "revival-blessing",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 1,
+      "priority": 0,
+      "damage_class": "status"
+    }
+  }
+}

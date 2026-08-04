@@ -1,0 +1,86 @@
+{
+  "id": 206,
+  "name": "false-swipe",
+  "generations": {
+    "2": {
+      "id": 206,
+      "name": "false-swipe",
+      "type": "normal",
+      "power": 40,
+      "accuracy": 100,
+      "pp": 40,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "3": {
+      "id": 206,
+      "name": "false-swipe",
+      "type": "normal",
+      "power": 40,
+      "accuracy": 100,
+      "pp": 40,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "4": {
+      "id": 206,
+      "name": "false-swipe",
+      "type": "normal",
+      "power": 40,
+      "accuracy": 100,
+      "pp": 40,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "5": {
+      "id": 206,
+      "name": "false-swipe",
+      "type": "normal",
+      "power": 40,
+      "accuracy": 100,
+      "pp": 40,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "6": {
+      "id": 206,
+      "name": "false-swipe",
+      "type": "normal",
+      "power": 40,
+      "accuracy": 100,
+      "pp": 40,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "7": {
+      "id": 206,
+      "name": "false-swipe",
+      "type": "normal",
+      "power": 40,
+      "accuracy": 100,
+      "pp": 40,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "8": {
+      "id": 206,
+      "name": "false-swipe",
+      "type": "normal",
+      "power": 40,
+      "accuracy": 100,
+      "pp": 40,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "9": {
+      "id": 206,
+      "name": "false-swipe",
+      "type": "normal",
+      "power": 40,
+      "accuracy": 100,
+      "pp": 40,
+      "priority": 0,
+      "damage_class": "physical"
+    }
+  }
+}

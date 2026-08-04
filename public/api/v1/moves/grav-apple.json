@@ -1,0 +1,26 @@
+{
+  "id": 788,
+  "name": "grav-apple",
+  "generations": {
+    "8": {
+      "id": 788,
+      "name": "grav-apple",
+      "type": "grass",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "9": {
+      "id": 788,
+      "name": "grav-apple",
+      "type": "grass",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "id": 335,
+  "name": "block",
+  "generations": {
+    "3": {
+      "id": 335,
+      "name": "block",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "4": {
+      "id": 335,
+      "name": "block",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "5": {
+      "id": 335,
+      "name": "block",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "6": {
+      "id": 335,
+      "name": "block",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "7": {
+      "id": 335,
+      "name": "block",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "8": {
+      "id": 335,
+      "name": "block",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "9": {
+      "id": 335,
+      "name": "block",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "status"
+    }
+  }
+}

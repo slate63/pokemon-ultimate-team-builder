@@ -1,0 +1,46 @@
+{
+  "id": 587,
+  "name": "fairy-lock",
+  "generations": {
+    "6": {
+      "id": 587,
+      "name": "fairy-lock",
+      "type": "fairy",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "7": {
+      "id": 587,
+      "name": "fairy-lock",
+      "type": "fairy",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "8": {
+      "id": 587,
+      "name": "fairy-lock",
+      "type": "fairy",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "9": {
+      "id": 587,
+      "name": "fairy-lock",
+      "type": "fairy",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "status"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 899,
+  "name": "combat-torque",
+  "generations": {
+    "9": {
+      "id": 899,
+      "name": "combat-torque",
+      "type": "fighting",
+      "power": 100,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    }
+  }
+}

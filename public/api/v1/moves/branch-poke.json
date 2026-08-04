@@ -1,0 +1,26 @@
+{
+  "id": 785,
+  "name": "branch-poke",
+  "generations": {
+    "8": {
+      "id": 785,
+      "name": "branch-poke",
+      "type": "grass",
+      "power": 40,
+      "accuracy": 100,
+      "pp": 40,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "9": {
+      "id": 785,
+      "name": "branch-poke",
+      "type": "grass",
+      "power": 40,
+      "accuracy": 100,
+      "pp": 40,
+      "priority": 0,
+      "damage_class": "physical"
+    }
+  }
+}

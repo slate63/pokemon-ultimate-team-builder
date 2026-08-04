@@ -1,0 +1,66 @@
+{
+  "id": 382,
+  "name": "me-first",
+  "generations": {
+    "4": {
+      "id": 382,
+      "name": "me-first",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 20,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "5": {
+      "id": 382,
+      "name": "me-first",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 20,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "6": {
+      "id": 382,
+      "name": "me-first",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 20,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "7": {
+      "id": 382,
+      "name": "me-first",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 20,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "8": {
+      "id": 382,
+      "name": "me-first",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 20,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "9": {
+      "id": 382,
+      "name": "me-first",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 20,
+      "priority": 0,
+      "damage_class": "status"
+    }
+  }
+}

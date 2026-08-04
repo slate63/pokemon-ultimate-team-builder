@@ -1,0 +1,202 @@
+[
+  {
+    "id": "hardy",
+    "name": "Hardy",
+    "increasedStat": null,
+    "decreasedStat": null,
+    "increasedStatName": null,
+    "decreasedStatName": null
+  },
+  {
+    "id": "lonely",
+    "name": "Lonely",
+    "increasedStat": "attack",
+    "decreasedStat": "defense",
+    "increasedStatName": "Attack",
+    "decreasedStatName": "Defense"
+  },
+  {
+    "id": "brave",
+    "name": "Brave",
+    "increasedStat": "attack",
+    "decreasedStat": "speed",
+    "increasedStatName": "Attack",
+    "decreasedStatName": "Speed"
+  },
+  {
+    "id": "adamant",
+    "name": "Adamant",
+    "increasedStat": "attack",
+    "decreasedStat": "special_attack",
+    "increasedStatName": "Attack",
+    "decreasedStatName": "Sp. Atk"
+  },
+  {
+    "id": "naughty",
+    "name": "Naughty",
+    "increasedStat": "attack",
+    "decreasedStat": "special_defense",
+    "increasedStatName": "Attack",
+    "decreasedStatName": "Sp. Def"
+  },
+  {
+    "id": "bold",
+    "name": "Bold",
+    "increasedStat": "defense",
+    "decreasedStat": "attack",
+    "increasedStatName": "Defense",
+    "decreasedStatName": "Attack"
+  },
+  {
+    "id": "docile",
+    "name": "Docile",
+    "increasedStat": null,
+    "decreasedStat": null,
+    "increasedStatName": null,
+    "decreasedStatName": null
+  },
+  {
+    "id": "relaxed",
+    "name": "Relaxed",
+    "increasedStat": "defense",
+    "decreasedStat": "speed",
+    "increasedStatName": "Defense",
+    "decreasedStatName": "Speed"
+  },
+  {
+    "id": "impish",
+    "name": "Impish",
+    "increasedStat": "defense",
+    "decreasedStat": "special_attack",
+    "increasedStatName": "Defense",
+    "decreasedStatName": "Sp. Atk"
+  },
+  {
+    "id": "lax",
+    "name": "Lax",
+    "increasedStat": "defense",
+    "decreasedStat": "special_defense",
+    "increasedStatName": "Defense",
+    "decreasedStatName": "Sp. Def"
+  },
+  {
+    "id": "timid",
+    "name": "Timid",
+    "increasedStat": "speed",
+    "decreasedStat": "attack",
+    "increasedStatName": "Speed",
+    "decreasedStatName": "Attack"
+  },
+  {
+    "id": "hasty",
+    "name": "Hasty",
+    "increasedStat": "speed",
+    "decreasedStat": "defense",
+    "increasedStatName": "Speed",
+    "decreasedStatName": "Defense"
+  },
+  {
+    "id": "serious",
+    "name": "Serious",
+    "increasedStat": null,
+    "decreasedStat": null,
+    "increasedStatName": null,
+    "decreasedStatName": null
+  },
+  {
+    "id": "jolly",
+    "name": "Jolly",
+    "increasedStat": "speed",
+    "decreasedStat": "special_attack",
+    "increasedStatName": "Speed",
+    "decreasedStatName": "Sp. Atk"
+  },
+  {
+    "id": "naive",
+    "name": "Naive",
+    "increasedStat": "speed",
+    "decreasedStat": "special_defense",
+    "increasedStatName": "Speed",
+    "decreasedStatName": "Sp. Def"
+  },
+  {
+    "id": "modest",
+    "name": "Modest",
+    "increasedStat": "special_attack",
+    "decreasedStat": "attack",
+    "increasedStatName": "Sp. Atk",
+    "decreasedStatName": "Attack"
+  },
+  {
+    "id": "mild",
+    "name": "Mild",
+    "increasedStat": "special_attack",
+    "decreasedStat": "defense",
+    "increasedStatName": "Sp. Atk",
+    "decreasedStatName": "Defense"
+  },
+  {
+    "id": "quiet",
+    "name": "Quiet",
+    "increasedStat": "special_attack",
+    "decreasedStat": "speed",
+    "increasedStatName": "Sp. Atk",
+    "decreasedStatName": "Speed"
+  },
+  {
+    "id": "bashful",
+    "name": "Bashful",
+    "increasedStat": null,
+    "decreasedStat": null,
+    "increasedStatName": null,
+    "decreasedStatName": null
+  },
+  {
+    "id": "rash",
+    "name": "Rash",
+    "increasedStat": "special_attack",
+    "decreasedStat": "special_defense",
+    "increasedStatName": "Sp. Atk",
+    "decreasedStatName": "Sp. Def"
+  },
+  {
+    "id": "calm",
+    "name": "Calm",
+    "increasedStat": "special_defense",
+    "decreasedStat": "attack",
+    "increasedStatName": "Sp. Def",
+    "decreasedStatName": "Attack"
+  },
+  {
+    "id": "gentle",
+    "name": "Gentle",
+    "increasedStat": "special_defense",
+    "decreasedStat": "defense",
+    "increasedStatName": "Sp. Def",
+    "decreasedStatName": "Defense"
+  },
+  {
+    "id": "sassy",
+    "name": "Sassy",
+    "increasedStat": "special_defense",
+    "decreasedStat": "speed",
+    "increasedStatName": "Sp. Def",
+    "decreasedStatName": "Speed"
+  },
+  {
+    "id": "careful",
+    "name": "Careful",
+    "increasedStat": "special_defense",
+    "decreasedStat": "special_attack",
+    "increasedStatName": "Sp. Def",
+    "decreasedStatName": "Sp. Atk"
+  },
+  {
+    "id": "quirky",
+    "name": "Quirky",
+    "increasedStat": null,
+    "decreasedStat": null,
+    "increasedStatName": null,
+    "decreasedStatName": null
+  }
+]

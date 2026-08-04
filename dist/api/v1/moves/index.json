@@ -1,0 +1,9192 @@
+[
+  {
+    "id": 1,
+    "name": "pound",
+    "type": "normal",
+    "power": 40,
+    "accuracy": 100,
+    "pp": 35,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 2,
+    "name": "karate-chop",
+    "type": "fighting",
+    "power": 50,
+    "accuracy": 100,
+    "pp": 25,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 3,
+    "name": "double-slap",
+    "type": "normal",
+    "power": 15,
+    "accuracy": 85,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 4,
+    "name": "comet-punch",
+    "type": "normal",
+    "power": 18,
+    "accuracy": 85,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 5,
+    "name": "mega-punch",
+    "type": "normal",
+    "power": 80,
+    "accuracy": 85,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 6,
+    "name": "pay-day",
+    "type": "normal",
+    "power": 40,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 7,
+    "name": "fire-punch",
+    "type": "fire",
+    "power": 75,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 8,
+    "name": "ice-punch",
+    "type": "ice",
+    "power": 75,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 9,
+    "name": "thunder-punch",
+    "type": "electric",
+    "power": 75,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 10,
+    "name": "scratch",
+    "type": "normal",
+    "power": 40,
+    "accuracy": 100,
+    "pp": 35,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 11,
+    "name": "vice-grip",
+    "type": "normal",
+    "power": 55,
+    "accuracy": 100,
+    "pp": 30,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 12,
+    "name": "guillotine",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 30,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 13,
+    "name": "razor-wind",
+    "type": "normal",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 14,
+    "name": "swords-dance",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 15,
+    "name": "cut",
+    "type": "normal",
+    "power": 50,
+    "accuracy": 95,
+    "pp": 30,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 16,
+    "name": "gust",
+    "type": "flying",
+    "power": 40,
+    "accuracy": 100,
+    "pp": 35,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 17,
+    "name": "wing-attack",
+    "type": "flying",
+    "power": 60,
+    "accuracy": 100,
+    "pp": 35,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 18,
+    "name": "whirlwind",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 20,
+    "priority": -6,
+    "damage_class": "status"
+  },
+  {
+    "id": 19,
+    "name": "fly",
+    "type": "flying",
+    "power": 90,
+    "accuracy": 95,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 20,
+    "name": "bind",
+    "type": "normal",
+    "power": 15,
+    "accuracy": 85,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 21,
+    "name": "slam",
+    "type": "normal",
+    "power": 80,
+    "accuracy": 75,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 22,
+    "name": "vine-whip",
+    "type": "grass",
+    "power": 45,
+    "accuracy": 100,
+    "pp": 25,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 23,
+    "name": "stomp",
+    "type": "normal",
+    "power": 65,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 24,
+    "name": "double-kick",
+    "type": "fighting",
+    "power": 30,
+    "accuracy": 100,
+    "pp": 30,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 25,
+    "name": "mega-kick",
+    "type": "normal",
+    "power": 120,
+    "accuracy": 75,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 26,
+    "name": "jump-kick",
+    "type": "fighting",
+    "power": 100,
+    "accuracy": 95,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 27,
+    "name": "rolling-kick",
+    "type": "fighting",
+    "power": 60,
+    "accuracy": 85,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 28,
+    "name": "sand-attack",
+    "type": "ground",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 29,
+    "name": "headbutt",
+    "type": "normal",
+    "power": 70,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 30,
+    "name": "horn-attack",
+    "type": "normal",
+    "power": 65,
+    "accuracy": 100,
+    "pp": 25,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 31,
+    "name": "fury-attack",
+    "type": "normal",
+    "power": 15,
+    "accuracy": 85,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 32,
+    "name": "horn-drill",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 30,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 33,
+    "name": "tackle",
+    "type": "normal",
+    "power": 40,
+    "accuracy": 100,
+    "pp": 35,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 34,
+    "name": "body-slam",
+    "type": "normal",
+    "power": 85,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 35,
+    "name": "wrap",
+    "type": "normal",
+    "power": 15,
+    "accuracy": 90,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 36,
+    "name": "take-down",
+    "type": "normal",
+    "power": 90,
+    "accuracy": 85,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 37,
+    "name": "thrash",
+    "type": "normal",
+    "power": 120,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 38,
+    "name": "double-edge",
+    "type": "normal",
+    "power": 120,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 39,
+    "name": "tail-whip",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 30,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 40,
+    "name": "poison-sting",
+    "type": "poison",
+    "power": 15,
+    "accuracy": 100,
+    "pp": 35,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 41,
+    "name": "twineedle",
+    "type": "bug",
+    "power": 25,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 42,
+    "name": "pin-missile",
+    "type": "bug",
+    "power": 25,
+    "accuracy": 95,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 43,
+    "name": "leer",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 30,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 44,
+    "name": "bite",
+    "type": "dark",
+    "power": 60,
+    "accuracy": 100,
+    "pp": 25,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 45,
+    "name": "growl",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 40,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 46,
+    "name": "roar",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 20,
+    "priority": -6,
+    "damage_class": "status"
+  },
+  {
+    "id": 47,
+    "name": "sing",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 55,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 48,
+    "name": "supersonic",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 55,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 49,
+    "name": "sonic-boom",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 90,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 50,
+    "name": "disable",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 51,
+    "name": "acid",
+    "type": "poison",
+    "power": 40,
+    "accuracy": 100,
+    "pp": 30,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 52,
+    "name": "ember",
+    "type": "fire",
+    "power": 40,
+    "accuracy": 100,
+    "pp": 25,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 53,
+    "name": "flamethrower",
+    "type": "fire",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 54,
+    "name": "mist",
+    "type": "ice",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 30,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 55,
+    "name": "water-gun",
+    "type": "water",
+    "power": 40,
+    "accuracy": 100,
+    "pp": 25,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 56,
+    "name": "hydro-pump",
+    "type": "water",
+    "power": 110,
+    "accuracy": 80,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 57,
+    "name": "surf",
+    "type": "water",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 58,
+    "name": "ice-beam",
+    "type": "ice",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 59,
+    "name": "blizzard",
+    "type": "ice",
+    "power": 110,
+    "accuracy": 70,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 60,
+    "name": "psybeam",
+    "type": "psychic",
+    "power": 65,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 61,
+    "name": "bubble-beam",
+    "type": "water",
+    "power": 65,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 62,
+    "name": "aurora-beam",
+    "type": "ice",
+    "power": 65,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 63,
+    "name": "hyper-beam",
+    "type": "normal",
+    "power": 150,
+    "accuracy": 90,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 64,
+    "name": "peck",
+    "type": "flying",
+    "power": 35,
+    "accuracy": 100,
+    "pp": 35,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 65,
+    "name": "drill-peck",
+    "type": "flying",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 66,
+    "name": "submission",
+    "type": "fighting",
+    "power": 80,
+    "accuracy": 80,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 67,
+    "name": "low-kick",
+    "type": "fighting",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 68,
+    "name": "counter",
+    "type": "fighting",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": -5,
+    "damage_class": "physical"
+  },
+  {
+    "id": 69,
+    "name": "seismic-toss",
+    "type": "fighting",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 70,
+    "name": "strength",
+    "type": "normal",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 71,
+    "name": "absorb",
+    "type": "grass",
+    "power": 20,
+    "accuracy": 100,
+    "pp": 25,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 72,
+    "name": "mega-drain",
+    "type": "grass",
+    "power": 40,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 73,
+    "name": "leech-seed",
+    "type": "grass",
+    "power": 0,
+    "accuracy": 90,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 74,
+    "name": "growth",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 75,
+    "name": "razor-leaf",
+    "type": "grass",
+    "power": 55,
+    "accuracy": 95,
+    "pp": 25,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 76,
+    "name": "solar-beam",
+    "type": "grass",
+    "power": 120,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 77,
+    "name": "poison-powder",
+    "type": "poison",
+    "power": 0,
+    "accuracy": 75,
+    "pp": 35,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 78,
+    "name": "stun-spore",
+    "type": "grass",
+    "power": 0,
+    "accuracy": 75,
+    "pp": 30,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 79,
+    "name": "sleep-powder",
+    "type": "grass",
+    "power": 0,
+    "accuracy": 75,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 80,
+    "name": "petal-dance",
+    "type": "grass",
+    "power": 120,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 81,
+    "name": "string-shot",
+    "type": "bug",
+    "power": 0,
+    "accuracy": 95,
+    "pp": 40,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 82,
+    "name": "dragon-rage",
+    "type": "dragon",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 83,
+    "name": "fire-spin",
+    "type": "fire",
+    "power": 35,
+    "accuracy": 85,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 84,
+    "name": "thunder-shock",
+    "type": "electric",
+    "power": 40,
+    "accuracy": 100,
+    "pp": 30,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 85,
+    "name": "thunderbolt",
+    "type": "electric",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 86,
+    "name": "thunder-wave",
+    "type": "electric",
+    "power": 0,
+    "accuracy": 90,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 87,
+    "name": "thunder",
+    "type": "electric",
+    "power": 110,
+    "accuracy": 70,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 88,
+    "name": "rock-throw",
+    "type": "rock",
+    "power": 50,
+    "accuracy": 90,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 89,
+    "name": "earthquake",
+    "type": "ground",
+    "power": 100,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 90,
+    "name": "fissure",
+    "type": "ground",
+    "power": 0,
+    "accuracy": 30,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 91,
+    "name": "dig",
+    "type": "ground",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 92,
+    "name": "toxic",
+    "type": "poison",
+    "power": 0,
+    "accuracy": 90,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 93,
+    "name": "confusion",
+    "type": "psychic",
+    "power": 50,
+    "accuracy": 100,
+    "pp": 25,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 94,
+    "name": "psychic",
+    "type": "psychic",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 95,
+    "name": "hypnosis",
+    "type": "psychic",
+    "power": 0,
+    "accuracy": 60,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 96,
+    "name": "meditate",
+    "type": "psychic",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 40,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 97,
+    "name": "agility",
+    "type": "psychic",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 30,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 98,
+    "name": "quick-attack",
+    "type": "normal",
+    "power": 40,
+    "accuracy": 100,
+    "pp": 30,
+    "priority": 1,
+    "damage_class": "physical"
+  },
+  {
+    "id": 99,
+    "name": "rage",
+    "type": "normal",
+    "power": 20,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 100,
+    "name": "teleport",
+    "type": "psychic",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 20,
+    "priority": -6,
+    "damage_class": "status"
+  },
+  {
+    "id": 101,
+    "name": "night-shade",
+    "type": "ghost",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 102,
+    "name": "mimic",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 103,
+    "name": "screech",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 85,
+    "pp": 40,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 104,
+    "name": "double-team",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 105,
+    "name": "recover",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 106,
+    "name": "harden",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 30,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 107,
+    "name": "minimize",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 108,
+    "name": "smokescreen",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 109,
+    "name": "confuse-ray",
+    "type": "ghost",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 110,
+    "name": "withdraw",
+    "type": "water",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 40,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 111,
+    "name": "defense-curl",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 40,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 112,
+    "name": "barrier",
+    "type": "psychic",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 113,
+    "name": "light-screen",
+    "type": "psychic",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 30,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 114,
+    "name": "haze",
+    "type": "ice",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 30,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 115,
+    "name": "reflect",
+    "type": "psychic",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 116,
+    "name": "focus-energy",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 30,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 117,
+    "name": "bide",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 10,
+    "priority": 1,
+    "damage_class": "physical"
+  },
+  {
+    "id": 118,
+    "name": "metronome",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 119,
+    "name": "mirror-move",
+    "type": "flying",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 120,
+    "name": "self-destruct",
+    "type": "normal",
+    "power": 200,
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 121,
+    "name": "egg-bomb",
+    "type": "normal",
+    "power": 100,
+    "accuracy": 75,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 122,
+    "name": "lick",
+    "type": "ghost",
+    "power": 30,
+    "accuracy": 100,
+    "pp": 30,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 123,
+    "name": "smog",
+    "type": "poison",
+    "power": 30,
+    "accuracy": 70,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 124,
+    "name": "sludge",
+    "type": "poison",
+    "power": 65,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 125,
+    "name": "bone-club",
+    "type": "ground",
+    "power": 65,
+    "accuracy": 85,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 126,
+    "name": "fire-blast",
+    "type": "fire",
+    "power": 110,
+    "accuracy": 85,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 127,
+    "name": "waterfall",
+    "type": "water",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 128,
+    "name": "clamp",
+    "type": "water",
+    "power": 35,
+    "accuracy": 85,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 129,
+    "name": "swift",
+    "type": "normal",
+    "power": 60,
+    "accuracy": 0,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 130,
+    "name": "skull-bash",
+    "type": "normal",
+    "power": 130,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 131,
+    "name": "spike-cannon",
+    "type": "normal",
+    "power": 20,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 132,
+    "name": "constrict",
+    "type": "normal",
+    "power": 10,
+    "accuracy": 100,
+    "pp": 35,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 133,
+    "name": "amnesia",
+    "type": "psychic",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 134,
+    "name": "kinesis",
+    "type": "psychic",
+    "power": 0,
+    "accuracy": 80,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 135,
+    "name": "soft-boiled",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 136,
+    "name": "high-jump-kick",
+    "type": "fighting",
+    "power": 130,
+    "accuracy": 90,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 137,
+    "name": "glare",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 30,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 138,
+    "name": "dream-eater",
+    "type": "psychic",
+    "power": 100,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 139,
+    "name": "poison-gas",
+    "type": "poison",
+    "power": 0,
+    "accuracy": 90,
+    "pp": 40,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 140,
+    "name": "barrage",
+    "type": "normal",
+    "power": 15,
+    "accuracy": 85,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 141,
+    "name": "leech-life",
+    "type": "bug",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 142,
+    "name": "lovely-kiss",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 75,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 143,
+    "name": "sky-attack",
+    "type": "flying",
+    "power": 140,
+    "accuracy": 90,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 144,
+    "name": "transform",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 145,
+    "name": "bubble",
+    "type": "water",
+    "power": 40,
+    "accuracy": 100,
+    "pp": 30,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 146,
+    "name": "dizzy-punch",
+    "type": "normal",
+    "power": 70,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 147,
+    "name": "spore",
+    "type": "grass",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 148,
+    "name": "flash",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 149,
+    "name": "psywave",
+    "type": "psychic",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 150,
+    "name": "splash",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 40,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 151,
+    "name": "acid-armor",
+    "type": "poison",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 152,
+    "name": "crabhammer",
+    "type": "water",
+    "power": 100,
+    "accuracy": 90,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 153,
+    "name": "explosion",
+    "type": "normal",
+    "power": 250,
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 154,
+    "name": "fury-swipes",
+    "type": "normal",
+    "power": 18,
+    "accuracy": 80,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 155,
+    "name": "bonemerang",
+    "type": "ground",
+    "power": 50,
+    "accuracy": 90,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 156,
+    "name": "rest",
+    "type": "psychic",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 157,
+    "name": "rock-slide",
+    "type": "rock",
+    "power": 75,
+    "accuracy": 90,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 158,
+    "name": "hyper-fang",
+    "type": "normal",
+    "power": 80,
+    "accuracy": 90,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 159,
+    "name": "sharpen",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 30,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 160,
+    "name": "conversion",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 30,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 161,
+    "name": "tri-attack",
+    "type": "normal",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 162,
+    "name": "super-fang",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 90,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 163,
+    "name": "slash",
+    "type": "normal",
+    "power": 70,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 164,
+    "name": "substitute",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 165,
+    "name": "struggle",
+    "type": "normal",
+    "power": 50,
+    "accuracy": 0,
+    "pp": 1,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 166,
+    "name": "sketch",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 1,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 167,
+    "name": "triple-kick",
+    "type": "fighting",
+    "power": 10,
+    "accuracy": 90,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 168,
+    "name": "thief",
+    "type": "dark",
+    "power": 60,
+    "accuracy": 100,
+    "pp": 25,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 169,
+    "name": "spider-web",
+    "type": "bug",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 170,
+    "name": "mind-reader",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 171,
+    "name": "nightmare",
+    "type": "ghost",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 172,
+    "name": "flame-wheel",
+    "type": "fire",
+    "power": 60,
+    "accuracy": 100,
+    "pp": 25,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 173,
+    "name": "snore",
+    "type": "normal",
+    "power": 50,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 174,
+    "name": "curse",
+    "type": "ghost",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 175,
+    "name": "flail",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 176,
+    "name": "conversion-2",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 30,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 177,
+    "name": "aeroblast",
+    "type": "flying",
+    "power": 100,
+    "accuracy": 95,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 178,
+    "name": "cotton-spore",
+    "type": "grass",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 40,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 179,
+    "name": "reversal",
+    "type": "fighting",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 180,
+    "name": "spite",
+    "type": "ghost",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 181,
+    "name": "powder-snow",
+    "type": "ice",
+    "power": 40,
+    "accuracy": 100,
+    "pp": 25,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 182,
+    "name": "protect",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 10,
+    "priority": 4,
+    "damage_class": "status"
+  },
+  {
+    "id": 183,
+    "name": "mach-punch",
+    "type": "fighting",
+    "power": 40,
+    "accuracy": 100,
+    "pp": 30,
+    "priority": 1,
+    "damage_class": "physical"
+  },
+  {
+    "id": 184,
+    "name": "scary-face",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 185,
+    "name": "feint-attack",
+    "type": "dark",
+    "power": 60,
+    "accuracy": 0,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 186,
+    "name": "sweet-kiss",
+    "type": "fairy",
+    "power": 0,
+    "accuracy": 75,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 187,
+    "name": "belly-drum",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 188,
+    "name": "sludge-bomb",
+    "type": "poison",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 189,
+    "name": "mud-slap",
+    "type": "ground",
+    "power": 20,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 190,
+    "name": "octazooka",
+    "type": "water",
+    "power": 65,
+    "accuracy": 85,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 191,
+    "name": "spikes",
+    "type": "ground",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 192,
+    "name": "zap-cannon",
+    "type": "electric",
+    "power": 120,
+    "accuracy": 50,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 193,
+    "name": "foresight",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 40,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 194,
+    "name": "destiny-bond",
+    "type": "ghost",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 195,
+    "name": "perish-song",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 196,
+    "name": "icy-wind",
+    "type": "ice",
+    "power": 55,
+    "accuracy": 95,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 197,
+    "name": "detect",
+    "type": "fighting",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 5,
+    "priority": 4,
+    "damage_class": "status"
+  },
+  {
+    "id": 198,
+    "name": "bone-rush",
+    "type": "ground",
+    "power": 25,
+    "accuracy": 90,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 199,
+    "name": "lock-on",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 200,
+    "name": "outrage",
+    "type": "dragon",
+    "power": 120,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 201,
+    "name": "sandstorm",
+    "type": "rock",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 202,
+    "name": "giga-drain",
+    "type": "grass",
+    "power": 75,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 203,
+    "name": "endure",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 10,
+    "priority": 4,
+    "damage_class": "status"
+  },
+  {
+    "id": 204,
+    "name": "charm",
+    "type": "fairy",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 205,
+    "name": "rollout",
+    "type": "rock",
+    "power": 30,
+    "accuracy": 90,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 206,
+    "name": "false-swipe",
+    "type": "normal",
+    "power": 40,
+    "accuracy": 100,
+    "pp": 40,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 207,
+    "name": "swagger",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 85,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 208,
+    "name": "milk-drink",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 209,
+    "name": "spark",
+    "type": "electric",
+    "power": 65,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 210,
+    "name": "fury-cutter",
+    "type": "bug",
+    "power": 40,
+    "accuracy": 95,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 211,
+    "name": "steel-wing",
+    "type": "steel",
+    "power": 70,
+    "accuracy": 90,
+    "pp": 25,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 212,
+    "name": "mean-look",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 213,
+    "name": "attract",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 214,
+    "name": "sleep-talk",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 215,
+    "name": "heal-bell",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 216,
+    "name": "return",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 217,
+    "name": "present",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 90,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 218,
+    "name": "frustration",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 219,
+    "name": "safeguard",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 25,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 220,
+    "name": "pain-split",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 221,
+    "name": "sacred-fire",
+    "type": "fire",
+    "power": 100,
+    "accuracy": 95,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 222,
+    "name": "magnitude",
+    "type": "ground",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 30,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 223,
+    "name": "dynamic-punch",
+    "type": "fighting",
+    "power": 100,
+    "accuracy": 50,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 224,
+    "name": "megahorn",
+    "type": "bug",
+    "power": 120,
+    "accuracy": 85,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 225,
+    "name": "dragon-breath",
+    "type": "dragon",
+    "power": 60,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 226,
+    "name": "baton-pass",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 40,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 227,
+    "name": "encore",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 228,
+    "name": "pursuit",
+    "type": "dark",
+    "power": 40,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 229,
+    "name": "rapid-spin",
+    "type": "normal",
+    "power": 50,
+    "accuracy": 100,
+    "pp": 40,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 230,
+    "name": "sweet-scent",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 231,
+    "name": "iron-tail",
+    "type": "steel",
+    "power": 100,
+    "accuracy": 75,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 232,
+    "name": "metal-claw",
+    "type": "steel",
+    "power": 50,
+    "accuracy": 95,
+    "pp": 35,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 233,
+    "name": "vital-throw",
+    "type": "fighting",
+    "power": 70,
+    "accuracy": 0,
+    "pp": 10,
+    "priority": -1,
+    "damage_class": "physical"
+  },
+  {
+    "id": 234,
+    "name": "morning-sun",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 235,
+    "name": "synthesis",
+    "type": "grass",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 236,
+    "name": "moonlight",
+    "type": "fairy",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 237,
+    "name": "hidden-power",
+    "type": "normal",
+    "power": 60,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 238,
+    "name": "cross-chop",
+    "type": "fighting",
+    "power": 100,
+    "accuracy": 80,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 239,
+    "name": "twister",
+    "type": "dragon",
+    "power": 40,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 240,
+    "name": "rain-dance",
+    "type": "water",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 241,
+    "name": "sunny-day",
+    "type": "fire",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 242,
+    "name": "crunch",
+    "type": "dark",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 243,
+    "name": "mirror-coat",
+    "type": "psychic",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": -5,
+    "damage_class": "special"
+  },
+  {
+    "id": 244,
+    "name": "psych-up",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 245,
+    "name": "extreme-speed",
+    "type": "normal",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 2,
+    "damage_class": "physical"
+  },
+  {
+    "id": 246,
+    "name": "ancient-power",
+    "type": "rock",
+    "power": 60,
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 247,
+    "name": "shadow-ball",
+    "type": "ghost",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 248,
+    "name": "future-sight",
+    "type": "psychic",
+    "power": 120,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 249,
+    "name": "rock-smash",
+    "type": "fighting",
+    "power": 40,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 250,
+    "name": "whirlpool",
+    "type": "water",
+    "power": 35,
+    "accuracy": 85,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 251,
+    "name": "beat-up",
+    "type": "dark",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 252,
+    "name": "fake-out",
+    "type": "normal",
+    "power": 40,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 3,
+    "damage_class": "physical"
+  },
+  {
+    "id": 253,
+    "name": "uproar",
+    "type": "normal",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 254,
+    "name": "stockpile",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 255,
+    "name": "spit-up",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 256,
+    "name": "swallow",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 257,
+    "name": "heat-wave",
+    "type": "fire",
+    "power": 95,
+    "accuracy": 90,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 258,
+    "name": "hail",
+    "type": "ice",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 259,
+    "name": "torment",
+    "type": "dark",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 260,
+    "name": "flatter",
+    "type": "dark",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 261,
+    "name": "will-o-wisp",
+    "type": "fire",
+    "power": 0,
+    "accuracy": 85,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 262,
+    "name": "memento",
+    "type": "dark",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 263,
+    "name": "facade",
+    "type": "normal",
+    "power": 70,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 264,
+    "name": "focus-punch",
+    "type": "fighting",
+    "power": 150,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": -3,
+    "damage_class": "physical"
+  },
+  {
+    "id": 265,
+    "name": "smelling-salts",
+    "type": "normal",
+    "power": 70,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 266,
+    "name": "follow-me",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 20,
+    "priority": 2,
+    "damage_class": "status"
+  },
+  {
+    "id": 267,
+    "name": "nature-power",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 268,
+    "name": "charge",
+    "type": "electric",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 269,
+    "name": "taunt",
+    "type": "dark",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 270,
+    "name": "helping-hand",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 20,
+    "priority": 5,
+    "damage_class": "status"
+  },
+  {
+    "id": 271,
+    "name": "trick",
+    "type": "psychic",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 272,
+    "name": "role-play",
+    "type": "psychic",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 273,
+    "name": "wish",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 274,
+    "name": "assist",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 275,
+    "name": "ingrain",
+    "type": "grass",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 276,
+    "name": "superpower",
+    "type": "fighting",
+    "power": 120,
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 277,
+    "name": "magic-coat",
+    "type": "psychic",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 15,
+    "priority": 4,
+    "damage_class": "status"
+  },
+  {
+    "id": 278,
+    "name": "recycle",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 279,
+    "name": "revenge",
+    "type": "fighting",
+    "power": 60,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": -4,
+    "damage_class": "physical"
+  },
+  {
+    "id": 280,
+    "name": "brick-break",
+    "type": "fighting",
+    "power": 75,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 281,
+    "name": "yawn",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 282,
+    "name": "knock-off",
+    "type": "dark",
+    "power": 65,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 283,
+    "name": "endeavor",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 284,
+    "name": "eruption",
+    "type": "fire",
+    "power": 150,
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 285,
+    "name": "skill-swap",
+    "type": "psychic",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 286,
+    "name": "imprison",
+    "type": "psychic",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 287,
+    "name": "refresh",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 288,
+    "name": "grudge",
+    "type": "ghost",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 289,
+    "name": "snatch",
+    "type": "dark",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 10,
+    "priority": 4,
+    "damage_class": "status"
+  },
+  {
+    "id": 290,
+    "name": "secret-power",
+    "type": "normal",
+    "power": 70,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 291,
+    "name": "dive",
+    "type": "water",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 292,
+    "name": "arm-thrust",
+    "type": "fighting",
+    "power": 15,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 293,
+    "name": "camouflage",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 294,
+    "name": "tail-glow",
+    "type": "bug",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 295,
+    "name": "luster-purge",
+    "type": "psychic",
+    "power": 95,
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 296,
+    "name": "mist-ball",
+    "type": "psychic",
+    "power": 70,
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 297,
+    "name": "feather-dance",
+    "type": "flying",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 298,
+    "name": "teeter-dance",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 299,
+    "name": "blaze-kick",
+    "type": "fire",
+    "power": 85,
+    "accuracy": 90,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 300,
+    "name": "mud-sport",
+    "type": "ground",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 301,
+    "name": "ice-ball",
+    "type": "ice",
+    "power": 30,
+    "accuracy": 90,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 302,
+    "name": "needle-arm",
+    "type": "grass",
+    "power": 60,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 303,
+    "name": "slack-off",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 304,
+    "name": "hyper-voice",
+    "type": "normal",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 305,
+    "name": "poison-fang",
+    "type": "poison",
+    "power": 50,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 306,
+    "name": "crush-claw",
+    "type": "normal",
+    "power": 75,
+    "accuracy": 95,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 307,
+    "name": "blast-burn",
+    "type": "fire",
+    "power": 150,
+    "accuracy": 90,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 308,
+    "name": "hydro-cannon",
+    "type": "water",
+    "power": 150,
+    "accuracy": 90,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 309,
+    "name": "meteor-mash",
+    "type": "steel",
+    "power": 90,
+    "accuracy": 90,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 310,
+    "name": "astonish",
+    "type": "ghost",
+    "power": 30,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 311,
+    "name": "weather-ball",
+    "type": "normal",
+    "power": 50,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 312,
+    "name": "aromatherapy",
+    "type": "grass",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 313,
+    "name": "fake-tears",
+    "type": "dark",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 314,
+    "name": "air-cutter",
+    "type": "flying",
+    "power": 60,
+    "accuracy": 95,
+    "pp": 25,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 315,
+    "name": "overheat",
+    "type": "fire",
+    "power": 130,
+    "accuracy": 90,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 316,
+    "name": "odor-sleuth",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 40,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 317,
+    "name": "rock-tomb",
+    "type": "rock",
+    "power": 60,
+    "accuracy": 95,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 318,
+    "name": "silver-wind",
+    "type": "bug",
+    "power": 60,
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 319,
+    "name": "metal-sound",
+    "type": "steel",
+    "power": 0,
+    "accuracy": 85,
+    "pp": 40,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 320,
+    "name": "grass-whistle",
+    "type": "grass",
+    "power": 0,
+    "accuracy": 55,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 321,
+    "name": "tickle",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 322,
+    "name": "cosmic-power",
+    "type": "psychic",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 323,
+    "name": "water-spout",
+    "type": "water",
+    "power": 150,
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 324,
+    "name": "signal-beam",
+    "type": "bug",
+    "power": 75,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 325,
+    "name": "shadow-punch",
+    "type": "ghost",
+    "power": 60,
+    "accuracy": 0,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 326,
+    "name": "extrasensory",
+    "type": "psychic",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 327,
+    "name": "sky-uppercut",
+    "type": "fighting",
+    "power": 85,
+    "accuracy": 90,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 328,
+    "name": "sand-tomb",
+    "type": "ground",
+    "power": 35,
+    "accuracy": 85,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 329,
+    "name": "sheer-cold",
+    "type": "ice",
+    "power": 0,
+    "accuracy": 30,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 330,
+    "name": "muddy-water",
+    "type": "water",
+    "power": 90,
+    "accuracy": 85,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 331,
+    "name": "bullet-seed",
+    "type": "grass",
+    "power": 25,
+    "accuracy": 100,
+    "pp": 30,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 332,
+    "name": "aerial-ace",
+    "type": "flying",
+    "power": 60,
+    "accuracy": 0,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 333,
+    "name": "icicle-spear",
+    "type": "ice",
+    "power": 25,
+    "accuracy": 100,
+    "pp": 30,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 334,
+    "name": "iron-defense",
+    "type": "steel",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 335,
+    "name": "block",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 336,
+    "name": "howl",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 40,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 337,
+    "name": "dragon-claw",
+    "type": "dragon",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 338,
+    "name": "frenzy-plant",
+    "type": "grass",
+    "power": 150,
+    "accuracy": 90,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 339,
+    "name": "bulk-up",
+    "type": "fighting",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 340,
+    "name": "bounce",
+    "type": "flying",
+    "power": 85,
+    "accuracy": 85,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 341,
+    "name": "mud-shot",
+    "type": "ground",
+    "power": 55,
+    "accuracy": 95,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 342,
+    "name": "poison-tail",
+    "type": "poison",
+    "power": 50,
+    "accuracy": 100,
+    "pp": 25,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 343,
+    "name": "covet",
+    "type": "normal",
+    "power": 60,
+    "accuracy": 100,
+    "pp": 25,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 344,
+    "name": "volt-tackle",
+    "type": "electric",
+    "power": 120,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 345,
+    "name": "magical-leaf",
+    "type": "grass",
+    "power": 60,
+    "accuracy": 0,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 346,
+    "name": "water-sport",
+    "type": "water",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 347,
+    "name": "calm-mind",
+    "type": "psychic",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 348,
+    "name": "leaf-blade",
+    "type": "grass",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 349,
+    "name": "dragon-dance",
+    "type": "dragon",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 350,
+    "name": "rock-blast",
+    "type": "rock",
+    "power": 25,
+    "accuracy": 90,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 351,
+    "name": "shock-wave",
+    "type": "electric",
+    "power": 60,
+    "accuracy": 0,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 352,
+    "name": "water-pulse",
+    "type": "water",
+    "power": 60,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 353,
+    "name": "doom-desire",
+    "type": "steel",
+    "power": 140,
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 354,
+    "name": "psycho-boost",
+    "type": "psychic",
+    "power": 140,
+    "accuracy": 90,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 355,
+    "name": "roost",
+    "type": "flying",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 356,
+    "name": "gravity",
+    "type": "psychic",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 357,
+    "name": "miracle-eye",
+    "type": "psychic",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 40,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 358,
+    "name": "wake-up-slap",
+    "type": "fighting",
+    "power": 70,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 359,
+    "name": "hammer-arm",
+    "type": "fighting",
+    "power": 100,
+    "accuracy": 90,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 360,
+    "name": "gyro-ball",
+    "type": "steel",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 361,
+    "name": "healing-wish",
+    "type": "psychic",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 362,
+    "name": "brine",
+    "type": "water",
+    "power": 65,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 363,
+    "name": "natural-gift",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 364,
+    "name": "feint",
+    "type": "normal",
+    "power": 30,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 2,
+    "damage_class": "physical"
+  },
+  {
+    "id": 365,
+    "name": "pluck",
+    "type": "flying",
+    "power": 60,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 366,
+    "name": "tailwind",
+    "type": "flying",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 367,
+    "name": "acupressure",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 30,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 368,
+    "name": "metal-burst",
+    "type": "steel",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 369,
+    "name": "u-turn",
+    "type": "bug",
+    "power": 70,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 370,
+    "name": "close-combat",
+    "type": "fighting",
+    "power": 120,
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 371,
+    "name": "payback",
+    "type": "dark",
+    "power": 50,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 372,
+    "name": "assurance",
+    "type": "dark",
+    "power": 60,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 373,
+    "name": "embargo",
+    "type": "dark",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 374,
+    "name": "fling",
+    "type": "dark",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 375,
+    "name": "psycho-shift",
+    "type": "psychic",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 376,
+    "name": "trump-card",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 377,
+    "name": "heal-block",
+    "type": "psychic",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 378,
+    "name": "wring-out",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 379,
+    "name": "power-trick",
+    "type": "psychic",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 380,
+    "name": "gastro-acid",
+    "type": "poison",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 381,
+    "name": "lucky-chant",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 30,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 382,
+    "name": "me-first",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 383,
+    "name": "copycat",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 384,
+    "name": "power-swap",
+    "type": "psychic",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 385,
+    "name": "guard-swap",
+    "type": "psychic",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 386,
+    "name": "punishment",
+    "type": "dark",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 387,
+    "name": "last-resort",
+    "type": "normal",
+    "power": 140,
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 388,
+    "name": "worry-seed",
+    "type": "grass",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 389,
+    "name": "sucker-punch",
+    "type": "dark",
+    "power": 70,
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 1,
+    "damage_class": "physical"
+  },
+  {
+    "id": 390,
+    "name": "toxic-spikes",
+    "type": "poison",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 391,
+    "name": "heart-swap",
+    "type": "psychic",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 392,
+    "name": "aqua-ring",
+    "type": "water",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 393,
+    "name": "magnet-rise",
+    "type": "electric",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 394,
+    "name": "flare-blitz",
+    "type": "fire",
+    "power": 120,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 395,
+    "name": "force-palm",
+    "type": "fighting",
+    "power": 60,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 396,
+    "name": "aura-sphere",
+    "type": "fighting",
+    "power": 80,
+    "accuracy": 0,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 397,
+    "name": "rock-polish",
+    "type": "rock",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 398,
+    "name": "poison-jab",
+    "type": "poison",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 399,
+    "name": "dark-pulse",
+    "type": "dark",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 400,
+    "name": "night-slash",
+    "type": "dark",
+    "power": 70,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 401,
+    "name": "aqua-tail",
+    "type": "water",
+    "power": 90,
+    "accuracy": 90,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 402,
+    "name": "seed-bomb",
+    "type": "grass",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 403,
+    "name": "air-slash",
+    "type": "flying",
+    "power": 75,
+    "accuracy": 95,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 404,
+    "name": "x-scissor",
+    "type": "bug",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 405,
+    "name": "bug-buzz",
+    "type": "bug",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 406,
+    "name": "dragon-pulse",
+    "type": "dragon",
+    "power": 85,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 407,
+    "name": "dragon-rush",
+    "type": "dragon",
+    "power": 100,
+    "accuracy": 75,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 408,
+    "name": "power-gem",
+    "type": "rock",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 409,
+    "name": "drain-punch",
+    "type": "fighting",
+    "power": 75,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 410,
+    "name": "vacuum-wave",
+    "type": "fighting",
+    "power": 40,
+    "accuracy": 100,
+    "pp": 30,
+    "priority": 1,
+    "damage_class": "special"
+  },
+  {
+    "id": 411,
+    "name": "focus-blast",
+    "type": "fighting",
+    "power": 120,
+    "accuracy": 70,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 412,
+    "name": "energy-ball",
+    "type": "grass",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 413,
+    "name": "brave-bird",
+    "type": "flying",
+    "power": 120,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 414,
+    "name": "earth-power",
+    "type": "ground",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 415,
+    "name": "switcheroo",
+    "type": "dark",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 416,
+    "name": "giga-impact",
+    "type": "normal",
+    "power": 150,
+    "accuracy": 90,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 417,
+    "name": "nasty-plot",
+    "type": "dark",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 418,
+    "name": "bullet-punch",
+    "type": "steel",
+    "power": 40,
+    "accuracy": 100,
+    "pp": 30,
+    "priority": 1,
+    "damage_class": "physical"
+  },
+  {
+    "id": 419,
+    "name": "avalanche",
+    "type": "ice",
+    "power": 60,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": -4,
+    "damage_class": "physical"
+  },
+  {
+    "id": 420,
+    "name": "ice-shard",
+    "type": "ice",
+    "power": 40,
+    "accuracy": 100,
+    "pp": 30,
+    "priority": 1,
+    "damage_class": "physical"
+  },
+  {
+    "id": 421,
+    "name": "shadow-claw",
+    "type": "ghost",
+    "power": 70,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 422,
+    "name": "thunder-fang",
+    "type": "electric",
+    "power": 65,
+    "accuracy": 95,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 423,
+    "name": "ice-fang",
+    "type": "ice",
+    "power": 65,
+    "accuracy": 95,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 424,
+    "name": "fire-fang",
+    "type": "fire",
+    "power": 65,
+    "accuracy": 95,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 425,
+    "name": "shadow-sneak",
+    "type": "ghost",
+    "power": 40,
+    "accuracy": 100,
+    "pp": 30,
+    "priority": 1,
+    "damage_class": "physical"
+  },
+  {
+    "id": 426,
+    "name": "mud-bomb",
+    "type": "ground",
+    "power": 65,
+    "accuracy": 85,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 427,
+    "name": "psycho-cut",
+    "type": "psychic",
+    "power": 70,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 428,
+    "name": "zen-headbutt",
+    "type": "psychic",
+    "power": 80,
+    "accuracy": 90,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 429,
+    "name": "mirror-shot",
+    "type": "steel",
+    "power": 65,
+    "accuracy": 85,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 430,
+    "name": "flash-cannon",
+    "type": "steel",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 431,
+    "name": "rock-climb",
+    "type": "normal",
+    "power": 90,
+    "accuracy": 85,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 432,
+    "name": "defog",
+    "type": "flying",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 433,
+    "name": "trick-room",
+    "type": "psychic",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 5,
+    "priority": -7,
+    "damage_class": "status"
+  },
+  {
+    "id": 434,
+    "name": "draco-meteor",
+    "type": "dragon",
+    "power": 130,
+    "accuracy": 90,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 435,
+    "name": "discharge",
+    "type": "electric",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 436,
+    "name": "lava-plume",
+    "type": "fire",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 437,
+    "name": "leaf-storm",
+    "type": "grass",
+    "power": 130,
+    "accuracy": 90,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 438,
+    "name": "power-whip",
+    "type": "grass",
+    "power": 120,
+    "accuracy": 85,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 439,
+    "name": "rock-wrecker",
+    "type": "rock",
+    "power": 150,
+    "accuracy": 90,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 440,
+    "name": "cross-poison",
+    "type": "poison",
+    "power": 70,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 441,
+    "name": "gunk-shot",
+    "type": "poison",
+    "power": 120,
+    "accuracy": 80,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 442,
+    "name": "iron-head",
+    "type": "steel",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 443,
+    "name": "magnet-bomb",
+    "type": "steel",
+    "power": 60,
+    "accuracy": 0,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 444,
+    "name": "stone-edge",
+    "type": "rock",
+    "power": 100,
+    "accuracy": 80,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 445,
+    "name": "captivate",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 446,
+    "name": "stealth-rock",
+    "type": "rock",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 447,
+    "name": "grass-knot",
+    "type": "grass",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 448,
+    "name": "chatter",
+    "type": "flying",
+    "power": 65,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 449,
+    "name": "judgment",
+    "type": "normal",
+    "power": 100,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 450,
+    "name": "bug-bite",
+    "type": "bug",
+    "power": 60,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 451,
+    "name": "charge-beam",
+    "type": "electric",
+    "power": 50,
+    "accuracy": 90,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 452,
+    "name": "wood-hammer",
+    "type": "grass",
+    "power": 120,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 453,
+    "name": "aqua-jet",
+    "type": "water",
+    "power": 40,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 1,
+    "damage_class": "physical"
+  },
+  {
+    "id": 454,
+    "name": "attack-order",
+    "type": "bug",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 455,
+    "name": "defend-order",
+    "type": "bug",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 456,
+    "name": "heal-order",
+    "type": "bug",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 457,
+    "name": "head-smash",
+    "type": "rock",
+    "power": 150,
+    "accuracy": 80,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 458,
+    "name": "double-hit",
+    "type": "normal",
+    "power": 35,
+    "accuracy": 90,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 459,
+    "name": "roar-of-time",
+    "type": "dragon",
+    "power": 150,
+    "accuracy": 90,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 460,
+    "name": "spacial-rend",
+    "type": "dragon",
+    "power": 100,
+    "accuracy": 95,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 461,
+    "name": "lunar-dance",
+    "type": "psychic",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 462,
+    "name": "crush-grip",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 463,
+    "name": "magma-storm",
+    "type": "fire",
+    "power": 100,
+    "accuracy": 75,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 464,
+    "name": "dark-void",
+    "type": "dark",
+    "power": 0,
+    "accuracy": 50,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 465,
+    "name": "seed-flare",
+    "type": "grass",
+    "power": 120,
+    "accuracy": 85,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 466,
+    "name": "ominous-wind",
+    "type": "ghost",
+    "power": 60,
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 467,
+    "name": "shadow-force",
+    "type": "ghost",
+    "power": 120,
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 468,
+    "name": "hone-claws",
+    "type": "dark",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 469,
+    "name": "wide-guard",
+    "type": "rock",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 10,
+    "priority": 3,
+    "damage_class": "status"
+  },
+  {
+    "id": 470,
+    "name": "guard-split",
+    "type": "psychic",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 471,
+    "name": "power-split",
+    "type": "psychic",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 472,
+    "name": "wonder-room",
+    "type": "psychic",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 473,
+    "name": "psyshock",
+    "type": "psychic",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 474,
+    "name": "venoshock",
+    "type": "poison",
+    "power": 65,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 475,
+    "name": "autotomize",
+    "type": "steel",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 476,
+    "name": "rage-powder",
+    "type": "bug",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 20,
+    "priority": 2,
+    "damage_class": "status"
+  },
+  {
+    "id": 477,
+    "name": "telekinesis",
+    "type": "psychic",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 478,
+    "name": "magic-room",
+    "type": "psychic",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 479,
+    "name": "smack-down",
+    "type": "rock",
+    "power": 50,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 480,
+    "name": "storm-throw",
+    "type": "fighting",
+    "power": 60,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 481,
+    "name": "flame-burst",
+    "type": "fire",
+    "power": 70,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 482,
+    "name": "sludge-wave",
+    "type": "poison",
+    "power": 95,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 483,
+    "name": "quiver-dance",
+    "type": "bug",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 484,
+    "name": "heavy-slam",
+    "type": "steel",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 485,
+    "name": "synchronoise",
+    "type": "psychic",
+    "power": 120,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 486,
+    "name": "electro-ball",
+    "type": "electric",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 487,
+    "name": "soak",
+    "type": "water",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 488,
+    "name": "flame-charge",
+    "type": "fire",
+    "power": 50,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 489,
+    "name": "coil",
+    "type": "poison",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 490,
+    "name": "low-sweep",
+    "type": "fighting",
+    "power": 65,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 491,
+    "name": "acid-spray",
+    "type": "poison",
+    "power": 40,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 492,
+    "name": "foul-play",
+    "type": "dark",
+    "power": 95,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 493,
+    "name": "simple-beam",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 494,
+    "name": "entrainment",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 495,
+    "name": "after-you",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 496,
+    "name": "round",
+    "type": "normal",
+    "power": 60,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 497,
+    "name": "echoed-voice",
+    "type": "normal",
+    "power": 40,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 498,
+    "name": "chip-away",
+    "type": "normal",
+    "power": 70,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 499,
+    "name": "clear-smog",
+    "type": "poison",
+    "power": 50,
+    "accuracy": 0,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 500,
+    "name": "stored-power",
+    "type": "psychic",
+    "power": 20,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 501,
+    "name": "quick-guard",
+    "type": "fighting",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 15,
+    "priority": 3,
+    "damage_class": "status"
+  },
+  {
+    "id": 502,
+    "name": "ally-switch",
+    "type": "psychic",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 15,
+    "priority": 2,
+    "damage_class": "status"
+  },
+  {
+    "id": 503,
+    "name": "scald",
+    "type": "water",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 504,
+    "name": "shell-smash",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 505,
+    "name": "heal-pulse",
+    "type": "psychic",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 506,
+    "name": "hex",
+    "type": "ghost",
+    "power": 65,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 507,
+    "name": "sky-drop",
+    "type": "flying",
+    "power": 60,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 508,
+    "name": "shift-gear",
+    "type": "steel",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 509,
+    "name": "circle-throw",
+    "type": "fighting",
+    "power": 60,
+    "accuracy": 90,
+    "pp": 10,
+    "priority": -6,
+    "damage_class": "physical"
+  },
+  {
+    "id": 510,
+    "name": "incinerate",
+    "type": "fire",
+    "power": 60,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 511,
+    "name": "quash",
+    "type": "dark",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 512,
+    "name": "acrobatics",
+    "type": "flying",
+    "power": 55,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 513,
+    "name": "reflect-type",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 514,
+    "name": "retaliate",
+    "type": "normal",
+    "power": 70,
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 515,
+    "name": "final-gambit",
+    "type": "fighting",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 516,
+    "name": "bestow",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 517,
+    "name": "inferno",
+    "type": "fire",
+    "power": 100,
+    "accuracy": 50,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 518,
+    "name": "water-pledge",
+    "type": "water",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 519,
+    "name": "fire-pledge",
+    "type": "fire",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 520,
+    "name": "grass-pledge",
+    "type": "grass",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 521,
+    "name": "volt-switch",
+    "type": "electric",
+    "power": 70,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 522,
+    "name": "struggle-bug",
+    "type": "bug",
+    "power": 50,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 523,
+    "name": "bulldoze",
+    "type": "ground",
+    "power": 60,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 524,
+    "name": "frost-breath",
+    "type": "ice",
+    "power": 60,
+    "accuracy": 90,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 525,
+    "name": "dragon-tail",
+    "type": "dragon",
+    "power": 60,
+    "accuracy": 90,
+    "pp": 10,
+    "priority": -6,
+    "damage_class": "physical"
+  },
+  {
+    "id": 526,
+    "name": "work-up",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 30,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 527,
+    "name": "electroweb",
+    "type": "electric",
+    "power": 55,
+    "accuracy": 95,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 528,
+    "name": "wild-charge",
+    "type": "electric",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 529,
+    "name": "drill-run",
+    "type": "ground",
+    "power": 80,
+    "accuracy": 95,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 530,
+    "name": "dual-chop",
+    "type": "dragon",
+    "power": 40,
+    "accuracy": 90,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 531,
+    "name": "heart-stamp",
+    "type": "psychic",
+    "power": 60,
+    "accuracy": 100,
+    "pp": 25,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 532,
+    "name": "horn-leech",
+    "type": "grass",
+    "power": 75,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 533,
+    "name": "sacred-sword",
+    "type": "fighting",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 534,
+    "name": "razor-shell",
+    "type": "water",
+    "power": 75,
+    "accuracy": 95,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 535,
+    "name": "heat-crash",
+    "type": "fire",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 536,
+    "name": "leaf-tornado",
+    "type": "grass",
+    "power": 65,
+    "accuracy": 90,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 537,
+    "name": "steamroller",
+    "type": "bug",
+    "power": 65,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 538,
+    "name": "cotton-guard",
+    "type": "grass",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 539,
+    "name": "night-daze",
+    "type": "dark",
+    "power": 85,
+    "accuracy": 95,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 540,
+    "name": "psystrike",
+    "type": "psychic",
+    "power": 100,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 541,
+    "name": "tail-slap",
+    "type": "normal",
+    "power": 25,
+    "accuracy": 85,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 542,
+    "name": "hurricane",
+    "type": "flying",
+    "power": 110,
+    "accuracy": 70,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 543,
+    "name": "head-charge",
+    "type": "normal",
+    "power": 120,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 544,
+    "name": "gear-grind",
+    "type": "steel",
+    "power": 50,
+    "accuracy": 85,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 545,
+    "name": "searing-shot",
+    "type": "fire",
+    "power": 100,
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 546,
+    "name": "techno-blast",
+    "type": "normal",
+    "power": 120,
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 547,
+    "name": "relic-song",
+    "type": "normal",
+    "power": 75,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 548,
+    "name": "secret-sword",
+    "type": "fighting",
+    "power": 85,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 549,
+    "name": "glaciate",
+    "type": "ice",
+    "power": 65,
+    "accuracy": 95,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 550,
+    "name": "bolt-strike",
+    "type": "electric",
+    "power": 130,
+    "accuracy": 85,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 551,
+    "name": "blue-flare",
+    "type": "fire",
+    "power": 130,
+    "accuracy": 85,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 552,
+    "name": "fiery-dance",
+    "type": "fire",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 553,
+    "name": "freeze-shock",
+    "type": "ice",
+    "power": 140,
+    "accuracy": 90,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 554,
+    "name": "ice-burn",
+    "type": "ice",
+    "power": 140,
+    "accuracy": 90,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 555,
+    "name": "snarl",
+    "type": "dark",
+    "power": 55,
+    "accuracy": 95,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 556,
+    "name": "icicle-crash",
+    "type": "ice",
+    "power": 85,
+    "accuracy": 90,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 557,
+    "name": "v-create",
+    "type": "fire",
+    "power": 180,
+    "accuracy": 95,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 558,
+    "name": "fusion-flare",
+    "type": "fire",
+    "power": 100,
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 559,
+    "name": "fusion-bolt",
+    "type": "electric",
+    "power": 100,
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 560,
+    "name": "flying-press",
+    "type": "fighting",
+    "power": 100,
+    "accuracy": 95,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 561,
+    "name": "mat-block",
+    "type": "fighting",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 562,
+    "name": "belch",
+    "type": "poison",
+    "power": 120,
+    "accuracy": 90,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 563,
+    "name": "rototiller",
+    "type": "ground",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 564,
+    "name": "sticky-web",
+    "type": "bug",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 565,
+    "name": "fell-stinger",
+    "type": "bug",
+    "power": 50,
+    "accuracy": 100,
+    "pp": 25,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 566,
+    "name": "phantom-force",
+    "type": "ghost",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 567,
+    "name": "trick-or-treat",
+    "type": "ghost",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 568,
+    "name": "noble-roar",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 30,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 569,
+    "name": "ion-deluge",
+    "type": "electric",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 25,
+    "priority": 1,
+    "damage_class": "status"
+  },
+  {
+    "id": 570,
+    "name": "parabolic-charge",
+    "type": "electric",
+    "power": 65,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 571,
+    "name": "forests-curse",
+    "type": "grass",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 572,
+    "name": "petal-blizzard",
+    "type": "grass",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 573,
+    "name": "freeze-dry",
+    "type": "ice",
+    "power": 70,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 574,
+    "name": "disarming-voice",
+    "type": "fairy",
+    "power": 40,
+    "accuracy": 0,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 575,
+    "name": "parting-shot",
+    "type": "dark",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 576,
+    "name": "topsy-turvy",
+    "type": "dark",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 577,
+    "name": "draining-kiss",
+    "type": "fairy",
+    "power": 50,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 578,
+    "name": "crafty-shield",
+    "type": "fairy",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 10,
+    "priority": 3,
+    "damage_class": "status"
+  },
+  {
+    "id": 579,
+    "name": "flower-shield",
+    "type": "fairy",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 580,
+    "name": "grassy-terrain",
+    "type": "grass",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 581,
+    "name": "misty-terrain",
+    "type": "fairy",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 582,
+    "name": "electrify",
+    "type": "electric",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 583,
+    "name": "play-rough",
+    "type": "fairy",
+    "power": 90,
+    "accuracy": 90,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 584,
+    "name": "fairy-wind",
+    "type": "fairy",
+    "power": 40,
+    "accuracy": 100,
+    "pp": 30,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 585,
+    "name": "moonblast",
+    "type": "fairy",
+    "power": 95,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 586,
+    "name": "boomburst",
+    "type": "normal",
+    "power": 140,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 587,
+    "name": "fairy-lock",
+    "type": "fairy",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 588,
+    "name": "kings-shield",
+    "type": "steel",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 10,
+    "priority": 4,
+    "damage_class": "status"
+  },
+  {
+    "id": 589,
+    "name": "play-nice",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 590,
+    "name": "confide",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 591,
+    "name": "diamond-storm",
+    "type": "rock",
+    "power": 100,
+    "accuracy": 95,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 592,
+    "name": "steam-eruption",
+    "type": "water",
+    "power": 110,
+    "accuracy": 95,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 593,
+    "name": "hyperspace-hole",
+    "type": "psychic",
+    "power": 80,
+    "accuracy": 0,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 594,
+    "name": "water-shuriken",
+    "type": "water",
+    "power": 15,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 1,
+    "damage_class": "special"
+  },
+  {
+    "id": 595,
+    "name": "mystical-fire",
+    "type": "fire",
+    "power": 75,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 596,
+    "name": "spiky-shield",
+    "type": "grass",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 10,
+    "priority": 4,
+    "damage_class": "status"
+  },
+  {
+    "id": 597,
+    "name": "aromatic-mist",
+    "type": "fairy",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 598,
+    "name": "eerie-impulse",
+    "type": "electric",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 599,
+    "name": "venom-drench",
+    "type": "poison",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 600,
+    "name": "powder",
+    "type": "bug",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 1,
+    "damage_class": "status"
+  },
+  {
+    "id": 601,
+    "name": "geomancy",
+    "type": "fairy",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 602,
+    "name": "magnetic-flux",
+    "type": "electric",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 603,
+    "name": "happy-hour",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 30,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 604,
+    "name": "electric-terrain",
+    "type": "electric",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 605,
+    "name": "dazzling-gleam",
+    "type": "fairy",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 606,
+    "name": "celebrate",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 40,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 607,
+    "name": "hold-hands",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 40,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 608,
+    "name": "baby-doll-eyes",
+    "type": "fairy",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 30,
+    "priority": 1,
+    "damage_class": "status"
+  },
+  {
+    "id": 609,
+    "name": "nuzzle",
+    "type": "electric",
+    "power": 20,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 610,
+    "name": "hold-back",
+    "type": "normal",
+    "power": 40,
+    "accuracy": 100,
+    "pp": 40,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 611,
+    "name": "infestation",
+    "type": "bug",
+    "power": 20,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 612,
+    "name": "power-up-punch",
+    "type": "fighting",
+    "power": 40,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 613,
+    "name": "oblivion-wing",
+    "type": "flying",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 614,
+    "name": "thousand-arrows",
+    "type": "ground",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 615,
+    "name": "thousand-waves",
+    "type": "ground",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 616,
+    "name": "lands-wrath",
+    "type": "ground",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 617,
+    "name": "light-of-ruin",
+    "type": "fairy",
+    "power": 140,
+    "accuracy": 90,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 618,
+    "name": "origin-pulse",
+    "type": "water",
+    "power": 110,
+    "accuracy": 85,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 619,
+    "name": "precipice-blades",
+    "type": "ground",
+    "power": 120,
+    "accuracy": 85,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 620,
+    "name": "dragon-ascent",
+    "type": "flying",
+    "power": 120,
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 621,
+    "name": "hyperspace-fury",
+    "type": "dark",
+    "power": 100,
+    "accuracy": 0,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 622,
+    "name": "breakneck-blitz--physical",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 1,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 623,
+    "name": "breakneck-blitz--special",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 1,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 624,
+    "name": "all-out-pummeling--physical",
+    "type": "fighting",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 1,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 625,
+    "name": "all-out-pummeling--special",
+    "type": "fighting",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 1,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 626,
+    "name": "supersonic-skystrike--physical",
+    "type": "flying",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 1,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 627,
+    "name": "supersonic-skystrike--special",
+    "type": "flying",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 1,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 628,
+    "name": "acid-downpour--physical",
+    "type": "poison",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 1,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 629,
+    "name": "acid-downpour--special",
+    "type": "poison",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 1,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 630,
+    "name": "tectonic-rage--physical",
+    "type": "ground",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 1,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 631,
+    "name": "tectonic-rage--special",
+    "type": "ground",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 1,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 632,
+    "name": "continental-crush--physical",
+    "type": "rock",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 1,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 633,
+    "name": "continental-crush--special",
+    "type": "rock",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 1,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 634,
+    "name": "savage-spin-out--physical",
+    "type": "bug",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 1,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 635,
+    "name": "savage-spin-out--special",
+    "type": "bug",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 1,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 636,
+    "name": "never-ending-nightmare--physical",
+    "type": "ghost",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 1,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 637,
+    "name": "never-ending-nightmare--special",
+    "type": "ghost",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 1,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 638,
+    "name": "corkscrew-crash--physical",
+    "type": "steel",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 1,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 639,
+    "name": "corkscrew-crash--special",
+    "type": "steel",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 1,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 640,
+    "name": "inferno-overdrive--physical",
+    "type": "fire",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 1,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 641,
+    "name": "inferno-overdrive--special",
+    "type": "fire",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 1,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 642,
+    "name": "hydro-vortex--physical",
+    "type": "water",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 1,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 643,
+    "name": "hydro-vortex--special",
+    "type": "water",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 1,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 644,
+    "name": "bloom-doom--physical",
+    "type": "grass",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 1,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 645,
+    "name": "bloom-doom--special",
+    "type": "grass",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 1,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 646,
+    "name": "gigavolt-havoc--physical",
+    "type": "electric",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 1,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 647,
+    "name": "gigavolt-havoc--special",
+    "type": "electric",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 1,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 648,
+    "name": "shattered-psyche--physical",
+    "type": "psychic",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 1,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 649,
+    "name": "shattered-psyche--special",
+    "type": "psychic",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 1,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 650,
+    "name": "subzero-slammer--physical",
+    "type": "ice",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 1,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 651,
+    "name": "subzero-slammer--special",
+    "type": "ice",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 1,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 652,
+    "name": "devastating-drake--physical",
+    "type": "dragon",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 1,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 653,
+    "name": "devastating-drake--special",
+    "type": "dragon",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 1,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 654,
+    "name": "black-hole-eclipse--physical",
+    "type": "dark",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 1,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 655,
+    "name": "black-hole-eclipse--special",
+    "type": "dark",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 1,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 656,
+    "name": "twinkle-tackle--physical",
+    "type": "fairy",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 1,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 657,
+    "name": "twinkle-tackle--special",
+    "type": "fairy",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 1,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 658,
+    "name": "catastropika",
+    "type": "electric",
+    "power": 210,
+    "accuracy": 0,
+    "pp": 1,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 659,
+    "name": "shore-up",
+    "type": "ground",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 660,
+    "name": "first-impression",
+    "type": "bug",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 2,
+    "damage_class": "physical"
+  },
+  {
+    "id": 661,
+    "name": "baneful-bunker",
+    "type": "poison",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 10,
+    "priority": 4,
+    "damage_class": "status"
+  },
+  {
+    "id": 662,
+    "name": "spirit-shackle",
+    "type": "ghost",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 663,
+    "name": "darkest-lariat",
+    "type": "dark",
+    "power": 85,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 664,
+    "name": "sparkling-aria",
+    "type": "water",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 665,
+    "name": "ice-hammer",
+    "type": "ice",
+    "power": 100,
+    "accuracy": 90,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 666,
+    "name": "floral-healing",
+    "type": "fairy",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 667,
+    "name": "high-horsepower",
+    "type": "ground",
+    "power": 95,
+    "accuracy": 95,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 668,
+    "name": "strength-sap",
+    "type": "grass",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 669,
+    "name": "solar-blade",
+    "type": "grass",
+    "power": 125,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 670,
+    "name": "leafage",
+    "type": "grass",
+    "power": 40,
+    "accuracy": 100,
+    "pp": 40,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 671,
+    "name": "spotlight",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 15,
+    "priority": 3,
+    "damage_class": "status"
+  },
+  {
+    "id": 672,
+    "name": "toxic-thread",
+    "type": "poison",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 673,
+    "name": "laser-focus",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 30,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 674,
+    "name": "gear-up",
+    "type": "steel",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 675,
+    "name": "throat-chop",
+    "type": "dark",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 676,
+    "name": "pollen-puff",
+    "type": "bug",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 677,
+    "name": "anchor-shot",
+    "type": "steel",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 678,
+    "name": "psychic-terrain",
+    "type": "psychic",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 679,
+    "name": "lunge",
+    "type": "bug",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 680,
+    "name": "fire-lash",
+    "type": "fire",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 681,
+    "name": "power-trip",
+    "type": "dark",
+    "power": 20,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 682,
+    "name": "burn-up",
+    "type": "fire",
+    "power": 130,
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 683,
+    "name": "speed-swap",
+    "type": "psychic",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 684,
+    "name": "smart-strike",
+    "type": "steel",
+    "power": 70,
+    "accuracy": 0,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 685,
+    "name": "purify",
+    "type": "poison",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 686,
+    "name": "revelation-dance",
+    "type": "normal",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 687,
+    "name": "core-enforcer",
+    "type": "dragon",
+    "power": 100,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 688,
+    "name": "trop-kick",
+    "type": "grass",
+    "power": 70,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 689,
+    "name": "instruct",
+    "type": "psychic",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 690,
+    "name": "beak-blast",
+    "type": "flying",
+    "power": 100,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": -3,
+    "damage_class": "physical"
+  },
+  {
+    "id": 691,
+    "name": "clanging-scales",
+    "type": "dragon",
+    "power": 110,
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 692,
+    "name": "dragon-hammer",
+    "type": "dragon",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 693,
+    "name": "brutal-swing",
+    "type": "dark",
+    "power": 60,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 694,
+    "name": "aurora-veil",
+    "type": "ice",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 695,
+    "name": "sinister-arrow-raid",
+    "type": "ghost",
+    "power": 180,
+    "accuracy": 0,
+    "pp": 1,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 696,
+    "name": "malicious-moonsault",
+    "type": "dark",
+    "power": 180,
+    "accuracy": 0,
+    "pp": 1,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 697,
+    "name": "oceanic-operetta",
+    "type": "water",
+    "power": 195,
+    "accuracy": 0,
+    "pp": 1,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 698,
+    "name": "guardian-of-alola",
+    "type": "fairy",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 1,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 699,
+    "name": "soul-stealing-7-star-strike",
+    "type": "ghost",
+    "power": 195,
+    "accuracy": 0,
+    "pp": 1,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 700,
+    "name": "stoked-sparksurfer",
+    "type": "electric",
+    "power": 175,
+    "accuracy": 0,
+    "pp": 1,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 701,
+    "name": "pulverizing-pancake",
+    "type": "normal",
+    "power": 210,
+    "accuracy": 0,
+    "pp": 1,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 702,
+    "name": "extreme-evoboost",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 1,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 703,
+    "name": "genesis-supernova",
+    "type": "psychic",
+    "power": 185,
+    "accuracy": 0,
+    "pp": 1,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 704,
+    "name": "shell-trap",
+    "type": "fire",
+    "power": 150,
+    "accuracy": 100,
+    "pp": 5,
+    "priority": -3,
+    "damage_class": "special"
+  },
+  {
+    "id": 705,
+    "name": "fleur-cannon",
+    "type": "fairy",
+    "power": 130,
+    "accuracy": 90,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 706,
+    "name": "psychic-fangs",
+    "type": "psychic",
+    "power": 85,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 707,
+    "name": "stomping-tantrum",
+    "type": "ground",
+    "power": 75,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 708,
+    "name": "shadow-bone",
+    "type": "ghost",
+    "power": 85,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 709,
+    "name": "accelerock",
+    "type": "rock",
+    "power": 40,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 1,
+    "damage_class": "physical"
+  },
+  {
+    "id": 710,
+    "name": "liquidation",
+    "type": "water",
+    "power": 85,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 711,
+    "name": "prismatic-laser",
+    "type": "psychic",
+    "power": 160,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 712,
+    "name": "spectral-thief",
+    "type": "ghost",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 713,
+    "name": "sunsteel-strike",
+    "type": "steel",
+    "power": 100,
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 714,
+    "name": "moongeist-beam",
+    "type": "ghost",
+    "power": 100,
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 715,
+    "name": "tearful-look",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 716,
+    "name": "zing-zap",
+    "type": "electric",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 717,
+    "name": "natures-madness",
+    "type": "fairy",
+    "power": 0,
+    "accuracy": 90,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 718,
+    "name": "multi-attack",
+    "type": "normal",
+    "power": 120,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 719,
+    "name": "10-000-000-volt-thunderbolt",
+    "type": "electric",
+    "power": 195,
+    "accuracy": 0,
+    "pp": 1,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 720,
+    "name": "mind-blown",
+    "type": "fire",
+    "power": 150,
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 721,
+    "name": "plasma-fists",
+    "type": "electric",
+    "power": 100,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 722,
+    "name": "photon-geyser",
+    "type": "psychic",
+    "power": 100,
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 723,
+    "name": "light-that-burns-the-sky",
+    "type": "psychic",
+    "power": 200,
+    "accuracy": 0,
+    "pp": 1,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 724,
+    "name": "searing-sunraze-smash",
+    "type": "steel",
+    "power": 200,
+    "accuracy": 0,
+    "pp": 1,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 725,
+    "name": "menacing-moonraze-maelstrom",
+    "type": "ghost",
+    "power": 200,
+    "accuracy": 0,
+    "pp": 1,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 726,
+    "name": "lets-snuggle-forever",
+    "type": "fairy",
+    "power": 190,
+    "accuracy": 0,
+    "pp": 1,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 727,
+    "name": "splintered-stormshards",
+    "type": "rock",
+    "power": 190,
+    "accuracy": 0,
+    "pp": 1,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 728,
+    "name": "clangorous-soulblaze",
+    "type": "dragon",
+    "power": 185,
+    "accuracy": 0,
+    "pp": 1,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 729,
+    "name": "zippy-zap",
+    "type": "electric",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 2,
+    "damage_class": "physical"
+  },
+  {
+    "id": 730,
+    "name": "splishy-splash",
+    "type": "water",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 731,
+    "name": "floaty-fall",
+    "type": "flying",
+    "power": 90,
+    "accuracy": 95,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 732,
+    "name": "pika-papow",
+    "type": "electric",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 733,
+    "name": "bouncy-bubble",
+    "type": "water",
+    "power": 60,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 734,
+    "name": "buzzy-buzz",
+    "type": "electric",
+    "power": 60,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 735,
+    "name": "sizzly-slide",
+    "type": "fire",
+    "power": 60,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 736,
+    "name": "glitzy-glow",
+    "type": "psychic",
+    "power": 80,
+    "accuracy": 95,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 737,
+    "name": "baddy-bad",
+    "type": "dark",
+    "power": 80,
+    "accuracy": 95,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 738,
+    "name": "sappy-seed",
+    "type": "grass",
+    "power": 100,
+    "accuracy": 90,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 739,
+    "name": "freezy-frost",
+    "type": "ice",
+    "power": 100,
+    "accuracy": 90,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 740,
+    "name": "sparkly-swirl",
+    "type": "fairy",
+    "power": 120,
+    "accuracy": 85,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 741,
+    "name": "veevee-volley",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 742,
+    "name": "double-iron-bash",
+    "type": "steel",
+    "power": 60,
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 743,
+    "name": "max-guard",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 10,
+    "priority": 4,
+    "damage_class": "status"
+  },
+  {
+    "id": 744,
+    "name": "dynamax-cannon",
+    "type": "dragon",
+    "power": 100,
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 745,
+    "name": "snipe-shot",
+    "type": "water",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 746,
+    "name": "jaw-lock",
+    "type": "dark",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 747,
+    "name": "stuff-cheeks",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 748,
+    "name": "no-retreat",
+    "type": "fighting",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 749,
+    "name": "tar-shot",
+    "type": "rock",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 750,
+    "name": "magic-powder",
+    "type": "psychic",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 751,
+    "name": "dragon-darts",
+    "type": "dragon",
+    "power": 50,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 752,
+    "name": "teatime",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 753,
+    "name": "octolock",
+    "type": "fighting",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 754,
+    "name": "bolt-beak",
+    "type": "electric",
+    "power": 85,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 755,
+    "name": "fishious-rend",
+    "type": "water",
+    "power": 85,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 756,
+    "name": "court-change",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 757,
+    "name": "max-flare",
+    "type": "fire",
+    "power": 100,
+    "accuracy": 0,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 758,
+    "name": "max-flutterby",
+    "type": "bug",
+    "power": 10,
+    "accuracy": 0,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 759,
+    "name": "max-lightning",
+    "type": "electric",
+    "power": 10,
+    "accuracy": 0,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 760,
+    "name": "max-strike",
+    "type": "normal",
+    "power": 10,
+    "accuracy": 0,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 761,
+    "name": "max-knuckle",
+    "type": "fighting",
+    "power": 10,
+    "accuracy": 0,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 762,
+    "name": "max-phantasm",
+    "type": "ghost",
+    "power": 10,
+    "accuracy": 0,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 763,
+    "name": "max-hailstorm",
+    "type": "ice",
+    "power": 10,
+    "accuracy": 0,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 764,
+    "name": "max-ooze",
+    "type": "poison",
+    "power": 10,
+    "accuracy": 0,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 765,
+    "name": "max-geyser",
+    "type": "water",
+    "power": 10,
+    "accuracy": 0,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 766,
+    "name": "max-airstream",
+    "type": "flying",
+    "power": 10,
+    "accuracy": 0,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 767,
+    "name": "max-starfall",
+    "type": "fairy",
+    "power": 10,
+    "accuracy": 0,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 768,
+    "name": "max-wyrmwind",
+    "type": "dragon",
+    "power": 10,
+    "accuracy": 0,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 769,
+    "name": "max-mindstorm",
+    "type": "psychic",
+    "power": 10,
+    "accuracy": 0,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 770,
+    "name": "max-rockfall",
+    "type": "rock",
+    "power": 10,
+    "accuracy": 0,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 771,
+    "name": "max-quake",
+    "type": "ground",
+    "power": 10,
+    "accuracy": 0,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 772,
+    "name": "max-darkness",
+    "type": "dark",
+    "power": 10,
+    "accuracy": 0,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 773,
+    "name": "max-overgrowth",
+    "type": "grass",
+    "power": 10,
+    "accuracy": 0,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 774,
+    "name": "max-steelspike",
+    "type": "steel",
+    "power": 10,
+    "accuracy": 0,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 775,
+    "name": "clangorous-soul",
+    "type": "dragon",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 776,
+    "name": "body-press",
+    "type": "fighting",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 777,
+    "name": "decorate",
+    "type": "fairy",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 778,
+    "name": "drum-beating",
+    "type": "grass",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 779,
+    "name": "snap-trap",
+    "type": "grass",
+    "power": 35,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 780,
+    "name": "pyro-ball",
+    "type": "fire",
+    "power": 120,
+    "accuracy": 90,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 781,
+    "name": "behemoth-blade",
+    "type": "steel",
+    "power": 100,
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 782,
+    "name": "behemoth-bash",
+    "type": "steel",
+    "power": 100,
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 783,
+    "name": "aura-wheel",
+    "type": "electric",
+    "power": 110,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 784,
+    "name": "breaking-swipe",
+    "type": "dragon",
+    "power": 60,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 785,
+    "name": "branch-poke",
+    "type": "grass",
+    "power": 40,
+    "accuracy": 100,
+    "pp": 40,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 786,
+    "name": "overdrive",
+    "type": "electric",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 787,
+    "name": "apple-acid",
+    "type": "grass",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 788,
+    "name": "grav-apple",
+    "type": "grass",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 789,
+    "name": "spirit-break",
+    "type": "fairy",
+    "power": 75,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 790,
+    "name": "strange-steam",
+    "type": "fairy",
+    "power": 90,
+    "accuracy": 95,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 791,
+    "name": "life-dew",
+    "type": "water",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 792,
+    "name": "obstruct",
+    "type": "dark",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 4,
+    "damage_class": "status"
+  },
+  {
+    "id": 793,
+    "name": "false-surrender",
+    "type": "dark",
+    "power": 80,
+    "accuracy": 0,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 794,
+    "name": "meteor-assault",
+    "type": "fighting",
+    "power": 150,
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 795,
+    "name": "eternabeam",
+    "type": "dragon",
+    "power": 160,
+    "accuracy": 90,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 796,
+    "name": "steel-beam",
+    "type": "steel",
+    "power": 140,
+    "accuracy": 95,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 797,
+    "name": "expanding-force",
+    "type": "psychic",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 798,
+    "name": "steel-roller",
+    "type": "steel",
+    "power": 130,
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 799,
+    "name": "scale-shot",
+    "type": "dragon",
+    "power": 25,
+    "accuracy": 90,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 800,
+    "name": "meteor-beam",
+    "type": "rock",
+    "power": 120,
+    "accuracy": 90,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 801,
+    "name": "shell-side-arm",
+    "type": "poison",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 802,
+    "name": "misty-explosion",
+    "type": "fairy",
+    "power": 100,
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 803,
+    "name": "grassy-glide",
+    "type": "grass",
+    "power": 55,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 804,
+    "name": "rising-voltage",
+    "type": "electric",
+    "power": 70,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 805,
+    "name": "terrain-pulse",
+    "type": "normal",
+    "power": 50,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 806,
+    "name": "skitter-smack",
+    "type": "bug",
+    "power": 70,
+    "accuracy": 90,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 807,
+    "name": "burning-jealousy",
+    "type": "fire",
+    "power": 70,
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 808,
+    "name": "lash-out",
+    "type": "dark",
+    "power": 75,
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 809,
+    "name": "poltergeist",
+    "type": "ghost",
+    "power": 110,
+    "accuracy": 90,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 810,
+    "name": "corrosive-gas",
+    "type": "poison",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 40,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 811,
+    "name": "coaching",
+    "type": "fighting",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 812,
+    "name": "flip-turn",
+    "type": "water",
+    "power": 60,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 813,
+    "name": "triple-axel",
+    "type": "ice",
+    "power": 20,
+    "accuracy": 90,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 814,
+    "name": "dual-wingbeat",
+    "type": "flying",
+    "power": 40,
+    "accuracy": 90,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 815,
+    "name": "scorching-sands",
+    "type": "ground",
+    "power": 70,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 816,
+    "name": "jungle-healing",
+    "type": "grass",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 817,
+    "name": "wicked-blow",
+    "type": "dark",
+    "power": 75,
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 818,
+    "name": "surging-strikes",
+    "type": "water",
+    "power": 25,
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 819,
+    "name": "thunder-cage",
+    "type": "electric",
+    "power": 80,
+    "accuracy": 90,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 820,
+    "name": "dragon-energy",
+    "type": "dragon",
+    "power": 150,
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 821,
+    "name": "freezing-glare",
+    "type": "psychic",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 822,
+    "name": "fiery-wrath",
+    "type": "dark",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 823,
+    "name": "thunderous-kick",
+    "type": "fighting",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 824,
+    "name": "glacial-lance",
+    "type": "ice",
+    "power": 120,
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 825,
+    "name": "astral-barrage",
+    "type": "ghost",
+    "power": 120,
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 826,
+    "name": "eerie-spell",
+    "type": "psychic",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 827,
+    "name": "dire-claw",
+    "type": "poison",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 828,
+    "name": "psyshield-bash",
+    "type": "psychic",
+    "power": 70,
+    "accuracy": 90,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 829,
+    "name": "power-shift",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 830,
+    "name": "stone-axe",
+    "type": "rock",
+    "power": 65,
+    "accuracy": 90,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 831,
+    "name": "springtide-storm",
+    "type": "fairy",
+    "power": 100,
+    "accuracy": 80,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 832,
+    "name": "mystical-power",
+    "type": "psychic",
+    "power": 70,
+    "accuracy": 90,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 833,
+    "name": "raging-fury",
+    "type": "fire",
+    "power": 120,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 834,
+    "name": "wave-crash",
+    "type": "water",
+    "power": 120,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 835,
+    "name": "chloroblast",
+    "type": "grass",
+    "power": 150,
+    "accuracy": 95,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 836,
+    "name": "mountain-gale",
+    "type": "ice",
+    "power": 100,
+    "accuracy": 85,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 837,
+    "name": "victory-dance",
+    "type": "fighting",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 838,
+    "name": "headlong-rush",
+    "type": "ground",
+    "power": 120,
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 839,
+    "name": "barb-barrage",
+    "type": "poison",
+    "power": 60,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 840,
+    "name": "esper-wing",
+    "type": "psychic",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 841,
+    "name": "bitter-malice",
+    "type": "ghost",
+    "power": 75,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 842,
+    "name": "shelter",
+    "type": "steel",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 843,
+    "name": "triple-arrows",
+    "type": "fighting",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 844,
+    "name": "infernal-parade",
+    "type": "ghost",
+    "power": 60,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 845,
+    "name": "ceaseless-edge",
+    "type": "dark",
+    "power": 65,
+    "accuracy": 90,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 846,
+    "name": "bleakwind-storm",
+    "type": "flying",
+    "power": 100,
+    "accuracy": 80,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 847,
+    "name": "wildbolt-storm",
+    "type": "electric",
+    "power": 100,
+    "accuracy": 80,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 848,
+    "name": "sandsear-storm",
+    "type": "ground",
+    "power": 100,
+    "accuracy": 80,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 849,
+    "name": "lunar-blessing",
+    "type": "psychic",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 850,
+    "name": "take-heart",
+    "type": "psychic",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 851,
+    "name": "tera-blast",
+    "type": "normal",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 852,
+    "name": "silk-trap",
+    "type": "bug",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 10,
+    "priority": 4,
+    "damage_class": "status"
+  },
+  {
+    "id": 853,
+    "name": "axe-kick",
+    "type": "fighting",
+    "power": 120,
+    "accuracy": 90,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 854,
+    "name": "last-respects",
+    "type": "ghost",
+    "power": 50,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 855,
+    "name": "lumina-crash",
+    "type": "psychic",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 856,
+    "name": "order-up",
+    "type": "dragon",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 857,
+    "name": "jet-punch",
+    "type": "water",
+    "power": 60,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 1,
+    "damage_class": "physical"
+  },
+  {
+    "id": 858,
+    "name": "spicy-extract",
+    "type": "grass",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 859,
+    "name": "spin-out",
+    "type": "steel",
+    "power": 100,
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 860,
+    "name": "population-bomb",
+    "type": "normal",
+    "power": 20,
+    "accuracy": 90,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 861,
+    "name": "ice-spinner",
+    "type": "ice",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 862,
+    "name": "glaive-rush",
+    "type": "dragon",
+    "power": 120,
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 863,
+    "name": "revival-blessing",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 1,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 864,
+    "name": "salt-cure",
+    "type": "rock",
+    "power": 40,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 865,
+    "name": "triple-dive",
+    "type": "water",
+    "power": 30,
+    "accuracy": 95,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 866,
+    "name": "mortal-spin",
+    "type": "poison",
+    "power": 30,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 867,
+    "name": "doodle",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 868,
+    "name": "fillet-away",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 869,
+    "name": "kowtow-cleave",
+    "type": "dark",
+    "power": 85,
+    "accuracy": 0,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 870,
+    "name": "flower-trick",
+    "type": "grass",
+    "power": 70,
+    "accuracy": 0,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 871,
+    "name": "torch-song",
+    "type": "fire",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 872,
+    "name": "aqua-step",
+    "type": "water",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 873,
+    "name": "raging-bull",
+    "type": "normal",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 874,
+    "name": "make-it-rain",
+    "type": "steel",
+    "power": 120,
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 875,
+    "name": "psyblade",
+    "type": "psychic",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 876,
+    "name": "hydro-steam",
+    "type": "water",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 877,
+    "name": "ruination",
+    "type": "dark",
+    "power": 1,
+    "accuracy": 90,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 878,
+    "name": "collision-course",
+    "type": "fighting",
+    "power": 100,
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 879,
+    "name": "electro-drift",
+    "type": "electric",
+    "power": 100,
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 880,
+    "name": "shed-tail",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 881,
+    "name": "chilly-reception",
+    "type": "ice",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 882,
+    "name": "tidy-up",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 883,
+    "name": "snowscape",
+    "type": "ice",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 884,
+    "name": "pounce",
+    "type": "bug",
+    "power": 50,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 885,
+    "name": "trailblaze",
+    "type": "grass",
+    "power": 50,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 886,
+    "name": "chilling-water",
+    "type": "water",
+    "power": 50,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 887,
+    "name": "hyper-drill",
+    "type": "normal",
+    "power": 100,
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 888,
+    "name": "twin-beam",
+    "type": "psychic",
+    "power": 40,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 889,
+    "name": "rage-fist",
+    "type": "ghost",
+    "power": 50,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 890,
+    "name": "armor-cannon",
+    "type": "fire",
+    "power": 120,
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 891,
+    "name": "bitter-blade",
+    "type": "fire",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 892,
+    "name": "double-shock",
+    "type": "electric",
+    "power": 120,
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 893,
+    "name": "gigaton-hammer",
+    "type": "steel",
+    "power": 160,
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 894,
+    "name": "comeuppance",
+    "type": "dark",
+    "power": 1,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 895,
+    "name": "aqua-cutter",
+    "type": "water",
+    "power": 70,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 896,
+    "name": "blazing-torque",
+    "type": "fire",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 897,
+    "name": "wicked-torque",
+    "type": "dark",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 898,
+    "name": "noxious-torque",
+    "type": "poison",
+    "power": 100,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 899,
+    "name": "combat-torque",
+    "type": "fighting",
+    "power": 100,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 900,
+    "name": "magical-torque",
+    "type": "fairy",
+    "power": 100,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 901,
+    "name": "blood-moon",
+    "type": "normal",
+    "power": 140,
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 902,
+    "name": "matcha-gotcha",
+    "type": "grass",
+    "power": 80,
+    "accuracy": 90,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 903,
+    "name": "syrup-bomb",
+    "type": "grass",
+    "power": 60,
+    "accuracy": 85,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 904,
+    "name": "ivy-cudgel",
+    "type": "grass",
+    "power": 100,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 905,
+    "name": "electro-shot",
+    "type": "electric",
+    "power": 130,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 906,
+    "name": "tera-starstorm",
+    "type": "normal",
+    "power": 120,
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 907,
+    "name": "fickle-beam",
+    "type": "dragon",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 908,
+    "name": "burning-bulwark",
+    "type": "fire",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 10,
+    "priority": 4,
+    "damage_class": "status"
+  },
+  {
+    "id": 909,
+    "name": "thunderclap",
+    "type": "electric",
+    "power": 70,
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 1,
+    "damage_class": "special"
+  },
+  {
+    "id": 910,
+    "name": "mighty-cleave",
+    "type": "rock",
+    "power": 95,
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 911,
+    "name": "tachyon-cutter",
+    "type": "steel",
+    "power": 50,
+    "accuracy": 0,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 912,
+    "name": "hard-press",
+    "type": "steel",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 913,
+    "name": "dragon-cheer",
+    "type": "dragon",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "status"
+  },
+  {
+    "id": 914,
+    "name": "alluring-voice",
+    "type": "fairy",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 915,
+    "name": "temper-flare",
+    "type": "fire",
+    "power": 75,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 916,
+    "name": "supercell-slam",
+    "type": "electric",
+    "power": 100,
+    "accuracy": 95,
+    "pp": 15,
+    "priority": 0,
+    "damage_class": "physical"
+  },
+  {
+    "id": 917,
+    "name": "psychic-noise",
+    "type": "psychic",
+    "power": 75,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "damage_class": "special"
+  },
+  {
+    "id": 918,
+    "name": "upper-hand",
+    "type": "fighting",
+    "power": 65,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 3,
+    "damage_class": "physical"
+  },
+  {
+    "id": 919,
+    "name": "malignant-chain",
+    "type": "poison",
+    "power": 100,
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 0,
+    "damage_class": "special"
+  }
+]

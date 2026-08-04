@@ -1,0 +1,87 @@
+{
+  "id": 925,
+  "name": "maushold-family-of-four",
+  "generations": {
+    "9": {
+      "types": [
+        "normal"
+      ],
+      "stats": {
+        "generation": 9,
+        "number": 925,
+        "hp": 74,
+        "attack": 75,
+        "defense": 70,
+        "special_attack": 65,
+        "special_defense": 75,
+        "speed": 111
+      },
+      "height": 0.3,
+      "weight": 2.8,
+      "moves": [
+        "pound",
+        "take-down",
+        "double-edge",
+        "hyper-beam",
+        "low-kick",
+        "thunder-wave",
+        "dig",
+        "agility",
+        "swift",
+        "rest",
+        "super-fang",
+        "substitute",
+        "thief",
+        "protect",
+        "mud-slap",
+        "endure",
+        "charm",
+        "sleep-talk",
+        "encore",
+        "rain-dance",
+        "sunny-day",
+        "crunch",
+        "beat-up",
+        "facade",
+        "follow-me",
+        "taunt",
+        "helping-hand",
+        "hyper-voice",
+        "fake-tears",
+        "bullet-seed",
+        "aerial-ace",
+        "mud-shot",
+        "water-pulse",
+        "u-turn",
+        "copycat",
+        "seed-bomb",
+        "giga-impact",
+        "shadow-claw",
+        "grass-knot",
+        "double-hit",
+        "low-sweep",
+        "echoed-voice",
+        "play-rough",
+        "baby-doll-eyes",
+        "tera-blast",
+        "population-bomb",
+        "tidy-up",
+        "trailblaze",
+        "chilling-water"
+      ],
+      "abilities": [
+        "friend-guard",
+        "cheek-pouch",
+        "technician"
+      ],
+      "availability": [
+        "scarlet",
+        "violet"
+      ],
+      "description": "The two little ones just appeared one day. The group might be a family of related Pok\u00e9mon, but nobody knows for sure.",
+      "is_legendary": false,
+      "is_mythical": false,
+      "is_fully_evolved": true
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": 690,
+  "name": "beak-blast",
+  "generations": {
+    "7": {
+      "id": 690,
+      "name": "beak-blast",
+      "type": "flying",
+      "power": 100,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": -3,
+      "damage_class": "physical"
+    },
+    "8": {
+      "id": 690,
+      "name": "beak-blast",
+      "type": "flying",
+      "power": 100,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": -3,
+      "damage_class": "physical"
+    },
+    "9": {
+      "id": 690,
+      "name": "beak-blast",
+      "type": "flying",
+      "power": 100,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": -3,
+      "damage_class": "physical"
+    }
+  }
+}

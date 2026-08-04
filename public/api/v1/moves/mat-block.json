@@ -1,0 +1,56 @@
+{
+  "id": 561,
+  "name": "mat-block",
+  "generations": {
+    "5": {
+      "id": 561,
+      "name": "mat-block",
+      "type": "fighting",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "6": {
+      "id": 561,
+      "name": "mat-block",
+      "type": "fighting",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "7": {
+      "id": 561,
+      "name": "mat-block",
+      "type": "fighting",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "8": {
+      "id": 561,
+      "name": "mat-block",
+      "type": "fighting",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "9": {
+      "id": 561,
+      "name": "mat-block",
+      "type": "fighting",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "status"
+    }
+  }
+}

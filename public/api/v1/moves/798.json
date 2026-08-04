@@ -1,0 +1,26 @@
+{
+  "id": 798,
+  "name": "steel-roller",
+  "generations": {
+    "8": {
+      "id": 798,
+      "name": "steel-roller",
+      "type": "steel",
+      "power": 130,
+      "accuracy": 100,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "9": {
+      "id": 798,
+      "name": "steel-roller",
+      "type": "steel",
+      "power": 130,
+      "accuracy": 100,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "physical"
+    }
+  }
+}

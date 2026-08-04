@@ -1,0 +1,96 @@
+{
+  "id": 139,
+  "name": "poison-gas",
+  "generations": {
+    "1": {
+      "id": 139,
+      "name": "poison-gas",
+      "type": "poison",
+      "power": 0,
+      "accuracy": 55,
+      "pp": 40,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "2": {
+      "id": 139,
+      "name": "poison-gas",
+      "type": "poison",
+      "power": 0,
+      "accuracy": 55,
+      "pp": 40,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "3": {
+      "id": 139,
+      "name": "poison-gas",
+      "type": "poison",
+      "power": 0,
+      "accuracy": 55,
+      "pp": 40,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "4": {
+      "id": 139,
+      "name": "poison-gas",
+      "type": "poison",
+      "power": 0,
+      "accuracy": 55,
+      "pp": 40,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "5": {
+      "id": 139,
+      "name": "poison-gas",
+      "type": "poison",
+      "power": 0,
+      "accuracy": 55,
+      "pp": 40,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "6": {
+      "id": 139,
+      "name": "poison-gas",
+      "type": "poison",
+      "power": 0,
+      "accuracy": 80,
+      "pp": 40,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "7": {
+      "id": 139,
+      "name": "poison-gas",
+      "type": "poison",
+      "power": 0,
+      "accuracy": 90,
+      "pp": 40,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "8": {
+      "id": 139,
+      "name": "poison-gas",
+      "type": "poison",
+      "power": 0,
+      "accuracy": 90,
+      "pp": 40,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "9": {
+      "id": 139,
+      "name": "poison-gas",
+      "type": "poison",
+      "power": 0,
+      "accuracy": 90,
+      "pp": 40,
+      "priority": 0,
+      "damage_class": "status"
+    }
+  }
+}

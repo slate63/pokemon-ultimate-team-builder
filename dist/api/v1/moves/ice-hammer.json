@@ -1,0 +1,46 @@
+{
+  "id": 665,
+  "name": "ice-hammer",
+  "generations": {
+    "6": {
+      "id": 665,
+      "name": "ice-hammer",
+      "type": "ice",
+      "power": 100,
+      "accuracy": 90,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "7": {
+      "id": 665,
+      "name": "ice-hammer",
+      "type": "ice",
+      "power": 100,
+      "accuracy": 90,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "8": {
+      "id": 665,
+      "name": "ice-hammer",
+      "type": "ice",
+      "power": 100,
+      "accuracy": 90,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "9": {
+      "id": 665,
+      "name": "ice-hammer",
+      "type": "ice",
+      "power": 100,
+      "accuracy": 90,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    }
+  }
+}

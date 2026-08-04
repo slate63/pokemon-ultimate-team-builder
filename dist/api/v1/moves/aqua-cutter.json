@@ -1,0 +1,16 @@
+{
+  "id": 895,
+  "name": "aqua-cutter",
+  "generations": {
+    "9": {
+      "id": 895,
+      "name": "aqua-cutter",
+      "type": "water",
+      "power": 70,
+      "accuracy": 100,
+      "pp": 20,
+      "priority": 0,
+      "damage_class": "physical"
+    }
+  }
+}

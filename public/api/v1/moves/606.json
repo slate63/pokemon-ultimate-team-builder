@@ -1,0 +1,46 @@
+{
+  "id": 606,
+  "name": "celebrate",
+  "generations": {
+    "6": {
+      "id": 606,
+      "name": "celebrate",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 40,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "7": {
+      "id": 606,
+      "name": "celebrate",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 40,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "8": {
+      "id": 606,
+      "name": "celebrate",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 40,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "9": {
+      "id": 606,
+      "name": "celebrate",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 40,
+      "priority": 0,
+      "damage_class": "status"
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "id": 94,
+  "name": "psychic",
+  "generations": {
+    "1": {
+      "id": 94,
+      "name": "psychic",
+      "type": "psychic",
+      "power": 90,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "2": {
+      "id": 94,
+      "name": "psychic",
+      "type": "psychic",
+      "power": 90,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "3": {
+      "id": 94,
+      "name": "psychic",
+      "type": "psychic",
+      "power": 90,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "4": {
+      "id": 94,
+      "name": "psychic",
+      "type": "psychic",
+      "power": 90,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "5": {
+      "id": 94,
+      "name": "psychic",
+      "type": "psychic",
+      "power": 90,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "6": {
+      "id": 94,
+      "name": "psychic",
+      "type": "psychic",
+      "power": 90,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "7": {
+      "id": 94,
+      "name": "psychic",
+      "type": "psychic",
+      "power": 90,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "8": {
+      "id": 94,
+      "name": "psychic",
+      "type": "psychic",
+      "power": 90,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "9": {
+      "id": 94,
+      "name": "psychic",
+      "type": "psychic",
+      "power": 90,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "special"
+    }
+  }
+}

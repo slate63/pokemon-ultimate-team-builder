@@ -1,0 +1,76 @@
+{
+  "id": 285,
+  "name": "skill-swap",
+  "generations": {
+    "3": {
+      "id": 285,
+      "name": "skill-swap",
+      "type": "psychic",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "4": {
+      "id": 285,
+      "name": "skill-swap",
+      "type": "psychic",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "5": {
+      "id": 285,
+      "name": "skill-swap",
+      "type": "psychic",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "6": {
+      "id": 285,
+      "name": "skill-swap",
+      "type": "psychic",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "7": {
+      "id": 285,
+      "name": "skill-swap",
+      "type": "psychic",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "8": {
+      "id": 285,
+      "name": "skill-swap",
+      "type": "psychic",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "9": {
+      "id": 285,
+      "name": "skill-swap",
+      "type": "psychic",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "status"
+    }
+  }
+}

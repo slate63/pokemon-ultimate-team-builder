@@ -1,0 +1,56 @@
+{
+  "id": 505,
+  "name": "heal-pulse",
+  "generations": {
+    "5": {
+      "id": 505,
+      "name": "heal-pulse",
+      "type": "psychic",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "6": {
+      "id": 505,
+      "name": "heal-pulse",
+      "type": "psychic",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "7": {
+      "id": 505,
+      "name": "heal-pulse",
+      "type": "psychic",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "8": {
+      "id": 505,
+      "name": "heal-pulse",
+      "type": "psychic",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "9": {
+      "id": 505,
+      "name": "heal-pulse",
+      "type": "psychic",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "status"
+    }
+  }
+}

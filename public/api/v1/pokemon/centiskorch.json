@@ -1,0 +1,119 @@
+{
+  "id": 851,
+  "name": "centiskorch",
+  "generations": {
+    "8": {
+      "types": [
+        "fire",
+        "bug"
+      ],
+      "stats": {
+        "generation": 8,
+        "number": 851,
+        "hp": 100,
+        "attack": 115,
+        "defense": 65,
+        "special_attack": 90,
+        "special_defense": 90,
+        "speed": 65
+      },
+      "height": 3.0,
+      "weight": 120.0,
+      "moves": [
+        "slam",
+        "wrap",
+        "bite",
+        "ember",
+        "flamethrower",
+        "hyper-beam",
+        "solar-beam",
+        "fire-spin",
+        "smokescreen",
+        "fire-blast",
+        "leech-life",
+        "rest",
+        "substitute",
+        "flame-wheel",
+        "snore",
+        "protect",
+        "endure",
+        "attract",
+        "sleep-talk",
+        "sunny-day",
+        "crunch",
+        "heat-wave",
+        "will-o-wisp",
+        "facade",
+        "overheat",
+        "flare-blitz",
+        "x-scissor",
+        "bug-buzz",
+        "giga-impact",
+        "thunder-fang",
+        "fire-fang",
+        "power-whip",
+        "bug-bite",
+        "venoshock",
+        "coil",
+        "round",
+        "scald",
+        "inferno",
+        "heat-crash",
+        "mystical-fire",
+        "lunge",
+        "fire-lash",
+        "burn-up",
+        "brutal-swing",
+        "skitter-smack",
+        "scorching-sands"
+      ],
+      "abilities": [
+        "flash-fire",
+        "white-smoke",
+        "flame-body"
+      ],
+      "availability": [
+        "sword",
+        "shield",
+        "brilliant-diamond",
+        "shining-pearl"
+      ],
+      "description": "When it heats up, its body temperature reaches about 1,500 degrees Fahrenheit. It lashes its body like a whip and launches itself at enemies.",
+      "is_legendary": false,
+      "is_mythical": false,
+      "is_fully_evolved": true
+    },
+    "9": {
+      "types": [
+        "fire",
+        "bug"
+      ],
+      "stats": {
+        "generation": 9,
+        "number": 851,
+        "hp": 100,
+        "attack": 115,
+        "defense": 65,
+        "special_attack": 90,
+        "special_defense": 90,
+        "speed": 65
+      },
+      "height": 3.0,
+      "weight": 120.0,
+      "moves": [],
+      "abilities": [
+        "flash-fire",
+        "white-smoke",
+        "flame-body"
+      ],
+      "availability": [
+        "scarlet",
+        "violet"
+      ],
+      "description": "When it heats up, its body temperature reaches about 1,500 degrees Fahrenheit. It lashes its body like a whip and launches itself at enemies.",
+      "is_legendary": false,
+      "is_mythical": false,
+      "is_fully_evolved": true
+    }
+  }
+}

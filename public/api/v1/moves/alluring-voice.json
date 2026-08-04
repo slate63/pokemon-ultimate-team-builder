@@ -1,0 +1,16 @@
+{
+  "id": 914,
+  "name": "alluring-voice",
+  "generations": {
+    "9": {
+      "id": 914,
+      "name": "alluring-voice",
+      "type": "fairy",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "special"
+    }
+  }
+}

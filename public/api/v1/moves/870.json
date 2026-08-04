@@ -1,0 +1,26 @@
+{
+  "id": 870,
+  "name": "flower-trick",
+  "generations": {
+    "8": {
+      "id": 870,
+      "name": "flower-trick",
+      "type": "grass",
+      "power": 70,
+      "accuracy": 0,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "9": {
+      "id": 870,
+      "name": "flower-trick",
+      "type": "grass",
+      "power": 70,
+      "accuracy": 0,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    }
+  }
+}

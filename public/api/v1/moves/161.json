@@ -1,0 +1,96 @@
+{
+  "id": 161,
+  "name": "tri-attack",
+  "generations": {
+    "1": {
+      "id": 161,
+      "name": "tri-attack",
+      "type": "normal",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "2": {
+      "id": 161,
+      "name": "tri-attack",
+      "type": "normal",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "3": {
+      "id": 161,
+      "name": "tri-attack",
+      "type": "normal",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "4": {
+      "id": 161,
+      "name": "tri-attack",
+      "type": "normal",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "5": {
+      "id": 161,
+      "name": "tri-attack",
+      "type": "normal",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "6": {
+      "id": 161,
+      "name": "tri-attack",
+      "type": "normal",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "7": {
+      "id": 161,
+      "name": "tri-attack",
+      "type": "normal",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "8": {
+      "id": 161,
+      "name": "tri-attack",
+      "type": "normal",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "9": {
+      "id": 161,
+      "name": "tri-attack",
+      "type": "normal",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "special"
+    }
+  }
+}

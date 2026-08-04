@@ -1,0 +1,56 @@
+{
+  "id": 537,
+  "name": "steamroller",
+  "generations": {
+    "5": {
+      "id": 537,
+      "name": "steamroller",
+      "type": "bug",
+      "power": 65,
+      "accuracy": 100,
+      "pp": 20,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "6": {
+      "id": 537,
+      "name": "steamroller",
+      "type": "bug",
+      "power": 65,
+      "accuracy": 100,
+      "pp": 20,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "7": {
+      "id": 537,
+      "name": "steamroller",
+      "type": "bug",
+      "power": 65,
+      "accuracy": 100,
+      "pp": 20,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "8": {
+      "id": 537,
+      "name": "steamroller",
+      "type": "bug",
+      "power": 65,
+      "accuracy": 100,
+      "pp": 20,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "9": {
+      "id": 537,
+      "name": "steamroller",
+      "type": "bug",
+      "power": 65,
+      "accuracy": 100,
+      "pp": 20,
+      "priority": 0,
+      "damage_class": "physical"
+    }
+  }
+}

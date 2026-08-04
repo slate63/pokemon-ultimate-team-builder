@@ -1,0 +1,76 @@
+{
+  "id": 824,
+  "name": "blipbug",
+  "generations": {
+    "8": {
+      "types": [
+        "bug"
+      ],
+      "stats": {
+        "generation": 8,
+        "number": 824,
+        "hp": 25,
+        "attack": 20,
+        "defense": 20,
+        "special_attack": 25,
+        "special_defense": 45,
+        "speed": 45
+      },
+      "height": 0.4,
+      "weight": 8.0,
+      "moves": [
+        "supersonic",
+        "recover",
+        "struggle-bug",
+        "sticky-web",
+        "infestation"
+      ],
+      "abilities": [
+        "swarm",
+        "compound-eyes",
+        "telepathy"
+      ],
+      "availability": [
+        "sword",
+        "shield",
+        "brilliant-diamond",
+        "shining-pearl"
+      ],
+      "description": "A constant collector of information, this Pok\u00e9mon is very smart. Very strong is what it isn\u2019t.",
+      "is_legendary": false,
+      "is_mythical": false,
+      "is_fully_evolved": false
+    },
+    "9": {
+      "types": [
+        "bug"
+      ],
+      "stats": {
+        "generation": 9,
+        "number": 824,
+        "hp": 25,
+        "attack": 20,
+        "defense": 20,
+        "special_attack": 25,
+        "special_defense": 45,
+        "speed": 45
+      },
+      "height": 0.4,
+      "weight": 8.0,
+      "moves": [],
+      "abilities": [
+        "swarm",
+        "compound-eyes",
+        "telepathy"
+      ],
+      "availability": [
+        "scarlet",
+        "violet"
+      ],
+      "description": "A constant collector of information, this Pok\u00e9mon is very smart. Very strong is what it isn\u2019t.",
+      "is_legendary": false,
+      "is_mythical": false,
+      "is_fully_evolved": false
+    }
+  }
+}

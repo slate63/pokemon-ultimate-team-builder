@@ -1,0 +1,36 @@
+{
+  "id": 733,
+  "name": "bouncy-bubble",
+  "generations": {
+    "7": {
+      "id": 733,
+      "name": "bouncy-bubble",
+      "type": "water",
+      "power": 90,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "8": {
+      "id": 733,
+      "name": "bouncy-bubble",
+      "type": "water",
+      "power": 90,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "9": {
+      "id": 733,
+      "name": "bouncy-bubble",
+      "type": "water",
+      "power": 60,
+      "accuracy": 100,
+      "pp": 20,
+      "priority": 0,
+      "damage_class": "special"
+    }
+  }
+}

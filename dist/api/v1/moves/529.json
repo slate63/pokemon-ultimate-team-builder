@@ -1,0 +1,56 @@
+{
+  "id": 529,
+  "name": "drill-run",
+  "generations": {
+    "5": {
+      "id": 529,
+      "name": "drill-run",
+      "type": "ground",
+      "power": 80,
+      "accuracy": 95,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "6": {
+      "id": 529,
+      "name": "drill-run",
+      "type": "ground",
+      "power": 80,
+      "accuracy": 95,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "7": {
+      "id": 529,
+      "name": "drill-run",
+      "type": "ground",
+      "power": 80,
+      "accuracy": 95,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "8": {
+      "id": 529,
+      "name": "drill-run",
+      "type": "ground",
+      "power": 80,
+      "accuracy": 95,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "9": {
+      "id": 529,
+      "name": "drill-run",
+      "type": "ground",
+      "power": 80,
+      "accuracy": 95,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "id": 12,
+  "name": "guillotine",
+  "generations": {
+    "1": {
+      "id": 12,
+      "name": "guillotine",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 30,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "2": {
+      "id": 12,
+      "name": "guillotine",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 30,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "3": {
+      "id": 12,
+      "name": "guillotine",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 30,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "4": {
+      "id": 12,
+      "name": "guillotine",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 30,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "5": {
+      "id": 12,
+      "name": "guillotine",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 30,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "6": {
+      "id": 12,
+      "name": "guillotine",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 30,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "7": {
+      "id": 12,
+      "name": "guillotine",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 30,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "8": {
+      "id": 12,
+      "name": "guillotine",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 30,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "9": {
+      "id": 12,
+      "name": "guillotine",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 30,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "physical"
+    }
+  }
+}

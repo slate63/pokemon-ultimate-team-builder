@@ -1,0 +1,26 @@
+{
+  "id": 832,
+  "name": "mystical-power",
+  "generations": {
+    "8": {
+      "id": 832,
+      "name": "mystical-power",
+      "type": "psychic",
+      "power": 70,
+      "accuracy": 90,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "9": {
+      "id": 832,
+      "name": "mystical-power",
+      "type": "psychic",
+      "power": 70,
+      "accuracy": 90,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "special"
+    }
+  }
+}

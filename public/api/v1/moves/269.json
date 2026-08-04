@@ -1,0 +1,76 @@
+{
+  "id": 269,
+  "name": "taunt",
+  "generations": {
+    "3": {
+      "id": 269,
+      "name": "taunt",
+      "type": "dark",
+      "power": 0,
+      "accuracy": 100,
+      "pp": 20,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "4": {
+      "id": 269,
+      "name": "taunt",
+      "type": "dark",
+      "power": 0,
+      "accuracy": 100,
+      "pp": 20,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "5": {
+      "id": 269,
+      "name": "taunt",
+      "type": "dark",
+      "power": 0,
+      "accuracy": 100,
+      "pp": 20,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "6": {
+      "id": 269,
+      "name": "taunt",
+      "type": "dark",
+      "power": 0,
+      "accuracy": 100,
+      "pp": 20,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "7": {
+      "id": 269,
+      "name": "taunt",
+      "type": "dark",
+      "power": 0,
+      "accuracy": 100,
+      "pp": 20,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "8": {
+      "id": 269,
+      "name": "taunt",
+      "type": "dark",
+      "power": 0,
+      "accuracy": 100,
+      "pp": 20,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "9": {
+      "id": 269,
+      "name": "taunt",
+      "type": "dark",
+      "power": 0,
+      "accuracy": 100,
+      "pp": 20,
+      "priority": 0,
+      "damage_class": "status"
+    }
+  }
+}

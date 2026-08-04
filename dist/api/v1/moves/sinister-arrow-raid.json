@@ -1,0 +1,36 @@
+{
+  "id": 695,
+  "name": "sinister-arrow-raid",
+  "generations": {
+    "7": {
+      "id": 695,
+      "name": "sinister-arrow-raid",
+      "type": "ghost",
+      "power": 180,
+      "accuracy": 0,
+      "pp": 1,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "8": {
+      "id": 695,
+      "name": "sinister-arrow-raid",
+      "type": "ghost",
+      "power": 180,
+      "accuracy": 0,
+      "pp": 1,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "9": {
+      "id": 695,
+      "name": "sinister-arrow-raid",
+      "type": "ghost",
+      "power": 180,
+      "accuracy": 0,
+      "pp": 1,
+      "priority": 0,
+      "damage_class": "physical"
+    }
+  }
+}

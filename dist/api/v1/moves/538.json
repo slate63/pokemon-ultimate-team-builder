@@ -1,0 +1,56 @@
+{
+  "id": 538,
+  "name": "cotton-guard",
+  "generations": {
+    "5": {
+      "id": 538,
+      "name": "cotton-guard",
+      "type": "grass",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "6": {
+      "id": 538,
+      "name": "cotton-guard",
+      "type": "grass",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "7": {
+      "id": 538,
+      "name": "cotton-guard",
+      "type": "grass",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "8": {
+      "id": 538,
+      "name": "cotton-guard",
+      "type": "grass",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "9": {
+      "id": 538,
+      "name": "cotton-guard",
+      "type": "grass",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "status"
+    }
+  }
+}

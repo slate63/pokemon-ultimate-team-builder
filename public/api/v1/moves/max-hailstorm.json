@@ -1,0 +1,36 @@
+{
+  "id": 763,
+  "name": "max-hailstorm",
+  "generations": {
+    "7": {
+      "id": 763,
+      "name": "max-hailstorm",
+      "type": "ice",
+      "power": 10,
+      "accuracy": 0,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "8": {
+      "id": 763,
+      "name": "max-hailstorm",
+      "type": "ice",
+      "power": 10,
+      "accuracy": 0,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "9": {
+      "id": 763,
+      "name": "max-hailstorm",
+      "type": "ice",
+      "power": 10,
+      "accuracy": 0,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    }
+  }
+}

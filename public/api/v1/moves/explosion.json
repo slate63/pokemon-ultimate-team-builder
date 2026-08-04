@@ -1,0 +1,96 @@
+{
+  "id": 153,
+  "name": "explosion",
+  "generations": {
+    "1": {
+      "id": 153,
+      "name": "explosion",
+      "type": "normal",
+      "power": 170,
+      "accuracy": 100,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "2": {
+      "id": 153,
+      "name": "explosion",
+      "type": "normal",
+      "power": 170,
+      "accuracy": 100,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "3": {
+      "id": 153,
+      "name": "explosion",
+      "type": "normal",
+      "power": 250,
+      "accuracy": 100,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "4": {
+      "id": 153,
+      "name": "explosion",
+      "type": "normal",
+      "power": 250,
+      "accuracy": 100,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "5": {
+      "id": 153,
+      "name": "explosion",
+      "type": "normal",
+      "power": 250,
+      "accuracy": 100,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "6": {
+      "id": 153,
+      "name": "explosion",
+      "type": "normal",
+      "power": 250,
+      "accuracy": 100,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "7": {
+      "id": 153,
+      "name": "explosion",
+      "type": "normal",
+      "power": 250,
+      "accuracy": 100,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "8": {
+      "id": 153,
+      "name": "explosion",
+      "type": "normal",
+      "power": 250,
+      "accuracy": 100,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "9": {
+      "id": 153,
+      "name": "explosion",
+      "type": "normal",
+      "power": 250,
+      "accuracy": 100,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "physical"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": 794,
+  "name": "meteor-assault",
+  "generations": {
+    "8": {
+      "id": 794,
+      "name": "meteor-assault",
+      "type": "fighting",
+      "power": 150,
+      "accuracy": 100,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "9": {
+      "id": 794,
+      "name": "meteor-assault",
+      "type": "fighting",
+      "power": 150,
+      "accuracy": 100,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "physical"
+    }
+  }
+}

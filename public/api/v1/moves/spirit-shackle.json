@@ -1,0 +1,46 @@
+{
+  "id": 662,
+  "name": "spirit-shackle",
+  "generations": {
+    "6": {
+      "id": 662,
+      "name": "spirit-shackle",
+      "type": "ghost",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "7": {
+      "id": 662,
+      "name": "spirit-shackle",
+      "type": "ghost",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "8": {
+      "id": 662,
+      "name": "spirit-shackle",
+      "type": "ghost",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "9": {
+      "id": 662,
+      "name": "spirit-shackle",
+      "type": "ghost",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    }
+  }
+}

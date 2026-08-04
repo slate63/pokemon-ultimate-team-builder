@@ -1,0 +1,56 @@
+{
+  "id": 497,
+  "name": "echoed-voice",
+  "generations": {
+    "5": {
+      "id": 497,
+      "name": "echoed-voice",
+      "type": "normal",
+      "power": 40,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "6": {
+      "id": 497,
+      "name": "echoed-voice",
+      "type": "normal",
+      "power": 40,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "7": {
+      "id": 497,
+      "name": "echoed-voice",
+      "type": "normal",
+      "power": 40,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "8": {
+      "id": 497,
+      "name": "echoed-voice",
+      "type": "normal",
+      "power": 40,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "9": {
+      "id": 497,
+      "name": "echoed-voice",
+      "type": "normal",
+      "power": 40,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "special"
+    }
+  }
+}

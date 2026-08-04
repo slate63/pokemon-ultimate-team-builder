@@ -1,0 +1,46 @@
+{
+  "id": 585,
+  "name": "moonblast",
+  "generations": {
+    "6": {
+      "id": 585,
+      "name": "moonblast",
+      "type": "fairy",
+      "power": 95,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "7": {
+      "id": 585,
+      "name": "moonblast",
+      "type": "fairy",
+      "power": 95,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "8": {
+      "id": 585,
+      "name": "moonblast",
+      "type": "fairy",
+      "power": 95,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "9": {
+      "id": 585,
+      "name": "moonblast",
+      "type": "fairy",
+      "power": 95,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "special"
+    }
+  }
+}

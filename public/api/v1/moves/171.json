@@ -1,0 +1,86 @@
+{
+  "id": 171,
+  "name": "nightmare",
+  "generations": {
+    "2": {
+      "id": 171,
+      "name": "nightmare",
+      "type": "ghost",
+      "power": 0,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "3": {
+      "id": 171,
+      "name": "nightmare",
+      "type": "ghost",
+      "power": 0,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "4": {
+      "id": 171,
+      "name": "nightmare",
+      "type": "ghost",
+      "power": 0,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "5": {
+      "id": 171,
+      "name": "nightmare",
+      "type": "ghost",
+      "power": 0,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "6": {
+      "id": 171,
+      "name": "nightmare",
+      "type": "ghost",
+      "power": 0,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "7": {
+      "id": 171,
+      "name": "nightmare",
+      "type": "ghost",
+      "power": 0,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "8": {
+      "id": 171,
+      "name": "nightmare",
+      "type": "ghost",
+      "power": 0,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "9": {
+      "id": 171,
+      "name": "nightmare",
+      "type": "ghost",
+      "power": 0,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "status"
+    }
+  }
+}

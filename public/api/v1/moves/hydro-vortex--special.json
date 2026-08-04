@@ -1,0 +1,46 @@
+{
+  "id": 643,
+  "name": "hydro-vortex--special",
+  "generations": {
+    "6": {
+      "id": 643,
+      "name": "hydro-vortex--special",
+      "type": "water",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 1,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "7": {
+      "id": 643,
+      "name": "hydro-vortex--special",
+      "type": "water",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 1,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "8": {
+      "id": 643,
+      "name": "hydro-vortex--special",
+      "type": "water",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 1,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "9": {
+      "id": 643,
+      "name": "hydro-vortex--special",
+      "type": "water",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 1,
+      "priority": 0,
+      "damage_class": "special"
+    }
+  }
+}

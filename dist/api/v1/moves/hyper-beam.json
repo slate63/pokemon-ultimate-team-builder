@@ -1,0 +1,96 @@
+{
+  "id": 63,
+  "name": "hyper-beam",
+  "generations": {
+    "1": {
+      "id": 63,
+      "name": "hyper-beam",
+      "type": "normal",
+      "power": 150,
+      "accuracy": 90,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "2": {
+      "id": 63,
+      "name": "hyper-beam",
+      "type": "normal",
+      "power": 150,
+      "accuracy": 90,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "3": {
+      "id": 63,
+      "name": "hyper-beam",
+      "type": "normal",
+      "power": 150,
+      "accuracy": 90,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "4": {
+      "id": 63,
+      "name": "hyper-beam",
+      "type": "normal",
+      "power": 150,
+      "accuracy": 90,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "5": {
+      "id": 63,
+      "name": "hyper-beam",
+      "type": "normal",
+      "power": 150,
+      "accuracy": 90,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "6": {
+      "id": 63,
+      "name": "hyper-beam",
+      "type": "normal",
+      "power": 150,
+      "accuracy": 90,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "7": {
+      "id": 63,
+      "name": "hyper-beam",
+      "type": "normal",
+      "power": 150,
+      "accuracy": 90,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "8": {
+      "id": 63,
+      "name": "hyper-beam",
+      "type": "normal",
+      "power": 150,
+      "accuracy": 90,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "9": {
+      "id": 63,
+      "name": "hyper-beam",
+      "type": "normal",
+      "power": 150,
+      "accuracy": 90,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "special"
+    }
+  }
+}

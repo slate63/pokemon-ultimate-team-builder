@@ -1,0 +1,66 @@
+{
+  "id": 437,
+  "name": "leaf-storm",
+  "generations": {
+    "4": {
+      "id": 437,
+      "name": "leaf-storm",
+      "type": "grass",
+      "power": 140,
+      "accuracy": 90,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "5": {
+      "id": 437,
+      "name": "leaf-storm",
+      "type": "grass",
+      "power": 140,
+      "accuracy": 90,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "6": {
+      "id": 437,
+      "name": "leaf-storm",
+      "type": "grass",
+      "power": 140,
+      "accuracy": 90,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "7": {
+      "id": 437,
+      "name": "leaf-storm",
+      "type": "grass",
+      "power": 130,
+      "accuracy": 90,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "8": {
+      "id": 437,
+      "name": "leaf-storm",
+      "type": "grass",
+      "power": 130,
+      "accuracy": 90,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "9": {
+      "id": 437,
+      "name": "leaf-storm",
+      "type": "grass",
+      "power": 130,
+      "accuracy": 90,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "special"
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "id": 927,
+  "name": "dachsbun",
+  "generations": {
+    "9": {
+      "types": [
+        "fairy"
+      ],
+      "stats": {
+        "generation": 9,
+        "number": 927,
+        "hp": 57,
+        "attack": 80,
+        "defense": 115,
+        "special_attack": 50,
+        "special_defense": 80,
+        "speed": 95
+      },
+      "height": 0.5,
+      "weight": 14.9,
+      "moves": [
+        "tackle",
+        "body-slam",
+        "take-down",
+        "double-edge",
+        "tail-whip",
+        "bite",
+        "growl",
+        "roar",
+        "hyper-beam",
+        "dig",
+        "agility",
+        "lick",
+        "rest",
+        "substitute",
+        "protect",
+        "scary-face",
+        "mud-slap",
+        "endure",
+        "charm",
+        "sleep-talk",
+        "baton-pass",
+        "rain-dance",
+        "sunny-day",
+        "crunch",
+        "psych-up",
+        "facade",
+        "helping-hand",
+        "endeavor",
+        "mud-shot",
+        "covet",
+        "last-resort",
+        "giga-impact",
+        "thunder-fang",
+        "ice-fang",
+        "fire-fang",
+        "work-up",
+        "snarl",
+        "draining-kiss",
+        "misty-terrain",
+        "play-rough",
+        "dazzling-gleam",
+        "baby-doll-eyes",
+        "psychic-fangs",
+        "stomping-tantrum",
+        "body-press",
+        "tera-blast",
+        "trailblaze",
+        "alluring-voice"
+      ],
+      "abilities": [
+        "well-baked-body",
+        "aroma-veil"
+      ],
+      "availability": [
+        "scarlet",
+        "violet"
+      ],
+      "description": "The pleasant aroma that emanates from this Pok\u00e9mon\u2019s body helps wheat grow, so Dachsbun has been treasured by farming villages.",
+      "is_legendary": false,
+      "is_mythical": false,
+      "is_fully_evolved": true
+    }
+  }
+}

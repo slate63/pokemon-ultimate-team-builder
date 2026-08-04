@@ -1,0 +1,26 @@
+{
+  "id": 833,
+  "name": "raging-fury",
+  "generations": {
+    "8": {
+      "id": 833,
+      "name": "raging-fury",
+      "type": "fire",
+      "power": 120,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "9": {
+      "id": 833,
+      "name": "raging-fury",
+      "type": "fire",
+      "power": 120,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    }
+  }
+}

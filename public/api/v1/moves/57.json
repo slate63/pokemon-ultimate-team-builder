@@ -1,0 +1,96 @@
+{
+  "id": 57,
+  "name": "surf",
+  "generations": {
+    "1": {
+      "id": 57,
+      "name": "surf",
+      "type": "water",
+      "power": 95,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "2": {
+      "id": 57,
+      "name": "surf",
+      "type": "water",
+      "power": 95,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "3": {
+      "id": 57,
+      "name": "surf",
+      "type": "water",
+      "power": 95,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "4": {
+      "id": 57,
+      "name": "surf",
+      "type": "water",
+      "power": 95,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "5": {
+      "id": 57,
+      "name": "surf",
+      "type": "water",
+      "power": 95,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "6": {
+      "id": 57,
+      "name": "surf",
+      "type": "water",
+      "power": 95,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "7": {
+      "id": 57,
+      "name": "surf",
+      "type": "water",
+      "power": 90,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "8": {
+      "id": 57,
+      "name": "surf",
+      "type": "water",
+      "power": 90,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "9": {
+      "id": 57,
+      "name": "surf",
+      "type": "water",
+      "power": 90,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "special"
+    }
+  }
+}

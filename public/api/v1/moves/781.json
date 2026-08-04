@@ -1,0 +1,26 @@
+{
+  "id": 781,
+  "name": "behemoth-blade",
+  "generations": {
+    "8": {
+      "id": 781,
+      "name": "behemoth-blade",
+      "type": "steel",
+      "power": 100,
+      "accuracy": 100,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "9": {
+      "id": 781,
+      "name": "behemoth-blade",
+      "type": "steel",
+      "power": 100,
+      "accuracy": 100,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "physical"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": 753,
+  "name": "octolock",
+  "generations": {
+    "7": {
+      "id": 753,
+      "name": "octolock",
+      "type": "fighting",
+      "power": 0,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "8": {
+      "id": 753,
+      "name": "octolock",
+      "type": "fighting",
+      "power": 0,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "9": {
+      "id": 753,
+      "name": "octolock",
+      "type": "fighting",
+      "power": 0,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "status"
+    }
+  }
+}

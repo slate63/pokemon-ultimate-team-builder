@@ -1,0 +1,16 @@
+{
+  "id": 906,
+  "name": "tera-starstorm",
+  "generations": {
+    "9": {
+      "id": 906,
+      "name": "tera-starstorm",
+      "type": "normal",
+      "power": 120,
+      "accuracy": 100,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "special"
+    }
+  }
+}

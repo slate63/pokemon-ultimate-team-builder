@@ -1,0 +1,26 @@
+{
+  "id": 859,
+  "name": "spin-out",
+  "generations": {
+    "8": {
+      "id": 859,
+      "name": "spin-out",
+      "type": "steel",
+      "power": 100,
+      "accuracy": 100,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "9": {
+      "id": 859,
+      "name": "spin-out",
+      "type": "steel",
+      "power": 100,
+      "accuracy": 100,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "physical"
+    }
+  }
+}

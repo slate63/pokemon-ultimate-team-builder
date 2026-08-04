@@ -1,0 +1,16 @@
+{
+  "id": 892,
+  "name": "double-shock",
+  "generations": {
+    "9": {
+      "id": 892,
+      "name": "double-shock",
+      "type": "electric",
+      "power": 120,
+      "accuracy": 100,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "physical"
+    }
+  }
+}

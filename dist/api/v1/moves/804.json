@@ -1,0 +1,26 @@
+{
+  "id": 804,
+  "name": "rising-voltage",
+  "generations": {
+    "8": {
+      "id": 804,
+      "name": "rising-voltage",
+      "type": "electric",
+      "power": 70,
+      "accuracy": 100,
+      "pp": 20,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "9": {
+      "id": 804,
+      "name": "rising-voltage",
+      "type": "electric",
+      "power": 70,
+      "accuracy": 100,
+      "pp": 20,
+      "priority": 0,
+      "damage_class": "special"
+    }
+  }
+}

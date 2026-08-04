@@ -1,0 +1,92 @@
+{
+  "id": 992,
+  "name": "iron-hands",
+  "generations": {
+    "9": {
+      "types": [
+        "fighting",
+        "electric"
+      ],
+      "stats": {
+        "generation": 9,
+        "number": 992,
+        "hp": 154,
+        "attack": 140,
+        "defense": 108,
+        "special_attack": 50,
+        "special_defense": 68,
+        "speed": 50
+      },
+      "height": 1.8,
+      "weight": 380.7,
+      "moves": [
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch",
+        "swords-dance",
+        "whirlwind",
+        "slam",
+        "sand-attack",
+        "tackle",
+        "body-slam",
+        "take-down",
+        "double-edge",
+        "hyper-beam",
+        "low-kick",
+        "seismic-toss",
+        "thunderbolt",
+        "thunder",
+        "earthquake",
+        "focus-energy",
+        "metronome",
+        "rest",
+        "rock-slide",
+        "substitute",
+        "reversal",
+        "protect",
+        "scary-face",
+        "belly-drum",
+        "detect",
+        "endure",
+        "sleep-talk",
+        "fake-out",
+        "facade",
+        "focus-punch",
+        "charge",
+        "brick-break",
+        "arm-thrust",
+        "rock-tomb",
+        "iron-defense",
+        "close-combat",
+        "fling",
+        "force-palm",
+        "drain-punch",
+        "focus-blast",
+        "giga-impact",
+        "iron-head",
+        "heavy-slam",
+        "low-sweep",
+        "volt-switch",
+        "bulldoze",
+        "wild-charge",
+        "play-rough",
+        "electric-terrain",
+        "stomping-tantrum",
+        "body-press",
+        "tera-blast",
+        "hard-press",
+        "supercell-slam"
+      ],
+      "abilities": [
+        "quark-drive"
+      ],
+      "availability": [
+        "violet"
+      ],
+      "description": "It is very similar to a cyborg covered exclusively by a paranormal magazine. The cyborg was said to be the modified form of a certain athlete.",
+      "is_legendary": false,
+      "is_mythical": false,
+      "is_fully_evolved": true
+    }
+  }
+}

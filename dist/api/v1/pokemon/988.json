@@ -1,0 +1,93 @@
+{
+  "id": 988,
+  "name": "slither-wing",
+  "generations": {
+    "9": {
+      "types": [
+        "bug",
+        "fighting"
+      ],
+      "stats": {
+        "generation": 9,
+        "number": 988,
+        "hp": 85,
+        "attack": 135,
+        "defense": 79,
+        "special_attack": 85,
+        "special_defense": 105,
+        "speed": 81
+      },
+      "height": 3.2,
+      "weight": 92.0,
+      "moves": [
+        "gust",
+        "whirlwind",
+        "stomp",
+        "body-slam",
+        "take-down",
+        "thrash",
+        "double-edge",
+        "ember",
+        "hyper-beam",
+        "low-kick",
+        "poison-powder",
+        "stun-spore",
+        "earthquake",
+        "leech-life",
+        "rest",
+        "substitute",
+        "curse",
+        "reversal",
+        "protect",
+        "sandstorm",
+        "giga-drain",
+        "endure",
+        "sleep-talk",
+        "morning-sun",
+        "rain-dance",
+        "sunny-day",
+        "heat-wave",
+        "will-o-wisp",
+        "facade",
+        "superpower",
+        "brick-break",
+        "aerial-ace",
+        "bulk-up",
+        "u-turn",
+        "close-combat",
+        "flare-blitz",
+        "bug-buzz",
+        "giga-impact",
+        "zen-headbutt",
+        "bug-bite",
+        "heavy-slam",
+        "flame-charge",
+        "low-sweep",
+        "acrobatics",
+        "wild-charge",
+        "heat-crash",
+        "hurricane",
+        "first-impression",
+        "high-horsepower",
+        "lunge",
+        "stomping-tantrum",
+        "body-press",
+        "skitter-smack",
+        "dual-wingbeat",
+        "tera-blast",
+        "trailblaze",
+        "temper-flare"
+      ],
+      "abilities": [
+        "protosynthesis"
+      ],
+      "availability": [
+        "scarlet"
+      ],
+      "description": "This mysterious Pok\u00e9mon has some similarities to a creature that an old book introduced as Slither Wing.",
+      "is_legendary": false,
+      "is_mythical": false,
+      "is_fully_evolved": true
+    }
+  }
+}

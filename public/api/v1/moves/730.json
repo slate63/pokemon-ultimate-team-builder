@@ -1,0 +1,36 @@
+{
+  "id": 730,
+  "name": "splishy-splash",
+  "generations": {
+    "7": {
+      "id": 730,
+      "name": "splishy-splash",
+      "type": "water",
+      "power": 90,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "8": {
+      "id": 730,
+      "name": "splishy-splash",
+      "type": "water",
+      "power": 90,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "9": {
+      "id": 730,
+      "name": "splishy-splash",
+      "type": "water",
+      "power": 90,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "special"
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": 484,
+  "name": "heavy-slam",
+  "generations": {
+    "5": {
+      "id": 484,
+      "name": "heavy-slam",
+      "type": "steel",
+      "power": 0,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "6": {
+      "id": 484,
+      "name": "heavy-slam",
+      "type": "steel",
+      "power": 0,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "7": {
+      "id": 484,
+      "name": "heavy-slam",
+      "type": "steel",
+      "power": 0,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "8": {
+      "id": 484,
+      "name": "heavy-slam",
+      "type": "steel",
+      "power": 0,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "9": {
+      "id": 484,
+      "name": "heavy-slam",
+      "type": "steel",
+      "power": 0,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    }
+  }
+}

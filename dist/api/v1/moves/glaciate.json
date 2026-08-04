@@ -1,0 +1,56 @@
+{
+  "id": 549,
+  "name": "glaciate",
+  "generations": {
+    "5": {
+      "id": 549,
+      "name": "glaciate",
+      "type": "ice",
+      "power": 65,
+      "accuracy": 95,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "6": {
+      "id": 549,
+      "name": "glaciate",
+      "type": "ice",
+      "power": 65,
+      "accuracy": 95,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "7": {
+      "id": 549,
+      "name": "glaciate",
+      "type": "ice",
+      "power": 65,
+      "accuracy": 95,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "8": {
+      "id": 549,
+      "name": "glaciate",
+      "type": "ice",
+      "power": 65,
+      "accuracy": 95,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "9": {
+      "id": 549,
+      "name": "glaciate",
+      "type": "ice",
+      "power": 65,
+      "accuracy": 95,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "special"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": 752,
+  "name": "teatime",
+  "generations": {
+    "7": {
+      "id": 752,
+      "name": "teatime",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "8": {
+      "id": 752,
+      "name": "teatime",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "9": {
+      "id": 752,
+      "name": "teatime",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "status"
+    }
+  }
+}

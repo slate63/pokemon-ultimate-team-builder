@@ -1,0 +1,36 @@
+{
+  "id": 681,
+  "name": "power-trip",
+  "generations": {
+    "7": {
+      "id": 681,
+      "name": "power-trip",
+      "type": "dark",
+      "power": 20,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "8": {
+      "id": 681,
+      "name": "power-trip",
+      "type": "dark",
+      "power": 20,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "9": {
+      "id": 681,
+      "name": "power-trip",
+      "type": "dark",
+      "power": 20,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": 548,
+  "name": "secret-sword",
+  "generations": {
+    "5": {
+      "id": 548,
+      "name": "secret-sword",
+      "type": "fighting",
+      "power": 85,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "6": {
+      "id": 548,
+      "name": "secret-sword",
+      "type": "fighting",
+      "power": 85,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "7": {
+      "id": 548,
+      "name": "secret-sword",
+      "type": "fighting",
+      "power": 85,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "8": {
+      "id": 548,
+      "name": "secret-sword",
+      "type": "fighting",
+      "power": 85,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "9": {
+      "id": 548,
+      "name": "secret-sword",
+      "type": "fighting",
+      "power": 85,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "special"
+    }
+  }
+}

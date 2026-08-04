@@ -1,0 +1,36 @@
+{
+  "id": 738,
+  "name": "sappy-seed",
+  "generations": {
+    "7": {
+      "id": 738,
+      "name": "sappy-seed",
+      "type": "grass",
+      "power": 90,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "8": {
+      "id": 738,
+      "name": "sappy-seed",
+      "type": "grass",
+      "power": 90,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "9": {
+      "id": 738,
+      "name": "sappy-seed",
+      "type": "grass",
+      "power": 100,
+      "accuracy": 90,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    }
+  }
+}

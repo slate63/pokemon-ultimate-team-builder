@@ -1,0 +1,120 @@
+{
+  "id": 885,
+  "name": "dreepy",
+  "generations": {
+    "8": {
+      "types": [
+        "dragon",
+        "ghost"
+      ],
+      "stats": {
+        "generation": 8,
+        "number": 885,
+        "hp": 28,
+        "attack": 60,
+        "defense": 30,
+        "special_attack": 40,
+        "special_defense": 30,
+        "speed": 82
+      },
+      "height": 0.5,
+      "weight": 2.0,
+      "moves": [
+        "bite",
+        "disable",
+        "thunder-wave",
+        "quick-attack",
+        "double-team",
+        "confuse-ray",
+        "swift",
+        "rest",
+        "substitute",
+        "snore",
+        "curse",
+        "protect",
+        "endure",
+        "attract",
+        "sleep-talk",
+        "baton-pass",
+        "facade",
+        "helping-hand",
+        "grudge",
+        "astonish",
+        "sucker-punch",
+        "draco-meteor",
+        "round",
+        "dragon-tail",
+        "infestation"
+      ],
+      "abilities": [
+        "clear-body",
+        "infiltrator",
+        "cursed-body"
+      ],
+      "availability": [
+        "sword",
+        "shield",
+        "brilliant-diamond",
+        "shining-pearl"
+      ],
+      "description": "After being reborn as a ghost Pok\u00e9mon, Dreepy wanders the areas it used to inhabit back when it was alive in prehistoric seas.",
+      "is_legendary": false,
+      "is_mythical": false,
+      "is_fully_evolved": false
+    },
+    "9": {
+      "types": [
+        "dragon",
+        "ghost"
+      ],
+      "stats": {
+        "generation": 9,
+        "number": 885,
+        "hp": 28,
+        "attack": 60,
+        "defense": 30,
+        "special_attack": 40,
+        "special_defense": 30,
+        "speed": 82
+      },
+      "height": 0.5,
+      "weight": 2.0,
+      "moves": [
+        "bite",
+        "disable",
+        "thunder-wave",
+        "quick-attack",
+        "double-team",
+        "confuse-ray",
+        "swift",
+        "rest",
+        "substitute",
+        "curse",
+        "protect",
+        "endure",
+        "sleep-talk",
+        "baton-pass",
+        "facade",
+        "helping-hand",
+        "astonish",
+        "sucker-punch",
+        "draco-meteor",
+        "dragon-tail",
+        "infestation",
+        "tera-blast"
+      ],
+      "abilities": [
+        "clear-body",
+        "infiltrator",
+        "cursed-body"
+      ],
+      "availability": [
+        "violet"
+      ],
+      "description": "After being reborn as a ghost Pok\u00e9mon, Dreepy wanders the areas it used to inhabit back when it was alive in prehistoric seas.",
+      "is_legendary": false,
+      "is_mythical": false,
+      "is_fully_evolved": false
+    }
+  }
+}

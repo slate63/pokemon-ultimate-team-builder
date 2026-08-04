@@ -1,0 +1,86 @@
+{
+  "id": 204,
+  "name": "charm",
+  "generations": {
+    "2": {
+      "id": 204,
+      "name": "charm",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 100,
+      "pp": 20,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "3": {
+      "id": 204,
+      "name": "charm",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 100,
+      "pp": 20,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "4": {
+      "id": 204,
+      "name": "charm",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 100,
+      "pp": 20,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "5": {
+      "id": 204,
+      "name": "charm",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 100,
+      "pp": 20,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "6": {
+      "id": 204,
+      "name": "charm",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 100,
+      "pp": 20,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "7": {
+      "id": 204,
+      "name": "charm",
+      "type": "fairy",
+      "power": 0,
+      "accuracy": 100,
+      "pp": 20,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "8": {
+      "id": 204,
+      "name": "charm",
+      "type": "fairy",
+      "power": 0,
+      "accuracy": 100,
+      "pp": 20,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "9": {
+      "id": 204,
+      "name": "charm",
+      "type": "fairy",
+      "power": 0,
+      "accuracy": 100,
+      "pp": 20,
+      "priority": 0,
+      "damage_class": "status"
+    }
+  }
+}

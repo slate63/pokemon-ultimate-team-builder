@@ -1,0 +1,16 @@
+{
+  "id": 889,
+  "name": "rage-fist",
+  "generations": {
+    "9": {
+      "id": 889,
+      "name": "rage-fist",
+      "type": "ghost",
+      "power": 50,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    }
+  }
+}

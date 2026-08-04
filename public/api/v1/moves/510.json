@@ -1,0 +1,56 @@
+{
+  "id": 510,
+  "name": "incinerate",
+  "generations": {
+    "5": {
+      "id": 510,
+      "name": "incinerate",
+      "type": "fire",
+      "power": 30,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "6": {
+      "id": 510,
+      "name": "incinerate",
+      "type": "fire",
+      "power": 30,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "7": {
+      "id": 510,
+      "name": "incinerate",
+      "type": "fire",
+      "power": 60,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "8": {
+      "id": 510,
+      "name": "incinerate",
+      "type": "fire",
+      "power": 60,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "9": {
+      "id": 510,
+      "name": "incinerate",
+      "type": "fire",
+      "power": 60,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "special"
+    }
+  }
+}

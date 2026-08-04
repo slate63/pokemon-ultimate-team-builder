@@ -1,0 +1,46 @@
+{
+  "id": 612,
+  "name": "power-up-punch",
+  "generations": {
+    "6": {
+      "id": 612,
+      "name": "power-up-punch",
+      "type": "fighting",
+      "power": 40,
+      "accuracy": 100,
+      "pp": 20,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "7": {
+      "id": 612,
+      "name": "power-up-punch",
+      "type": "fighting",
+      "power": 40,
+      "accuracy": 100,
+      "pp": 20,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "8": {
+      "id": 612,
+      "name": "power-up-punch",
+      "type": "fighting",
+      "power": 40,
+      "accuracy": 100,
+      "pp": 20,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "9": {
+      "id": 612,
+      "name": "power-up-punch",
+      "type": "fighting",
+      "power": 40,
+      "accuracy": 100,
+      "pp": 20,
+      "priority": 0,
+      "damage_class": "physical"
+    }
+  }
+}

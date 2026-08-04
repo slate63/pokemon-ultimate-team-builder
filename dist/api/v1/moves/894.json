@@ -1,0 +1,16 @@
+{
+  "id": 894,
+  "name": "comeuppance",
+  "generations": {
+    "9": {
+      "id": 894,
+      "name": "comeuppance",
+      "type": "dark",
+      "power": 1,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    }
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "id": 883,
+  "name": "arctovish",
+  "generations": {
+    "8": {
+      "types": [
+        "water",
+        "ice"
+      ],
+      "stats": {
+        "generation": 8,
+        "number": 883,
+        "hp": 90,
+        "attack": 90,
+        "defense": 100,
+        "special_attack": 80,
+        "special_defense": 90,
+        "speed": 55
+      },
+      "height": 2.0,
+      "weight": 175.0,
+      "moves": [
+        "body-slam",
+        "bite",
+        "water-gun",
+        "hydro-pump",
+        "surf",
+        "ice-beam",
+        "blizzard",
+        "hyper-beam",
+        "waterfall",
+        "rest",
+        "rock-slide",
+        "super-fang",
+        "substitute",
+        "snore",
+        "powder-snow",
+        "protect",
+        "icy-wind",
+        "endure",
+        "sleep-talk",
+        "rain-dance",
+        "crunch",
+        "ancient-power",
+        "whirlpool",
+        "hail",
+        "facade",
+        "dive",
+        "rock-tomb",
+        "icicle-spear",
+        "iron-defense",
+        "rock-blast",
+        "brine",
+        "giga-impact",
+        "avalanche",
+        "ice-fang",
+        "zen-headbutt",
+        "iron-head",
+        "stone-edge",
+        "round",
+        "icicle-crash",
+        "freeze-dry",
+        "aurora-veil",
+        "psychic-fangs",
+        "liquidation",
+        "fishious-rend",
+        "meteor-beam"
+      ],
+      "abilities": [
+        "water-absorb",
+        "ice-body",
+        "slush-rush"
+      ],
+      "availability": [
+        "sword",
+        "shield",
+        "brilliant-diamond",
+        "shining-pearl"
+      ],
+      "description": "Though it\u2019s able to capture prey by freezing its surroundings, it has trouble eating the prey afterward because its mouth is on top of its head.",
+      "is_legendary": false,
+      "is_mythical": false,
+      "is_fully_evolved": true
+    },
+    "9": {
+      "types": [
+        "water",
+        "ice"
+      ],
+      "stats": {
+        "generation": 9,
+        "number": 883,
+        "hp": 90,
+        "attack": 90,
+        "defense": 100,
+        "special_attack": 80,
+        "special_defense": 90,
+        "speed": 55
+      },
+      "height": 2.0,
+      "weight": 175.0,
+      "moves": [],
+      "abilities": [
+        "water-absorb",
+        "ice-body",
+        "slush-rush"
+      ],
+      "availability": [
+        "scarlet",
+        "violet"
+      ],
+      "description": "Though it\u2019s able to capture prey by freezing its surroundings, it has trouble eating the prey afterward because its mouth is on top of its head.",
+      "is_legendary": false,
+      "is_mythical": false,
+      "is_fully_evolved": true
+    }
+  }
+}

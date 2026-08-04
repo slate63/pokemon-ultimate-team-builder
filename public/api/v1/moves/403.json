@@ -1,0 +1,66 @@
+{
+  "id": 403,
+  "name": "air-slash",
+  "generations": {
+    "4": {
+      "id": 403,
+      "name": "air-slash",
+      "type": "flying",
+      "power": 75,
+      "accuracy": 95,
+      "pp": 20,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "5": {
+      "id": 403,
+      "name": "air-slash",
+      "type": "flying",
+      "power": 75,
+      "accuracy": 95,
+      "pp": 20,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "6": {
+      "id": 403,
+      "name": "air-slash",
+      "type": "flying",
+      "power": 75,
+      "accuracy": 95,
+      "pp": 20,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "7": {
+      "id": 403,
+      "name": "air-slash",
+      "type": "flying",
+      "power": 75,
+      "accuracy": 95,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "8": {
+      "id": 403,
+      "name": "air-slash",
+      "type": "flying",
+      "power": 75,
+      "accuracy": 95,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "9": {
+      "id": 403,
+      "name": "air-slash",
+      "type": "flying",
+      "power": 75,
+      "accuracy": 95,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "special"
+    }
+  }
+}

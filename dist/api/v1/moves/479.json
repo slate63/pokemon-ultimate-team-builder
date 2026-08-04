@@ -1,0 +1,56 @@
+{
+  "id": 479,
+  "name": "smack-down",
+  "generations": {
+    "5": {
+      "id": 479,
+      "name": "smack-down",
+      "type": "rock",
+      "power": 50,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "6": {
+      "id": 479,
+      "name": "smack-down",
+      "type": "rock",
+      "power": 50,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "7": {
+      "id": 479,
+      "name": "smack-down",
+      "type": "rock",
+      "power": 50,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "8": {
+      "id": 479,
+      "name": "smack-down",
+      "type": "rock",
+      "power": 50,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "9": {
+      "id": 479,
+      "name": "smack-down",
+      "type": "rock",
+      "power": 50,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "physical"
+    }
+  }
+}

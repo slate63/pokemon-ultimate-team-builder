@@ -1,0 +1,46 @@
+{
+  "id": 638,
+  "name": "corkscrew-crash--physical",
+  "generations": {
+    "6": {
+      "id": 638,
+      "name": "corkscrew-crash--physical",
+      "type": "steel",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 1,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "7": {
+      "id": 638,
+      "name": "corkscrew-crash--physical",
+      "type": "steel",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 1,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "8": {
+      "id": 638,
+      "name": "corkscrew-crash--physical",
+      "type": "steel",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 1,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "9": {
+      "id": 638,
+      "name": "corkscrew-crash--physical",
+      "type": "steel",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 1,
+      "priority": 0,
+      "damage_class": "physical"
+    }
+  }
+}

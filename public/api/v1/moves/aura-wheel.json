@@ -1,0 +1,26 @@
+{
+  "id": 783,
+  "name": "aura-wheel",
+  "generations": {
+    "8": {
+      "id": 783,
+      "name": "aura-wheel",
+      "type": "electric",
+      "power": 110,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "9": {
+      "id": 783,
+      "name": "aura-wheel",
+      "type": "electric",
+      "power": 110,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "id": 344,
+  "name": "volt-tackle",
+  "generations": {
+    "3": {
+      "id": 344,
+      "name": "volt-tackle",
+      "type": "electric",
+      "power": 120,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "4": {
+      "id": 344,
+      "name": "volt-tackle",
+      "type": "electric",
+      "power": 120,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "5": {
+      "id": 344,
+      "name": "volt-tackle",
+      "type": "electric",
+      "power": 120,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "6": {
+      "id": 344,
+      "name": "volt-tackle",
+      "type": "electric",
+      "power": 120,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "7": {
+      "id": 344,
+      "name": "volt-tackle",
+      "type": "electric",
+      "power": 120,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "8": {
+      "id": 344,
+      "name": "volt-tackle",
+      "type": "electric",
+      "power": 120,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "9": {
+      "id": 344,
+      "name": "volt-tackle",
+      "type": "electric",
+      "power": 120,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "physical"
+    }
+  }
+}

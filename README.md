@@ -99,6 +99,33 @@ pokemon-ultimate-team-builder/
 └── vite.config.ts          # Vite build configuration
 ```
 
+
+---
+
+## 🔌 Public Data REST API & OpenAPI Reference
+
+This application includes a public, unauthenticated static REST API hosted via GitHub Pages (`/api/v1/`), providing lightweight access to Pokémon, Moves, Types, Natures, and Generation data without image/sprite payload overhead.
+
+### 🌐 Endpoints
+
+- **Interactive Swagger UI**: `/api/v1/`
+- **OpenAPI 3.0 Spec**: `/api/v1/openapi.yaml`
+- **Pokémon Index**: `/api/v1/pokemon/index.json`
+- **Individual Pokémon**: `/api/v1/pokemon/{id_or_name}.json` *(e.g. `25.json` or `pikachu.json`)*
+- **Moves Index**: `/api/v1/moves/index.json`
+- **Individual Move**: `/api/v1/moves/{id_or_name}.json` *(e.g. `85.json` or `thunderbolt.json`)*
+- **Types Index**: `/api/v1/types/index.json`
+- **Individual Type**: `/api/v1/types/{name}.json` *(e.g. `fire.json`)*
+- **Natures**: `/api/v1/natures/index.json` & `/api/v1/natures/{name}.json`
+- **Generations**: `/api/v1/generations.json`
+
+### 💻 Sample `curl` Request
+
+```bash
+# Fetch Pikachu data without sprites
+curl -X GET "https://YOUR_USERNAME.github.io/pokemon-ultimate-team-builder/api/v1/pokemon/pikachu.json"
+```
+
 ---
 
 ## 🤝 Contributing
@@ -110,3 +137,4 @@ Contributions, issues, and feature requests are welcome!
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
+

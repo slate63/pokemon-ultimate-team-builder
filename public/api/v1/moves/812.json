@@ -1,0 +1,26 @@
+{
+  "id": 812,
+  "name": "flip-turn",
+  "generations": {
+    "8": {
+      "id": 812,
+      "name": "flip-turn",
+      "type": "water",
+      "power": 60,
+      "accuracy": 100,
+      "pp": 20,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "9": {
+      "id": 812,
+      "name": "flip-turn",
+      "type": "water",
+      "power": 60,
+      "accuracy": 100,
+      "pp": 20,
+      "priority": 0,
+      "damage_class": "physical"
+    }
+  }
+}

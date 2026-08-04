@@ -1,0 +1,8 @@
+{
+  "id": "hasty",
+  "name": "Hasty",
+  "increasedStat": "speed",
+  "decreasedStat": "defense",
+  "increasedStatName": "Speed",
+  "decreasedStatName": "Defense"
+}

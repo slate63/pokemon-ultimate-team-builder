@@ -1,0 +1,86 @@
+{
+  "id": 250,
+  "name": "whirlpool",
+  "generations": {
+    "2": {
+      "id": 250,
+      "name": "whirlpool",
+      "type": "water",
+      "power": 15,
+      "accuracy": 70,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "3": {
+      "id": 250,
+      "name": "whirlpool",
+      "type": "water",
+      "power": 15,
+      "accuracy": 70,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "4": {
+      "id": 250,
+      "name": "whirlpool",
+      "type": "water",
+      "power": 15,
+      "accuracy": 70,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "5": {
+      "id": 250,
+      "name": "whirlpool",
+      "type": "water",
+      "power": 15,
+      "accuracy": 70,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "6": {
+      "id": 250,
+      "name": "whirlpool",
+      "type": "water",
+      "power": 35,
+      "accuracy": 85,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "7": {
+      "id": 250,
+      "name": "whirlpool",
+      "type": "water",
+      "power": 35,
+      "accuracy": 85,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "8": {
+      "id": 250,
+      "name": "whirlpool",
+      "type": "water",
+      "power": 35,
+      "accuracy": 85,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "9": {
+      "id": 250,
+      "name": "whirlpool",
+      "type": "water",
+      "power": 35,
+      "accuracy": 85,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "special"
+    }
+  }
+}

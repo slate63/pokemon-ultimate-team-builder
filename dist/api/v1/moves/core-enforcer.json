@@ -1,0 +1,36 @@
+{
+  "id": 687,
+  "name": "core-enforcer",
+  "generations": {
+    "7": {
+      "id": 687,
+      "name": "core-enforcer",
+      "type": "dragon",
+      "power": 100,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "8": {
+      "id": 687,
+      "name": "core-enforcer",
+      "type": "dragon",
+      "power": 100,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "9": {
+      "id": 687,
+      "name": "core-enforcer",
+      "type": "dragon",
+      "power": 100,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "special"
+    }
+  }
+}

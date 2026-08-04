@@ -1,0 +1,76 @@
+{
+  "id": 347,
+  "name": "calm-mind",
+  "generations": {
+    "3": {
+      "id": 347,
+      "name": "calm-mind",
+      "type": "psychic",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 20,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "4": {
+      "id": 347,
+      "name": "calm-mind",
+      "type": "psychic",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 20,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "5": {
+      "id": 347,
+      "name": "calm-mind",
+      "type": "psychic",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 20,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "6": {
+      "id": 347,
+      "name": "calm-mind",
+      "type": "psychic",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 20,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "7": {
+      "id": 347,
+      "name": "calm-mind",
+      "type": "psychic",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 20,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "8": {
+      "id": 347,
+      "name": "calm-mind",
+      "type": "psychic",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 20,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "9": {
+      "id": 347,
+      "name": "calm-mind",
+      "type": "psychic",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 20,
+      "priority": 0,
+      "damage_class": "status"
+    }
+  }
+}

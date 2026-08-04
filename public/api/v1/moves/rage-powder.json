@@ -1,0 +1,56 @@
+{
+  "id": 476,
+  "name": "rage-powder",
+  "generations": {
+    "5": {
+      "id": 476,
+      "name": "rage-powder",
+      "type": "bug",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 20,
+      "priority": 2,
+      "damage_class": "status"
+    },
+    "6": {
+      "id": 476,
+      "name": "rage-powder",
+      "type": "bug",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 20,
+      "priority": 2,
+      "damage_class": "status"
+    },
+    "7": {
+      "id": 476,
+      "name": "rage-powder",
+      "type": "bug",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 20,
+      "priority": 2,
+      "damage_class": "status"
+    },
+    "8": {
+      "id": 476,
+      "name": "rage-powder",
+      "type": "bug",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 20,
+      "priority": 2,
+      "damage_class": "status"
+    },
+    "9": {
+      "id": 476,
+      "name": "rage-powder",
+      "type": "bug",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 20,
+      "priority": 2,
+      "damage_class": "status"
+    }
+  }
+}

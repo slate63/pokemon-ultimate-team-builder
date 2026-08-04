@@ -1,0 +1,56 @@
+{
+  "id": 578,
+  "name": "crafty-shield",
+  "generations": {
+    "5": {
+      "id": 578,
+      "name": "crafty-shield",
+      "type": "fairy",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 10,
+      "priority": 3,
+      "damage_class": "status"
+    },
+    "6": {
+      "id": 578,
+      "name": "crafty-shield",
+      "type": "fairy",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 10,
+      "priority": 3,
+      "damage_class": "status"
+    },
+    "7": {
+      "id": 578,
+      "name": "crafty-shield",
+      "type": "fairy",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 10,
+      "priority": 3,
+      "damage_class": "status"
+    },
+    "8": {
+      "id": 578,
+      "name": "crafty-shield",
+      "type": "fairy",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 10,
+      "priority": 3,
+      "damage_class": "status"
+    },
+    "9": {
+      "id": 578,
+      "name": "crafty-shield",
+      "type": "fairy",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 10,
+      "priority": 3,
+      "damage_class": "status"
+    }
+  }
+}

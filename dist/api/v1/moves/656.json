@@ -1,0 +1,46 @@
+{
+  "id": 656,
+  "name": "twinkle-tackle--physical",
+  "generations": {
+    "6": {
+      "id": 656,
+      "name": "twinkle-tackle--physical",
+      "type": "fairy",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 1,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "7": {
+      "id": 656,
+      "name": "twinkle-tackle--physical",
+      "type": "fairy",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 1,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "8": {
+      "id": 656,
+      "name": "twinkle-tackle--physical",
+      "type": "fairy",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 1,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "9": {
+      "id": 656,
+      "name": "twinkle-tackle--physical",
+      "type": "fairy",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 1,
+      "priority": 0,
+      "damage_class": "physical"
+    }
+  }
+}

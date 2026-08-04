@@ -1,0 +1,36 @@
+{
+  "id": 744,
+  "name": "dynamax-cannon",
+  "generations": {
+    "7": {
+      "id": 744,
+      "name": "dynamax-cannon",
+      "type": "dragon",
+      "power": 100,
+      "accuracy": 100,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "8": {
+      "id": 744,
+      "name": "dynamax-cannon",
+      "type": "dragon",
+      "power": 100,
+      "accuracy": 100,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "9": {
+      "id": 744,
+      "name": "dynamax-cannon",
+      "type": "dragon",
+      "power": 100,
+      "accuracy": 100,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "special"
+    }
+  }
+}

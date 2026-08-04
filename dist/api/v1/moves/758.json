@@ -1,0 +1,36 @@
+{
+  "id": 758,
+  "name": "max-flutterby",
+  "generations": {
+    "7": {
+      "id": 758,
+      "name": "max-flutterby",
+      "type": "bug",
+      "power": 10,
+      "accuracy": 0,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "8": {
+      "id": 758,
+      "name": "max-flutterby",
+      "type": "bug",
+      "power": 10,
+      "accuracy": 0,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "9": {
+      "id": 758,
+      "name": "max-flutterby",
+      "type": "bug",
+      "power": 10,
+      "accuracy": 0,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    }
+  }
+}

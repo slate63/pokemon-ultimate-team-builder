@@ -1,0 +1,36 @@
+{
+  "id": 717,
+  "name": "natures-madness",
+  "generations": {
+    "7": {
+      "id": 717,
+      "name": "natures-madness",
+      "type": "fairy",
+      "power": 0,
+      "accuracy": 90,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "8": {
+      "id": 717,
+      "name": "natures-madness",
+      "type": "fairy",
+      "power": 0,
+      "accuracy": 90,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "9": {
+      "id": 717,
+      "name": "natures-madness",
+      "type": "fairy",
+      "power": 0,
+      "accuracy": 90,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "special"
+    }
+  }
+}

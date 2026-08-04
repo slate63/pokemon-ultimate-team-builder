@@ -1,0 +1,76 @@
+{
+  "id": 304,
+  "name": "hyper-voice",
+  "generations": {
+    "3": {
+      "id": 304,
+      "name": "hyper-voice",
+      "type": "normal",
+      "power": 90,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "4": {
+      "id": 304,
+      "name": "hyper-voice",
+      "type": "normal",
+      "power": 90,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "5": {
+      "id": 304,
+      "name": "hyper-voice",
+      "type": "normal",
+      "power": 90,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "6": {
+      "id": 304,
+      "name": "hyper-voice",
+      "type": "normal",
+      "power": 90,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "7": {
+      "id": 304,
+      "name": "hyper-voice",
+      "type": "normal",
+      "power": 90,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "8": {
+      "id": 304,
+      "name": "hyper-voice",
+      "type": "normal",
+      "power": 90,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "9": {
+      "id": 304,
+      "name": "hyper-voice",
+      "type": "normal",
+      "power": 90,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "special"
+    }
+  }
+}

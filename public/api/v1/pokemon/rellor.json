@@ -1,0 +1,70 @@
+{
+  "id": 953,
+  "name": "rellor",
+  "generations": {
+    "9": {
+      "types": [
+        "bug"
+      ],
+      "stats": {
+        "generation": 9,
+        "number": 953,
+        "hp": 41,
+        "attack": 50,
+        "defense": 60,
+        "special_attack": 31,
+        "special_defense": 58,
+        "speed": 30
+      },
+      "height": 0.2,
+      "weight": 1.0,
+      "moves": [
+        "sand-attack",
+        "tackle",
+        "take-down",
+        "dig",
+        "recover",
+        "defense-curl",
+        "leech-life",
+        "rest",
+        "substitute",
+        "thief",
+        "protect",
+        "sludge-bomb",
+        "mud-slap",
+        "endure",
+        "rollout",
+        "sleep-talk",
+        "memento",
+        "facade",
+        "weather-ball",
+        "rock-tomb",
+        "cosmic-power",
+        "iron-defense",
+        "mud-shot",
+        "fling",
+        "x-scissor",
+        "bug-buzz",
+        "gunk-shot",
+        "bug-bite",
+        "struggle-bug",
+        "lunge",
+        "skitter-smack",
+        "tera-blast",
+        "pounce"
+      ],
+      "abilities": [
+        "compound-eyes",
+        "shed-skin"
+      ],
+      "availability": [
+        "scarlet",
+        "violet"
+      ],
+      "description": "This Pok\u00e9mon creates a mud ball by mixing sand and dirt with psychic energy. It treasures its mud ball more than its own life.",
+      "is_legendary": false,
+      "is_mythical": false,
+      "is_fully_evolved": false
+    }
+  }
+}

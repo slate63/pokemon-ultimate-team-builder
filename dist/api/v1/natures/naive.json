@@ -1,0 +1,8 @@
+{
+  "id": "naive",
+  "name": "Naive",
+  "increasedStat": "speed",
+  "decreasedStat": "special_defense",
+  "increasedStatName": "Speed",
+  "decreasedStatName": "Sp. Def"
+}

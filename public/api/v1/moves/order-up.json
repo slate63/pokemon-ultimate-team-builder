@@ -1,0 +1,26 @@
+{
+  "id": 856,
+  "name": "order-up",
+  "generations": {
+    "8": {
+      "id": 856,
+      "name": "order-up",
+      "type": "dragon",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "9": {
+      "id": 856,
+      "name": "order-up",
+      "type": "dragon",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    }
+  }
+}

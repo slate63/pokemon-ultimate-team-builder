@@ -5,7 +5,8 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "tsc && vite build && python3 scripts/inline_dist.py",
+    "build:api": "python3 scripts/build_data_api.py",
+    "build": "npm run build:api && tsc && vite build && python3 scripts/inline_dist.py",
     "preview": "vite preview"
   },
   "dependencies": {

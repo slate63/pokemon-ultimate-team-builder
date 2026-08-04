@@ -1,0 +1,96 @@
+{
+  "id": 116,
+  "name": "focus-energy",
+  "generations": {
+    "1": {
+      "id": 116,
+      "name": "focus-energy",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 30,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "2": {
+      "id": 116,
+      "name": "focus-energy",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 30,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "3": {
+      "id": 116,
+      "name": "focus-energy",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 30,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "4": {
+      "id": 116,
+      "name": "focus-energy",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 30,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "5": {
+      "id": 116,
+      "name": "focus-energy",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 30,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "6": {
+      "id": 116,
+      "name": "focus-energy",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 30,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "7": {
+      "id": 116,
+      "name": "focus-energy",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 30,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "8": {
+      "id": 116,
+      "name": "focus-energy",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 30,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "9": {
+      "id": 116,
+      "name": "focus-energy",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 30,
+      "priority": 0,
+      "damage_class": "status"
+    }
+  }
+}

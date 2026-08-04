@@ -1,0 +1,26 @@
+{
+  "id": 864,
+  "name": "salt-cure",
+  "generations": {
+    "8": {
+      "id": 864,
+      "name": "salt-cure",
+      "type": "rock",
+      "power": 40,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "9": {
+      "id": 864,
+      "name": "salt-cure",
+      "type": "rock",
+      "power": 40,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "physical"
+    }
+  }
+}

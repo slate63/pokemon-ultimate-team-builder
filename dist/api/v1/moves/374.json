@@ -1,0 +1,66 @@
+{
+  "id": 374,
+  "name": "fling",
+  "generations": {
+    "4": {
+      "id": 374,
+      "name": "fling",
+      "type": "dark",
+      "power": 0,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "5": {
+      "id": 374,
+      "name": "fling",
+      "type": "dark",
+      "power": 0,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "6": {
+      "id": 374,
+      "name": "fling",
+      "type": "dark",
+      "power": 0,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "7": {
+      "id": 374,
+      "name": "fling",
+      "type": "dark",
+      "power": 0,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "8": {
+      "id": 374,
+      "name": "fling",
+      "type": "dark",
+      "power": 0,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "9": {
+      "id": 374,
+      "name": "fling",
+      "type": "dark",
+      "power": 0,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": 751,
+  "name": "dragon-darts",
+  "generations": {
+    "7": {
+      "id": 751,
+      "name": "dragon-darts",
+      "type": "dragon",
+      "power": 50,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "8": {
+      "id": 751,
+      "name": "dragon-darts",
+      "type": "dragon",
+      "power": 50,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "9": {
+      "id": 751,
+      "name": "dragon-darts",
+      "type": "dragon",
+      "power": 50,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    }
+  }
+}

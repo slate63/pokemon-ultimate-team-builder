@@ -1,0 +1,46 @@
+{
+  "id": 669,
+  "name": "solar-blade",
+  "generations": {
+    "6": {
+      "id": 669,
+      "name": "solar-blade",
+      "type": "grass",
+      "power": 125,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "7": {
+      "id": 669,
+      "name": "solar-blade",
+      "type": "grass",
+      "power": 125,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "8": {
+      "id": 669,
+      "name": "solar-blade",
+      "type": "grass",
+      "power": 125,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "9": {
+      "id": 669,
+      "name": "solar-blade",
+      "type": "grass",
+      "power": 125,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    }
+  }
+}

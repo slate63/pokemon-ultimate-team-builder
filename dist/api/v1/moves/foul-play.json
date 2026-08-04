@@ -1,0 +1,56 @@
+{
+  "id": 492,
+  "name": "foul-play",
+  "generations": {
+    "5": {
+      "id": 492,
+      "name": "foul-play",
+      "type": "dark",
+      "power": 95,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "6": {
+      "id": 492,
+      "name": "foul-play",
+      "type": "dark",
+      "power": 95,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "7": {
+      "id": 492,
+      "name": "foul-play",
+      "type": "dark",
+      "power": 95,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "8": {
+      "id": 492,
+      "name": "foul-play",
+      "type": "dark",
+      "power": 95,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "9": {
+      "id": 492,
+      "name": "foul-play",
+      "type": "dark",
+      "power": 95,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "physical"
+    }
+  }
+}

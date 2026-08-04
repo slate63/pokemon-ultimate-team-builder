@@ -1,0 +1,56 @@
+{
+  "id": 473,
+  "name": "psyshock",
+  "generations": {
+    "5": {
+      "id": 473,
+      "name": "psyshock",
+      "type": "psychic",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "6": {
+      "id": 473,
+      "name": "psyshock",
+      "type": "psychic",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "7": {
+      "id": 473,
+      "name": "psyshock",
+      "type": "psychic",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "8": {
+      "id": 473,
+      "name": "psyshock",
+      "type": "psychic",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "9": {
+      "id": 473,
+      "name": "psyshock",
+      "type": "psychic",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "special"
+    }
+  }
+}

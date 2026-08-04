@@ -1,0 +1,36 @@
+{
+  "id": 754,
+  "name": "bolt-beak",
+  "generations": {
+    "7": {
+      "id": 754,
+      "name": "bolt-beak",
+      "type": "electric",
+      "power": 85,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "8": {
+      "id": 754,
+      "name": "bolt-beak",
+      "type": "electric",
+      "power": 85,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "9": {
+      "id": 754,
+      "name": "bolt-beak",
+      "type": "electric",
+      "power": 85,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    }
+  }
+}

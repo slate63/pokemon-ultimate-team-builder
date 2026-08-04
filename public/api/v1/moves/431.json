@@ -1,0 +1,66 @@
+{
+  "id": 431,
+  "name": "rock-climb",
+  "generations": {
+    "4": {
+      "id": 431,
+      "name": "rock-climb",
+      "type": "normal",
+      "power": 90,
+      "accuracy": 85,
+      "pp": 20,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "5": {
+      "id": 431,
+      "name": "rock-climb",
+      "type": "normal",
+      "power": 90,
+      "accuracy": 85,
+      "pp": 20,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "6": {
+      "id": 431,
+      "name": "rock-climb",
+      "type": "normal",
+      "power": 90,
+      "accuracy": 85,
+      "pp": 20,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "7": {
+      "id": 431,
+      "name": "rock-climb",
+      "type": "normal",
+      "power": 90,
+      "accuracy": 85,
+      "pp": 20,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "8": {
+      "id": 431,
+      "name": "rock-climb",
+      "type": "normal",
+      "power": 90,
+      "accuracy": 85,
+      "pp": 20,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "9": {
+      "id": 431,
+      "name": "rock-climb",
+      "type": "normal",
+      "power": 90,
+      "accuracy": 85,
+      "pp": 20,
+      "priority": 0,
+      "damage_class": "physical"
+    }
+  }
+}

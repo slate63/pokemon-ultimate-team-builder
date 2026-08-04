@@ -1,0 +1,66 @@
+{
+  "id": 388,
+  "name": "worry-seed",
+  "generations": {
+    "4": {
+      "id": 388,
+      "name": "worry-seed",
+      "type": "grass",
+      "power": 0,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "5": {
+      "id": 388,
+      "name": "worry-seed",
+      "type": "grass",
+      "power": 0,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "6": {
+      "id": 388,
+      "name": "worry-seed",
+      "type": "grass",
+      "power": 0,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "7": {
+      "id": 388,
+      "name": "worry-seed",
+      "type": "grass",
+      "power": 0,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "8": {
+      "id": 388,
+      "name": "worry-seed",
+      "type": "grass",
+      "power": 0,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "9": {
+      "id": 388,
+      "name": "worry-seed",
+      "type": "grass",
+      "power": 0,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "status"
+    }
+  }
+}
