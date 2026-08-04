@@ -95,7 +95,7 @@ export const CoverageMatrix: React.FC<CoverageMatrixProps> = memo(({
     category: MatrixCategory,
     count: number,
     valClassName: string,
-    prefix: string = ''
+    prefix?: React.ReactNode
   ) => {
     const isInteractive = count > 0;
     return (
@@ -107,7 +107,8 @@ export const CoverageMatrix: React.FC<CoverageMatrixProps> = memo(({
       >
         {count > 0 ? (
           <span className={`${valClassName} ${isInteractive ? 'cell-hover-badge' : ''}`}>
-            {prefix}{count}
+            {prefix}
+            <span>{count}</span>
           </span>
         ) : (
           <span className="val-neutral">-</span>
@@ -183,7 +184,7 @@ export const CoverageMatrix: React.FC<CoverageMatrixProps> = memo(({
                   {renderCell(type, 'weak4x', def.weak4x, 'val-weak-4x')}
                   {renderCell(type, 'resist', totalResist, 'val-resist')}
                   {renderCell(type, 'immune', def.immune, 'val-immune')}
-                  {renderCell(type, 'hit', offCount, 'hit-count-active', '⚡ ')}
+                  {renderCell(type, 'hit', offCount, 'hit-count-active', <Zap size={11} style={{ flexShrink: 0, marginRight: '2px' }} />)}
                 </tr>
               );
             })}

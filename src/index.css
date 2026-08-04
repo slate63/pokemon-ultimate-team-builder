@@ -376,6 +376,8 @@ h1, h2, h3, h4, h5, h6 {
 .slot-highlight-badge {
   position: absolute;
   top: -10px;
+  left: 50%;
+  transform: translateX(-50%);
   background: #facc15;
   color: #0f172a;
   font-size: 0.65rem;
@@ -386,6 +388,7 @@ h1, h2, h3, h4, h5, h6 {
   letter-spacing: 0.03em;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.4), 0 0 10px rgba(250, 204, 21, 0.6);
   z-index: 12;
+  white-space: nowrap;
   animation: popIn 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275);
 }
 
@@ -622,6 +625,7 @@ h1, h2, h3, h4, h5, h6 {
   border: 1px solid var(--border-color);
   border-radius: 12px;
   padding: 0.75rem 0.85rem;
+  overflow: hidden;
 }
 
 /* Adjusting the layout to ensure everything flows correctly under sticky elements */
@@ -677,12 +681,18 @@ h1, h2, h3, h4, h5, h6 {
   width: 100%;
   border-collapse: collapse;
   font-size: 0.75rem;
+  table-layout: auto;
 }
 
 .matrix-table th, .matrix-table td {
-  padding: 0.25rem 0.35rem;
+  padding: 0.25rem 0.25rem;
   text-align: center;
   border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+  box-sizing: border-box;
+}
+
+.matrix-table th:last-child, .matrix-table td:last-child {
+  padding-right: 0.35rem;
 }
 
 .matrix-table th {
@@ -739,23 +749,29 @@ h1, h2, h3, h4, h5, h6 {
 /* Matrix Interactive Cells & Tooltip */
 .matrix-cell-interactive {
   cursor: pointer;
-  transition: all 0.2s ease;
+  transition: background 0.15s ease;
+  position: relative;
 }
 
 .matrix-cell-interactive:hover {
-  background: rgba(250, 204, 21, 0.15) !important;
-  border-radius: 4px;
+  background: rgba(250, 204, 21, 0.12) !important;
 }
 
 .cell-hover-badge {
-  display: inline-block;
-  padding: 0.1rem 0.3rem;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.1rem 0.25rem;
   border-radius: 4px;
-  transition: transform 0.15s ease, box-shadow 0.15s ease;
+  transition: background 0.15s ease, box-shadow 0.15s ease, color 0.15s ease;
+  max-width: 100%;
+  box-sizing: border-box;
 }
 
 .matrix-cell-interactive:hover .cell-hover-badge {
-  transform: scale(1.2);
+  background: rgba(250, 204, 21, 0.25);
+  box-shadow: inset 0 0 0 1px rgba(250, 204, 21, 0.4);
+  color: #fef08a;
   font-weight: 800;
 }
 
@@ -1189,6 +1205,9 @@ h1, h2, h3, h4, h5, h6 {
 .hit-count-active {
   color: var(--accent-gold);
   font-weight: 700;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .inline-icon {
