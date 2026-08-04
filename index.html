@@ -2,12 +2,12 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <link rel="icon" type="image/svg+xml" id="favicon" href="/pokeball.svg" />
+    <link rel="icon" type="image/svg+xml" id="favicon" href="./pokeball.svg" />
     <script>
       (function() {
         var balls = ['pokeball', 'great-ball', 'ultra-ball', 'master-ball', 'safari-ball'];
         var ball = balls[Math.floor(Math.random() * balls.length)];
-        document.getElementById('favicon').setAttribute('href', '/' + ball + '.svg');
+        document.getElementById('favicon').setAttribute('href', './' + ball + '.svg');
       })();
     </script>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
