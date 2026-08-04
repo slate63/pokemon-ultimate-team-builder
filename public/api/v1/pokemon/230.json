@@ -60,7 +60,8 @@
       "description": "It is said that it usually hides in underwater caves. It can create whirlpools by yawning.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": true
     },
     "3": {
       "types": [
@@ -133,7 +134,8 @@
       "description": "It is said that it usually hides in underwater caves. It can create whirlpools by yawning.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": true
     },
     "4": {
       "types": [
@@ -219,7 +221,8 @@
       "description": "It is said that it usually hides in underwater caves. It can create whirlpools by yawning.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": true
     },
     "5": {
       "types": [
@@ -299,7 +302,8 @@
       "description": "It is said that it usually hides in underwater caves. It can create whirlpools by yawning.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": true
     },
     "6": {
       "types": [
@@ -382,7 +386,8 @@
       "description": "It is said that it usually hides in underwater caves. It can create whirlpools by yawning.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": true
     },
     "7": {
       "types": [
@@ -464,7 +469,8 @@
       "description": "It is said that it usually hides in underwater caves. It can create whirlpools by yawning.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": true
     },
     "8": {
       "types": [
@@ -550,7 +556,8 @@
       "description": "It is said that it usually hides in underwater caves. It can create whirlpools by yawning.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": true
     },
     "9": {
       "types": [
@@ -637,7 +644,8 @@
       "description": "It is said that it usually hides in underwater caves. It can create whirlpools by yawning.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": true
     }
   }
 }

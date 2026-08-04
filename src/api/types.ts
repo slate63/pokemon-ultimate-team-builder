@@ -17,6 +17,7 @@ export interface DataPokemonSummary {
   is_legendary: boolean;
   is_mythical: boolean;
   is_fully_evolved: boolean;
+  requires_trade?: boolean;
 }
 
 export interface PokemonGenData {
@@ -31,6 +32,7 @@ export interface PokemonGenData {
   is_legendary?: boolean;
   is_mythical?: boolean;
   is_fully_evolved?: boolean;
+  requires_trade?: boolean;
 }
 
 export interface DataPokemonDetail {

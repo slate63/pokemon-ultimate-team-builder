@@ -75,7 +75,8 @@
       "description": "When Honedge evolves, it divides into two swords, which cooperate via telepathy to coordinate attacks and slash their enemies to ribbons.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -151,7 +152,8 @@
       "description": "When Honedge evolves, it divides into two swords, which cooperate via telepathy to coordinate attacks and slash their enemies to ribbons.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -222,7 +224,8 @@
       "description": "When Honedge evolves, it divides into two swords, which cooperate via telepathy to coordinate attacks and slash their enemies to ribbons.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -252,7 +255,8 @@
       "description": "When Honedge evolves, it divides into two swords, which cooperate via telepathy to coordinate attacks and slash their enemies to ribbons.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

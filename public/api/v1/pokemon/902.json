@@ -45,7 +45,8 @@
       "description": "Clads itself in the souls of comrades that perished before fulfilling their goals of journeying upstream. No other species throughout all Hisui's rivers is Basculegion's equal.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -131,7 +132,8 @@
       "description": "Clads itself in the souls of comrades that perished before fulfilling their goals of journeying upstream. No other species throughout all Hisui's rivers is Basculegion's equal.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

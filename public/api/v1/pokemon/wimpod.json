@@ -62,7 +62,8 @@
       "description": "This Pok\u00e9mon is a coward. As it desperately dashes off, the flailing of its many legs leaves a sparkling clean path in its wake.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -126,7 +127,8 @@
       "description": "This Pok\u00e9mon is a coward. As it desperately dashes off, the flailing of its many legs leaves a sparkling clean path in its wake.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -156,7 +158,8 @@
       "description": "This Pok\u00e9mon is a coward. As it desperately dashes off, the flailing of its many legs leaves a sparkling clean path in its wake.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

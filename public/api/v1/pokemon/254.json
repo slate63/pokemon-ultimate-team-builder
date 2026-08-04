@@ -90,7 +90,8 @@
       "description": "The leaves growing on SCEPTILE\u2019s body are very sharp edged. This POK\u00e9MON is very agile - it leaps all over the branches of trees and jumps on its foe from above or behind.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "4": {
       "types": [
@@ -193,7 +194,8 @@
       "description": "The leaves growing on SCEPTILE\u2019s body are very sharp edged. This POK\u00e9MON is very agile - it leaps all over the branches of trees and jumps on its foe from above or behind.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -288,7 +290,8 @@
       "description": "The leaves growing on SCEPTILE\u2019s body are very sharp edged. This POK\u00e9MON is very agile - it leaps all over the branches of trees and jumps on its foe from above or behind.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -395,7 +398,8 @@
       "description": "The leaves growing on SCEPTILE\u2019s body are very sharp edged. This POK\u00e9MON is very agile - it leaps all over the branches of trees and jumps on its foe from above or behind.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -498,7 +502,8 @@
       "description": "The leaves growing on SCEPTILE\u2019s body are very sharp edged. This POK\u00e9MON is very agile - it leaps all over the branches of trees and jumps on its foe from above or behind.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -614,7 +619,8 @@
       "description": "The leaves growing on SCEPTILE\u2019s body are very sharp edged. This POK\u00e9MON is very agile - it leaps all over the branches of trees and jumps on its foe from above or behind.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -730,7 +736,8 @@
       "description": "The leaves growing on SCEPTILE\u2019s body are very sharp edged. This POK\u00e9MON is very agile - it leaps all over the branches of trees and jumps on its foe from above or behind.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

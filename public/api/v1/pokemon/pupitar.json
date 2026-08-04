@@ -58,7 +58,8 @@
       "description": "Its shell is as hard as sheet rock, and it is also very strong. Its THRASHING can topple a mountain.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "3": {
       "types": [
@@ -125,7 +126,8 @@
       "description": "Its shell is as hard as sheet rock, and it is also very strong. Its THRASHING can topple a mountain.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "4": {
       "types": [
@@ -207,7 +209,8 @@
       "description": "Its shell is as hard as sheet rock, and it is also very strong. Its THRASHING can topple a mountain.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -290,7 +293,8 @@
       "description": "Its shell is as hard as sheet rock, and it is also very strong. Its THRASHING can topple a mountain.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -375,7 +379,8 @@
       "description": "Its shell is as hard as sheet rock, and it is also very strong. Its THRASHING can topple a mountain.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -454,7 +459,8 @@
       "description": "Its shell is as hard as sheet rock, and it is also very strong. Its THRASHING can topple a mountain.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -538,7 +544,8 @@
       "description": "Its shell is as hard as sheet rock, and it is also very strong. Its THRASHING can topple a mountain.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -620,7 +627,8 @@
       "description": "Its shell is as hard as sheet rock, and it is also very strong. Its THRASHING can topple a mountain.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

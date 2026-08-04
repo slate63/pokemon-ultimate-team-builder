@@ -75,7 +75,8 @@
       "description": "When attacked, this Pok\u00e9mon will wield the tendrils on its body like fists and pelt the opponent with a storm of punches.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

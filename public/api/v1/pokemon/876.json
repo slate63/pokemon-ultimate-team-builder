@@ -85,7 +85,8 @@
       "description": "It uses the horns on its head to sense the emotions of others. Males will act as valets for those they serve, looking after their every need.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -162,7 +163,8 @@
       "description": "It uses the horns on its head to sense the emotions of others. Males will act as valets for those they serve, looking after their every need.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

@@ -84,7 +84,8 @@
       "description": "REGICE\u2019s body was made during an ice age. The deep-frozen body can\u2019t be melted, even by fire. This POK\u00e9MON controls frigid air of minus 328 degrees F.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "4": {
       "types": [
@@ -172,7 +173,8 @@
       "description": "REGICE\u2019s body was made during an ice age. The deep-frozen body can\u2019t be melted, even by fire. This POK\u00e9MON controls frigid air of minus 328 degrees F.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -256,7 +258,8 @@
       "description": "REGICE\u2019s body was made during an ice age. The deep-frozen body can\u2019t be melted, even by fire. This POK\u00e9MON controls frigid air of minus 328 degrees F.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -345,7 +348,8 @@
       "description": "REGICE\u2019s body was made during an ice age. The deep-frozen body can\u2019t be melted, even by fire. This POK\u00e9MON controls frigid air of minus 328 degrees F.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -432,7 +436,8 @@
       "description": "REGICE\u2019s body was made during an ice age. The deep-frozen body can\u2019t be melted, even by fire. This POK\u00e9MON controls frigid air of minus 328 degrees F.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -522,7 +527,8 @@
       "description": "REGICE\u2019s body was made during an ice age. The deep-frozen body can\u2019t be melted, even by fire. This POK\u00e9MON controls frigid air of minus 328 degrees F.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -600,7 +606,8 @@
       "description": "REGICE\u2019s body was made during an ice age. The deep-frozen body can\u2019t be melted, even by fire. This POK\u00e9MON controls frigid air of minus 328 degrees F.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

@@ -83,7 +83,8 @@
       "description": "They fight for their friends without any thought about danger to themselves. One can carry a car while flying.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -165,7 +166,8 @@
       "description": "They fight for their friends without any thought about danger to themselves. One can carry a car while flying.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -247,7 +249,8 @@
       "description": "They fight for their friends without any thought about danger to themselves. One can carry a car while flying.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -330,7 +333,8 @@
       "description": "They fight for their friends without any thought about danger to themselves. One can carry a car while flying.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -413,7 +417,8 @@
       "description": "They fight for their friends without any thought about danger to themselves. One can carry a car while flying.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

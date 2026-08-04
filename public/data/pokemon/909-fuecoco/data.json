@@ -76,7 +76,8 @@
       "description": "It lies on warm rocks and uses the heat absorbed by its square-shaped scales to create fire energy.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

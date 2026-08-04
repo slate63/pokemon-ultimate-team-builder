@@ -90,7 +90,8 @@
       "description": "It blasts fireballs of over 3,600 degrees F from the ends of its arms. It lives in volcanic craters.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": true
     },
     "5": {
       "types": [
@@ -177,7 +178,8 @@
       "description": "It blasts fireballs of over 3,600 degrees F from the ends of its arms. It lives in volcanic craters.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": true
     },
     "6": {
       "types": [
@@ -266,7 +268,8 @@
       "description": "It blasts fireballs of over 3,600 degrees F from the ends of its arms. It lives in volcanic craters.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": true
     },
     "7": {
       "types": [
@@ -356,7 +359,8 @@
       "description": "It blasts fireballs of over 3,600 degrees F from the ends of its arms. It lives in volcanic craters.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": true
     },
     "8": {
       "types": [
@@ -457,7 +461,8 @@
       "description": "It blasts fireballs of over 3,600 degrees F from the ends of its arms. It lives in volcanic craters.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": true
     },
     "9": {
       "types": [
@@ -556,7 +561,8 @@
       "description": "It blasts fireballs of over 3,600 degrees F from the ends of its arms. It lives in volcanic craters.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": true
     }
   }
 }

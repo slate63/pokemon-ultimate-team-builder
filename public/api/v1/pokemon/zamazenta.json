@@ -87,7 +87,8 @@
       "description": "In times past, it worked together with a king of the people to save the Galar region. It absorbs metal that it then uses in battle.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -172,7 +173,8 @@
       "description": "In times past, it worked together with a king of the people to save the Galar region. It absorbs metal that it then uses in battle.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

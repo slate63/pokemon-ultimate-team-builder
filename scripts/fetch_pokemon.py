@@ -103,7 +103,7 @@ import urllib.error
 from rate_limiter import RateLimiter
 from utils import get_generation_by_id, clean_name, print_progress_bar
 from pokemon_constants import GENERATION_RANGES, GEN_VERSION_GROUPS, GEN_GAMES, is_pokemon_fully_evolved
-from availability import get_pokemon_availability_for_gen, resolve_generation_types
+from availability import get_pokemon_availability_for_gen, resolve_generation_types, is_trade_evolution_for_gen
 
 BASE_URL = "https://pokeapi.co/api/v2/pokemon"
 SPECIES_BASE_URL = "https://pokeapi.co/api/v2/pokemon-species"
@@ -610,6 +610,7 @@ def _save_pokemon_gen_data(
     gen_data["is_legendary"] = data.get("is_legendary", False)
     gen_data["is_mythical"] = data.get("is_mythical", False)
     gen_data["is_fully_evolved"] = data.get("is_fully_evolved", False)
+    gen_data["requires_trade"] = data.get("requires_trade", False)
 
     # Determine the native (introduced) generation to know where we *used* to place it.
     # Now we place all Pokémon directly in public/data/pokemon/
@@ -706,6 +707,7 @@ def fetch_all_pokemon_sequential(
 
             data["availability"] = get_pokemon_availability_for_gen(pid, gen, raw_data=raw_data)
             data["is_fully_evolved"] = is_pokemon_fully_evolved(pid, gen)
+            data["requires_trade"] = is_trade_evolution_for_gen(pid, gen)
 
             data.pop("past_types", None)
 
@@ -772,6 +774,7 @@ def fetch_pokemon_for_generation(
         # Gen-specific availability (only this generation's games)
         data["availability"] = get_pokemon_availability_for_gen(pid, target_generation, raw_data=data)
         data["is_fully_evolved"] = is_pokemon_fully_evolved(pid, target_generation)
+        data["requires_trade"] = is_trade_evolution_for_gen(pid, target_generation)
 
         if download_images:
             download_pokemon_assets(pid, p_dir, target_generation, sprite_groups)
@@ -842,6 +845,7 @@ def fetch_pokemon_range_for_gen(
 
         data["availability"] = get_pokemon_availability_for_gen(pid, target_generation, raw_data=data)
         data["is_fully_evolved"] = is_pokemon_fully_evolved(pid, target_generation)
+        data["requires_trade"] = is_trade_evolution_for_gen(pid, target_generation)
 
         if download_images:
             download_pokemon_assets(pid, p_dir, target_generation, sprite_groups)

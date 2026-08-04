@@ -87,7 +87,8 @@
       "description": "They came over from another region long ago and worked together with humans. Their green skin is resistant to water.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -170,7 +171,8 @@
       "description": "They came over from another region long ago and worked together with humans. Their green skin is resistant to water.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

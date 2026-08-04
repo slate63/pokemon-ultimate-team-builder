@@ -74,7 +74,8 @@
       "description": "ANORITH was regenerated from a prehistoric fossil. This primitive POK\u00e9MON once lived in warm seas. It grips its prey firmly between its two large claws.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "4": {
       "types": [
@@ -156,7 +157,8 @@
       "description": "ANORITH was regenerated from a prehistoric fossil. This primitive POK\u00e9MON once lived in warm seas. It grips its prey firmly between its two large claws.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -236,7 +238,8 @@
       "description": "ANORITH was regenerated from a prehistoric fossil. This primitive POK\u00e9MON once lived in warm seas. It grips its prey firmly between its two large claws.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -323,7 +326,8 @@
       "description": "ANORITH was regenerated from a prehistoric fossil. This primitive POK\u00e9MON once lived in warm seas. It grips its prey firmly between its two large claws.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -404,7 +408,8 @@
       "description": "ANORITH was regenerated from a prehistoric fossil. This primitive POK\u00e9MON once lived in warm seas. It grips its prey firmly between its two large claws.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -487,7 +492,8 @@
       "description": "ANORITH was regenerated from a prehistoric fossil. This primitive POK\u00e9MON once lived in warm seas. It grips its prey firmly between its two large claws.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -518,7 +524,8 @@
       "description": "ANORITH was regenerated from a prehistoric fossil. This primitive POK\u00e9MON once lived in warm seas. It grips its prey firmly between its two large claws.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

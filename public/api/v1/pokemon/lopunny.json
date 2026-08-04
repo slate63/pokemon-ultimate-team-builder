@@ -103,7 +103,8 @@
       "description": "An extremely cautious Pok\u00e9mon. It cloaks its body with its fluffy ear fur when it senses danger.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -200,7 +201,8 @@
       "description": "An extremely cautious Pok\u00e9mon. It cloaks its body with its fluffy ear fur when it senses danger.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -302,7 +304,8 @@
       "description": "An extremely cautious Pok\u00e9mon. It cloaks its body with its fluffy ear fur when it senses danger.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -404,7 +407,8 @@
       "description": "An extremely cautious Pok\u00e9mon. It cloaks its body with its fluffy ear fur when it senses danger.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -522,7 +526,8 @@
       "description": "An extremely cautious Pok\u00e9mon. It cloaks its body with its fluffy ear fur when it senses danger.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -553,7 +558,8 @@
       "description": "An extremely cautious Pok\u00e9mon. It cloaks its body with its fluffy ear fur when it senses danger.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

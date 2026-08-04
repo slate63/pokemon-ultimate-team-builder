@@ -80,7 +80,8 @@
       "description": "It secretly marks potential targets with a scent. By following the scent, it stalks its targets and steals from them when they least expect it.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -111,7 +112,8 @@
       "description": "It secretly marks potential targets with a scent. By following the scent, it stalks its targets and steals from them when they least expect it.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

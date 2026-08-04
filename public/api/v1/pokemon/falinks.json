@@ -76,7 +76,8 @@
       "description": "Five of them are troopers, and one is the brass. The brass\u2019s orders are absolute.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -155,7 +156,8 @@
       "description": "Five of them are troopers, and one is the brass. The brass\u2019s orders are absolute.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

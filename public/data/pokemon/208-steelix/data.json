@@ -65,7 +65,8 @@
       "description": "Its body has been compressed deep under the ground. As a result, it is even harder than a diamond.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": true
     },
     "3": {
       "types": [
@@ -143,7 +144,8 @@
       "description": "Its body has been compressed deep under the ground. As a result, it is even harder than a diamond.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": true
     },
     "4": {
       "types": [
@@ -247,7 +249,8 @@
       "description": "Its body has been compressed deep under the ground. As a result, it is even harder than a diamond.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": true
     },
     "5": {
       "types": [
@@ -345,7 +348,8 @@
       "description": "Its body has been compressed deep under the ground. As a result, it is even harder than a diamond.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": true
     },
     "6": {
       "types": [
@@ -446,7 +450,8 @@
       "description": "Its body has been compressed deep under the ground. As a result, it is even harder than a diamond.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": true
     },
     "7": {
       "types": [
@@ -543,7 +548,8 @@
       "description": "Its body has been compressed deep under the ground. As a result, it is even harder than a diamond.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": true
     },
     "8": {
       "types": [
@@ -655,7 +661,8 @@
       "description": "Its body has been compressed deep under the ground. As a result, it is even harder than a diamond.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": true
     },
     "9": {
       "types": [
@@ -687,7 +694,8 @@
       "description": "Its body has been compressed deep under the ground. As a result, it is even harder than a diamond.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": true
     }
   }
 }

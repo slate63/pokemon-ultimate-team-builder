@@ -90,7 +90,8 @@
       "description": "This legendary Pok\u00e9mon battled against humans to protect Pok\u00e9mon. Its personality is calm and composed.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -180,7 +181,8 @@
       "description": "This legendary Pok\u00e9mon battled against humans to protect Pok\u00e9mon. Its personality is calm and composed.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -266,7 +268,8 @@
       "description": "This legendary Pok\u00e9mon battled against humans to protect Pok\u00e9mon. Its personality is calm and composed.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -351,7 +354,8 @@
       "description": "This legendary Pok\u00e9mon battled against humans to protect Pok\u00e9mon. Its personality is calm and composed.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -441,7 +445,8 @@
       "description": "This legendary Pok\u00e9mon battled against humans to protect Pok\u00e9mon. Its personality is calm and composed.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

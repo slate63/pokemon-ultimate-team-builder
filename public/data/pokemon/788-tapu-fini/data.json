@@ -97,7 +97,8 @@
       "description": "The dense fog it creates brings the downfall and destruction of its confused enemies. Ocean currents are the source of its energy.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -186,7 +187,8 @@
       "description": "The dense fog it creates brings the downfall and destruction of its confused enemies. Ocean currents are the source of its energy.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -217,7 +219,8 @@
       "description": "The dense fog it creates brings the downfall and destruction of its confused enemies. Ocean currents are the source of its energy.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

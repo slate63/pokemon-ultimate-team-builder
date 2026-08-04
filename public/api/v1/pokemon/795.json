@@ -91,7 +91,8 @@
       "description": "One of the dangerous Ultra Beasts, it has been spotted running across the land at terrific speeds.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -172,7 +173,8 @@
       "description": "One of the dangerous Ultra Beasts, it has been spotted running across the land at terrific speeds.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -202,7 +204,8 @@
       "description": "One of the dangerous Ultra Beasts, it has been spotted running across the land at terrific speeds.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

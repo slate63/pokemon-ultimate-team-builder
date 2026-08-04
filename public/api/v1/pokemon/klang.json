@@ -77,7 +77,8 @@
       "description": "By changing the direction in which it rotates, it communicates its feelings to others. When angry, it rotates faster.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -152,7 +153,8 @@
       "description": "By changing the direction in which it rotates, it communicates its feelings to others. When angry, it rotates faster.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -230,7 +232,8 @@
       "description": "By changing the direction in which it rotates, it communicates its feelings to others. When angry, it rotates faster.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -300,7 +303,8 @@
       "description": "By changing the direction in which it rotates, it communicates its feelings to others. When angry, it rotates faster.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -331,7 +335,8 @@
       "description": "By changing the direction in which it rotates, it communicates its feelings to others. When angry, it rotates faster.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

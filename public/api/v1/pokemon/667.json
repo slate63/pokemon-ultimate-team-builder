@@ -89,7 +89,8 @@
       "description": "The stronger the opponent it faces, the more heat surges from its mane and the more power flows through its body.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -174,7 +175,8 @@
       "description": "The stronger the opponent it faces, the more heat surges from its mane and the more power flows through its body.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -208,7 +210,8 @@
       "description": "The stronger the opponent it faces, the more heat surges from its mane and the more power flows through its body.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -290,7 +293,8 @@
       "description": "The stronger the opponent it faces, the more heat surges from its mane and the more power flows through its body.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

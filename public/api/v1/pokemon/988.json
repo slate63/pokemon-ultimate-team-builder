@@ -87,7 +87,8 @@
       "description": "This mysterious Pok\u00e9mon has some similarities to a creature that an old book introduced as Slither Wing.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

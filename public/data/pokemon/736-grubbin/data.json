@@ -71,7 +71,8 @@
       "description": "Its strong jaw enables it to scrape trees and slurp out the sap. It normally lives underground.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -137,7 +138,8 @@
       "description": "Its strong jaw enables it to scrape trees and slurp out the sap. It normally lives underground.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -204,7 +206,8 @@
       "description": "Its strong jaw enables it to scrape trees and slurp out the sap. It normally lives underground.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

@@ -88,7 +88,8 @@
       "description": "It can throw bubble-covered pebbles with precise control, hitting empty cans up to a hundred feet away.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -170,7 +171,8 @@
       "description": "It can throw bubble-covered pebbles with precise control, hitting empty cans up to a hundred feet away.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -202,7 +204,8 @@
       "description": "It can throw bubble-covered pebbles with precise control, hitting empty cans up to a hundred feet away.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -288,7 +291,8 @@
       "description": "It can throw bubble-covered pebbles with precise control, hitting empty cans up to a hundred feet away.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

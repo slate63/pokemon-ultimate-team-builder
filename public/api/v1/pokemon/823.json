@@ -87,7 +87,8 @@
       "description": "This Pok\u00e9mon reigns supreme in the skies of the Galar region. The black luster of its steel body could drive terror into the heart of any foe.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -179,7 +180,8 @@
       "description": "This Pok\u00e9mon reigns supreme in the skies of the Galar region. The black luster of its steel body could drive terror into the heart of any foe.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

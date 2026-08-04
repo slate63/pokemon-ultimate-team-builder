@@ -85,7 +85,8 @@
       "description": "Over the winter, it closes its bud and endures the cold. In spring, the bud opens and releases pollen.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -165,7 +166,8 @@
       "description": "Over the winter, it closes its bud and endures the cold. In spring, the bud opens and releases pollen.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -249,7 +251,8 @@
       "description": "Over the winter, it closes its bud and endures the cold. In spring, the bud opens and releases pollen.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -330,7 +333,8 @@
       "description": "Over the winter, it closes its bud and endures the cold. In spring, the bud opens and releases pollen.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -415,7 +419,8 @@
       "description": "Over the winter, it closes its bud and endures the cold. In spring, the bud opens and releases pollen.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -447,7 +452,8 @@
       "description": "Over the winter, it closes its bud and endures the cold. In spring, the bud opens and releases pollen.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

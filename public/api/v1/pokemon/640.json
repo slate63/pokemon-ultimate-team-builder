@@ -89,7 +89,8 @@
       "description": "This Pok\u00e9mon fought humans in order to protect its friends. Legends about it continue to be passed down.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -179,7 +180,8 @@
       "description": "This Pok\u00e9mon fought humans in order to protect its friends. Legends about it continue to be passed down.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -265,7 +267,8 @@
       "description": "This Pok\u00e9mon fought humans in order to protect its friends. Legends about it continue to be passed down.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -350,7 +353,8 @@
       "description": "This Pok\u00e9mon fought humans in order to protect its friends. Legends about it continue to be passed down.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -439,7 +443,8 @@
       "description": "This Pok\u00e9mon fought humans in order to protect its friends. Legends about it continue to be passed down.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

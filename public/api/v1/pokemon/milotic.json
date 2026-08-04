@@ -73,7 +73,8 @@
       "description": "MILOTIC is breathtakingly beautiful. Those that see it are said to forget their combative spirits.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": true
     },
     "4": {
       "types": [
@@ -149,7 +150,8 @@
       "description": "MILOTIC is breathtakingly beautiful. Those that see it are said to forget their combative spirits.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": true
     },
     "5": {
       "types": [
@@ -229,7 +231,8 @@
       "description": "MILOTIC is breathtakingly beautiful. Those that see it are said to forget their combative spirits.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": true
     },
     "6": {
       "types": [
@@ -311,7 +314,8 @@
       "description": "MILOTIC is breathtakingly beautiful. Those that see it are said to forget their combative spirits.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": true
     },
     "7": {
       "types": [
@@ -395,7 +399,8 @@
       "description": "MILOTIC is breathtakingly beautiful. Those that see it are said to forget their combative spirits.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": true
     },
     "8": {
       "types": [
@@ -490,7 +495,8 @@
       "description": "MILOTIC is breathtakingly beautiful. Those that see it are said to forget their combative spirits.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": true
     },
     "9": {
       "types": [
@@ -588,7 +594,8 @@
       "description": "MILOTIC is breathtakingly beautiful. Those that see it are said to forget their combative spirits.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": true
     }
   }
 }

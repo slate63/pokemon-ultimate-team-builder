@@ -145,7 +145,8 @@
       "description": "It is said to have emerged from an egg in a place where there was nothing, then shaped the world.",
       "is_legendary": false,
       "is_mythical": true,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -278,7 +279,8 @@
       "description": "It is said to have emerged from an egg in a place where there was nothing, then shaped the world.",
       "is_legendary": false,
       "is_mythical": true,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -414,7 +416,8 @@
       "description": "It is said to have emerged from an egg in a place where there was nothing, then shaped the world.",
       "is_legendary": false,
       "is_mythical": true,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -546,7 +549,8 @@
       "description": "It is said to have emerged from an egg in a place where there was nothing, then shaped the world.",
       "is_legendary": false,
       "is_mythical": true,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -587,7 +591,8 @@
       "description": "It is said to have emerged from an egg in a place where there was nothing, then shaped the world.",
       "is_legendary": false,
       "is_mythical": true,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -738,7 +743,8 @@
       "description": "It is said to have emerged from an egg in a place where there was nothing, then shaped the world.",
       "is_legendary": false,
       "is_mythical": true,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

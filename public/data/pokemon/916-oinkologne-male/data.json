@@ -79,7 +79,8 @@
       "description": "Oinkologne is proud of its fine, glossy skin. It emits a concentrated scent from the tip of its tail.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

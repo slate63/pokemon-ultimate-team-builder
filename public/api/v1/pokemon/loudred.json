@@ -90,7 +90,8 @@
       "description": "LOUDRED\u2019s bellowing can completely decimate a wood-frame house. It uses its voice to punish its foes. This POK\u00e9MON\u2019s round ears serve as loudspeakers.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "4": {
       "types": [
@@ -180,7 +181,8 @@
       "description": "LOUDRED\u2019s bellowing can completely decimate a wood-frame house. It uses its voice to punish its foes. This POK\u00e9MON\u2019s round ears serve as loudspeakers.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -264,7 +266,8 @@
       "description": "LOUDRED\u2019s bellowing can completely decimate a wood-frame house. It uses its voice to punish its foes. This POK\u00e9MON\u2019s round ears serve as loudspeakers.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -357,7 +360,8 @@
       "description": "LOUDRED\u2019s bellowing can completely decimate a wood-frame house. It uses its voice to punish its foes. This POK\u00e9MON\u2019s round ears serve as loudspeakers.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -441,7 +445,8 @@
       "description": "LOUDRED\u2019s bellowing can completely decimate a wood-frame house. It uses its voice to punish its foes. This POK\u00e9MON\u2019s round ears serve as loudspeakers.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -530,7 +535,8 @@
       "description": "LOUDRED\u2019s bellowing can completely decimate a wood-frame house. It uses its voice to punish its foes. This POK\u00e9MON\u2019s round ears serve as loudspeakers.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -560,7 +566,8 @@
       "description": "LOUDRED\u2019s bellowing can completely decimate a wood-frame house. It uses its voice to punish its foes. This POK\u00e9MON\u2019s round ears serve as loudspeakers.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

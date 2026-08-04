@@ -91,7 +91,8 @@
       "description": "When its internal fire is burning, it cannot calm down and it runs around. When the fire diminishes, it falls asleep.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -181,7 +182,8 @@
       "description": "When its internal fire is burning, it cannot calm down and it runs around. When the fire diminishes, it falls asleep.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -267,7 +269,8 @@
       "description": "When its internal fire is burning, it cannot calm down and it runs around. When the fire diminishes, it falls asleep.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -350,7 +353,8 @@
       "description": "When its internal fire is burning, it cannot calm down and it runs around. When the fire diminishes, it falls asleep.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -380,7 +384,8 @@
       "description": "When its internal fire is burning, it cannot calm down and it runs around. When the fire diminishes, it falls asleep.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

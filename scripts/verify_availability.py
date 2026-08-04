@@ -33,7 +33,10 @@ TEST_CASES = [
     (83, "Farfetch'd", "1", {"red", "blue", "yellow"}, "In-game trade in R/B + wild in Yellow"),
     (123, "Scyther", "1", {"red", "yellow"}, "Red exclusive + Yellow wild (NOT in Blue)"),
     (127, "Pinsir", "1", {"blue", "yellow"}, "Blue exclusive + Yellow wild (NOT in Red)"),
-    (151, "Mew", "1", set(), "Mythical (unobtainable in Gen 1 without glitches/events)"),
+    # Gen 2
+    (123, "Scyther", "2", {"gold", "silver", "crystal"}, "Bug-Catching Contest at National Park (manual override for missing PokeAPI entries)"),
+    (127, "Pinsir", "2", {"gold", "silver", "crystal"}, "Bug-Catching Contest at National Park (manual override for missing PokeAPI entries)"),
+    (212, "Scizor", "2", {"gold", "silver", "crystal"}, "Evolves from Scyther via Metal Coat trade (propagated availability)"),
 
     # Gen 3
     (1, "Bulbasaur", "3", {"firered", "leafgreen"}, "FRLG starters (NOT in Ruby/Sapphire/Emerald)"),

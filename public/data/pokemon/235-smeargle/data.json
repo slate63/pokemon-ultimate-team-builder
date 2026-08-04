@@ -29,7 +29,8 @@
       "description": "A special fluid oozes from the tip of its tail. It paints the fluid everywhere to mark its territory.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "3": {
       "types": [
@@ -63,7 +64,8 @@
       "description": "A special fluid oozes from the tip of its tail. It paints the fluid everywhere to mark its territory.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "4": {
       "types": [
@@ -99,7 +101,8 @@
       "description": "A special fluid oozes from the tip of its tail. It paints the fluid everywhere to mark its territory.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -129,7 +132,8 @@
       "description": "A special fluid oozes from the tip of its tail. It paints the fluid everywhere to mark its territory.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -164,7 +168,8 @@
       "description": "A special fluid oozes from the tip of its tail. It paints the fluid everywhere to mark its territory.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -199,7 +204,8 @@
       "description": "A special fluid oozes from the tip of its tail. It paints the fluid everywhere to mark its territory.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -234,7 +240,8 @@
       "description": "A special fluid oozes from the tip of its tail. It paints the fluid everywhere to mark its territory.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -267,7 +274,8 @@
       "description": "A special fluid oozes from the tip of its tail. It paints the fluid everywhere to mark its territory.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

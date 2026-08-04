@@ -76,7 +76,8 @@
       "description": "Its bite injects a potent poison, enough to paralyze large bird Pok\u00e9mon that try to prey on it.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -151,7 +152,8 @@
       "description": "Its bite injects a potent poison, enough to paralyze large bird Pok\u00e9mon that try to prey on it.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -227,7 +229,8 @@
       "description": "Its bite injects a potent poison, enough to paralyze large bird Pok\u00e9mon that try to prey on it.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -298,7 +301,8 @@
       "description": "Its bite injects a potent poison, enough to paralyze large bird Pok\u00e9mon that try to prey on it.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -330,7 +334,8 @@
       "description": "Its bite injects a potent poison, enough to paralyze large bird Pok\u00e9mon that try to prey on it.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

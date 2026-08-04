@@ -90,7 +90,8 @@
       "description": "They greet one another by rubbing each other with their tails, which are always kept well groomed and clean.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -178,7 +179,8 @@
       "description": "They greet one another by rubbing each other with their tails, which are always kept well groomed and clean.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -267,7 +269,8 @@
       "description": "They greet one another by rubbing each other with their tails, which are always kept well groomed and clean.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -349,7 +352,8 @@
       "description": "They greet one another by rubbing each other with their tails, which are always kept well groomed and clean.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -433,7 +437,8 @@
       "description": "They greet one another by rubbing each other with their tails, which are always kept well groomed and clean.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

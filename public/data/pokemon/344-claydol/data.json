@@ -78,7 +78,8 @@
       "description": "CLAYDOL are said to be dolls of mud made by primitive humans and brought to life by exposure to a mysterious ray. This POK\u00e9MON moves about while levitating.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "4": {
       "types": [
@@ -176,7 +177,8 @@
       "description": "CLAYDOL are said to be dolls of mud made by primitive humans and brought to life by exposure to a mysterious ray. This POK\u00e9MON moves about while levitating.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -281,7 +283,8 @@
       "description": "CLAYDOL are said to be dolls of mud made by primitive humans and brought to life by exposure to a mysterious ray. This POK\u00e9MON moves about while levitating.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -386,7 +389,8 @@
       "description": "CLAYDOL are said to be dolls of mud made by primitive humans and brought to life by exposure to a mysterious ray. This POK\u00e9MON moves about while levitating.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -487,7 +491,8 @@
       "description": "CLAYDOL are said to be dolls of mud made by primitive humans and brought to life by exposure to a mysterious ray. This POK\u00e9MON moves about while levitating.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -598,7 +603,8 @@
       "description": "CLAYDOL are said to be dolls of mud made by primitive humans and brought to life by exposure to a mysterious ray. This POK\u00e9MON moves about while levitating.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -628,7 +634,8 @@
       "description": "CLAYDOL are said to be dolls of mud made by primitive humans and brought to life by exposure to a mysterious ray. This POK\u00e9MON moves about while levitating.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

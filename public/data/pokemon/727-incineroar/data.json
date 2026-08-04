@@ -111,7 +111,8 @@
       "description": "This Pok\u00e9mon has a violent, selfish disposition. If it\u2019s not in the mood to listen, it will ignore its Trainer\u2019s orders with complete nonchalance.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -221,7 +222,8 @@
       "description": "This Pok\u00e9mon has a violent, selfish disposition. If it\u2019s not in the mood to listen, it will ignore its Trainer\u2019s orders with complete nonchalance.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -333,7 +335,8 @@
       "description": "This Pok\u00e9mon has a violent, selfish disposition. If it\u2019s not in the mood to listen, it will ignore its Trainer\u2019s orders with complete nonchalance.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

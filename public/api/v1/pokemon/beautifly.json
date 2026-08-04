@@ -68,7 +68,8 @@
       "description": "BEAUTIFLY\u2019s favorite food is the sweet pollen of flowers. If you want to see this POK\u00e9MON, just leave a potted flower by an open window. BEAUTIFLY is sure to come looking for pollen.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "4": {
       "types": [
@@ -149,7 +150,8 @@
       "description": "BEAUTIFLY\u2019s favorite food is the sweet pollen of flowers. If you want to see this POK\u00e9MON, just leave a potted flower by an open window. BEAUTIFLY is sure to come looking for pollen.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -222,7 +224,8 @@
       "description": "BEAUTIFLY\u2019s favorite food is the sweet pollen of flowers. If you want to see this POK\u00e9MON, just leave a potted flower by an open window. BEAUTIFLY is sure to come looking for pollen.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -303,7 +306,8 @@
       "description": "BEAUTIFLY\u2019s favorite food is the sweet pollen of flowers. If you want to see this POK\u00e9MON, just leave a potted flower by an open window. BEAUTIFLY is sure to come looking for pollen.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -380,7 +384,8 @@
       "description": "BEAUTIFLY\u2019s favorite food is the sweet pollen of flowers. If you want to see this POK\u00e9MON, just leave a potted flower by an open window. BEAUTIFLY is sure to come looking for pollen.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -458,7 +463,8 @@
       "description": "BEAUTIFLY\u2019s favorite food is the sweet pollen of flowers. If you want to see this POK\u00e9MON, just leave a potted flower by an open window. BEAUTIFLY is sure to come looking for pollen.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -489,7 +495,8 @@
       "description": "BEAUTIFLY\u2019s favorite food is the sweet pollen of flowers. If you want to see this POK\u00e9MON, just leave a potted flower by an open window. BEAUTIFLY is sure to come looking for pollen.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

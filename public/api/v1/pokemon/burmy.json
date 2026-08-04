@@ -34,7 +34,8 @@
       "description": "To shelter itself from cold, wintry winds, it covers itself with a cloak made of twigs and leaves.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -68,7 +69,8 @@
       "description": "To shelter itself from cold, wintry winds, it covers itself with a cloak made of twigs and leaves.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -105,7 +107,8 @@
       "description": "To shelter itself from cold, wintry winds, it covers itself with a cloak made of twigs and leaves.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -139,7 +142,8 @@
       "description": "To shelter itself from cold, wintry winds, it covers itself with a cloak made of twigs and leaves.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -178,7 +182,8 @@
       "description": "To shelter itself from cold, wintry winds, it covers itself with a cloak made of twigs and leaves.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -208,7 +213,8 @@
       "description": "To shelter itself from cold, wintry winds, it covers itself with a cloak made of twigs and leaves.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

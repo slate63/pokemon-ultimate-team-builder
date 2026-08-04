@@ -79,7 +79,8 @@
       "description": "This Pok\u00e9mon has characteristics similar to those of Flutter Mane, a creature mentioned in a certain book.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

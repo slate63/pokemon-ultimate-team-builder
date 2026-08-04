@@ -71,7 +71,8 @@
       "description": "HUNTAIL\u2019s presence went unnoticed by people for a long time because it lives at extreme depths in the sea. This POK\u00e9MON\u2019s eyes can see clearly even in the murky dark depths of the ocean.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": true
     },
     "4": {
       "types": [
@@ -149,7 +150,8 @@
       "description": "HUNTAIL\u2019s presence went unnoticed by people for a long time because it lives at extreme depths in the sea. This POK\u00e9MON\u2019s eyes can see clearly even in the murky dark depths of the ocean.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": true
     },
     "5": {
       "types": [
@@ -223,7 +225,8 @@
       "description": "HUNTAIL\u2019s presence went unnoticed by people for a long time because it lives at extreme depths in the sea. This POK\u00e9MON\u2019s eyes can see clearly even in the murky dark depths of the ocean.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": true
     },
     "6": {
       "types": [
@@ -303,7 +306,8 @@
       "description": "HUNTAIL\u2019s presence went unnoticed by people for a long time because it lives at extreme depths in the sea. This POK\u00e9MON\u2019s eyes can see clearly even in the murky dark depths of the ocean.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": true
     },
     "7": {
       "types": [
@@ -380,7 +384,8 @@
       "description": "HUNTAIL\u2019s presence went unnoticed by people for a long time because it lives at extreme depths in the sea. This POK\u00e9MON\u2019s eyes can see clearly even in the murky dark depths of the ocean.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": true
     },
     "8": {
       "types": [
@@ -449,7 +454,8 @@
       "description": "HUNTAIL\u2019s presence went unnoticed by people for a long time because it lives at extreme depths in the sea. This POK\u00e9MON\u2019s eyes can see clearly even in the murky dark depths of the ocean.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": true
     },
     "9": {
       "types": [
@@ -479,7 +485,8 @@
       "description": "HUNTAIL\u2019s presence went unnoticed by people for a long time because it lives at extreme depths in the sea. This POK\u00e9MON\u2019s eyes can see clearly even in the murky dark depths of the ocean.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": true
     }
   }
 }

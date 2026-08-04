@@ -107,7 +107,8 @@
       "description": "In an attempt to confuse its enemy, it mimics the enemy\u2019s movements. Then it wastes no time in making itself scarce!",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -209,7 +210,8 @@
       "description": "In an attempt to confuse its enemy, it mimics the enemy\u2019s movements. Then it wastes no time in making itself scarce!",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -319,7 +321,8 @@
       "description": "In an attempt to confuse its enemy, it mimics the enemy\u2019s movements. Then it wastes no time in making itself scarce!",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -431,7 +434,8 @@
       "description": "In an attempt to confuse its enemy, it mimics the enemy\u2019s movements. Then it wastes no time in making itself scarce!",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -539,7 +543,8 @@
       "description": "In an attempt to confuse its enemy, it mimics the enemy\u2019s movements. Then it wastes no time in making itself scarce!",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -571,7 +576,8 @@
       "description": "In an attempt to confuse its enemy, it mimics the enemy\u2019s movements. Then it wastes no time in making itself scarce!",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

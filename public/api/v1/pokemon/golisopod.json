@@ -101,7 +101,8 @@
       "description": "With a flashing slash of its giant sharp claws, it cleaves seawater\u2014or even air\u2014right in two.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -199,7 +200,8 @@
       "description": "With a flashing slash of its giant sharp claws, it cleaves seawater\u2014or even air\u2014right in two.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -229,7 +231,8 @@
       "description": "With a flashing slash of its giant sharp claws, it cleaves seawater\u2014or even air\u2014right in two.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

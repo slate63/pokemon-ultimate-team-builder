@@ -76,7 +76,8 @@
       "description": "CASTFORM\u2019s appearance changes with the weather. This POK\u00e9MON gained the ability to use the vast power of nature to protect its tiny body.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "4": {
       "types": [
@@ -154,7 +155,8 @@
       "description": "CASTFORM\u2019s appearance changes with the weather. This POK\u00e9MON gained the ability to use the vast power of nature to protect its tiny body.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -236,7 +238,8 @@
       "description": "CASTFORM\u2019s appearance changes with the weather. This POK\u00e9MON gained the ability to use the vast power of nature to protect its tiny body.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -325,7 +328,8 @@
       "description": "CASTFORM\u2019s appearance changes with the weather. This POK\u00e9MON gained the ability to use the vast power of nature to protect its tiny body.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -414,7 +418,8 @@
       "description": "CASTFORM\u2019s appearance changes with the weather. This POK\u00e9MON gained the ability to use the vast power of nature to protect its tiny body.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -493,7 +498,8 @@
       "description": "CASTFORM\u2019s appearance changes with the weather. This POK\u00e9MON gained the ability to use the vast power of nature to protect its tiny body.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -522,7 +528,8 @@
       "description": "CASTFORM\u2019s appearance changes with the weather. This POK\u00e9MON gained the ability to use the vast power of nature to protect its tiny body.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

@@ -80,7 +80,8 @@
       "description": "The red head converts spicy chemicals into fire energy and blasts the surrounding area with a super spicy stream of flame.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

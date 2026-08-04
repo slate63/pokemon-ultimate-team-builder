@@ -101,7 +101,8 @@
       "description": "They use psychic power to control their arms, which are made of a special liquid. They can crush boulders psychically.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -208,7 +209,8 @@
       "description": "They use psychic power to control their arms, which are made of a special liquid. They can crush boulders psychically.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -313,7 +315,8 @@
       "description": "They use psychic power to control their arms, which are made of a special liquid. They can crush boulders psychically.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -406,7 +409,8 @@
       "description": "They use psychic power to control their arms, which are made of a special liquid. They can crush boulders psychically.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -501,7 +505,8 @@
       "description": "They use psychic power to control their arms, which are made of a special liquid. They can crush boulders psychically.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

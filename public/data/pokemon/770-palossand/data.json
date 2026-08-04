@@ -86,7 +86,8 @@
       "description": "Possessed people controlled by this Pok\u00e9mon transformed its sand mound into a castle. As it evolved, its power to curse grew ever stronger.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -161,7 +162,8 @@
       "description": "Possessed people controlled by this Pok\u00e9mon transformed its sand mound into a castle. As it evolved, its power to curse grew ever stronger.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -246,7 +248,8 @@
       "description": "Possessed people controlled by this Pok\u00e9mon transformed its sand mound into a castle. As it evolved, its power to curse grew ever stronger.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

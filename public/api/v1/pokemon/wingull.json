@@ -75,7 +75,8 @@
       "description": "WINGULL has the habit of carrying prey and valuables in its beak and hiding them in all sorts of locations. This POK\u00e9MON rides the winds and flies as if it were skating across the sky.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "4": {
       "types": [
@@ -164,7 +165,8 @@
       "description": "WINGULL has the habit of carrying prey and valuables in its beak and hiding them in all sorts of locations. This POK\u00e9MON rides the winds and flies as if it were skating across the sky.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -246,7 +248,8 @@
       "description": "WINGULL has the habit of carrying prey and valuables in its beak and hiding them in all sorts of locations. This POK\u00e9MON rides the winds and flies as if it were skating across the sky.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -332,7 +335,8 @@
       "description": "WINGULL has the habit of carrying prey and valuables in its beak and hiding them in all sorts of locations. This POK\u00e9MON rides the winds and flies as if it were skating across the sky.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -421,7 +425,8 @@
       "description": "WINGULL has the habit of carrying prey and valuables in its beak and hiding them in all sorts of locations. This POK\u00e9MON rides the winds and flies as if it were skating across the sky.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -504,7 +509,8 @@
       "description": "WINGULL has the habit of carrying prey and valuables in its beak and hiding them in all sorts of locations. This POK\u00e9MON rides the winds and flies as if it were skating across the sky.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -586,7 +592,8 @@
       "description": "WINGULL has the habit of carrying prey and valuables in its beak and hiding them in all sorts of locations. This POK\u00e9MON rides the winds and flies as if it were skating across the sky.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

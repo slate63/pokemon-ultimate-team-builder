@@ -84,7 +84,8 @@
       "description": "In the fever of an exciting battle, it showers embers from the gaps between its feathers and takes to the air.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -169,7 +170,8 @@
       "description": "In the fever of an exciting battle, it showers embers from the gaps between its feathers and takes to the air.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -247,7 +249,8 @@
       "description": "In the fever of an exciting battle, it showers embers from the gaps between its feathers and takes to the air.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -328,7 +331,8 @@
       "description": "In the fever of an exciting battle, it showers embers from the gaps between its feathers and takes to the air.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

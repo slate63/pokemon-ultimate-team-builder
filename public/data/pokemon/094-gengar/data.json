@@ -59,7 +59,8 @@
       "description": "Under a full moon, this POK\u00e9MON likes to mimic the shadows of people and laugh at their fright.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": true
     },
     "2": {
       "types": [
@@ -128,7 +129,8 @@
       "description": "Under a full moon, this POK\u00e9MON likes to mimic the shadows of people and laugh at their fright.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": true
     },
     "3": {
       "types": [
@@ -217,7 +219,8 @@
       "description": "Under a full moon, this POK\u00e9MON likes to mimic the shadows of people and laugh at their fright.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": true
     },
     "4": {
       "types": [
@@ -323,7 +326,8 @@
       "description": "Under a full moon, this POK\u00e9MON likes to mimic the shadows of people and laugh at their fright.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": true
     },
     "5": {
       "types": [
@@ -422,7 +426,8 @@
       "description": "Under a full moon, this POK\u00e9MON likes to mimic the shadows of people and laugh at their fright.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": true
     },
     "6": {
       "types": [
@@ -531,7 +536,8 @@
       "description": "Under a full moon, this POK\u00e9MON likes to mimic the shadows of people and laugh at their fright.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": true
     },
     "7": {
       "types": [
@@ -639,7 +645,8 @@
       "description": "Under a full moon, this POK\u00e9MON likes to mimic the shadows of people and laugh at their fright.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": true
     },
     "8": {
       "types": [
@@ -756,7 +763,8 @@
       "description": "Under a full moon, this POK\u00e9MON likes to mimic the shadows of people and laugh at their fright.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": true
     },
     "9": {
       "types": [
@@ -861,7 +869,8 @@
       "description": "Under a full moon, this POK\u00e9MON likes to mimic the shadows of people and laugh at their fright.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": true
     }
   }
 }

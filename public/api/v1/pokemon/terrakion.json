@@ -87,7 +87,8 @@
       "description": "This Pok\u00e9mon came to the defense of Pok\u00e9mon that had lost their homes in a war among humans.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -174,7 +175,8 @@
       "description": "This Pok\u00e9mon came to the defense of Pok\u00e9mon that had lost their homes in a war among humans.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -259,7 +261,8 @@
       "description": "This Pok\u00e9mon came to the defense of Pok\u00e9mon that had lost their homes in a war among humans.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -344,7 +347,8 @@
       "description": "This Pok\u00e9mon came to the defense of Pok\u00e9mon that had lost their homes in a war among humans.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -430,7 +434,8 @@
       "description": "This Pok\u00e9mon came to the defense of Pok\u00e9mon that had lost their homes in a war among humans.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

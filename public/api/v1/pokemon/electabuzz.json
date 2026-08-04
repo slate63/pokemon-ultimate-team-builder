@@ -59,7 +59,8 @@
       "description": "Normally found near power plants, they can wander away and cause major blackouts in cities.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "2": {
       "types": [
@@ -123,7 +124,8 @@
       "description": "Normally found near power plants, they can wander away and cause major blackouts in cities.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "3": {
       "types": [
@@ -199,7 +201,8 @@
       "description": "Normally found near power plants, they can wander away and cause major blackouts in cities.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "4": {
       "types": [
@@ -285,7 +288,8 @@
       "description": "Normally found near power plants, they can wander away and cause major blackouts in cities.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -367,7 +371,8 @@
       "description": "Normally found near power plants, they can wander away and cause major blackouts in cities.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -454,7 +459,8 @@
       "description": "Normally found near power plants, they can wander away and cause major blackouts in cities.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -538,7 +544,8 @@
       "description": "Normally found near power plants, they can wander away and cause major blackouts in cities.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -626,7 +633,8 @@
       "description": "Normally found near power plants, they can wander away and cause major blackouts in cities.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -714,7 +722,8 @@
       "description": "Normally found near power plants, they can wander away and cause major blackouts in cities.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

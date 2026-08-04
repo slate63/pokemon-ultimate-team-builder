@@ -97,7 +97,8 @@
       "description": "After all its muscles were stimulated by the toxic chain around its neck, Okidogi transformed and gained a powerful physique.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

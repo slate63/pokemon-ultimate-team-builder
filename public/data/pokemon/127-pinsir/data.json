@@ -48,7 +48,8 @@
       "description": "If it fails to crush the victim in its pincers, it will swing it around and toss it hard.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "2": {
       "types": [
@@ -107,7 +108,8 @@
       "description": "If it fails to crush the victim in its pincers, it will swing it around and toss it hard.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "3": {
       "types": [
@@ -187,7 +189,8 @@
       "description": "If it fails to crush the victim in its pincers, it will swing it around and toss it hard.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "4": {
       "types": [
@@ -281,7 +284,8 @@
       "description": "If it fails to crush the victim in its pincers, it will swing it around and toss it hard.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -374,7 +378,8 @@
       "description": "If it fails to crush the victim in its pincers, it will swing it around and toss it hard.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -471,7 +476,8 @@
       "description": "If it fails to crush the victim in its pincers, it will swing it around and toss it hard.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -565,7 +571,8 @@
       "description": "If it fails to crush the victim in its pincers, it will swing it around and toss it hard.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -660,7 +667,8 @@
       "description": "If it fails to crush the victim in its pincers, it will swing it around and toss it hard.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -691,7 +699,8 @@
       "description": "If it fails to crush the victim in its pincers, it will swing it around and toss it hard.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

@@ -80,7 +80,8 @@
       "description": "During the day, it sleeps and soaks up light. When night falls, it walks around looking for a safer place to sleep.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -153,7 +154,8 @@
       "description": "During the day, it sleeps and soaks up light. When night falls, it walks around looking for a safer place to sleep.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -224,7 +226,8 @@
       "description": "During the day, it sleeps and soaks up light. When night falls, it walks around looking for a safer place to sleep.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

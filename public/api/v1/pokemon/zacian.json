@@ -84,7 +84,8 @@
       "description": "Known as a legendary hero, this Pok\u00e9mon absorbs metal particles, transforming them into a weapon it uses to battle.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -165,7 +166,8 @@
       "description": "Known as a legendary hero, this Pok\u00e9mon absorbs metal particles, transforming them into a weapon it uses to battle.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

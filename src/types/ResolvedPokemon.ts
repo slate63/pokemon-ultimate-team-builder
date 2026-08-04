@@ -21,6 +21,7 @@ export interface ResolvedPokemon {
   is_legendary?: boolean;
   is_mythical?: boolean;
   is_fully_evolved?: boolean;
+  requires_trade?: boolean;
   sprite?: string;
   sprite_shiny?: string;
   back_sprite?: string;

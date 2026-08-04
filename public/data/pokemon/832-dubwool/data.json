@@ -72,7 +72,8 @@
       "description": "Weave a carpet from its springy wool, and you end up with something closer to a trampoline. You\u2019ll start to bounce the moment you set foot on it.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -103,7 +104,8 @@
       "description": "Weave a carpet from its springy wool, and you end up with something closer to a trampoline. You\u2019ll start to bounce the moment you set foot on it.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

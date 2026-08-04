@@ -91,7 +91,8 @@
       "description": "They crawl out of the ocean using their arms. They will attack prey on shore and immediately drag it into the ocean.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -188,7 +189,8 @@
       "description": "They crawl out of the ocean using their arms. They will attack prey on shore and immediately drag it into the ocean.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -284,7 +286,8 @@
       "description": "They crawl out of the ocean using their arms. They will attack prey on shore and immediately drag it into the ocean.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -315,7 +318,8 @@
       "description": "They crawl out of the ocean using their arms. They will attack prey on shore and immediately drag it into the ocean.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -415,7 +419,8 @@
       "description": "They crawl out of the ocean using their arms. They will attack prey on shore and immediately drag it into the ocean.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

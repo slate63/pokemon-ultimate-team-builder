@@ -84,7 +84,8 @@
       "description": "Thought to be one of the first Pok\u00e9mon to live in harmony with humans, it has a placid disposition.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -162,7 +163,8 @@
       "description": "Thought to be one of the first Pok\u00e9mon to live in harmony with humans, it has a placid disposition.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -194,7 +196,8 @@
       "description": "Thought to be one of the first Pok\u00e9mon to live in harmony with humans, it has a placid disposition.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -276,7 +279,8 @@
       "description": "Thought to be one of the first Pok\u00e9mon to live in harmony with humans, it has a placid disposition.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

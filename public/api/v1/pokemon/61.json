@@ -59,7 +59,8 @@
       "description": "Capable of living in or out of water. When out of water, it sweats to keep its body slimy.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "2": {
       "types": [
@@ -124,7 +125,8 @@
       "description": "Capable of living in or out of water. When out of water, it sweats to keep its body slimy.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "3": {
       "types": [
@@ -205,7 +207,8 @@
       "description": "Capable of living in or out of water. When out of water, it sweats to keep its body slimy.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "4": {
       "types": [
@@ -292,7 +295,8 @@
       "description": "Capable of living in or out of water. When out of water, it sweats to keep its body slimy.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -373,7 +377,8 @@
       "description": "Capable of living in or out of water. When out of water, it sweats to keep its body slimy.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -459,7 +464,8 @@
       "description": "Capable of living in or out of water. When out of water, it sweats to keep its body slimy.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -539,7 +545,8 @@
       "description": "Capable of living in or out of water. When out of water, it sweats to keep its body slimy.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -622,7 +629,8 @@
       "description": "Capable of living in or out of water. When out of water, it sweats to keep its body slimy.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -706,7 +714,8 @@
       "description": "Capable of living in or out of water. When out of water, it sweats to keep its body slimy.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

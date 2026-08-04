@@ -79,7 +79,8 @@
       "description": "CHIMECHO makes its cries echo inside its hollow body. When this POK\u00e9MON becomes enraged, its cries result in ultrasonic waves that have the power to knock foes flying.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "4": {
       "types": [
@@ -178,7 +179,8 @@
       "description": "CHIMECHO makes its cries echo inside its hollow body. When this POK\u00e9MON becomes enraged, its cries result in ultrasonic waves that have the power to knock foes flying.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -277,7 +279,8 @@
       "description": "CHIMECHO makes its cries echo inside its hollow body. When this POK\u00e9MON becomes enraged, its cries result in ultrasonic waves that have the power to knock foes flying.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -383,7 +386,8 @@
       "description": "CHIMECHO makes its cries echo inside its hollow body. When this POK\u00e9MON becomes enraged, its cries result in ultrasonic waves that have the power to knock foes flying.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -488,7 +492,8 @@
       "description": "CHIMECHO makes its cries echo inside its hollow body. When this POK\u00e9MON becomes enraged, its cries result in ultrasonic waves that have the power to knock foes flying.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -577,7 +582,8 @@
       "description": "CHIMECHO makes its cries echo inside its hollow body. When this POK\u00e9MON becomes enraged, its cries result in ultrasonic waves that have the power to knock foes flying.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -673,7 +679,8 @@
       "description": "CHIMECHO makes its cries echo inside its hollow body. When this POK\u00e9MON becomes enraged, its cries result in ultrasonic waves that have the power to knock foes flying.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

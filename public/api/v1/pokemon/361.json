@@ -68,7 +68,8 @@
       "description": "SNORUNT live in regions with heavy snowfall. In seasons without snow, such as spring and summer, this POK\u00e9MON steals away to live quietly among stalactites and stalagmites deep in caverns.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "4": {
       "types": [
@@ -143,7 +144,8 @@
       "description": "SNORUNT live in regions with heavy snowfall. In seasons without snow, such as spring and summer, this POK\u00e9MON steals away to live quietly among stalactites and stalagmites deep in caverns.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -213,7 +215,8 @@
       "description": "SNORUNT live in regions with heavy snowfall. In seasons without snow, such as spring and summer, this POK\u00e9MON steals away to live quietly among stalactites and stalagmites deep in caverns.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -290,7 +293,8 @@
       "description": "SNORUNT live in regions with heavy snowfall. In seasons without snow, such as spring and summer, this POK\u00e9MON steals away to live quietly among stalactites and stalagmites deep in caverns.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -367,7 +371,8 @@
       "description": "SNORUNT live in regions with heavy snowfall. In seasons without snow, such as spring and summer, this POK\u00e9MON steals away to live quietly among stalactites and stalagmites deep in caverns.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -443,7 +448,8 @@
       "description": "SNORUNT live in regions with heavy snowfall. In seasons without snow, such as spring and summer, this POK\u00e9MON steals away to live quietly among stalactites and stalagmites deep in caverns.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -518,7 +524,8 @@
       "description": "SNORUNT live in regions with heavy snowfall. In seasons without snow, such as spring and summer, this POK\u00e9MON steals away to live quietly among stalactites and stalagmites deep in caverns.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

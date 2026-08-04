@@ -88,7 +88,8 @@
       "description": "The color and scent of their fur changes to match the mountain grass. When they sense hostility, they hide in the grass.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -172,7 +173,8 @@
       "description": "The color and scent of their fur changes to match the mountain grass. When they sense hostility, they hide in the grass.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -255,7 +257,8 @@
       "description": "The color and scent of their fur changes to match the mountain grass. When they sense hostility, they hide in the grass.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -289,7 +292,8 @@
       "description": "The color and scent of their fur changes to match the mountain grass. When they sense hostility, they hide in the grass.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -367,7 +371,8 @@
       "description": "The color and scent of their fur changes to match the mountain grass. When they sense hostility, they hide in the grass.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

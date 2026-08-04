@@ -102,7 +102,8 @@
       "description": "When it unleashes its psychic power from the protuberance on its head, the grating sound of grinding teeth echoes through the area.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -136,7 +137,8 @@
       "description": "When it unleashes its psychic power from the protuberance on its head, the grating sound of grinding teeth echoes through the area.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -221,7 +223,8 @@
       "description": "When it unleashes its psychic power from the protuberance on its head, the grating sound of grinding teeth echoes through the area.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

@@ -79,7 +79,8 @@
       "description": "PLUSLE always acts as a cheerleader for its partners. Whenever a teammate puts out a good effort in battle, this POK\u00e9MON shorts out its body to create the crackling noises of sparks to show its joy.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "4": {
       "types": [
@@ -162,7 +163,8 @@
       "description": "PLUSLE always acts as a cheerleader for its partners. Whenever a teammate puts out a good effort in battle, this POK\u00e9MON shorts out its body to create the crackling noises of sparks to show its joy.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -241,7 +243,8 @@
       "description": "PLUSLE always acts as a cheerleader for its partners. Whenever a teammate puts out a good effort in battle, this POK\u00e9MON shorts out its body to create the crackling noises of sparks to show its joy.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -332,7 +335,8 @@
       "description": "PLUSLE always acts as a cheerleader for its partners. Whenever a teammate puts out a good effort in battle, this POK\u00e9MON shorts out its body to create the crackling noises of sparks to show its joy.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -419,7 +423,8 @@
       "description": "PLUSLE always acts as a cheerleader for its partners. Whenever a teammate puts out a good effort in battle, this POK\u00e9MON shorts out its body to create the crackling noises of sparks to show its joy.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -497,7 +502,8 @@
       "description": "PLUSLE always acts as a cheerleader for its partners. Whenever a teammate puts out a good effort in battle, this POK\u00e9MON shorts out its body to create the crackling noises of sparks to show its joy.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -580,7 +586,8 @@
       "description": "PLUSLE always acts as a cheerleader for its partners. Whenever a teammate puts out a good effort in battle, this POK\u00e9MON shorts out its body to create the crackling noises of sparks to show its joy.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

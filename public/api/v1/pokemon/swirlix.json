@@ -82,7 +82,8 @@
       "description": "To entangle its opponents in battle, it extrudes white threads as sweet and sticky as cotton candy.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -161,7 +162,8 @@
       "description": "To entangle its opponents in battle, it extrudes white threads as sweet and sticky as cotton candy.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -236,7 +238,8 @@
       "description": "To entangle its opponents in battle, it extrudes white threads as sweet and sticky as cotton candy.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -266,7 +269,8 @@
       "description": "To entangle its opponents in battle, it extrudes white threads as sweet and sticky as cotton candy.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

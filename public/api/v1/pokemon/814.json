@@ -79,7 +79,8 @@
       "description": "Its thick and fluffy fur protects it from the cold and enables it to use hotter fire moves.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -160,7 +161,8 @@
       "description": "Its thick and fluffy fur protects it from the cold and enables it to use hotter fire moves.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

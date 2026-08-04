@@ -79,7 +79,8 @@
       "description": "They knock down flying prey by firing compressed water from their massive claws like shooting a pistol.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -155,7 +156,8 @@
       "description": "They knock down flying prey by firing compressed water from their massive claws like shooting a pistol.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -230,7 +232,8 @@
       "description": "They knock down flying prey by firing compressed water from their massive claws like shooting a pistol.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -305,7 +308,8 @@
       "description": "They knock down flying prey by firing compressed water from their massive claws like shooting a pistol.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

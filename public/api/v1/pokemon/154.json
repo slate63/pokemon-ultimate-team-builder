@@ -65,7 +65,8 @@
       "description": "The aroma that rises from its petals contains a substance that calms aggressive feelings.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "3": {
       "types": [
@@ -136,7 +137,8 @@
       "description": "The aroma that rises from its petals contains a substance that calms aggressive feelings.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "4": {
       "types": [
@@ -222,7 +224,8 @@
       "description": "The aroma that rises from its petals contains a substance that calms aggressive feelings.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -301,7 +304,8 @@
       "description": "The aroma that rises from its petals contains a substance that calms aggressive feelings.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -387,7 +391,8 @@
       "description": "The aroma that rises from its petals contains a substance that calms aggressive feelings.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -471,7 +476,8 @@
       "description": "The aroma that rises from its petals contains a substance that calms aggressive feelings.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -547,7 +553,8 @@
       "description": "The aroma that rises from its petals contains a substance that calms aggressive feelings.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -640,7 +647,8 @@
       "description": "The aroma that rises from its petals contains a substance that calms aggressive feelings.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

@@ -92,7 +92,8 @@
       "description": "It gathers static electricity from its surroundings. The beams it launches when down on all fours are tremendously powerful.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

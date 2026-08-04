@@ -87,7 +87,8 @@
       "description": "Many of its physical characteristics match those of a Virizion from the future that was covered in a paranormal magazine.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

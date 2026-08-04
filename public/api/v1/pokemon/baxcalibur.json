@@ -85,7 +85,8 @@
       "description": "This Pok\u00e9mon blasts cryogenic air out from its mouth. This air can instantly freeze even liquid-hot lava.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

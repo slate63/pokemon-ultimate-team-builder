@@ -80,7 +80,8 @@
       "description": "This species left the ocean and began living on land a very long time ago. It seems to be closely related to Wailmer.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

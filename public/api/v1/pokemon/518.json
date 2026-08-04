@@ -86,7 +86,8 @@
       "description": "The mist emanating from their foreheads is packed with the dreams of people and Pok\u00e9mon.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -170,7 +171,8 @@
       "description": "The mist emanating from their foreheads is packed with the dreams of people and Pok\u00e9mon.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -255,7 +257,8 @@
       "description": "The mist emanating from their foreheads is packed with the dreams of people and Pok\u00e9mon.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -339,7 +342,8 @@
       "description": "The mist emanating from their foreheads is packed with the dreams of people and Pok\u00e9mon.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -370,7 +374,8 @@
       "description": "The mist emanating from their foreheads is packed with the dreams of people and Pok\u00e9mon.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

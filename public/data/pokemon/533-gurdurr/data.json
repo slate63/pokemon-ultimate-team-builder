@@ -88,7 +88,8 @@
       "description": "This Pok\u00e9mon is so muscular and strongly built that even a group of wrestlers could not make it budge an inch.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -176,7 +177,8 @@
       "description": "This Pok\u00e9mon is so muscular and strongly built that even a group of wrestlers could not make it budge an inch.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -260,7 +262,8 @@
       "description": "This Pok\u00e9mon is so muscular and strongly built that even a group of wrestlers could not make it budge an inch.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -344,7 +347,8 @@
       "description": "This Pok\u00e9mon is so muscular and strongly built that even a group of wrestlers could not make it budge an inch.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -428,7 +432,8 @@
       "description": "This Pok\u00e9mon is so muscular and strongly built that even a group of wrestlers could not make it budge an inch.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

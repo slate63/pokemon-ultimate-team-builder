@@ -87,7 +87,8 @@
       "description": "COMBUSKEN toughens up its legs and thighs by running through fields and mountains. This POK\u00e9MON\u2019s legs possess both speed and power, enabling it to dole out ten kicks in one second.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "4": {
       "types": [
@@ -180,7 +181,8 @@
       "description": "COMBUSKEN toughens up its legs and thighs by running through fields and mountains. This POK\u00e9MON\u2019s legs possess both speed and power, enabling it to dole out ten kicks in one second.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -269,7 +271,8 @@
       "description": "COMBUSKEN toughens up its legs and thighs by running through fields and mountains. This POK\u00e9MON\u2019s legs possess both speed and power, enabling it to dole out ten kicks in one second.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -364,7 +367,8 @@
       "description": "COMBUSKEN toughens up its legs and thighs by running through fields and mountains. This POK\u00e9MON\u2019s legs possess both speed and power, enabling it to dole out ten kicks in one second.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -453,7 +457,8 @@
       "description": "COMBUSKEN toughens up its legs and thighs by running through fields and mountains. This POK\u00e9MON\u2019s legs possess both speed and power, enabling it to dole out ten kicks in one second.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -551,7 +556,8 @@
       "description": "COMBUSKEN toughens up its legs and thighs by running through fields and mountains. This POK\u00e9MON\u2019s legs possess both speed and power, enabling it to dole out ten kicks in one second.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -649,7 +655,8 @@
       "description": "COMBUSKEN toughens up its legs and thighs by running through fields and mountains. This POK\u00e9MON\u2019s legs possess both speed and power, enabling it to dole out ten kicks in one second.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

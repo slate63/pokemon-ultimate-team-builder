@@ -95,7 +95,8 @@
       "description": "Its internal fire burns at 2,500\u00b0 F, making enough power that it can destroy a dump truck with one punch.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -190,7 +191,8 @@
       "description": "Its internal fire burns at 2,500\u00b0 F, making enough power that it can destroy a dump truck with one punch.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -281,7 +283,8 @@
       "description": "Its internal fire burns at 2,500\u00b0 F, making enough power that it can destroy a dump truck with one punch.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -381,7 +384,8 @@
       "description": "Its internal fire burns at 2,500\u00b0 F, making enough power that it can destroy a dump truck with one punch.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -411,7 +415,8 @@
       "description": "Its internal fire burns at 2,500\u00b0 F, making enough power that it can destroy a dump truck with one punch.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

@@ -89,7 +89,8 @@
       "description": "The color of the poisonous saliva depends on what the Pok\u00e9mon eats. Grafaiai covers its fingers in its saliva and draws patterns on trees in forests.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

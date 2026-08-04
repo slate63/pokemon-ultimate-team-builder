@@ -79,7 +79,8 @@
       "description": "NOSEPASS\u2019s magnetic nose is always pointed to the north. If two of these POK\u00e9MON meet, they cannot turn their faces to each other when they are close because their magnetic noses repel one another.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "4": {
       "types": [
@@ -170,7 +171,8 @@
       "description": "NOSEPASS\u2019s magnetic nose is always pointed to the north. If two of these POK\u00e9MON meet, they cannot turn their faces to each other when they are close because their magnetic noses repel one another.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -258,7 +260,8 @@
       "description": "NOSEPASS\u2019s magnetic nose is always pointed to the north. If two of these POK\u00e9MON meet, they cannot turn their faces to each other when they are close because their magnetic noses repel one another.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -351,7 +354,8 @@
       "description": "NOSEPASS\u2019s magnetic nose is always pointed to the north. If two of these POK\u00e9MON meet, they cannot turn their faces to each other when they are close because their magnetic noses repel one another.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -444,7 +448,8 @@
       "description": "NOSEPASS\u2019s magnetic nose is always pointed to the north. If two of these POK\u00e9MON meet, they cannot turn their faces to each other when they are close because their magnetic noses repel one another.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -522,7 +527,8 @@
       "description": "NOSEPASS\u2019s magnetic nose is always pointed to the north. If two of these POK\u00e9MON meet, they cannot turn their faces to each other when they are close because their magnetic noses repel one another.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -609,7 +615,8 @@
       "description": "NOSEPASS\u2019s magnetic nose is always pointed to the north. If two of these POK\u00e9MON meet, they cannot turn their faces to each other when they are close because their magnetic noses repel one another.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

@@ -72,7 +72,8 @@
       "description": "It stores flammable gas in its body and uses it to generate heat. The yellow sections on its belly get particularly hot.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -104,7 +105,8 @@
       "description": "It stores flammable gas in its body and uses it to generate heat. The yellow sections on its belly get particularly hot.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

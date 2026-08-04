@@ -102,7 +102,8 @@
       "description": "When in danger, it raises its ears and releases enough psychic power to grind a 10-ton truck into dust.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -200,7 +201,8 @@
       "description": "When in danger, it raises its ears and releases enough psychic power to grind a 10-ton truck into dust.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -292,7 +294,8 @@
       "description": "When in danger, it raises its ears and releases enough psychic power to grind a 10-ton truck into dust.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -381,7 +384,8 @@
       "description": "When in danger, it raises its ears and releases enough psychic power to grind a 10-ton truck into dust.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

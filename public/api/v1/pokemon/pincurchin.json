@@ -80,7 +80,8 @@
       "description": "It feeds on seaweed, using its teeth to scrape it off rocks. Electric current flows from the tips of its spines.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -161,7 +162,8 @@
       "description": "It feeds on seaweed, using its teeth to scrape it off rocks. Electric current flows from the tips of its spines.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

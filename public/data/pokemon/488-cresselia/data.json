@@ -89,7 +89,8 @@
       "description": "Shiny particles are released from its wings like a veil. It is said to represent the crescent moon.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -174,7 +175,8 @@
       "description": "Shiny particles are released from its wings like a veil. It is said to represent the crescent moon.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -261,7 +263,8 @@
       "description": "Shiny particles are released from its wings like a veil. It is said to represent the crescent moon.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -348,7 +351,8 @@
       "description": "Shiny particles are released from its wings like a veil. It is said to represent the crescent moon.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -441,7 +445,8 @@
       "description": "Shiny particles are released from its wings like a veil. It is said to represent the crescent moon.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -528,7 +533,8 @@
       "description": "Shiny particles are released from its wings like a veil. It is said to represent the crescent moon.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

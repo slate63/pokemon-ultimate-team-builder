@@ -89,7 +89,8 @@
       "description": "It attracts prey with its sweet- smelling saliva, then chomps down. It takes a whole day to eat prey.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -175,7 +176,8 @@
       "description": "It attracts prey with its sweet- smelling saliva, then chomps down. It takes a whole day to eat prey.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -265,7 +267,8 @@
       "description": "It attracts prey with its sweet- smelling saliva, then chomps down. It takes a whole day to eat prey.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -352,7 +355,8 @@
       "description": "It attracts prey with its sweet- smelling saliva, then chomps down. It takes a whole day to eat prey.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -433,7 +437,8 @@
       "description": "It attracts prey with its sweet- smelling saliva, then chomps down. It takes a whole day to eat prey.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -462,7 +467,8 @@
       "description": "It attracts prey with its sweet- smelling saliva, then chomps down. It takes a whole day to eat prey.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

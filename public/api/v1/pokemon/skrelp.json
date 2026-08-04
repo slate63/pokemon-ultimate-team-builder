@@ -83,7 +83,8 @@
       "description": "Camouflaged as rotten kelp, they spray liquid poison on prey that approaches unawares and then finish it off.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -164,7 +165,8 @@
       "description": "Camouflaged as rotten kelp, they spray liquid poison on prey that approaches unawares and then finish it off.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -245,7 +247,8 @@
       "description": "Camouflaged as rotten kelp, they spray liquid poison on prey that approaches unawares and then finish it off.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -327,7 +330,8 @@
       "description": "Camouflaged as rotten kelp, they spray liquid poison on prey that approaches unawares and then finish it off.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

@@ -58,7 +58,8 @@
       "description": "While lulling its enemies with its vacant look, this wily POK\u00e9MON will use psychokinetic powers.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "2": {
       "types": [
@@ -131,7 +132,8 @@
       "description": "While lulling its enemies with its vacant look, this wily POK\u00e9MON will use psychokinetic powers.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "3": {
       "types": [
@@ -226,7 +228,8 @@
       "description": "While lulling its enemies with its vacant look, this wily POK\u00e9MON will use psychokinetic powers.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "4": {
       "types": [
@@ -332,7 +335,8 @@
       "description": "While lulling its enemies with its vacant look, this wily POK\u00e9MON will use psychokinetic powers.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -436,7 +440,8 @@
       "description": "While lulling its enemies with its vacant look, this wily POK\u00e9MON will use psychokinetic powers.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -544,7 +549,8 @@
       "description": "While lulling its enemies with its vacant look, this wily POK\u00e9MON will use psychokinetic powers.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -646,7 +652,8 @@
       "description": "While lulling its enemies with its vacant look, this wily POK\u00e9MON will use psychokinetic powers.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -748,7 +755,8 @@
       "description": "While lulling its enemies with its vacant look, this wily POK\u00e9MON will use psychokinetic powers.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -850,7 +858,8 @@
       "description": "While lulling its enemies with its vacant look, this wily POK\u00e9MON will use psychokinetic powers.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

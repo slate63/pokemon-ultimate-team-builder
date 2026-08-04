@@ -109,7 +109,8 @@
       "description": "It uses a special kind of martial arts involving all its limbs. Its fire never goes out.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -215,7 +216,8 @@
       "description": "It uses a special kind of martial arts involving all its limbs. Its fire never goes out.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -327,7 +329,8 @@
       "description": "It uses a special kind of martial arts involving all its limbs. Its fire never goes out.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -432,7 +435,8 @@
       "description": "It uses a special kind of martial arts involving all its limbs. Its fire never goes out.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -532,7 +536,8 @@
       "description": "It uses a special kind of martial arts involving all its limbs. Its fire never goes out.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -658,7 +663,8 @@
       "description": "It uses a special kind of martial arts involving all its limbs. Its fire never goes out.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

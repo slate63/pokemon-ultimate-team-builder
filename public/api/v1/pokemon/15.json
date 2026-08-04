@@ -48,7 +48,8 @@
       "description": "Flies at high speed and attacks using its large venomous stingers on its forelegs and tail.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "2": {
       "types": [
@@ -104,7 +105,8 @@
       "description": "Flies at high speed and attacks using its large venomous stingers on its forelegs and tail.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "3": {
       "types": [
@@ -174,7 +176,8 @@
       "description": "Flies at high speed and attacks using its large venomous stingers on its forelegs and tail.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "4": {
       "types": [
@@ -264,7 +267,8 @@
       "description": "Flies at high speed and attacks using its large venomous stingers on its forelegs and tail.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -346,7 +350,8 @@
       "description": "Flies at high speed and attacks using its large venomous stingers on its forelegs and tail.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -435,7 +440,8 @@
       "description": "Flies at high speed and attacks using its large venomous stingers on its forelegs and tail.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -521,7 +527,8 @@
       "description": "Flies at high speed and attacks using its large venomous stingers on its forelegs and tail.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -599,7 +606,8 @@
       "description": "Flies at high speed and attacks using its large venomous stingers on its forelegs and tail.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -630,7 +638,8 @@
       "description": "Flies at high speed and attacks using its large venomous stingers on its forelegs and tail.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

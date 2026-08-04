@@ -82,7 +82,8 @@
       "description": "At its throat, it bears a bell of fire. The bell rings brightly whenever this Pok\u00e9mon spits fire.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -159,7 +160,8 @@
       "description": "At its throat, it bears a bell of fire. The bell rings brightly whenever this Pok\u00e9mon spits fire.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -239,7 +241,8 @@
       "description": "At its throat, it bears a bell of fire. The bell rings brightly whenever this Pok\u00e9mon spits fire.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

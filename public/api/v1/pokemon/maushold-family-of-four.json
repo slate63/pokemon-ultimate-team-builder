@@ -81,7 +81,8 @@
       "description": "The two little ones just appeared one day. The group might be a family of related Pok\u00e9mon, but nobody knows for sure.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

@@ -79,7 +79,8 @@
       "description": "SHIFTRY is a mysterious POK\u00e9MON that is said to live atop towering trees dating back over a thousand years. It creates terrific windstorms with the fans it holds.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "4": {
       "types": [
@@ -184,7 +185,8 @@
       "description": "SHIFTRY is a mysterious POK\u00e9MON that is said to live atop towering trees dating back over a thousand years. It creates terrific windstorms with the fans it holds.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -279,7 +281,8 @@
       "description": "SHIFTRY is a mysterious POK\u00e9MON that is said to live atop towering trees dating back over a thousand years. It creates terrific windstorms with the fans it holds.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -378,7 +381,8 @@
       "description": "SHIFTRY is a mysterious POK\u00e9MON that is said to live atop towering trees dating back over a thousand years. It creates terrific windstorms with the fans it holds.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -473,7 +477,8 @@
       "description": "SHIFTRY is a mysterious POK\u00e9MON that is said to live atop towering trees dating back over a thousand years. It creates terrific windstorms with the fans it holds.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -595,7 +600,8 @@
       "description": "SHIFTRY is a mysterious POK\u00e9MON that is said to live atop towering trees dating back over a thousand years. It creates terrific windstorms with the fans it holds.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -725,7 +731,8 @@
       "description": "SHIFTRY is a mysterious POK\u00e9MON that is said to live atop towering trees dating back over a thousand years. It creates terrific windstorms with the fans it holds.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

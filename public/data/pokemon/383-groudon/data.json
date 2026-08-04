@@ -92,7 +92,8 @@
       "description": "GROUDON has long been described in mythology as the POK\u00e9MON that raised lands and expanded continents. This POK\u00e9MON took to sleep after a cataclysmic battle with KYOGRE.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "4": {
       "types": [
@@ -189,7 +190,8 @@
       "description": "GROUDON has long been described in mythology as the POK\u00e9MON that raised lands and expanded continents. This POK\u00e9MON took to sleep after a cataclysmic battle with KYOGRE.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -281,7 +283,8 @@
       "description": "GROUDON has long been described in mythology as the POK\u00e9MON that raised lands and expanded continents. This POK\u00e9MON took to sleep after a cataclysmic battle with KYOGRE.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -380,7 +383,8 @@
       "description": "GROUDON has long been described in mythology as the POK\u00e9MON that raised lands and expanded continents. This POK\u00e9MON took to sleep after a cataclysmic battle with KYOGRE.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -473,7 +477,8 @@
       "description": "GROUDON has long been described in mythology as the POK\u00e9MON that raised lands and expanded continents. This POK\u00e9MON took to sleep after a cataclysmic battle with KYOGRE.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -574,7 +579,8 @@
       "description": "GROUDON has long been described in mythology as the POK\u00e9MON that raised lands and expanded continents. This POK\u00e9MON took to sleep after a cataclysmic battle with KYOGRE.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -673,7 +679,8 @@
       "description": "GROUDON has long been described in mythology as the POK\u00e9MON that raised lands and expanded continents. This POK\u00e9MON took to sleep after a cataclysmic battle with KYOGRE.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

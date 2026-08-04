@@ -85,7 +85,8 @@
       "description": "It's said to incinerate everything around it with lightning launched from its fur. Very little is known about this creature.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

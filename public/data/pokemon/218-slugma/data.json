@@ -56,7 +56,8 @@
       "description": "Its body is made of magma. If it doesn\u2019t keep moving, its body will cool and harden.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "3": {
       "types": [
@@ -128,7 +129,8 @@
       "description": "Its body is made of magma. If it doesn\u2019t keep moving, its body will cool and harden.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "4": {
       "types": [
@@ -213,7 +215,8 @@
       "description": "Its body is made of magma. If it doesn\u2019t keep moving, its body will cool and harden.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -293,7 +296,8 @@
       "description": "Its body is made of magma. If it doesn\u2019t keep moving, its body will cool and harden.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -384,7 +388,8 @@
       "description": "Its body is made of magma. If it doesn\u2019t keep moving, its body will cool and harden.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -471,7 +476,8 @@
       "description": "Its body is made of magma. If it doesn\u2019t keep moving, its body will cool and harden.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -549,7 +555,8 @@
       "description": "Its body is made of magma. If it doesn\u2019t keep moving, its body will cool and harden.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -637,7 +644,8 @@
       "description": "Its body is made of magma. If it doesn\u2019t keep moving, its body will cool and harden.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

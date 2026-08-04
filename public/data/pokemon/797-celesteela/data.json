@@ -89,7 +89,8 @@
       "description": "It appeared from the Ultra Wormhole. Witnesses observed it flying across the sky at high speed.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -174,7 +175,8 @@
       "description": "It appeared from the Ultra Wormhole. Witnesses observed it flying across the sky at high speed.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -204,7 +206,8 @@
       "description": "It appeared from the Ultra Wormhole. Witnesses observed it flying across the sky at high speed.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

@@ -95,7 +95,8 @@
       "description": "Litwick shines a light that absorbs the life energy of people and Pok\u00e9mon, which becomes the fuel that it burns.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -191,7 +192,8 @@
       "description": "Litwick shines a light that absorbs the life energy of people and Pok\u00e9mon, which becomes the fuel that it burns.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -288,7 +290,8 @@
       "description": "Litwick shines a light that absorbs the life energy of people and Pok\u00e9mon, which becomes the fuel that it burns.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -372,7 +375,8 @@
       "description": "Litwick shines a light that absorbs the life energy of people and Pok\u00e9mon, which becomes the fuel that it burns.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -453,7 +457,8 @@
       "description": "Litwick shines a light that absorbs the life energy of people and Pok\u00e9mon, which becomes the fuel that it burns.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

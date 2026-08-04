@@ -80,7 +80,8 @@
       "description": "DELCATTY prefers to live an unfettered existence in which it can do as it pleases at its own pace. Because this POK\u00e9MON eats and sleeps whenever it decides, its daily routines are completely random.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "4": {
       "types": [
@@ -168,7 +169,8 @@
       "description": "DELCATTY prefers to live an unfettered existence in which it can do as it pleases at its own pace. Because this POK\u00e9MON eats and sleeps whenever it decides, its daily routines are completely random.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -251,7 +253,8 @@
       "description": "DELCATTY prefers to live an unfettered existence in which it can do as it pleases at its own pace. Because this POK\u00e9MON eats and sleeps whenever it decides, its daily routines are completely random.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -340,7 +343,8 @@
       "description": "DELCATTY prefers to live an unfettered existence in which it can do as it pleases at its own pace. Because this POK\u00e9MON eats and sleeps whenever it decides, its daily routines are completely random.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -421,7 +425,8 @@
       "description": "DELCATTY prefers to live an unfettered existence in which it can do as it pleases at its own pace. Because this POK\u00e9MON eats and sleeps whenever it decides, its daily routines are completely random.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -505,7 +510,8 @@
       "description": "DELCATTY prefers to live an unfettered existence in which it can do as it pleases at its own pace. Because this POK\u00e9MON eats and sleeps whenever it decides, its daily routines are completely random.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -536,7 +542,8 @@
       "description": "DELCATTY prefers to live an unfettered existence in which it can do as it pleases at its own pace. Because this POK\u00e9MON eats and sleeps whenever it decides, its daily routines are completely random.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

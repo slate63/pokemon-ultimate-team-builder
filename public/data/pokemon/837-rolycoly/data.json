@@ -70,7 +70,8 @@
       "description": "Most of its body has the same composition as coal. Fittingly, this Pok\u00e9mon was first discovered in coal mines about 400 years ago.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -141,7 +142,8 @@
       "description": "Most of its body has the same composition as coal. Fittingly, this Pok\u00e9mon was first discovered in coal mines about 400 years ago.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

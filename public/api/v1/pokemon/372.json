@@ -76,7 +76,8 @@
       "description": "Inside SHELGON\u2019s armor-like shell, cells are in the midst of transformation to create an entirely new body. This POK\u00e9MON\u2019s shell is extremely heavy, making its movements sluggish.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "4": {
       "types": [
@@ -157,7 +158,8 @@
       "description": "Inside SHELGON\u2019s armor-like shell, cells are in the midst of transformation to create an entirely new body. This POK\u00e9MON\u2019s shell is extremely heavy, making its movements sluggish.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -231,7 +233,8 @@
       "description": "Inside SHELGON\u2019s armor-like shell, cells are in the midst of transformation to create an entirely new body. This POK\u00e9MON\u2019s shell is extremely heavy, making its movements sluggish.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -312,7 +315,8 @@
       "description": "Inside SHELGON\u2019s armor-like shell, cells are in the midst of transformation to create an entirely new body. This POK\u00e9MON\u2019s shell is extremely heavy, making its movements sluggish.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -387,7 +391,8 @@
       "description": "Inside SHELGON\u2019s armor-like shell, cells are in the midst of transformation to create an entirely new body. This POK\u00e9MON\u2019s shell is extremely heavy, making its movements sluggish.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -464,7 +469,8 @@
       "description": "Inside SHELGON\u2019s armor-like shell, cells are in the midst of transformation to create an entirely new body. This POK\u00e9MON\u2019s shell is extremely heavy, making its movements sluggish.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -539,7 +545,8 @@
       "description": "Inside SHELGON\u2019s armor-like shell, cells are in the midst of transformation to create an entirely new body. This POK\u00e9MON\u2019s shell is extremely heavy, making its movements sluggish.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

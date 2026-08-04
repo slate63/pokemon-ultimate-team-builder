@@ -46,7 +46,8 @@
       "description": "Lives about one yard underground where it feeds on plant roots. It sometimes appears above ground.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "2": {
       "types": [
@@ -106,7 +107,8 @@
       "description": "Lives about one yard underground where it feeds on plant roots. It sometimes appears above ground.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "3": {
       "types": [
@@ -180,7 +182,8 @@
       "description": "Lives about one yard underground where it feeds on plant roots. It sometimes appears above ground.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "4": {
       "types": [
@@ -263,7 +266,8 @@
       "description": "Lives about one yard underground where it feeds on plant roots. It sometimes appears above ground.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -344,7 +348,8 @@
       "description": "Lives about one yard underground where it feeds on plant roots. It sometimes appears above ground.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -432,7 +437,8 @@
       "description": "Lives about one yard underground where it feeds on plant roots. It sometimes appears above ground.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -515,7 +521,8 @@
       "description": "Lives about one yard underground where it feeds on plant roots. It sometimes appears above ground.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -599,7 +606,8 @@
       "description": "Lives about one yard underground where it feeds on plant roots. It sometimes appears above ground.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -683,7 +691,8 @@
       "description": "Lives about one yard underground where it feeds on plant roots. It sometimes appears above ground.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

@@ -88,7 +88,8 @@
       "description": "Sightings of this Pok\u00e9mon have occurred in recent years. The name Great Tusk was taken from a creature listed in a certain book.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

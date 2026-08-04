@@ -35,7 +35,8 @@
       "description": "Using the spikes on its rear end, WURMPLE peels the bark off trees and feeds on the sap that oozes out. This POK\u00e9MON\u2019s feet are tipped with suction pads that allow it to cling to glass without slipping.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "4": {
       "types": [
@@ -72,7 +73,8 @@
       "description": "Using the spikes on its rear end, WURMPLE peels the bark off trees and feeds on the sap that oozes out. This POK\u00e9MON\u2019s feet are tipped with suction pads that allow it to cling to glass without slipping.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -106,7 +108,8 @@
       "description": "Using the spikes on its rear end, WURMPLE peels the bark off trees and feeds on the sap that oozes out. This POK\u00e9MON\u2019s feet are tipped with suction pads that allow it to cling to glass without slipping.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -143,7 +146,8 @@
       "description": "Using the spikes on its rear end, WURMPLE peels the bark off trees and feeds on the sap that oozes out. This POK\u00e9MON\u2019s feet are tipped with suction pads that allow it to cling to glass without slipping.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -177,7 +181,8 @@
       "description": "Using the spikes on its rear end, WURMPLE peels the bark off trees and feeds on the sap that oozes out. This POK\u00e9MON\u2019s feet are tipped with suction pads that allow it to cling to glass without slipping.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -215,7 +220,8 @@
       "description": "Using the spikes on its rear end, WURMPLE peels the bark off trees and feeds on the sap that oozes out. This POK\u00e9MON\u2019s feet are tipped with suction pads that allow it to cling to glass without slipping.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -245,7 +251,8 @@
       "description": "Using the spikes on its rear end, WURMPLE peels the bark off trees and feeds on the sap that oozes out. This POK\u00e9MON\u2019s feet are tipped with suction pads that allow it to cling to glass without slipping.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

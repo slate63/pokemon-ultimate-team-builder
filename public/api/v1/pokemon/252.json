@@ -91,7 +91,8 @@
       "description": "TREECKO has small hooks on the bottom of its feet that enable it to scale vertical walls. This POK\u00e9MON attacks by slamming foes with its thick tail.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "4": {
       "types": [
@@ -190,7 +191,8 @@
       "description": "TREECKO has small hooks on the bottom of its feet that enable it to scale vertical walls. This POK\u00e9MON attacks by slamming foes with its thick tail.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -281,7 +283,8 @@
       "description": "TREECKO has small hooks on the bottom of its feet that enable it to scale vertical walls. This POK\u00e9MON attacks by slamming foes with its thick tail.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -382,7 +385,8 @@
       "description": "TREECKO has small hooks on the bottom of its feet that enable it to scale vertical walls. This POK\u00e9MON attacks by slamming foes with its thick tail.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -477,7 +481,8 @@
       "description": "TREECKO has small hooks on the bottom of its feet that enable it to scale vertical walls. This POK\u00e9MON attacks by slamming foes with its thick tail.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -578,7 +583,8 @@
       "description": "TREECKO has small hooks on the bottom of its feet that enable it to scale vertical walls. This POK\u00e9MON attacks by slamming foes with its thick tail.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -669,7 +675,8 @@
       "description": "TREECKO has small hooks on the bottom of its feet that enable it to scale vertical walls. This POK\u00e9MON attacks by slamming foes with its thick tail.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

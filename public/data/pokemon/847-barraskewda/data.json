@@ -74,7 +74,8 @@
       "description": "This Pok\u00e9mon has a jaw that\u2019s as sharp as a spear and as strong as steel. Apparently Barraskewda\u2019s flesh is surprisingly tasty, too.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -145,7 +146,8 @@
       "description": "This Pok\u00e9mon has a jaw that\u2019s as sharp as a spear and as strong as steel. Apparently Barraskewda\u2019s flesh is surprisingly tasty, too.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

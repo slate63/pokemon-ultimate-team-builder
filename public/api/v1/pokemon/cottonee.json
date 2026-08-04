@@ -80,7 +80,8 @@
       "description": "When attacked, it escapes by shooting cotton from its body. The cotton serves as a decoy to distract the attacker.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -164,7 +165,8 @@
       "description": "When attacked, it escapes by shooting cotton from its body. The cotton serves as a decoy to distract the attacker.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -251,7 +253,8 @@
       "description": "When attacked, it escapes by shooting cotton from its body. The cotton serves as a decoy to distract the attacker.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -329,7 +332,8 @@
       "description": "When attacked, it escapes by shooting cotton from its body. The cotton serves as a decoy to distract the attacker.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -401,7 +405,8 @@
       "description": "When attacked, it escapes by shooting cotton from its body. The cotton serves as a decoy to distract the attacker.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

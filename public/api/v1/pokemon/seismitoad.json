@@ -94,7 +94,8 @@
       "description": "They shoot paralyzing liquid from their head bumps. They use vibration to hurt their opponents.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -190,7 +191,8 @@
       "description": "They shoot paralyzing liquid from their head bumps. They use vibration to hurt their opponents.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -282,7 +284,8 @@
       "description": "They shoot paralyzing liquid from their head bumps. They use vibration to hurt their opponents.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -375,7 +378,8 @@
       "description": "They shoot paralyzing liquid from their head bumps. They use vibration to hurt their opponents.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -407,7 +411,8 @@
       "description": "They shoot paralyzing liquid from their head bumps. They use vibration to hurt their opponents.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

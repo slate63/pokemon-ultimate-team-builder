@@ -108,7 +108,8 @@
       "description": "They communicate by clawing signs in boulders and work together to surround enemies.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -212,7 +213,8 @@
       "description": "They communicate by clawing signs in boulders and work together to surround enemies.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -318,7 +320,8 @@
       "description": "They communicate by clawing signs in boulders and work together to surround enemies.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -421,7 +424,8 @@
       "description": "They communicate by clawing signs in boulders and work together to surround enemies.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -533,7 +537,8 @@
       "description": "They communicate by clawing signs in boulders and work together to surround enemies.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -635,7 +640,8 @@
       "description": "They communicate by clawing signs in boulders and work together to surround enemies.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

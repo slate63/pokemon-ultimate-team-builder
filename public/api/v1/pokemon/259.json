@@ -86,7 +86,8 @@
       "description": "The surface of MARSHTOMP\u2019s body is enveloped by a thin, sticky film that enables it to live on land. This POK\u00e9MON plays in mud on beaches when the ocean tide is low.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "4": {
       "types": [
@@ -174,7 +175,8 @@
       "description": "The surface of MARSHTOMP\u2019s body is enveloped by a thin, sticky film that enables it to live on land. This POK\u00e9MON plays in mud on beaches when the ocean tide is low.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -256,7 +258,8 @@
       "description": "The surface of MARSHTOMP\u2019s body is enveloped by a thin, sticky film that enables it to live on land. This POK\u00e9MON plays in mud on beaches when the ocean tide is low.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -346,7 +349,8 @@
       "description": "The surface of MARSHTOMP\u2019s body is enveloped by a thin, sticky film that enables it to live on land. This POK\u00e9MON plays in mud on beaches when the ocean tide is low.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -431,7 +435,8 @@
       "description": "The surface of MARSHTOMP\u2019s body is enveloped by a thin, sticky film that enables it to live on land. This POK\u00e9MON plays in mud on beaches when the ocean tide is low.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -523,7 +528,8 @@
       "description": "The surface of MARSHTOMP\u2019s body is enveloped by a thin, sticky film that enables it to live on land. This POK\u00e9MON plays in mud on beaches when the ocean tide is low.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -616,7 +622,8 @@
       "description": "The surface of MARSHTOMP\u2019s body is enveloped by a thin, sticky film that enables it to live on land. This POK\u00e9MON plays in mud on beaches when the ocean tide is low.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

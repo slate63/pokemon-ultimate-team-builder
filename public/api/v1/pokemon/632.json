@@ -89,7 +89,8 @@
       "description": "They attack in groups, covering themselves in steel armor to protect themselves from Heatmor.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -178,7 +179,8 @@
       "description": "They attack in groups, covering themselves in steel armor to protect themselves from Heatmor.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -257,7 +259,8 @@
       "description": "They attack in groups, covering themselves in steel armor to protect themselves from Heatmor.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -340,7 +343,8 @@
       "description": "They attack in groups, covering themselves in steel armor to protect themselves from Heatmor.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -372,7 +376,8 @@
       "description": "They attack in groups, covering themselves in steel armor to protect themselves from Heatmor.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

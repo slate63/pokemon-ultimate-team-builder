@@ -74,7 +74,8 @@
       "description": "Forests where Swadloon live have superb foliage because the nutrients they make from fallen leaves nourish the plant life.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -146,7 +147,8 @@
       "description": "Forests where Swadloon live have superb foliage because the nutrients they make from fallen leaves nourish the plant life.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -219,7 +221,8 @@
       "description": "Forests where Swadloon live have superb foliage because the nutrients they make from fallen leaves nourish the plant life.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -253,7 +256,8 @@
       "description": "Forests where Swadloon live have superb foliage because the nutrients they make from fallen leaves nourish the plant life.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -326,7 +330,8 @@
       "description": "Forests where Swadloon live have superb foliage because the nutrients they make from fallen leaves nourish the plant life.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

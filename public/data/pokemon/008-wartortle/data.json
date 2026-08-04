@@ -57,7 +57,8 @@
       "description": "Often hides in water to stalk unwary prey. For swimming fast, it moves its ears to maintain balance.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "2": {
       "types": [
@@ -120,7 +121,8 @@
       "description": "Often hides in water to stalk unwary prey. For swimming fast, it moves its ears to maintain balance.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "3": {
       "types": [
@@ -202,7 +204,8 @@
       "description": "Often hides in water to stalk unwary prey. For swimming fast, it moves its ears to maintain balance.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "4": {
       "types": [
@@ -286,7 +289,8 @@
       "description": "Often hides in water to stalk unwary prey. For swimming fast, it moves its ears to maintain balance.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -360,7 +364,8 @@
       "description": "Often hides in water to stalk unwary prey. For swimming fast, it moves its ears to maintain balance.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -444,7 +449,8 @@
       "description": "Often hides in water to stalk unwary prey. For swimming fast, it moves its ears to maintain balance.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -521,7 +527,8 @@
       "description": "Often hides in water to stalk unwary prey. For swimming fast, it moves its ears to maintain balance.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -611,7 +618,8 @@
       "description": "Often hides in water to stalk unwary prey. For swimming fast, it moves its ears to maintain balance.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -696,7 +704,8 @@
       "description": "Often hides in water to stalk unwary prey. For swimming fast, it moves its ears to maintain balance.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

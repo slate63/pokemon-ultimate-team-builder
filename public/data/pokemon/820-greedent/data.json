@@ -82,7 +82,8 @@
       "description": "It stashes berries in its tail\u2014so many berries that they fall out constantly. But this Pok\u00e9mon is a bit slow-witted, so it doesn\u2019t notice the loss.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -163,7 +164,8 @@
       "description": "It stashes berries in its tail\u2014so many berries that they fall out constantly. But this Pok\u00e9mon is a bit slow-witted, so it doesn\u2019t notice the loss.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

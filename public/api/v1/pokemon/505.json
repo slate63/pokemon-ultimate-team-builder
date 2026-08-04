@@ -101,7 +101,8 @@
       "description": "When they see an enemy, their tails stand high, and they spit the seeds of berries stored in their cheek pouches.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -205,7 +206,8 @@
       "description": "When they see an enemy, their tails stand high, and they spit the seeds of berries stored in their cheek pouches.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -303,7 +305,8 @@
       "description": "When they see an enemy, their tails stand high, and they spit the seeds of berries stored in their cheek pouches.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -336,7 +339,8 @@
       "description": "When they see an enemy, their tails stand high, and they spit the seeds of berries stored in their cheek pouches.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -367,7 +371,8 @@
       "description": "When they see an enemy, their tails stand high, and they spit the seeds of berries stored in their cheek pouches.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

@@ -76,7 +76,8 @@
       "description": "This Pok\u00e9mon generates electricity and channels it into its legs to keep them going strong. Boltund can run nonstop for three full days.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -106,7 +107,8 @@
       "description": "This Pok\u00e9mon generates electricity and channels it into its legs to keep them going strong. Boltund can run nonstop for three full days.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

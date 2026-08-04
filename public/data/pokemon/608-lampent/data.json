@@ -89,7 +89,8 @@
       "description": "This ominous Pok\u00e9mon is feared. Through cities it wanders, searching for the spirits of the fallen.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -178,7 +179,8 @@
       "description": "This ominous Pok\u00e9mon is feared. Through cities it wanders, searching for the spirits of the fallen.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -268,7 +270,8 @@
       "description": "This ominous Pok\u00e9mon is feared. Through cities it wanders, searching for the spirits of the fallen.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -348,7 +351,8 @@
       "description": "This ominous Pok\u00e9mon is feared. Through cities it wanders, searching for the spirits of the fallen.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -430,7 +434,8 @@
       "description": "This ominous Pok\u00e9mon is feared. Through cities it wanders, searching for the spirits of the fallen.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

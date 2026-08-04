@@ -98,7 +98,8 @@
       "description": "Bonds between these Pok\u00e9mon are very strong. It protects the safety of its pack by tricking its opponents.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -196,7 +197,8 @@
       "description": "Bonds between these Pok\u00e9mon are very strong. It protects the safety of its pack by tricking its opponents.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -290,7 +292,8 @@
       "description": "Bonds between these Pok\u00e9mon are very strong. It protects the safety of its pack by tricking its opponents.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -384,7 +387,8 @@
       "description": "Bonds between these Pok\u00e9mon are very strong. It protects the safety of its pack by tricking its opponents.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -478,7 +482,8 @@
       "description": "Bonds between these Pok\u00e9mon are very strong. It protects the safety of its pack by tricking its opponents.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

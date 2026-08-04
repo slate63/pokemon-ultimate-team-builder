@@ -51,7 +51,8 @@
       "description": "Its tail fin billows like an elegant ballroom dress, giving it the nickname of the Water Queen.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "2": {
       "types": [
@@ -110,7 +111,8 @@
       "description": "Its tail fin billows like an elegant ballroom dress, giving it the nickname of the Water Queen.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "3": {
       "types": [
@@ -186,7 +188,8 @@
       "description": "Its tail fin billows like an elegant ballroom dress, giving it the nickname of the Water Queen.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "4": {
       "types": [
@@ -271,7 +274,8 @@
       "description": "Its tail fin billows like an elegant ballroom dress, giving it the nickname of the Water Queen.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -355,7 +359,8 @@
       "description": "Its tail fin billows like an elegant ballroom dress, giving it the nickname of the Water Queen.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -441,7 +446,8 @@
       "description": "Its tail fin billows like an elegant ballroom dress, giving it the nickname of the Water Queen.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -527,7 +533,8 @@
       "description": "Its tail fin billows like an elegant ballroom dress, giving it the nickname of the Water Queen.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -612,7 +619,8 @@
       "description": "Its tail fin billows like an elegant ballroom dress, giving it the nickname of the Water Queen.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -643,7 +651,8 @@
       "description": "Its tail fin billows like an elegant ballroom dress, giving it the nickname of the Water Queen.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

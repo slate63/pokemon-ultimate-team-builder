@@ -106,7 +106,8 @@
       "description": "This brutal Pok\u00e9mon travels the skies on its six wings. Anything that moves seems like a foe to it, triggering its attack.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -214,7 +215,8 @@
       "description": "This brutal Pok\u00e9mon travels the skies on its six wings. Anything that moves seems like a foe to it, triggering its attack.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -321,7 +323,8 @@
       "description": "This brutal Pok\u00e9mon travels the skies on its six wings. Anything that moves seems like a foe to it, triggering its attack.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -427,7 +430,8 @@
       "description": "This brutal Pok\u00e9mon travels the skies on its six wings. Anything that moves seems like a foe to it, triggering its attack.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -530,7 +534,8 @@
       "description": "This brutal Pok\u00e9mon travels the skies on its six wings. Anything that moves seems like a foe to it, triggering its attack.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

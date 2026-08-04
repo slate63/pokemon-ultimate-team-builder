@@ -93,7 +93,8 @@
       "description": "It protects itself by spraying a noxious fluid from its rear. The stench lingers for 24 hours.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -182,7 +183,8 @@
       "description": "It protects itself by spraying a noxious fluid from its rear. The stench lingers for 24 hours.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -278,7 +280,8 @@
       "description": "It protects itself by spraying a noxious fluid from its rear. The stench lingers for 24 hours.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -370,7 +373,8 @@
       "description": "It protects itself by spraying a noxious fluid from its rear. The stench lingers for 24 hours.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -472,7 +476,8 @@
       "description": "It protects itself by spraying a noxious fluid from its rear. The stench lingers for 24 hours.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -566,7 +571,8 @@
       "description": "It protects itself by spraying a noxious fluid from its rear. The stench lingers for 24 hours.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

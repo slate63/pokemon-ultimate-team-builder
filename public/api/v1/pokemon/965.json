@@ -78,7 +78,8 @@
       "description": "It is said that this Pok\u00e9mon was born when an unknown poison Pok\u00e9mon entered and inspirited an engine left at a scrap-processing factory.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

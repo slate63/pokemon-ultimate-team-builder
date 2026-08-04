@@ -80,7 +80,8 @@
       "description": "So rare that it is still said to be a mirage by many experts. Only a few people have seen it worldwide.",
       "is_legendary": false,
       "is_mythical": true,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "2": {
       "types": [
@@ -169,7 +170,8 @@
       "description": "So rare that it is still said to be a mirage by many experts. Only a few people have seen it worldwide.",
       "is_legendary": false,
       "is_mythical": true,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "3": {
       "types": [
@@ -289,7 +291,8 @@
       "description": "So rare that it is still said to be a mirage by many experts. Only a few people have seen it worldwide.",
       "is_legendary": false,
       "is_mythical": true,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "4": {
       "types": [
@@ -479,7 +482,8 @@
       "description": "So rare that it is still said to be a mirage by many experts. Only a few people have seen it worldwide.",
       "is_legendary": false,
       "is_mythical": true,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -679,7 +683,8 @@
       "description": "So rare that it is still said to be a mirage by many experts. Only a few people have seen it worldwide.",
       "is_legendary": false,
       "is_mythical": true,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -888,7 +893,8 @@
       "description": "So rare that it is still said to be a mirage by many experts. Only a few people have seen it worldwide.",
       "is_legendary": false,
       "is_mythical": true,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -1094,7 +1100,8 @@
       "description": "So rare that it is still said to be a mirage by many experts. Only a few people have seen it worldwide.",
       "is_legendary": false,
       "is_mythical": true,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -1372,7 +1379,8 @@
       "description": "So rare that it is still said to be a mirage by many experts. Only a few people have seen it worldwide.",
       "is_legendary": false,
       "is_mythical": true,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -1636,7 +1644,8 @@
       "description": "So rare that it is still said to be a mirage by many experts. Only a few people have seen it worldwide.",
       "is_legendary": false,
       "is_mythical": true,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

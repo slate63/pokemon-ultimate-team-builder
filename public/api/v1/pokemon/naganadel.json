@@ -94,7 +94,8 @@
       "description": "It stores hundreds of liters of poisonous liquid inside its body. It is one of the organisms known as UBs.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -189,7 +190,8 @@
       "description": "It stores hundreds of liters of poisonous liquid inside its body. It is one of the organisms known as UBs.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -219,7 +221,8 @@
       "description": "It stores hundreds of liters of poisonous liquid inside its body. It is one of the organisms known as UBs.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

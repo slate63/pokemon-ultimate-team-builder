@@ -68,7 +68,8 @@
       "description": "This is a small dragon Pok\u00e9mon. It lives inside the mouth of Dondozo to protect itself from enemies on the outside.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

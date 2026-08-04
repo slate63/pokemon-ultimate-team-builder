@@ -80,7 +80,8 @@
       "description": "Its red core functions as an energy tank. It fires the charged energy through its spikes into an area.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -159,7 +160,8 @@
       "description": "Its red core functions as an energy tank. It fires the charged energy through its spikes into an area.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -242,7 +244,8 @@
       "description": "Its red core functions as an energy tank. It fires the charged energy through its spikes into an area.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -318,7 +321,8 @@
       "description": "Its red core functions as an energy tank. It fires the charged energy through its spikes into an area.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -349,7 +353,8 @@
       "description": "Its red core functions as an energy tank. It fires the charged energy through its spikes into an area.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

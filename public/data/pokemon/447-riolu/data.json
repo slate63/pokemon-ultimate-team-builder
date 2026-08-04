@@ -102,7 +102,8 @@
       "description": "The aura that emanates from its body intensifies to alert others if it is afraid or sad.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -206,7 +207,8 @@
       "description": "The aura that emanates from its body intensifies to alert others if it is afraid or sad.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -311,7 +313,8 @@
       "description": "The aura that emanates from its body intensifies to alert others if it is afraid or sad.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -415,7 +418,8 @@
       "description": "The aura that emanates from its body intensifies to alert others if it is afraid or sad.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -523,7 +527,8 @@
       "description": "The aura that emanates from its body intensifies to alert others if it is afraid or sad.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -615,7 +620,8 @@
       "description": "The aura that emanates from its body intensifies to alert others if it is afraid or sad.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

@@ -75,7 +75,8 @@
       "description": "When this Pok\u00e9mon expands and contracts its wobbly body, the belly-button dynamo in its stomach produces a huge amount of electricity.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

@@ -101,7 +101,8 @@
       "description": "Known for its extreme intelligence, this Pok\u00e9mon will look down on inexperienced Trainers, so it\u2019s best suited to veteran Trainers.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -194,7 +195,8 @@
       "description": "Known for its extreme intelligence, this Pok\u00e9mon will look down on inexperienced Trainers, so it\u2019s best suited to veteran Trainers.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -288,7 +290,8 @@
       "description": "Known for its extreme intelligence, this Pok\u00e9mon will look down on inexperienced Trainers, so it\u2019s best suited to veteran Trainers.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

@@ -86,7 +86,8 @@
       "description": "When the Kalos region\u2019s ecosystem falls into disarray, it appears and reveals its secret power.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -175,7 +176,8 @@
       "description": "When the Kalos region\u2019s ecosystem falls into disarray, it appears and reveals its secret power.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -261,7 +263,8 @@
       "description": "When the Kalos region\u2019s ecosystem falls into disarray, it appears and reveals its secret power.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -291,7 +294,8 @@
       "description": "When the Kalos region\u2019s ecosystem falls into disarray, it appears and reveals its secret power.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

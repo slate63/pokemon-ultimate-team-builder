@@ -93,7 +93,8 @@
       "description": "It fights by swinging around its three spiky feelers. A hit from these steel spikes can reduce a boulder to rubble.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -185,7 +186,8 @@
       "description": "It fights by swinging around its three spiky feelers. A hit from these steel spikes can reduce a boulder to rubble.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -271,7 +273,8 @@
       "description": "It fights by swinging around its three spiky feelers. A hit from these steel spikes can reduce a boulder to rubble.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -354,7 +357,8 @@
       "description": "It fights by swinging around its three spiky feelers. A hit from these steel spikes can reduce a boulder to rubble.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -385,7 +389,8 @@
       "description": "It fights by swinging around its three spiky feelers. A hit from these steel spikes can reduce a boulder to rubble.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

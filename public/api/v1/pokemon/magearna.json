@@ -91,7 +91,8 @@
       "description": "This artificial Pok\u00e9mon, constructed more than 500 years ago, can understand human speech but cannot itself speak.",
       "is_legendary": false,
       "is_mythical": true,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -184,7 +185,8 @@
       "description": "This artificial Pok\u00e9mon, constructed more than 500 years ago, can understand human speech but cannot itself speak.",
       "is_legendary": false,
       "is_mythical": true,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -287,7 +289,8 @@
       "description": "This artificial Pok\u00e9mon, constructed more than 500 years ago, can understand human speech but cannot itself speak.",
       "is_legendary": false,
       "is_mythical": true,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

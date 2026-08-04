@@ -64,7 +64,8 @@
       "description": "Its curly fleece is such an effective cushion that this Pok\u00e9mon could fall off a cliff and stand right back up at the bottom, unharmed.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -95,7 +96,8 @@
       "description": "Its curly fleece is such an effective cushion that this Pok\u00e9mon could fall off a cliff and stand right back up at the bottom, unharmed.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

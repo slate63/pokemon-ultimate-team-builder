@@ -87,7 +87,8 @@
       "description": "RALTS senses the emotions of people using the horns on its head. This POK\u00e9MON rarely appears before people. But when it does, it draws closer if it senses that the person has a positive disposition.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "4": {
       "types": [
@@ -194,7 +195,8 @@
       "description": "RALTS senses the emotions of people using the horns on its head. This POK\u00e9MON rarely appears before people. But when it does, it draws closer if it senses that the person has a positive disposition.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -298,7 +300,8 @@
       "description": "RALTS senses the emotions of people using the horns on its head. This POK\u00e9MON rarely appears before people. But when it does, it draws closer if it senses that the person has a positive disposition.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -414,7 +417,8 @@
       "description": "RALTS senses the emotions of people using the horns on its head. This POK\u00e9MON rarely appears before people. But when it does, it draws closer if it senses that the person has a positive disposition.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -527,7 +531,8 @@
       "description": "RALTS senses the emotions of people using the horns on its head. This POK\u00e9MON rarely appears before people. But when it does, it draws closer if it senses that the person has a positive disposition.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -640,7 +645,8 @@
       "description": "RALTS senses the emotions of people using the horns on its head. This POK\u00e9MON rarely appears before people. But when it does, it draws closer if it senses that the person has a positive disposition.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -741,7 +747,8 @@
       "description": "RALTS senses the emotions of people using the horns on its head. This POK\u00e9MON rarely appears before people. But when it does, it draws closer if it senses that the person has a positive disposition.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

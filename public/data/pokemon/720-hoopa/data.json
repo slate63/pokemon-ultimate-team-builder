@@ -108,7 +108,8 @@
       "description": "This troublemaker sends anything and everything to faraway places using its loop, which can warp space.",
       "is_legendary": false,
       "is_mythical": true,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -216,7 +217,8 @@
       "description": "This troublemaker sends anything and everything to faraway places using its loop, which can warp space.",
       "is_legendary": false,
       "is_mythical": true,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -248,7 +250,8 @@
       "description": "This troublemaker sends anything and everything to faraway places using its loop, which can warp space.",
       "is_legendary": false,
       "is_mythical": true,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -343,7 +346,8 @@
       "description": "This troublemaker sends anything and everything to faraway places using its loop, which can warp space.",
       "is_legendary": false,
       "is_mythical": true,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

@@ -51,7 +51,8 @@
       "description": "Stores thermal energy in its body. Swims at a steady 8 knots even in intensely cold waters.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "2": {
       "types": [
@@ -106,7 +107,8 @@
       "description": "Stores thermal energy in its body. Swims at a steady 8 knots even in intensely cold waters.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "3": {
       "types": [
@@ -175,7 +177,8 @@
       "description": "Stores thermal energy in its body. Swims at a steady 8 knots even in intensely cold waters.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "4": {
       "types": [
@@ -255,7 +258,8 @@
       "description": "Stores thermal energy in its body. Swims at a steady 8 knots even in intensely cold waters.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -333,7 +337,8 @@
       "description": "Stores thermal energy in its body. Swims at a steady 8 knots even in intensely cold waters.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -412,7 +417,8 @@
       "description": "Stores thermal energy in its body. Swims at a steady 8 knots even in intensely cold waters.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -492,7 +498,8 @@
       "description": "Stores thermal energy in its body. Swims at a steady 8 knots even in intensely cold waters.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -565,7 +572,8 @@
       "description": "Stores thermal energy in its body. Swims at a steady 8 knots even in intensely cold waters.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -664,7 +672,8 @@
       "description": "Stores thermal energy in its body. Swims at a steady 8 knots even in intensely cold waters.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

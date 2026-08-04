@@ -80,7 +80,8 @@
       "description": "When it trusts a Trainer, it will treat them to berries it\u2019s decorated with cream.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -158,7 +159,8 @@
       "description": "When it trusts a Trainer, it will treat them to berries it\u2019s decorated with cream.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

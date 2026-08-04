@@ -78,7 +78,8 @@
       "description": "LAIRON tempers its steel body by drinking highly nutritious mineral springwater until it is bloated. This POK\u00e9MON makes its nest close to springs of delicious water.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "4": {
       "types": [
@@ -167,7 +168,8 @@
       "description": "LAIRON tempers its steel body by drinking highly nutritious mineral springwater until it is bloated. This POK\u00e9MON makes its nest close to springs of delicious water.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -252,7 +254,8 @@
       "description": "LAIRON tempers its steel body by drinking highly nutritious mineral springwater until it is bloated. This POK\u00e9MON makes its nest close to springs of delicious water.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -342,7 +345,8 @@
       "description": "LAIRON tempers its steel body by drinking highly nutritious mineral springwater until it is bloated. This POK\u00e9MON makes its nest close to springs of delicious water.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -426,7 +430,8 @@
       "description": "LAIRON tempers its steel body by drinking highly nutritious mineral springwater until it is bloated. This POK\u00e9MON makes its nest close to springs of delicious water.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -516,7 +521,8 @@
       "description": "LAIRON tempers its steel body by drinking highly nutritious mineral springwater until it is bloated. This POK\u00e9MON makes its nest close to springs of delicious water.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -548,7 +554,8 @@
       "description": "LAIRON tempers its steel body by drinking highly nutritious mineral springwater until it is bloated. This POK\u00e9MON makes its nest close to springs of delicious water.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

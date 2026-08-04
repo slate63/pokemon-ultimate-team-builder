@@ -100,7 +100,8 @@
       "description": "It fires arrow quills from its wings with such precision, they can pierce a pebble at distances over a hundred yards.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -195,7 +196,8 @@
       "description": "It fires arrow quills from its wings with such precision, they can pierce a pebble at distances over a hundred yards.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -313,7 +315,8 @@
       "description": "It fires arrow quills from its wings with such precision, they can pierce a pebble at distances over a hundred yards.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

@@ -63,7 +63,8 @@
       "description": "Be careful if it turns its back during battle. It means that it will attack with the fire on its back.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "3": {
       "types": [
@@ -134,7 +135,8 @@
       "description": "Be careful if it turns its back during battle. It means that it will attack with the fire on its back.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "4": {
       "types": [
@@ -211,7 +213,8 @@
       "description": "Be careful if it turns its back during battle. It means that it will attack with the fire on its back.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -284,7 +287,8 @@
       "description": "Be careful if it turns its back during battle. It means that it will attack with the fire on its back.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -364,7 +368,8 @@
       "description": "Be careful if it turns its back during battle. It means that it will attack with the fire on its back.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -440,7 +445,8 @@
       "description": "Be careful if it turns its back during battle. It means that it will attack with the fire on its back.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -512,7 +518,8 @@
       "description": "Be careful if it turns its back during battle. It means that it will attack with the fire on its back.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -593,7 +600,8 @@
       "description": "Be careful if it turns its back during battle. It means that it will attack with the fire on its back.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

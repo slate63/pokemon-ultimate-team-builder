@@ -46,7 +46,8 @@
       "description": "Its lancelike spikes and savage temperament have earned it the nickname \u201dsea fiend.\u201d It slurps up poison to nourish itself.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -139,7 +140,8 @@
       "description": "Its lancelike spikes and savage temperament have earned it the nickname \u201dsea fiend.\u201d It slurps up poison to nourish itself.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

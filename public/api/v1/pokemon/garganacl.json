@@ -89,7 +89,8 @@
       "description": "Garganacl will rub its fingertips together and sprinkle injured Pok\u00e9mon with salt. Even severe wounds will promptly heal afterward.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

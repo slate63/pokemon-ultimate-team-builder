@@ -96,7 +96,8 @@
       "description": "They live in groups of a few individuals. Protective membranes shield their eyes from sandstorms.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -194,7 +195,8 @@
       "description": "They live in groups of a few individuals. Protective membranes shield their eyes from sandstorms.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -287,7 +289,8 @@
       "description": "They live in groups of a few individuals. Protective membranes shield their eyes from sandstorms.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -380,7 +383,8 @@
       "description": "They live in groups of a few individuals. Protective membranes shield their eyes from sandstorms.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -475,7 +479,8 @@
       "description": "They live in groups of a few individuals. Protective membranes shield their eyes from sandstorms.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

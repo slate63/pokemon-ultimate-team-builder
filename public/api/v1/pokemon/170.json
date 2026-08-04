@@ -61,7 +61,8 @@
       "description": "It shoots positive and negative elec\u00ad tricity between the tips of its two antennae and zaps its enemies.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "3": {
       "types": [
@@ -136,7 +137,8 @@
       "description": "It shoots positive and negative elec\u00ad tricity between the tips of its two antennae and zaps its enemies.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "4": {
       "types": [
@@ -227,7 +229,8 @@
       "description": "It shoots positive and negative elec\u00ad tricity between the tips of its two antennae and zaps its enemies.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -317,7 +320,8 @@
       "description": "It shoots positive and negative elec\u00ad tricity between the tips of its two antennae and zaps its enemies.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -412,7 +416,8 @@
       "description": "It shoots positive and negative elec\u00ad tricity between the tips of its two antennae and zaps its enemies.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -504,7 +509,8 @@
       "description": "It shoots positive and negative elec\u00ad tricity between the tips of its two antennae and zaps its enemies.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -591,7 +597,8 @@
       "description": "It shoots positive and negative elec\u00ad tricity between the tips of its two antennae and zaps its enemies.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -674,7 +681,8 @@
       "description": "It shoots positive and negative elec\u00ad tricity between the tips of its two antennae and zaps its enemies.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

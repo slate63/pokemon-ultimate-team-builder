@@ -77,7 +77,8 @@
       "description": "It spits a mud that provides resistance to both wind and rain, so the walls of old houses were often coated with it.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -154,7 +155,8 @@
       "description": "It spits a mud that provides resistance to both wind and rain, so the walls of old houses were often coated with it.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -233,7 +235,8 @@
       "description": "It spits a mud that provides resistance to both wind and rain, so the walls of old houses were often coated with it.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

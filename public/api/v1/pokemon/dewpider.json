@@ -85,7 +85,8 @@
       "description": "It crawls onto the land in search of food. Its water bubble allows it to breathe and protects its soft head.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -161,7 +162,8 @@
       "description": "It crawls onto the land in search of food. Its water bubble allows it to breathe and protects its soft head.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -236,7 +238,8 @@
       "description": "It crawls onto the land in search of food. Its water bubble allows it to breathe and protects its soft head.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

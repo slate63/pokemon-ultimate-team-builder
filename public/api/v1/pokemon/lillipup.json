@@ -86,7 +86,8 @@
       "description": "It faces strong opponents with great courage. But, when at a disadvantage in a fight, this intelligent Pok\u00e9mon flees.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -173,7 +174,8 @@
       "description": "It faces strong opponents with great courage. But, when at a disadvantage in a fight, this intelligent Pok\u00e9mon flees.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -263,7 +265,8 @@
       "description": "It faces strong opponents with great courage. But, when at a disadvantage in a fight, this intelligent Pok\u00e9mon flees.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -343,7 +346,8 @@
       "description": "It faces strong opponents with great courage. But, when at a disadvantage in a fight, this intelligent Pok\u00e9mon flees.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -374,7 +378,8 @@
       "description": "It faces strong opponents with great courage. But, when at a disadvantage in a fight, this intelligent Pok\u00e9mon flees.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

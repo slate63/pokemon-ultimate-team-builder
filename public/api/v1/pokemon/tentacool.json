@@ -55,7 +55,8 @@
       "description": "Drifts in shallow seas. Anglers who hook them by accident are often punished by its stinging acid.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "2": {
       "types": [
@@ -120,7 +121,8 @@
       "description": "Drifts in shallow seas. Anglers who hook them by accident are often punished by its stinging acid.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "3": {
       "types": [
@@ -202,7 +204,8 @@
       "description": "Drifts in shallow seas. Anglers who hook them by accident are often punished by its stinging acid.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "4": {
       "types": [
@@ -294,7 +297,8 @@
       "description": "Drifts in shallow seas. Anglers who hook them by accident are often punished by its stinging acid.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -384,7 +388,8 @@
       "description": "Drifts in shallow seas. Anglers who hook them by accident are often punished by its stinging acid.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -484,7 +489,8 @@
       "description": "Drifts in shallow seas. Anglers who hook them by accident are often punished by its stinging acid.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -581,7 +587,8 @@
       "description": "Drifts in shallow seas. Anglers who hook them by accident are often punished by its stinging acid.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -675,7 +682,8 @@
       "description": "Drifts in shallow seas. Anglers who hook them by accident are often punished by its stinging acid.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -761,7 +769,8 @@
       "description": "Drifts in shallow seas. Anglers who hook them by accident are often punished by its stinging acid.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

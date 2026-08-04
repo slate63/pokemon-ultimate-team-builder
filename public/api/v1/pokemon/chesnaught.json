@@ -122,7 +122,8 @@
       "description": "Its Tackle is forceful enough to flip a 50-ton tank. It shields its allies from danger with its own body.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -237,7 +238,8 @@
       "description": "Its Tackle is forceful enough to flip a 50-ton tank. It shields its allies from danger with its own body.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -270,7 +272,8 @@
       "description": "Its Tackle is forceful enough to flip a 50-ton tank. It shields its allies from danger with its own body.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -391,7 +394,8 @@
       "description": "Its Tackle is forceful enough to flip a 50-ton tank. It shields its allies from danger with its own body.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

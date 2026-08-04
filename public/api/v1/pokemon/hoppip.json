@@ -66,7 +66,8 @@
       "description": "To keep from being blown away by the wind, they gather in clusters. They do enjoy gentle breezes, though.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "3": {
       "types": [
@@ -140,7 +141,8 @@
       "description": "To keep from being blown away by the wind, they gather in clusters. They do enjoy gentle breezes, though.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "4": {
       "types": [
@@ -227,7 +229,8 @@
       "description": "To keep from being blown away by the wind, they gather in clusters. They do enjoy gentle breezes, though.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -307,7 +310,8 @@
       "description": "To keep from being blown away by the wind, they gather in clusters. They do enjoy gentle breezes, though.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -396,7 +400,8 @@
       "description": "To keep from being blown away by the wind, they gather in clusters. They do enjoy gentle breezes, though.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -482,7 +487,8 @@
       "description": "To keep from being blown away by the wind, they gather in clusters. They do enjoy gentle breezes, though.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -566,7 +572,8 @@
       "description": "To keep from being blown away by the wind, they gather in clusters. They do enjoy gentle breezes, though.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -655,7 +662,8 @@
       "description": "To keep from being blown away by the wind, they gather in clusters. They do enjoy gentle breezes, though.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

@@ -92,7 +92,8 @@
       "description": "This immensely dangerous Pok\u00e9mon possesses overwhelming physical strength. Its habitat is generally off-limits.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -184,7 +185,8 @@
       "description": "This immensely dangerous Pok\u00e9mon possesses overwhelming physical strength. Its habitat is generally off-limits.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -216,7 +218,8 @@
       "description": "This immensely dangerous Pok\u00e9mon possesses overwhelming physical strength. Its habitat is generally off-limits.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

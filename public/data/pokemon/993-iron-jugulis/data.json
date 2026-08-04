@@ -86,7 +86,8 @@
       "description": "It resembles a certain Pok\u00e9mon introduced in a paranormal magazine, described as the offspring of a Hydreigon that fell in love with a robot.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

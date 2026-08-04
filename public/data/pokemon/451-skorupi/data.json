@@ -95,7 +95,8 @@
       "description": "It grips prey with its tail claws and injects poison. It tenaciously hangs on until the poison takes.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -192,7 +193,8 @@
       "description": "It grips prey with its tail claws and injects poison. It tenaciously hangs on until the poison takes.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -293,7 +295,8 @@
       "description": "It grips prey with its tail claws and injects poison. It tenaciously hangs on until the poison takes.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -387,7 +390,8 @@
       "description": "It grips prey with its tail claws and injects poison. It tenaciously hangs on until the poison takes.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -484,7 +488,8 @@
       "description": "It grips prey with its tail claws and injects poison. It tenaciously hangs on until the poison takes.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -516,7 +521,8 @@
       "description": "It grips prey with its tail claws and injects poison. It tenaciously hangs on until the poison takes.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

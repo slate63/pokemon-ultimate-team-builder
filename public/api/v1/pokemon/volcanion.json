@@ -85,7 +85,8 @@
       "description": "It lets out billows of steam and disappears into the dense fog. It\u2019s said to live in mountains where humans do not tread.",
       "is_legendary": false,
       "is_mythical": true,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -168,7 +169,8 @@
       "description": "It lets out billows of steam and disappears into the dense fog. It\u2019s said to live in mountains where humans do not tread.",
       "is_legendary": false,
       "is_mythical": true,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -262,7 +264,8 @@
       "description": "It lets out billows of steam and disappears into the dense fog. It\u2019s said to live in mountains where humans do not tread.",
       "is_legendary": false,
       "is_mythical": true,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -358,7 +361,8 @@
       "description": "It lets out billows of steam and disappears into the dense fog. It\u2019s said to live in mountains where humans do not tread.",
       "is_legendary": false,
       "is_mythical": true,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

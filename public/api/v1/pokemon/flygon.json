@@ -78,7 +78,8 @@
       "description": "FLYGON is nicknamed \u201cthe elemental spirit of the desert.\u201d Because its flapping wings whip up a cloud of sand, this POK\u00e9MON is always enveloped in a sandstorm while flying.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "4": {
       "types": [
@@ -173,7 +174,8 @@
       "description": "FLYGON is nicknamed \u201cthe elemental spirit of the desert.\u201d Because its flapping wings whip up a cloud of sand, this POK\u00e9MON is always enveloped in a sandstorm while flying.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -264,7 +266,8 @@
       "description": "FLYGON is nicknamed \u201cthe elemental spirit of the desert.\u201d Because its flapping wings whip up a cloud of sand, this POK\u00e9MON is always enveloped in a sandstorm while flying.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -363,7 +366,8 @@
       "description": "FLYGON is nicknamed \u201cthe elemental spirit of the desert.\u201d Because its flapping wings whip up a cloud of sand, this POK\u00e9MON is always enveloped in a sandstorm while flying.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -459,7 +463,8 @@
       "description": "FLYGON is nicknamed \u201cthe elemental spirit of the desert.\u201d Because its flapping wings whip up a cloud of sand, this POK\u00e9MON is always enveloped in a sandstorm while flying.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -567,7 +572,8 @@
       "description": "FLYGON is nicknamed \u201cthe elemental spirit of the desert.\u201d Because its flapping wings whip up a cloud of sand, this POK\u00e9MON is always enveloped in a sandstorm while flying.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -676,7 +682,8 @@
       "description": "FLYGON is nicknamed \u201cthe elemental spirit of the desert.\u201d Because its flapping wings whip up a cloud of sand, this POK\u00e9MON is always enveloped in a sandstorm while flying.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

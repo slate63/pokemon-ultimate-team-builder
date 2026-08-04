@@ -77,7 +77,8 @@
       "description": "ARMALDO\u2019s tough armor makes all attacks bounce off. This POK\u00e9MON\u2019s two enormous claws can be freely extended or contracted. They have the power to punch right through a steel slab.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "4": {
       "types": [
@@ -165,7 +166,8 @@
       "description": "ARMALDO\u2019s tough armor makes all attacks bounce off. This POK\u00e9MON\u2019s two enormous claws can be freely extended or contracted. They have the power to punch right through a steel slab.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -251,7 +253,8 @@
       "description": "ARMALDO\u2019s tough armor makes all attacks bounce off. This POK\u00e9MON\u2019s two enormous claws can be freely extended or contracted. They have the power to punch right through a steel slab.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -344,7 +347,8 @@
       "description": "ARMALDO\u2019s tough armor makes all attacks bounce off. This POK\u00e9MON\u2019s two enormous claws can be freely extended or contracted. They have the power to punch right through a steel slab.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -433,7 +437,8 @@
       "description": "ARMALDO\u2019s tough armor makes all attacks bounce off. This POK\u00e9MON\u2019s two enormous claws can be freely extended or contracted. They have the power to punch right through a steel slab.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -525,7 +530,8 @@
       "description": "ARMALDO\u2019s tough armor makes all attacks bounce off. This POK\u00e9MON\u2019s two enormous claws can be freely extended or contracted. They have the power to punch right through a steel slab.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -556,7 +562,8 @@
       "description": "ARMALDO\u2019s tough armor makes all attacks bounce off. This POK\u00e9MON\u2019s two enormous claws can be freely extended or contracted. They have the power to punch right through a steel slab.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

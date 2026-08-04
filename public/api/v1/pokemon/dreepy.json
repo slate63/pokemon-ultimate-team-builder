@@ -60,7 +60,8 @@
       "description": "After being reborn as a ghost Pok\u00e9mon, Dreepy wanders the areas it used to inhabit back when it was alive in prehistoric seas.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -114,7 +115,8 @@
       "description": "After being reborn as a ghost Pok\u00e9mon, Dreepy wanders the areas it used to inhabit back when it was alive in prehistoric seas.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

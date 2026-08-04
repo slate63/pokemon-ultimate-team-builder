@@ -70,7 +70,8 @@
       "description": "Smart enough to use tools in battle, these Pok\u00e9mon have been seen picking up rocks and flinging them or using ropes to wrap up enemies.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -137,7 +138,8 @@
       "description": "Smart enough to use tools in battle, these Pok\u00e9mon have been seen picking up rocks and flinging them or using ropes to wrap up enemies.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

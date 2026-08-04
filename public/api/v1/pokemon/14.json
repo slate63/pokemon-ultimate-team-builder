@@ -28,7 +28,8 @@
       "description": "Almost incapable of moving, this POK\u00e9MON can only harden its shell to protect itself from predators.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "2": {
       "types": [
@@ -57,7 +58,8 @@
       "description": "Almost incapable of moving, this POK\u00e9MON can only harden its shell to protect itself from predators.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "3": {
       "types": [
@@ -89,7 +91,8 @@
       "description": "Almost incapable of moving, this POK\u00e9MON can only harden its shell to protect itself from predators.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "4": {
       "types": [
@@ -126,7 +129,8 @@
       "description": "Almost incapable of moving, this POK\u00e9MON can only harden its shell to protect itself from predators.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -160,7 +164,8 @@
       "description": "Almost incapable of moving, this POK\u00e9MON can only harden its shell to protect itself from predators.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -197,7 +202,8 @@
       "description": "Almost incapable of moving, this POK\u00e9MON can only harden its shell to protect itself from predators.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -232,7 +238,8 @@
       "description": "Almost incapable of moving, this POK\u00e9MON can only harden its shell to protect itself from predators.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -266,7 +273,8 @@
       "description": "Almost incapable of moving, this POK\u00e9MON can only harden its shell to protect itself from predators.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -296,7 +304,8 @@
       "description": "Almost incapable of moving, this POK\u00e9MON can only harden its shell to protect itself from predators.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

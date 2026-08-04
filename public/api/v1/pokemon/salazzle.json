@@ -91,7 +91,8 @@
       "description": "For some reason, only females have been found. It creates a reverse harem of male Salandit that it lives with.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -185,7 +186,8 @@
       "description": "For some reason, only females have been found. It creates a reverse harem of male Salandit that it lives with.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -286,7 +288,8 @@
       "description": "For some reason, only females have been found. It creates a reverse harem of male Salandit that it lives with.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

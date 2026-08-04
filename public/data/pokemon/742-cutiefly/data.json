@@ -97,7 +97,8 @@
       "description": "It feeds on the nectar and pollen of flowers. Because it\u2019s able to sense auras, it can identify which flowers are about to bloom.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -180,7 +181,8 @@
       "description": "It feeds on the nectar and pollen of flowers. Because it\u2019s able to sense auras, it can identify which flowers are about to bloom.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -262,7 +264,8 @@
       "description": "It feeds on the nectar and pollen of flowers. Because it\u2019s able to sense auras, it can identify which flowers are about to bloom.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

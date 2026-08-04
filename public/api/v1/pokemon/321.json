@@ -77,7 +77,8 @@
       "description": "WAILORD is the largest of all identified POK\u00e9MON up to now. This giant POK\u00e9MON swims languorously in the vast open sea, eating massive amounts of food at once with its enormous mouth.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "4": {
       "types": [
@@ -159,7 +160,8 @@
       "description": "WAILORD is the largest of all identified POK\u00e9MON up to now. This giant POK\u00e9MON swims languorously in the vast open sea, eating massive amounts of food at once with its enormous mouth.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -243,7 +245,8 @@
       "description": "WAILORD is the largest of all identified POK\u00e9MON up to now. This giant POK\u00e9MON swims languorously in the vast open sea, eating massive amounts of food at once with its enormous mouth.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -329,7 +332,8 @@
       "description": "WAILORD is the largest of all identified POK\u00e9MON up to now. This giant POK\u00e9MON swims languorously in the vast open sea, eating massive amounts of food at once with its enormous mouth.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -415,7 +419,8 @@
       "description": "WAILORD is the largest of all identified POK\u00e9MON up to now. This giant POK\u00e9MON swims languorously in the vast open sea, eating massive amounts of food at once with its enormous mouth.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -502,7 +507,8 @@
       "description": "WAILORD is the largest of all identified POK\u00e9MON up to now. This giant POK\u00e9MON swims languorously in the vast open sea, eating massive amounts of food at once with its enormous mouth.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -533,7 +539,8 @@
       "description": "WAILORD is the largest of all identified POK\u00e9MON up to now. This giant POK\u00e9MON swims languorously in the vast open sea, eating massive amounts of food at once with its enormous mouth.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

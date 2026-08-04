@@ -90,7 +90,8 @@
       "description": "SWAMPERT is very strong. It has enough power to easily drag a boulder weighing more than a ton. This POK\u00e9MON also has powerful vision that lets it see even in murky water.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "4": {
       "types": [
@@ -189,7 +190,8 @@
       "description": "SWAMPERT is very strong. It has enough power to easily drag a boulder weighing more than a ton. This POK\u00e9MON also has powerful vision that lets it see even in murky water.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -279,7 +281,8 @@
       "description": "SWAMPERT is very strong. It has enough power to easily drag a boulder weighing more than a ton. This POK\u00e9MON also has powerful vision that lets it see even in murky water.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -378,7 +381,8 @@
       "description": "SWAMPERT is very strong. It has enough power to easily drag a boulder weighing more than a ton. This POK\u00e9MON also has powerful vision that lets it see even in murky water.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -473,7 +477,8 @@
       "description": "SWAMPERT is very strong. It has enough power to easily drag a boulder weighing more than a ton. This POK\u00e9MON also has powerful vision that lets it see even in murky water.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -582,7 +587,8 @@
       "description": "SWAMPERT is very strong. It has enough power to easily drag a boulder weighing more than a ton. This POK\u00e9MON also has powerful vision that lets it see even in murky water.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -693,7 +699,8 @@
       "description": "SWAMPERT is very strong. It has enough power to easily drag a boulder weighing more than a ton. This POK\u00e9MON also has powerful vision that lets it see even in murky water.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

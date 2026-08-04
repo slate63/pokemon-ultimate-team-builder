@@ -80,7 +80,8 @@
       "description": "WAILMER\u2019s nostrils are located above its eyes. This playful POK\u00e9MON loves to startle people by forcefully snorting out seawater it stores inside its body out of its nostrils.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "4": {
       "types": [
@@ -166,7 +167,8 @@
       "description": "WAILMER\u2019s nostrils are located above its eyes. This playful POK\u00e9MON loves to startle people by forcefully snorting out seawater it stores inside its body out of its nostrils.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -255,7 +257,8 @@
       "description": "WAILMER\u2019s nostrils are located above its eyes. This playful POK\u00e9MON loves to startle people by forcefully snorting out seawater it stores inside its body out of its nostrils.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -347,7 +350,8 @@
       "description": "WAILMER\u2019s nostrils are located above its eyes. This playful POK\u00e9MON loves to startle people by forcefully snorting out seawater it stores inside its body out of its nostrils.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -436,7 +440,8 @@
       "description": "WAILMER\u2019s nostrils are located above its eyes. This playful POK\u00e9MON loves to startle people by forcefully snorting out seawater it stores inside its body out of its nostrils.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -527,7 +532,8 @@
       "description": "WAILMER\u2019s nostrils are located above its eyes. This playful POK\u00e9MON loves to startle people by forcefully snorting out seawater it stores inside its body out of its nostrils.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -558,7 +564,8 @@
       "description": "WAILMER\u2019s nostrils are located above its eyes. This playful POK\u00e9MON loves to startle people by forcefully snorting out seawater it stores inside its body out of its nostrils.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

@@ -92,7 +92,8 @@
       "description": "This Pok\u00e9mon's type changes based on which mask it's wearing. It confounds its enemies with nimble movements and kicks.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

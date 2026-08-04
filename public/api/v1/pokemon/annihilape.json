@@ -110,7 +110,8 @@
       "description": "When its anger rose beyond a critical point, this Pok\u00e9mon gained power that is unfettered by the limits of its physical body.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

@@ -97,7 +97,8 @@
       "description": "As it eats the seeds stored up in its pocket-like pouches, this Pok\u00e9mon is not just satisfying its constant hunger. It\u2019s also generating electricity.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -195,7 +196,8 @@
       "description": "As it eats the seeds stored up in its pocket-like pouches, this Pok\u00e9mon is not just satisfying its constant hunger. It\u2019s also generating electricity.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

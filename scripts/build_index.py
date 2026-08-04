@@ -9,7 +9,7 @@ Usage:
 import json
 from pathlib import Path
 from typing import Dict, List, Any
-from availability import get_pokemon_availability_for_gen
+from availability import get_pokemon_availability_for_gen, is_trade_evolution_for_gen
 
 GEN_GAMES_LIST = {
     1: ["red-blue", "yellow"],
@@ -170,7 +170,8 @@ def compile_pokemon_index(base_dir: Path) -> List[Dict[str, Any]]:
                 "height": p_data.get("height", 0),
                 "weight": p_data.get("weight", 0),
                 "moves": learnable_moves,
-                "availability": availability
+                "availability": availability,
+                "requires_trade": is_trade_evolution_for_gen(p_id, gen)
             }
             
             pokemon_index.append(pokemon_entry)

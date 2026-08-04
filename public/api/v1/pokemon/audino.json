@@ -122,7 +122,8 @@
       "description": "It touches others with the feelers on its ears, using the sound of their heartbeats to tell how they are feeling.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -246,7 +247,8 @@
       "description": "It touches others with the feelers on its ears, using the sound of their heartbeats to tell how they are feeling.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -374,7 +376,8 @@
       "description": "It touches others with the feelers on its ears, using the sound of their heartbeats to tell how they are feeling.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -484,7 +487,8 @@
       "description": "It touches others with the feelers on its ears, using the sound of their heartbeats to tell how they are feeling.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -515,7 +519,8 @@
       "description": "It touches others with the feelers on its ears, using the sound of their heartbeats to tell how they are feeling.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

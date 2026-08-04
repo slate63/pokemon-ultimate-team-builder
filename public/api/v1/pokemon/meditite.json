@@ -88,7 +88,8 @@
       "description": "MEDITITE undertakes rigorous mental training deep in the mountains. However, whenever it meditates, this POK\u00e9MON always loses its concentration and focus. As a result, its training never ends.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "4": {
       "types": [
@@ -198,7 +199,8 @@
       "description": "MEDITITE undertakes rigorous mental training deep in the mountains. However, whenever it meditates, this POK\u00e9MON always loses its concentration and focus. As a result, its training never ends.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -301,7 +303,8 @@
       "description": "MEDITITE undertakes rigorous mental training deep in the mountains. However, whenever it meditates, this POK\u00e9MON always loses its concentration and focus. As a result, its training never ends.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -413,7 +416,8 @@
       "description": "MEDITITE undertakes rigorous mental training deep in the mountains. However, whenever it meditates, this POK\u00e9MON always loses its concentration and focus. As a result, its training never ends.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -520,7 +524,8 @@
       "description": "MEDITITE undertakes rigorous mental training deep in the mountains. However, whenever it meditates, this POK\u00e9MON always loses its concentration and focus. As a result, its training never ends.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -613,7 +618,8 @@
       "description": "MEDITITE undertakes rigorous mental training deep in the mountains. However, whenever it meditates, this POK\u00e9MON always loses its concentration and focus. As a result, its training never ends.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -717,7 +723,8 @@
       "description": "MEDITITE undertakes rigorous mental training deep in the mountains. However, whenever it meditates, this POK\u00e9MON always loses its concentration and focus. As a result, its training never ends.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

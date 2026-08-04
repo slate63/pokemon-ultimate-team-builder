@@ -91,7 +91,8 @@
       "description": "There are scant few reports of this creature being sighted. One short video shows it rampaging and spouting pillars of flame.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

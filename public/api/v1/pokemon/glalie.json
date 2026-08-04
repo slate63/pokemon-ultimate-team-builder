@@ -74,7 +74,8 @@
       "description": "GLALIE has a body made of rock, which it hardens with an armor of ice. This POK\u00e9MON has the ability to freeze moisture in the atmosphere into any shape it desires.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "4": {
       "types": [
@@ -157,7 +158,8 @@
       "description": "GLALIE has a body made of rock, which it hardens with an armor of ice. This POK\u00e9MON has the ability to freeze moisture in the atmosphere into any shape it desires.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -232,7 +234,8 @@
       "description": "GLALIE has a body made of rock, which it hardens with an armor of ice. This POK\u00e9MON has the ability to freeze moisture in the atmosphere into any shape it desires.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -315,7 +318,8 @@
       "description": "GLALIE has a body made of rock, which it hardens with an armor of ice. This POK\u00e9MON has the ability to freeze moisture in the atmosphere into any shape it desires.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -399,7 +403,8 @@
       "description": "GLALIE has a body made of rock, which it hardens with an armor of ice. This POK\u00e9MON has the ability to freeze moisture in the atmosphere into any shape it desires.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -489,7 +494,8 @@
       "description": "GLALIE has a body made of rock, which it hardens with an armor of ice. This POK\u00e9MON has the ability to freeze moisture in the atmosphere into any shape it desires.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -571,7 +577,8 @@
       "description": "GLALIE has a body made of rock, which it hardens with an armor of ice. This POK\u00e9MON has the ability to freeze moisture in the atmosphere into any shape it desires.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

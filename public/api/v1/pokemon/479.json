@@ -78,7 +78,8 @@
       "description": "Research continues on this Pok\u00e9mon, which could be the power source of a unique motor.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -152,7 +153,8 @@
       "description": "Research continues on this Pok\u00e9mon, which could be the power source of a unique motor.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -228,7 +230,8 @@
       "description": "Research continues on this Pok\u00e9mon, which could be the power source of a unique motor.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -308,7 +311,8 @@
       "description": "Research continues on this Pok\u00e9mon, which could be the power source of a unique motor.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -390,7 +394,8 @@
       "description": "Research continues on this Pok\u00e9mon, which could be the power source of a unique motor.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -465,7 +470,8 @@
       "description": "Research continues on this Pok\u00e9mon, which could be the power source of a unique motor.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

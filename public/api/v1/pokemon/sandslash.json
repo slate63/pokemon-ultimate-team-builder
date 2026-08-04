@@ -53,7 +53,8 @@
       "description": "Curls up into a spiny ball when threatened. It can roll while curled up to attack or escape.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "2": {
       "types": [
@@ -116,7 +117,8 @@
       "description": "Curls up into a spiny ball when threatened. It can roll while curled up to attack or escape.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "3": {
       "types": [
@@ -197,7 +199,8 @@
       "description": "Curls up into a spiny ball when threatened. It can roll while curled up to attack or escape.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "4": {
       "types": [
@@ -291,7 +294,8 @@
       "description": "Curls up into a spiny ball when threatened. It can roll while curled up to attack or escape.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -382,7 +386,8 @@
       "description": "Curls up into a spiny ball when threatened. It can roll while curled up to attack or escape.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -476,7 +481,8 @@
       "description": "Curls up into a spiny ball when threatened. It can roll while curled up to attack or escape.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -561,7 +567,8 @@
       "description": "Curls up into a spiny ball when threatened. It can roll while curled up to attack or escape.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -659,7 +666,8 @@
       "description": "Curls up into a spiny ball when threatened. It can roll while curled up to attack or escape.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -759,7 +767,8 @@
       "description": "Curls up into a spiny ball when threatened. It can roll while curled up to attack or escape.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

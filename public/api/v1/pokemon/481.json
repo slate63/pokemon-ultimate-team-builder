@@ -98,7 +98,8 @@
       "description": "Known as \u201cThe Being of Emotion.\u201d It taught humans the nobility of sorrow, pain, and joy.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -195,7 +196,8 @@
       "description": "Known as \u201cThe Being of Emotion.\u201d It taught humans the nobility of sorrow, pain, and joy.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -297,7 +299,8 @@
       "description": "Known as \u201cThe Being of Emotion.\u201d It taught humans the nobility of sorrow, pain, and joy.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -399,7 +402,8 @@
       "description": "Known as \u201cThe Being of Emotion.\u201d It taught humans the nobility of sorrow, pain, and joy.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -509,7 +513,8 @@
       "description": "Known as \u201cThe Being of Emotion.\u201d It taught humans the nobility of sorrow, pain, and joy.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -605,7 +610,8 @@
       "description": "Known as \u201cThe Being of Emotion.\u201d It taught humans the nobility of sorrow, pain, and joy.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

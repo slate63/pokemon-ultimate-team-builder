@@ -86,7 +86,8 @@
       "description": "It clings to branches and ceilings using its threads and moves without a sound. It takes out its prey before the prey even notices it.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

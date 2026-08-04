@@ -66,7 +66,8 @@
       "description": "Feared and loathed by many, it is believed to bring misfortune to all those who see it at night.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "3": {
       "types": [
@@ -147,7 +148,8 @@
       "description": "Feared and loathed by many, it is believed to bring misfortune to all those who see it at night.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "4": {
       "types": [
@@ -248,7 +250,8 @@
       "description": "Feared and loathed by many, it is believed to bring misfortune to all those who see it at night.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -341,7 +344,8 @@
       "description": "Feared and loathed by many, it is believed to bring misfortune to all those who see it at night.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -439,7 +443,8 @@
       "description": "Feared and loathed by many, it is believed to bring misfortune to all those who see it at night.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -539,7 +544,8 @@
       "description": "Feared and loathed by many, it is believed to bring misfortune to all those who see it at night.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -629,7 +635,8 @@
       "description": "Feared and loathed by many, it is believed to bring misfortune to all those who see it at night.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -723,7 +730,8 @@
       "description": "Feared and loathed by many, it is believed to bring misfortune to all those who see it at night.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

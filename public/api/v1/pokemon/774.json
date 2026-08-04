@@ -91,7 +91,8 @@
       "description": "Originally making its home in the ozone layer, it hurtles to the ground when the shell enclosing its body grows too heavy.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -123,7 +124,8 @@
       "description": "Originally making its home in the ozone layer, it hurtles to the ground when the shell enclosing its body grows too heavy.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -202,7 +204,8 @@
       "description": "Originally making its home in the ozone layer, it hurtles to the ground when the shell enclosing its body grows too heavy.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

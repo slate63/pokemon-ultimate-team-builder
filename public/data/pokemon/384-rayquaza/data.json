@@ -90,7 +90,8 @@
       "description": "RAYQUAZA lived for hundreds of millions of years in the earth\u2019s ozone layer, never descending to the ground. This POK\u00e9MON appears to feed on water and particles in the atmosphere.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "4": {
       "types": [
@@ -198,7 +199,8 @@
       "description": "RAYQUAZA lived for hundreds of millions of years in the earth\u2019s ozone layer, never descending to the ground. This POK\u00e9MON appears to feed on water and particles in the atmosphere.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -300,7 +302,8 @@
       "description": "RAYQUAZA lived for hundreds of millions of years in the earth\u2019s ozone layer, never descending to the ground. This POK\u00e9MON appears to feed on water and particles in the atmosphere.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -410,7 +413,8 @@
       "description": "RAYQUAZA lived for hundreds of millions of years in the earth\u2019s ozone layer, never descending to the ground. This POK\u00e9MON appears to feed on water and particles in the atmosphere.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -516,7 +520,8 @@
       "description": "RAYQUAZA lived for hundreds of millions of years in the earth\u2019s ozone layer, never descending to the ground. This POK\u00e9MON appears to feed on water and particles in the atmosphere.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -626,7 +631,8 @@
       "description": "RAYQUAZA lived for hundreds of millions of years in the earth\u2019s ozone layer, never descending to the ground. This POK\u00e9MON appears to feed on water and particles in the atmosphere.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -730,7 +736,8 @@
       "description": "RAYQUAZA lived for hundreds of millions of years in the earth\u2019s ozone layer, never descending to the ground. This POK\u00e9MON appears to feed on water and particles in the atmosphere.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

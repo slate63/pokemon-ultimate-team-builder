@@ -52,7 +52,8 @@
       "description": "It stays mostly in dark, damp places, the preference not of the bug, but of the big mush\u00ad rooms on its back.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "2": {
       "types": [
@@ -113,7 +114,8 @@
       "description": "It stays mostly in dark, damp places, the preference not of the bug, but of the big mush\u00ad rooms on its back.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "3": {
       "types": [
@@ -187,7 +189,8 @@
       "description": "It stays mostly in dark, damp places, the preference not of the bug, but of the big mush\u00ad rooms on its back.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "4": {
       "types": [
@@ -272,7 +275,8 @@
       "description": "It stays mostly in dark, damp places, the preference not of the bug, but of the big mush\u00ad rooms on its back.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -355,7 +359,8 @@
       "description": "It stays mostly in dark, damp places, the preference not of the bug, but of the big mush\u00ad rooms on its back.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -444,7 +449,8 @@
       "description": "It stays mostly in dark, damp places, the preference not of the bug, but of the big mush\u00ad rooms on its back.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -530,7 +536,8 @@
       "description": "It stays mostly in dark, damp places, the preference not of the bug, but of the big mush\u00ad rooms on its back.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -607,7 +614,8 @@
       "description": "It stays mostly in dark, damp places, the preference not of the bug, but of the big mush\u00ad rooms on its back.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -639,7 +647,8 @@
       "description": "It stays mostly in dark, damp places, the preference not of the bug, but of the big mush\u00ad rooms on its back.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

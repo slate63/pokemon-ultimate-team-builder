@@ -70,7 +70,8 @@
       "description": "Supposedly, the regrets of a tea ceremony master who died before perfecting his craft lingered in some matcha and became a Pok\u00e9mon.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

@@ -75,7 +75,8 @@
       "description": "Via the protrusion on its head, it senses other creatures\u2019 emotions. If you don\u2019t have a calm disposition, it will never warm up to you.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -153,7 +154,8 @@
       "description": "Via the protrusion on its head, it senses other creatures\u2019 emotions. If you don\u2019t have a calm disposition, it will never warm up to you.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

@@ -77,7 +77,8 @@
       "description": "It will bravely challenge any opponent, no matter how powerful. This Pok\u00e9mon benefits from every battle\u2014even a defeat increases its strength a bit.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -147,7 +148,8 @@
       "description": "It will bravely challenge any opponent, no matter how powerful. This Pok\u00e9mon benefits from every battle\u2014even a defeat increases its strength a bit.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

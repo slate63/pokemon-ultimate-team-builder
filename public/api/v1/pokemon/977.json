@@ -78,7 +78,8 @@
       "description": "This Pok\u00e9mon is a glutton, but it\u2019s bad at getting food. It teams up with a Tatsugiri to catch prey.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

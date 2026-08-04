@@ -106,7 +106,8 @@
       "description": "The antenna on its head captures radio waves from the world of spirits that command it to take people there.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": true
     },
     "5": {
       "types": [
@@ -203,7 +204,8 @@
       "description": "The antenna on its head captures radio waves from the world of spirits that command it to take people there.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": true
     },
     "6": {
       "types": [
@@ -305,7 +307,8 @@
       "description": "The antenna on its head captures radio waves from the world of spirits that command it to take people there.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": true
     },
     "7": {
       "types": [
@@ -405,7 +408,8 @@
       "description": "The antenna on its head captures radio waves from the world of spirits that command it to take people there.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": true
     },
     "8": {
       "types": [
@@ -514,7 +518,8 @@
       "description": "The antenna on its head captures radio waves from the world of spirits that command it to take people there.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": true
     },
     "9": {
       "types": [
@@ -610,7 +615,8 @@
       "description": "The antenna on its head captures radio waves from the world of spirits that command it to take people there.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": true
     }
   }
 }

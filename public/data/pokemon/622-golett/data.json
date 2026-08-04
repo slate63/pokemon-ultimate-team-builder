@@ -96,7 +96,8 @@
       "description": "The energy that burns inside it enables it to move, but no one has yet been able to identify this energy.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -193,7 +194,8 @@
       "description": "The energy that burns inside it enables it to move, but no one has yet been able to identify this energy.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -287,7 +289,8 @@
       "description": "The energy that burns inside it enables it to move, but no one has yet been able to identify this energy.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -377,7 +380,8 @@
       "description": "The energy that burns inside it enables it to move, but no one has yet been able to identify this energy.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -472,7 +476,8 @@
       "description": "The energy that burns inside it enables it to move, but no one has yet been able to identify this energy.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

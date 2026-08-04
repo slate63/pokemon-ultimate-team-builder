@@ -96,7 +96,8 @@
       "description": "One of several mysterious Ultra Beasts. People on the street report observing those infested by it suddenly becoming violent.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -181,7 +182,8 @@
       "description": "One of several mysterious Ultra Beasts. People on the street report observing those infested by it suddenly becoming violent.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -211,7 +213,8 @@
       "description": "One of several mysterious Ultra Beasts. People on the street report observing those infested by it suddenly becoming violent.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

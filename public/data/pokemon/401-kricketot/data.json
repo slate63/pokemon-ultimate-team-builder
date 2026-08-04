@@ -42,7 +42,8 @@
       "description": "It shakes its head back to front, causing its antennae to hit each other and sound like a xylophone.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -80,7 +81,8 @@
       "description": "It shakes its head back to front, causing its antennae to hit each other and sound like a xylophone.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -115,7 +117,8 @@
       "description": "It shakes its head back to front, causing its antennae to hit each other and sound like a xylophone.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -150,7 +153,8 @@
       "description": "It shakes its head back to front, causing its antennae to hit each other and sound like a xylophone.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -190,7 +194,8 @@
       "description": "It shakes its head back to front, causing its antennae to hit each other and sound like a xylophone.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -229,7 +234,8 @@
       "description": "It shakes its head back to front, causing its antennae to hit each other and sound like a xylophone.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

@@ -87,7 +87,8 @@
       "description": "Born on a cold seafloor, it will swim great distances to return to its birthplace.",
       "is_legendary": false,
       "is_mythical": true,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -170,7 +171,8 @@
       "description": "Born on a cold seafloor, it will swim great distances to return to its birthplace.",
       "is_legendary": false,
       "is_mythical": true,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -256,7 +258,8 @@
       "description": "Born on a cold seafloor, it will swim great distances to return to its birthplace.",
       "is_legendary": false,
       "is_mythical": true,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -341,7 +344,8 @@
       "description": "Born on a cold seafloor, it will swim great distances to return to its birthplace.",
       "is_legendary": false,
       "is_mythical": true,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -423,7 +427,8 @@
       "description": "Born on a cold seafloor, it will swim great distances to return to its birthplace.",
       "is_legendary": false,
       "is_mythical": true,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -510,7 +515,8 @@
       "description": "Born on a cold seafloor, it will swim great distances to return to its birthplace.",
       "is_legendary": false,
       "is_mythical": true,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

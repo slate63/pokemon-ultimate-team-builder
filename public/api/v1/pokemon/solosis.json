@@ -92,7 +92,8 @@
       "description": "They drive away attackers by unleashing psychic power. They can use telepathy to talk with others.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -188,7 +189,8 @@
       "description": "They drive away attackers by unleashing psychic power. They can use telepathy to talk with others.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -285,7 +287,8 @@
       "description": "They drive away attackers by unleashing psychic power. They can use telepathy to talk with others.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -369,7 +372,8 @@
       "description": "They drive away attackers by unleashing psychic power. They can use telepathy to talk with others.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -450,7 +454,8 @@
       "description": "They drive away attackers by unleashing psychic power. They can use telepathy to talk with others.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

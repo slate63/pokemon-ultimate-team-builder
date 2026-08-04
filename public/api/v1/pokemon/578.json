@@ -86,7 +86,8 @@
       "description": "Since they have two divided brains, at times they suddenly try to take two different actions at once.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -177,7 +178,8 @@
       "description": "Since they have two divided brains, at times they suddenly try to take two different actions at once.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -268,7 +270,8 @@
       "description": "Since they have two divided brains, at times they suddenly try to take two different actions at once.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -349,7 +352,8 @@
       "description": "Since they have two divided brains, at times they suddenly try to take two different actions at once.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -430,7 +434,8 @@
       "description": "Since they have two divided brains, at times they suddenly try to take two different actions at once.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

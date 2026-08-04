@@ -78,7 +78,8 @@
       "description": "Each follows its Trainer\u2019s orders as best it can, but they sometimes fail to understand complicated commands.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -152,7 +153,8 @@
       "description": "Each follows its Trainer\u2019s orders as best it can, but they sometimes fail to understand complicated commands.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -227,7 +229,8 @@
       "description": "Each follows its Trainer\u2019s orders as best it can, but they sometimes fail to understand complicated commands.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -301,7 +304,8 @@
       "description": "Each follows its Trainer\u2019s orders as best it can, but they sometimes fail to understand complicated commands.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -333,7 +337,8 @@
       "description": "Each follows its Trainer\u2019s orders as best it can, but they sometimes fail to understand complicated commands.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

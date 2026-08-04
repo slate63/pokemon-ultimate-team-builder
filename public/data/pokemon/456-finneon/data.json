@@ -86,7 +86,8 @@
       "description": "After long exposure to sunlight, the patterns on its tail fins shine vividly when darkness arrives.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -170,7 +171,8 @@
       "description": "After long exposure to sunlight, the patterns on its tail fins shine vividly when darkness arrives.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -252,7 +254,8 @@
       "description": "After long exposure to sunlight, the patterns on its tail fins shine vividly when darkness arrives.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -338,7 +341,8 @@
       "description": "After long exposure to sunlight, the patterns on its tail fins shine vividly when darkness arrives.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -420,7 +424,8 @@
       "description": "After long exposure to sunlight, the patterns on its tail fins shine vividly when darkness arrives.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -497,7 +502,8 @@
       "description": "After long exposure to sunlight, the patterns on its tail fins shine vividly when darkness arrives.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

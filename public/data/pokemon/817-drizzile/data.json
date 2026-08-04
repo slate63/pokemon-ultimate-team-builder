@@ -68,7 +68,8 @@
       "description": "A clever combatant, this Pok\u00e9mon battles using water balloons created with moisture secreted from its palms.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -139,7 +140,8 @@
       "description": "A clever combatant, this Pok\u00e9mon battles using water balloons created with moisture secreted from its palms.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

@@ -75,7 +75,8 @@
       "description": "ELECTRIKE stores electricity in its long body hair. This POK\u00e9MON stimulates its leg muscles with electric charges. These jolts of power give its legs explosive acceleration performance.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "4": {
       "types": [
@@ -159,7 +160,8 @@
       "description": "ELECTRIKE stores electricity in its long body hair. This POK\u00e9MON stimulates its leg muscles with electric charges. These jolts of power give its legs explosive acceleration performance.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -240,7 +242,8 @@
       "description": "ELECTRIKE stores electricity in its long body hair. This POK\u00e9MON stimulates its leg muscles with electric charges. These jolts of power give its legs explosive acceleration performance.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -328,7 +331,8 @@
       "description": "ELECTRIKE stores electricity in its long body hair. This POK\u00e9MON stimulates its leg muscles with electric charges. These jolts of power give its legs explosive acceleration performance.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -411,7 +415,8 @@
       "description": "ELECTRIKE stores electricity in its long body hair. This POK\u00e9MON stimulates its leg muscles with electric charges. These jolts of power give its legs explosive acceleration performance.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -495,7 +500,8 @@
       "description": "ELECTRIKE stores electricity in its long body hair. This POK\u00e9MON stimulates its leg muscles with electric charges. These jolts of power give its legs explosive acceleration performance.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -526,7 +532,8 @@
       "description": "ELECTRIKE stores electricity in its long body hair. This POK\u00e9MON stimulates its leg muscles with electric charges. These jolts of power give its legs explosive acceleration performance.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

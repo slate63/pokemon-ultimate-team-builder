@@ -51,7 +51,8 @@
       "description": "A legendary bird POK\u00e9MON that is said to appear to doomed people who are lost in icy mountains.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "2": {
       "types": [
@@ -108,7 +109,8 @@
       "description": "A legendary bird POK\u00e9MON that is said to appear to doomed people who are lost in icy mountains.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "3": {
       "types": [
@@ -179,7 +181,8 @@
       "description": "A legendary bird POK\u00e9MON that is said to appear to doomed people who are lost in icy mountains.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "4": {
       "types": [
@@ -264,7 +267,8 @@
       "description": "A legendary bird POK\u00e9MON that is said to appear to doomed people who are lost in icy mountains.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -337,7 +341,8 @@
       "description": "A legendary bird POK\u00e9MON that is said to appear to doomed people who are lost in icy mountains.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -419,7 +424,8 @@
       "description": "A legendary bird POK\u00e9MON that is said to appear to doomed people who are lost in icy mountains.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -500,7 +506,8 @@
       "description": "A legendary bird POK\u00e9MON that is said to appear to doomed people who are lost in icy mountains.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -583,7 +590,8 @@
       "description": "A legendary bird POK\u00e9MON that is said to appear to doomed people who are lost in icy mountains.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -664,7 +672,8 @@
       "description": "A legendary bird POK\u00e9MON that is said to appear to doomed people who are lost in icy mountains.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

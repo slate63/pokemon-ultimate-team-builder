@@ -67,7 +67,8 @@
       "description": "SWELLOW flies high above our heads, making graceful arcs in the sky. This POK\u00e9MON dives at a steep angle as soon as it spots its prey. The hapless prey is tightly grasped by SWELLOW\u2019s clawed feet, preventing escape.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "4": {
       "types": [
@@ -145,7 +146,8 @@
       "description": "SWELLOW flies high above our heads, making graceful arcs in the sky. This POK\u00e9MON dives at a steep angle as soon as it spots its prey. The hapless prey is tightly grasped by SWELLOW\u2019s clawed feet, preventing escape.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -214,7 +216,8 @@
       "description": "SWELLOW flies high above our heads, making graceful arcs in the sky. This POK\u00e9MON dives at a steep angle as soon as it spots its prey. The hapless prey is tightly grasped by SWELLOW\u2019s clawed feet, preventing escape.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -287,7 +290,8 @@
       "description": "SWELLOW flies high above our heads, making graceful arcs in the sky. This POK\u00e9MON dives at a steep angle as soon as it spots its prey. The hapless prey is tightly grasped by SWELLOW\u2019s clawed feet, preventing escape.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -363,7 +367,8 @@
       "description": "SWELLOW flies high above our heads, making graceful arcs in the sky. This POK\u00e9MON dives at a steep angle as soon as it spots its prey. The hapless prey is tightly grasped by SWELLOW\u2019s clawed feet, preventing escape.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -430,7 +435,8 @@
       "description": "SWELLOW flies high above our heads, making graceful arcs in the sky. This POK\u00e9MON dives at a steep angle as soon as it spots its prey. The hapless prey is tightly grasped by SWELLOW\u2019s clawed feet, preventing escape.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -461,7 +467,8 @@
       "description": "SWELLOW flies high above our heads, making graceful arcs in the sky. This POK\u00e9MON dives at a steep angle as soon as it spots its prey. The hapless prey is tightly grasped by SWELLOW\u2019s clawed feet, preventing escape.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

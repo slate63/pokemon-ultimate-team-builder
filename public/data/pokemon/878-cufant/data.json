@@ -82,7 +82,8 @@
       "description": "It digs up the ground with its trunk. It\u2019s also very strong, being able to carry loads of over five tons without any problem at all.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -161,7 +162,8 @@
       "description": "It digs up the ground with its trunk. It\u2019s also very strong, being able to carry loads of over five tons without any problem at all.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

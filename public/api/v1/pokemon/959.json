@@ -82,7 +82,8 @@
       "description": "This intelligent Pok\u00e9mon has a very daring disposition. It knocks rocks into the sky with its hammer, aiming for flying Corviknight.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

@@ -77,7 +77,8 @@
       "description": "Dipplin is two creatures in one Pok\u00e9mon. Its evolution was triggered by a special apple grown only in one place.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

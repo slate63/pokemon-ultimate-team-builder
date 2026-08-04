@@ -96,7 +96,8 @@
       "description": "It changes into the forms of others to surprise them. Apparently, it often transforms into a silent child.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -193,7 +194,8 @@
       "description": "It changes into the forms of others to surprise them. Apparently, it often transforms into a silent child.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -284,7 +286,8 @@
       "description": "It changes into the forms of others to surprise them. Apparently, it often transforms into a silent child.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -372,7 +375,8 @@
       "description": "It changes into the forms of others to surprise them. Apparently, it often transforms into a silent child.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -459,7 +463,8 @@
       "description": "It changes into the forms of others to surprise them. Apparently, it often transforms into a silent child.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

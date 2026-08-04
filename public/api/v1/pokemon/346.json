@@ -75,7 +75,8 @@
       "description": "CRADILY roams around the ocean floor in search of food. This POK\u00e9MON freely extends its tree trunk-like neck and captures unwary prey using its eight tentacles.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "4": {
       "types": [
@@ -162,7 +163,8 @@
       "description": "CRADILY roams around the ocean floor in search of food. This POK\u00e9MON freely extends its tree trunk-like neck and captures unwary prey using its eight tentacles.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -246,7 +248,8 @@
       "description": "CRADILY roams around the ocean floor in search of food. This POK\u00e9MON freely extends its tree trunk-like neck and captures unwary prey using its eight tentacles.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -337,7 +340,8 @@
       "description": "CRADILY roams around the ocean floor in search of food. This POK\u00e9MON freely extends its tree trunk-like neck and captures unwary prey using its eight tentacles.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -424,7 +428,8 @@
       "description": "CRADILY roams around the ocean floor in search of food. This POK\u00e9MON freely extends its tree trunk-like neck and captures unwary prey using its eight tentacles.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -514,7 +519,8 @@
       "description": "CRADILY roams around the ocean floor in search of food. This POK\u00e9MON freely extends its tree trunk-like neck and captures unwary prey using its eight tentacles.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -545,7 +551,8 @@
       "description": "CRADILY roams around the ocean floor in search of food. This POK\u00e9MON freely extends its tree trunk-like neck and captures unwary prey using its eight tentacles.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

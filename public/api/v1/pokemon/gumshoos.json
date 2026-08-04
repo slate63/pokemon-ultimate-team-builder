@@ -90,7 +90,8 @@
       "description": "When it finds a trace of its prey, it patiently stakes out the location...but it\u2019s always snoozing by nightfall.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -123,7 +124,8 @@
       "description": "When it finds a trace of its prey, it patiently stakes out the location...but it\u2019s always snoozing by nightfall.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -213,7 +215,8 @@
       "description": "When it finds a trace of its prey, it patiently stakes out the location...but it\u2019s always snoozing by nightfall.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

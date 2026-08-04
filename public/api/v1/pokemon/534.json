@@ -92,7 +92,8 @@
       "description": "It is thought that Conkeldurr taught humans how to make concrete more than 2,000 years ago.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": true
     },
     "6": {
       "types": [
@@ -184,7 +185,8 @@
       "description": "It is thought that Conkeldurr taught humans how to make concrete more than 2,000 years ago.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": true
     },
     "7": {
       "types": [
@@ -273,7 +275,8 @@
       "description": "It is thought that Conkeldurr taught humans how to make concrete more than 2,000 years ago.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": true
     },
     "8": {
       "types": [
@@ -363,7 +366,8 @@
       "description": "It is thought that Conkeldurr taught humans how to make concrete more than 2,000 years ago.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": true
     },
     "9": {
       "types": [
@@ -456,7 +460,8 @@
       "description": "It is thought that Conkeldurr taught humans how to make concrete more than 2,000 years ago.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": true
     }
   }
 }

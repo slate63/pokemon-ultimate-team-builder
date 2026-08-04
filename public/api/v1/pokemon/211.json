@@ -67,7 +67,8 @@
       "description": "To fire its poison spikes, it must inflate its body by drinking over 2.6 gallons of water all at once.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "3": {
       "types": [
@@ -149,7 +150,8 @@
       "description": "To fire its poison spikes, it must inflate its body by drinking over 2.6 gallons of water all at once.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "4": {
       "types": [
@@ -249,7 +251,8 @@
       "description": "To fire its poison spikes, it must inflate its body by drinking over 2.6 gallons of water all at once.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -345,7 +348,8 @@
       "description": "To fire its poison spikes, it must inflate its body by drinking over 2.6 gallons of water all at once.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -446,7 +450,8 @@
       "description": "To fire its poison spikes, it must inflate its body by drinking over 2.6 gallons of water all at once.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -542,7 +547,8 @@
       "description": "To fire its poison spikes, it must inflate its body by drinking over 2.6 gallons of water all at once.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -650,7 +656,8 @@
       "description": "To fire its poison spikes, it must inflate its body by drinking over 2.6 gallons of water all at once.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -753,7 +760,8 @@
       "description": "To fire its poison spikes, it must inflate its body by drinking over 2.6 gallons of water all at once.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

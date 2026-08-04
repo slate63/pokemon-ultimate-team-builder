@@ -92,7 +92,8 @@
       "description": "Because it is very proud, it hates accepting food from people. Its thick down guards it from cold.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -179,7 +180,8 @@
       "description": "Because it is very proud, it hates accepting food from people. Its thick down guards it from cold.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -271,7 +273,8 @@
       "description": "Because it is very proud, it hates accepting food from people. Its thick down guards it from cold.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -362,7 +365,8 @@
       "description": "Because it is very proud, it hates accepting food from people. Its thick down guards it from cold.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -451,7 +455,8 @@
       "description": "Because it is very proud, it hates accepting food from people. Its thick down guards it from cold.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -535,7 +540,8 @@
       "description": "Because it is very proud, it hates accepting food from people. Its thick down guards it from cold.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

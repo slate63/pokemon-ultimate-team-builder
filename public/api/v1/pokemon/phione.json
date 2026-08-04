@@ -75,7 +75,8 @@
       "description": "A Pok\u00e9mon that lives in warm seas. It inflates the flotation sac on its head to drift and search for food.",
       "is_legendary": false,
       "is_mythical": true,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -146,7 +147,8 @@
       "description": "A Pok\u00e9mon that lives in warm seas. It inflates the flotation sac on its head to drift and search for food.",
       "is_legendary": false,
       "is_mythical": true,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -220,7 +222,8 @@
       "description": "A Pok\u00e9mon that lives in warm seas. It inflates the flotation sac on its head to drift and search for food.",
       "is_legendary": false,
       "is_mythical": true,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -294,7 +297,8 @@
       "description": "A Pok\u00e9mon that lives in warm seas. It inflates the flotation sac on its head to drift and search for food.",
       "is_legendary": false,
       "is_mythical": true,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -335,7 +339,8 @@
       "description": "A Pok\u00e9mon that lives in warm seas. It inflates the flotation sac on its head to drift and search for food.",
       "is_legendary": false,
       "is_mythical": true,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -407,7 +412,8 @@
       "description": "A Pok\u00e9mon that lives in warm seas. It inflates the flotation sac on its head to drift and search for food.",
       "is_legendary": false,
       "is_mythical": true,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

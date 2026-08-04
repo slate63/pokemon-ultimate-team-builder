@@ -15,5 +15,6 @@ export interface GenerationData {
   is_legendary?: boolean;
   is_mythical?: boolean;
   is_fully_evolved?: boolean;
+  requires_trade?: boolean;
   [key: string]: any;
 }

@@ -73,7 +73,8 @@
       "description": "MASQUERAIN intimidates enemies with the eyelike patterns on its antennas. This POK\u00e9MON flaps its four wings to freely fly in any direction - even sideways and backwards - as if it were a helicopter.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "4": {
       "types": [
@@ -162,7 +163,8 @@
       "description": "MASQUERAIN intimidates enemies with the eyelike patterns on its antennas. This POK\u00e9MON flaps its four wings to freely fly in any direction - even sideways and backwards - as if it were a helicopter.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -240,7 +242,8 @@
       "description": "MASQUERAIN intimidates enemies with the eyelike patterns on its antennas. This POK\u00e9MON flaps its four wings to freely fly in any direction - even sideways and backwards - as if it were a helicopter.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -328,7 +331,8 @@
       "description": "MASQUERAIN intimidates enemies with the eyelike patterns on its antennas. This POK\u00e9MON flaps its four wings to freely fly in any direction - even sideways and backwards - as if it were a helicopter.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -415,7 +419,8 @@
       "description": "MASQUERAIN intimidates enemies with the eyelike patterns on its antennas. This POK\u00e9MON flaps its four wings to freely fly in any direction - even sideways and backwards - as if it were a helicopter.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -497,7 +502,8 @@
       "description": "MASQUERAIN intimidates enemies with the eyelike patterns on its antennas. This POK\u00e9MON flaps its four wings to freely fly in any direction - even sideways and backwards - as if it were a helicopter.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -590,7 +596,8 @@
       "description": "MASQUERAIN intimidates enemies with the eyelike patterns on its antennas. This POK\u00e9MON flaps its four wings to freely fly in any direction - even sideways and backwards - as if it were a helicopter.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

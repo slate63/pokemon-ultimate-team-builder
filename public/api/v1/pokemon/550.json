@@ -87,7 +87,8 @@
       "description": "Red and blue Basculin get along so poorly, they\u2019ll start fighting instantly. These Pok\u00e9mon are very hostile.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -175,7 +176,8 @@
       "description": "Red and blue Basculin get along so poorly, they\u2019ll start fighting instantly. These Pok\u00e9mon are very hostile.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -262,7 +264,8 @@
       "description": "Red and blue Basculin get along so poorly, they\u2019ll start fighting instantly. These Pok\u00e9mon are very hostile.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -352,7 +355,8 @@
       "description": "Red and blue Basculin get along so poorly, they\u2019ll start fighting instantly. These Pok\u00e9mon are very hostile.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -434,7 +438,8 @@
       "description": "Red and blue Basculin get along so poorly, they\u2019ll start fighting instantly. These Pok\u00e9mon are very hostile.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

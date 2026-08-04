@@ -85,7 +85,8 @@
       "description": "All of its fur dazzles if danger is sensed. It flees while the foe is momentarily blinded.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -163,7 +164,8 @@
       "description": "All of its fur dazzles if danger is sensed. It flees while the foe is momentarily blinded.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -246,7 +248,8 @@
       "description": "All of its fur dazzles if danger is sensed. It flees while the foe is momentarily blinded.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -329,7 +332,8 @@
       "description": "All of its fur dazzles if danger is sensed. It flees while the foe is momentarily blinded.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -416,7 +420,8 @@
       "description": "All of its fur dazzles if danger is sensed. It flees while the foe is momentarily blinded.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -499,7 +504,8 @@
       "description": "All of its fur dazzles if danger is sensed. It flees while the foe is momentarily blinded.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

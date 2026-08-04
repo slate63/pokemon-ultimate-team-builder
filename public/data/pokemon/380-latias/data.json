@@ -93,7 +93,8 @@
       "description": "LATIAS is highly sensitive to the emotions of people. If it senses any hostility, this POK\u00e9MON ruffles the feathers all over its body and cries shrilly to intimidate the foe.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "4": {
       "types": [
@@ -202,7 +203,8 @@
       "description": "LATIAS is highly sensitive to the emotions of people. If it senses any hostility, this POK\u00e9MON ruffles the feathers all over its body and cries shrilly to intimidate the foe.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -310,7 +312,8 @@
       "description": "LATIAS is highly sensitive to the emotions of people. If it senses any hostility, this POK\u00e9MON ruffles the feathers all over its body and cries shrilly to intimidate the foe.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -423,7 +426,8 @@
       "description": "LATIAS is highly sensitive to the emotions of people. If it senses any hostility, this POK\u00e9MON ruffles the feathers all over its body and cries shrilly to intimidate the foe.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -534,7 +538,8 @@
       "description": "LATIAS is highly sensitive to the emotions of people. If it senses any hostility, this POK\u00e9MON ruffles the feathers all over its body and cries shrilly to intimidate the foe.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -655,7 +660,8 @@
       "description": "LATIAS is highly sensitive to the emotions of people. If it senses any hostility, this POK\u00e9MON ruffles the feathers all over its body and cries shrilly to intimidate the foe.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -764,7 +770,8 @@
       "description": "LATIAS is highly sensitive to the emotions of people. If it senses any hostility, this POK\u00e9MON ruffles the feathers all over its body and cries shrilly to intimidate the foe.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

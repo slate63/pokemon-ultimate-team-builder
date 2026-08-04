@@ -89,7 +89,8 @@
       "description": "They make their home in deserts. They can generate their energy from basking in the sun, so eating food is not a requirement.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -175,7 +176,8 @@
       "description": "They make their home in deserts. They can generate their energy from basking in the sun, so eating food is not a requirement.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -256,7 +258,8 @@
       "description": "They make their home in deserts. They can generate their energy from basking in the sun, so eating food is not a requirement.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -288,7 +291,8 @@
       "description": "They make their home in deserts. They can generate their energy from basking in the sun, so eating food is not a requirement.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

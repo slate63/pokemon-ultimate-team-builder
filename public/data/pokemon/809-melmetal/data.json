@@ -26,7 +26,8 @@
       "description": "Revered long ago for its capacity to create iron from nothing, for some reason it has come back to life after 3,000 years.",
       "is_legendary": false,
       "is_mythical": true,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -104,7 +105,8 @@
       "description": "Revered long ago for its capacity to create iron from nothing, for some reason it has come back to life after 3,000 years.",
       "is_legendary": false,
       "is_mythical": true,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -133,7 +135,8 @@
       "description": "Revered long ago for its capacity to create iron from nothing, for some reason it has come back to life after 3,000 years.",
       "is_legendary": false,
       "is_mythical": true,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

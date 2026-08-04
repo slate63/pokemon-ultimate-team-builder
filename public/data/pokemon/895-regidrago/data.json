@@ -68,7 +68,8 @@
       "description": "An academic theory proposes that Regidrago\u2019s arms were once the head of an ancient dragon Pok\u00e9mon. The theory remains unproven.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -136,7 +137,8 @@
       "description": "An academic theory proposes that Regidrago\u2019s arms were once the head of an ancient dragon Pok\u00e9mon. The theory remains unproven.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

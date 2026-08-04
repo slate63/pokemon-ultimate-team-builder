@@ -95,7 +95,8 @@
       "description": "What appears to be an iron helmet is actually hardened hair. This Pok\u00e9mon lives for the thrill of battle.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -196,7 +197,8 @@
       "description": "What appears to be an iron helmet is actually hardened hair. This Pok\u00e9mon lives for the thrill of battle.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

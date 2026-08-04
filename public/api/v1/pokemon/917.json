@@ -75,7 +75,8 @@
       "description": "The ball of threads wrapped around its body is elastic enough to deflect the scythes of Scyther, this Pok\u00e9mon\u2019s natural enemy.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

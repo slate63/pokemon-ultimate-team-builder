@@ -96,7 +96,8 @@
       "description": "They live buried in the sands of the desert. The sun-warmed sands prevent their body temperature from dropping.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -193,7 +194,8 @@
       "description": "They live buried in the sands of the desert. The sun-warmed sands prevent their body temperature from dropping.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -288,7 +290,8 @@
       "description": "They live buried in the sands of the desert. The sun-warmed sands prevent their body temperature from dropping.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -374,7 +377,8 @@
       "description": "They live buried in the sands of the desert. The sun-warmed sands prevent their body temperature from dropping.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -461,7 +465,8 @@
       "description": "They live buried in the sands of the desert. The sun-warmed sands prevent their body temperature from dropping.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

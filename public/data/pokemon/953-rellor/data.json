@@ -64,7 +64,8 @@
       "description": "This Pok\u00e9mon creates a mud ball by mixing sand and dirt with psychic energy. It treasures its mud ball more than its own life.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

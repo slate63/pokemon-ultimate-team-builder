@@ -39,7 +39,8 @@
       "description": "A constant collector of information, this Pok\u00e9mon is very smart. Very strong is what it isn\u2019t.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -70,7 +71,8 @@
       "description": "A constant collector of information, this Pok\u00e9mon is very smart. Very strong is what it isn\u2019t.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

@@ -77,7 +77,8 @@
       "description": "Flittle\u2019s toes levitate about half an inch above the ground because of the psychic power emitted from the frills on the Pok\u00e9mon\u2019s belly.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

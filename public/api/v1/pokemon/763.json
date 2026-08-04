@@ -92,7 +92,8 @@
       "description": "Its long, striking legs aren\u2019t just for show but to be used to kick with skill. In victory, it shows off by kicking the defeated, laughing boisterously.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -180,7 +181,8 @@
       "description": "Its long, striking legs aren\u2019t just for show but to be used to kick with skill. In victory, it shows off by kicking the defeated, laughing boisterously.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -267,7 +269,8 @@
       "description": "Its long, striking legs aren\u2019t just for show but to be used to kick with skill. In victory, it shows off by kicking the defeated, laughing boisterously.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

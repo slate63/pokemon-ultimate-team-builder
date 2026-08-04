@@ -60,7 +60,8 @@
       "description": "Because it never removes its skull helmet, no one has ever seen this POK\u00e9MON's real face.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "2": {
       "types": [
@@ -137,7 +138,8 @@
       "description": "Because it never removes its skull helmet, no one has ever seen this POK\u00e9MON's real face.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "3": {
       "types": [
@@ -230,7 +232,8 @@
       "description": "Because it never removes its skull helmet, no one has ever seen this POK\u00e9MON's real face.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "4": {
       "types": [
@@ -334,7 +337,8 @@
       "description": "Because it never removes its skull helmet, no one has ever seen this POK\u00e9MON's real face.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -435,7 +439,8 @@
       "description": "Because it never removes its skull helmet, no one has ever seen this POK\u00e9MON's real face.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -542,7 +547,8 @@
       "description": "Because it never removes its skull helmet, no one has ever seen this POK\u00e9MON's real face.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -646,7 +652,8 @@
       "description": "Because it never removes its skull helmet, no one has ever seen this POK\u00e9MON's real face.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -749,7 +756,8 @@
       "description": "Because it never removes its skull helmet, no one has ever seen this POK\u00e9MON's real face.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -780,7 +788,8 @@
       "description": "Because it never removes its skull helmet, no one has ever seen this POK\u00e9MON's real face.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

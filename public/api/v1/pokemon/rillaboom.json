@@ -102,7 +102,8 @@
       "description": "By drumming, it taps into the power of its special tree stump. The roots of the stump follow its direction in battle.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -205,7 +206,8 @@
       "description": "By drumming, it taps into the power of its special tree stump. The roots of the stump follow its direction in battle.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

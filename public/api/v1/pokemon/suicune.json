@@ -69,7 +69,8 @@
       "description": "Said to be the reincarnation of north winds, it can instantly purify filthy, murky water.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "3": {
       "types": [
@@ -147,7 +148,8 @@
       "description": "Said to be the reincarnation of north winds, it can instantly purify filthy, murky water.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "4": {
       "types": [
@@ -236,7 +238,8 @@
       "description": "Said to be the reincarnation of north winds, it can instantly purify filthy, murky water.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -315,7 +318,8 @@
       "description": "Said to be the reincarnation of north winds, it can instantly purify filthy, murky water.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -400,7 +404,8 @@
       "description": "Said to be the reincarnation of north winds, it can instantly purify filthy, murky water.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -482,7 +487,8 @@
       "description": "Said to be the reincarnation of north winds, it can instantly purify filthy, murky water.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -575,7 +581,8 @@
       "description": "Said to be the reincarnation of north winds, it can instantly purify filthy, murky water.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -656,7 +663,8 @@
       "description": "Said to be the reincarnation of north winds, it can instantly purify filthy, murky water.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

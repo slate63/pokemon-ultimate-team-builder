@@ -88,7 +88,8 @@
       "description": "A sudden transformation of Carbink, its pink, glimmering body is said to be the loveliest sight in the whole world.",
       "is_legendary": false,
       "is_mythical": true,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -176,7 +177,8 @@
       "description": "A sudden transformation of Carbink, its pink, glimmering body is said to be the loveliest sight in the whole world.",
       "is_legendary": false,
       "is_mythical": true,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -267,7 +269,8 @@
       "description": "A sudden transformation of Carbink, its pink, glimmering body is said to be the loveliest sight in the whole world.",
       "is_legendary": false,
       "is_mythical": true,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -360,7 +363,8 @@
       "description": "A sudden transformation of Carbink, its pink, glimmering body is said to be the loveliest sight in the whole world.",
       "is_legendary": false,
       "is_mythical": true,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

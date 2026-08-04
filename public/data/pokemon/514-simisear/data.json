@@ -92,7 +92,8 @@
       "description": "It loves sweets because they become energy for the fire burning inside its body.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -186,7 +187,8 @@
       "description": "It loves sweets because they become energy for the fire burning inside its body.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -273,7 +275,8 @@
       "description": "It loves sweets because they become energy for the fire burning inside its body.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -305,7 +308,8 @@
       "description": "It loves sweets because they become energy for the fire burning inside its body.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -335,7 +339,8 @@
       "description": "It loves sweets because they become energy for the fire burning inside its body.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

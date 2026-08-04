@@ -89,7 +89,8 @@
       "description": "Toedscool lives in muggy forests. The flaps that fall from its body are chewy and very delicious.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

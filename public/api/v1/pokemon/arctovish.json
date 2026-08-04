@@ -80,7 +80,8 @@
       "description": "Though it\u2019s able to capture prey by freezing its surroundings, it has trouble eating the prey afterward because its mouth is on top of its head.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -112,7 +113,8 @@
       "description": "Though it\u2019s able to capture prey by freezing its surroundings, it has trouble eating the prey afterward because its mouth is on top of its head.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

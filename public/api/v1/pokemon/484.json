@@ -106,7 +106,8 @@
       "description": "It has the ability to distort space. It is described as a deity in Sinnoh-region mythology.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -202,7 +203,8 @@
       "description": "It has the ability to distort space. It is described as a deity in Sinnoh-region mythology.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -304,7 +306,8 @@
       "description": "It has the ability to distort space. It is described as a deity in Sinnoh-region mythology.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -402,7 +405,8 @@
       "description": "It has the ability to distort space. It is described as a deity in Sinnoh-region mythology.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -511,7 +515,8 @@
       "description": "It has the ability to distort space. It is described as a deity in Sinnoh-region mythology.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -613,7 +618,8 @@
       "description": "It has the ability to distort space. It is described as a deity in Sinnoh-region mythology.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

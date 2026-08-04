@@ -87,7 +87,8 @@
       "description": "It is said that through meditation, MEDICHAM heightens energy inside its body and sharpens its sixth sense. This POK\u00e9MON hides its presence by merging itself with fields and mountains.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "4": {
       "types": [
@@ -192,7 +193,8 @@
       "description": "It is said that through meditation, MEDICHAM heightens energy inside its body and sharpens its sixth sense. This POK\u00e9MON hides its presence by merging itself with fields and mountains.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -289,7 +291,8 @@
       "description": "It is said that through meditation, MEDICHAM heightens energy inside its body and sharpens its sixth sense. This POK\u00e9MON hides its presence by merging itself with fields and mountains.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -395,7 +398,8 @@
       "description": "It is said that through meditation, MEDICHAM heightens energy inside its body and sharpens its sixth sense. This POK\u00e9MON hides its presence by merging itself with fields and mountains.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -496,7 +500,8 @@
       "description": "It is said that through meditation, MEDICHAM heightens energy inside its body and sharpens its sixth sense. This POK\u00e9MON hides its presence by merging itself with fields and mountains.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -585,7 +590,8 @@
       "description": "It is said that through meditation, MEDICHAM heightens energy inside its body and sharpens its sixth sense. This POK\u00e9MON hides its presence by merging itself with fields and mountains.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -689,7 +695,8 @@
       "description": "It is said that through meditation, MEDICHAM heightens energy inside its body and sharpens its sixth sense. This POK\u00e9MON hides its presence by merging itself with fields and mountains.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

@@ -86,7 +86,8 @@
       "description": "The leaves growing out of GROVYLE\u2019s body are convenient for camouflaging it from enemies in the forest. This POK\u00e9MON is a master at climbing trees in jungles.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "4": {
       "types": [
@@ -178,7 +179,8 @@
       "description": "The leaves growing out of GROVYLE\u2019s body are convenient for camouflaging it from enemies in the forest. This POK\u00e9MON is a master at climbing trees in jungles.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -262,7 +264,8 @@
       "description": "The leaves growing out of GROVYLE\u2019s body are convenient for camouflaging it from enemies in the forest. This POK\u00e9MON is a master at climbing trees in jungles.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -356,7 +359,8 @@
       "description": "The leaves growing out of GROVYLE\u2019s body are convenient for camouflaging it from enemies in the forest. This POK\u00e9MON is a master at climbing trees in jungles.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -444,7 +448,8 @@
       "description": "The leaves growing out of GROVYLE\u2019s body are convenient for camouflaging it from enemies in the forest. This POK\u00e9MON is a master at climbing trees in jungles.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -542,7 +547,8 @@
       "description": "The leaves growing out of GROVYLE\u2019s body are convenient for camouflaging it from enemies in the forest. This POK\u00e9MON is a master at climbing trees in jungles.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -640,7 +646,8 @@
       "description": "The leaves growing out of GROVYLE\u2019s body are convenient for camouflaging it from enemies in the forest. This POK\u00e9MON is a master at climbing trees in jungles.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

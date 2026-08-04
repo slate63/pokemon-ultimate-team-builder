@@ -76,7 +76,8 @@
       "description": "NUMEL is extremely dull witted - it doesn\u2019t notice being hit. However, it can\u2019t stand hunger for even a second. This POK\u00e9MON\u2019s body is a seething cauldron of boiling magma.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "4": {
       "types": [
@@ -167,7 +168,8 @@
       "description": "NUMEL is extremely dull witted - it doesn\u2019t notice being hit. However, it can\u2019t stand hunger for even a second. This POK\u00e9MON\u2019s body is a seething cauldron of boiling magma.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -258,7 +260,8 @@
       "description": "NUMEL is extremely dull witted - it doesn\u2019t notice being hit. However, it can\u2019t stand hunger for even a second. This POK\u00e9MON\u2019s body is a seething cauldron of boiling magma.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -354,7 +357,8 @@
       "description": "NUMEL is extremely dull witted - it doesn\u2019t notice being hit. However, it can\u2019t stand hunger for even a second. This POK\u00e9MON\u2019s body is a seething cauldron of boiling magma.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -443,7 +447,8 @@
       "description": "NUMEL is extremely dull witted - it doesn\u2019t notice being hit. However, it can\u2019t stand hunger for even a second. This POK\u00e9MON\u2019s body is a seething cauldron of boiling magma.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -527,7 +532,8 @@
       "description": "NUMEL is extremely dull witted - it doesn\u2019t notice being hit. However, it can\u2019t stand hunger for even a second. This POK\u00e9MON\u2019s body is a seething cauldron of boiling magma.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -626,7 +632,8 @@
       "description": "NUMEL is extremely dull witted - it doesn\u2019t notice being hit. However, it can\u2019t stand hunger for even a second. This POK\u00e9MON\u2019s body is a seething cauldron of boiling magma.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

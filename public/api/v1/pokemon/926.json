@@ -79,7 +79,8 @@
       "description": "This Pok\u00e9mon is smooth and moist to the touch. Yeast in Fidough\u2019s breath induces fermentation in the Pok\u00e9mon\u2019s vicinity.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

@@ -92,7 +92,8 @@
       "description": "This Pok\u00e9mon changes its appearance if it hears its allies calling for help. Palafin will never show anybody its moment of transformation.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

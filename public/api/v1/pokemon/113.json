@@ -71,7 +71,8 @@
       "description": "A rare and elusive POK\u00e9MON that is said to bring happiness to those who manage to get it.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "2": {
       "types": [
@@ -151,7 +152,8 @@
       "description": "A rare and elusive POK\u00e9MON that is said to bring happiness to those who manage to get it.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "3": {
       "types": [
@@ -255,7 +257,8 @@
       "description": "A rare and elusive POK\u00e9MON that is said to bring happiness to those who manage to get it.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "4": {
       "types": [
@@ -378,7 +381,8 @@
       "description": "A rare and elusive POK\u00e9MON that is said to bring happiness to those who manage to get it.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -501,7 +505,8 @@
       "description": "A rare and elusive POK\u00e9MON that is said to bring happiness to those who manage to get it.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -631,7 +636,8 @@
       "description": "A rare and elusive POK\u00e9MON that is said to bring happiness to those who manage to get it.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -761,7 +767,8 @@
       "description": "A rare and elusive POK\u00e9MON that is said to bring happiness to those who manage to get it.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -896,7 +903,8 @@
       "description": "A rare and elusive POK\u00e9MON that is said to bring happiness to those who manage to get it.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -1005,7 +1013,8 @@
       "description": "A rare and elusive POK\u00e9MON that is said to bring happiness to those who manage to get it.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

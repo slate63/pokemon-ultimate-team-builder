@@ -83,7 +83,8 @@
       "description": "It is said that a dog Pok\u00e9mon that died in the wild without ever interacting with a human was reborn as this Pok\u00e9mon.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

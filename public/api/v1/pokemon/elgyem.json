@@ -104,7 +104,8 @@
       "description": "It uses its strong psychic power to squeeze its opponent\u2019s brain, causing unendurable headaches.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -207,7 +208,8 @@
       "description": "It uses its strong psychic power to squeeze its opponent\u2019s brain, causing unendurable headaches.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -312,7 +314,8 @@
       "description": "It uses its strong psychic power to squeeze its opponent\u2019s brain, causing unendurable headaches.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -400,7 +403,8 @@
       "description": "It uses its strong psychic power to squeeze its opponent\u2019s brain, causing unendurable headaches.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -431,7 +435,8 @@
       "description": "It uses its strong psychic power to squeeze its opponent\u2019s brain, causing unendurable headaches.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

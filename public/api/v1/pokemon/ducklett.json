@@ -81,7 +81,8 @@
       "description": "These bird Pok\u00e9mon are excellent divers. They swim around in the water eating their favorite food--peat moss.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -162,7 +163,8 @@
       "description": "These bird Pok\u00e9mon are excellent divers. They swim around in the water eating their favorite food--peat moss.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -243,7 +245,8 @@
       "description": "These bird Pok\u00e9mon are excellent divers. They swim around in the water eating their favorite food--peat moss.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -277,7 +280,8 @@
       "description": "These bird Pok\u00e9mon are excellent divers. They swim around in the water eating their favorite food--peat moss.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -350,7 +354,8 @@
       "description": "These bird Pok\u00e9mon are excellent divers. They swim around in the water eating their favorite food--peat moss.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

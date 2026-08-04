@@ -44,7 +44,8 @@
       "description": "When it flies to this land from across the sea, the bitter winter comes to an end. According to legend, this Pok\u00e9mon's love gives rise to the budding of fresh life across Hisui.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -127,7 +128,8 @@
       "description": "When it flies to this land from across the sea, the bitter winter comes to an end. According to legend, this Pok\u00e9mon's love gives rise to the budding of fresh life across Hisui.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

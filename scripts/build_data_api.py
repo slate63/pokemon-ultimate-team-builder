@@ -92,6 +92,7 @@ def main():
                 "is_legendary": latest_gen.get("is_legendary", False),
                 "is_mythical": latest_gen.get("is_mythical", False),
                 "is_fully_evolved": latest_gen.get("is_fully_evolved", False),
+                "requires_trade": latest_gen.get("requires_trade", False),
             })
 
     # Sort index by ID

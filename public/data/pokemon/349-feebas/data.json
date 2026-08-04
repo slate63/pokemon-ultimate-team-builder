@@ -69,7 +69,8 @@
       "description": "FEEBAS\u2019s fins are ragged and tattered from the start of its life. Because of its shoddy appearance, this POK\u00e9MON is largely ignored. It is capable of living in both the sea and in rivers.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "4": {
       "types": [
@@ -138,7 +139,8 @@
       "description": "FEEBAS\u2019s fins are ragged and tattered from the start of its life. Because of its shoddy appearance, this POK\u00e9MON is largely ignored. It is capable of living in both the sea and in rivers.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -211,7 +213,8 @@
       "description": "FEEBAS\u2019s fins are ragged and tattered from the start of its life. Because of its shoddy appearance, this POK\u00e9MON is largely ignored. It is capable of living in both the sea and in rivers.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -285,7 +288,8 @@
       "description": "FEEBAS\u2019s fins are ragged and tattered from the start of its life. Because of its shoddy appearance, this POK\u00e9MON is largely ignored. It is capable of living in both the sea and in rivers.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -359,7 +363,8 @@
       "description": "FEEBAS\u2019s fins are ragged and tattered from the start of its life. Because of its shoddy appearance, this POK\u00e9MON is largely ignored. It is capable of living in both the sea and in rivers.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -433,7 +438,8 @@
       "description": "FEEBAS\u2019s fins are ragged and tattered from the start of its life. Because of its shoddy appearance, this POK\u00e9MON is largely ignored. It is capable of living in both the sea and in rivers.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -498,7 +504,8 @@
       "description": "FEEBAS\u2019s fins are ragged and tattered from the start of its life. Because of its shoddy appearance, this POK\u00e9MON is largely ignored. It is capable of living in both the sea and in rivers.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

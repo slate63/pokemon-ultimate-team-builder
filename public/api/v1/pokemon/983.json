@@ -91,7 +91,8 @@
       "description": "Only a Bisharp that stands above all others in its vast army can evolve into Kingambit.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

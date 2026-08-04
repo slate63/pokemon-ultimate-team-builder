@@ -96,7 +96,8 @@
       "description": "When it is angered, the temperature of its head tuft reaches 600\u00b0 F. It uses its tuft to roast berries.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -195,7 +196,8 @@
       "description": "When it is angered, the temperature of its head tuft reaches 600\u00b0 F. It uses its tuft to roast berries.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -290,7 +292,8 @@
       "description": "When it is angered, the temperature of its head tuft reaches 600\u00b0 F. It uses its tuft to roast berries.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -322,7 +325,8 @@
       "description": "When it is angered, the temperature of its head tuft reaches 600\u00b0 F. It uses its tuft to roast berries.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -352,7 +356,8 @@
       "description": "When it is angered, the temperature of its head tuft reaches 600\u00b0 F. It uses its tuft to roast berries.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

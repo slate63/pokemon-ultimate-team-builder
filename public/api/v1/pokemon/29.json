@@ -50,7 +50,8 @@
       "description": "Although small, its venomous barbs render this POK\u00e9MON dangerous. The female has smaller horns.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "2": {
       "types": [
@@ -117,7 +118,8 @@
       "description": "Although small, its venomous barbs render this POK\u00e9MON dangerous. The female has smaller horns.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "3": {
       "types": [
@@ -202,7 +204,8 @@
       "description": "Although small, its venomous barbs render this POK\u00e9MON dangerous. The female has smaller horns.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "4": {
       "types": [
@@ -296,7 +299,8 @@
       "description": "Although small, its venomous barbs render this POK\u00e9MON dangerous. The female has smaller horns.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -383,7 +387,8 @@
       "description": "Although small, its venomous barbs render this POK\u00e9MON dangerous. The female has smaller horns.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -481,7 +486,8 @@
       "description": "Although small, its venomous barbs render this POK\u00e9MON dangerous. The female has smaller horns.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -568,7 +574,8 @@
       "description": "Although small, its venomous barbs render this POK\u00e9MON dangerous. The female has smaller horns.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -657,7 +664,8 @@
       "description": "Although small, its venomous barbs render this POK\u00e9MON dangerous. The female has smaller horns.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -688,7 +696,8 @@
       "description": "Although small, its venomous barbs render this POK\u00e9MON dangerous. The female has smaller horns.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

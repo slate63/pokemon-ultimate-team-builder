@@ -83,7 +83,8 @@
       "description": "It\u2019s considered to be a good Pok\u00e9mon for beginners because of its friendliness, but its disposition grows rougher as it grows up.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -156,7 +157,8 @@
       "description": "It\u2019s considered to be a good Pok\u00e9mon for beginners because of its friendliness, but its disposition grows rougher as it grows up.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -235,7 +237,8 @@
       "description": "It\u2019s considered to be a good Pok\u00e9mon for beginners because of its friendliness, but its disposition grows rougher as it grows up.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

@@ -71,7 +71,8 @@
       "description": "This Pok\u00e9mon is very popular as a herding dog in the Galar region. As it runs, it generates electricity from the base of its tail.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -101,7 +102,8 @@
       "description": "This Pok\u00e9mon is very popular as a herding dog in the Galar region. As it runs, it generates electricity from the base of its tail.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

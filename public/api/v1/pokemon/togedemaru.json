@@ -103,7 +103,8 @@
       "description": "The spiny fur on its back is normally at rest. When this Pok\u00e9mon becomes agitated, its fur stands on end and stabs into its attackers.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -198,7 +199,8 @@
       "description": "The spiny fur on its back is normally at rest. When this Pok\u00e9mon becomes agitated, its fur stands on end and stabs into its attackers.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -230,7 +232,8 @@
       "description": "The spiny fur on its back is normally at rest. When this Pok\u00e9mon becomes agitated, its fur stands on end and stabs into its attackers.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

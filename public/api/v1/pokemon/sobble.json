@@ -74,7 +74,8 @@
       "description": "When scared, this Pok\u00e9mon cries. Its tears pack the chemical punch of 100 onions, and attackers won\u2019t be able to resist weeping.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -143,7 +144,8 @@
       "description": "When scared, this Pok\u00e9mon cries. Its tears pack the chemical punch of 100 onions, and attackers won\u2019t be able to resist weeping.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

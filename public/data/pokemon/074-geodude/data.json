@@ -55,7 +55,8 @@
       "description": "Found in fields and mountains. Mistaking them for boulders, people often step or trip on them.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "2": {
       "types": [
@@ -119,7 +120,8 @@
       "description": "Found in fields and mountains. Mistaking them for boulders, people often step or trip on them.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "3": {
       "types": [
@@ -202,7 +204,8 @@
       "description": "Found in fields and mountains. Mistaking them for boulders, people often step or trip on them.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "4": {
       "types": [
@@ -296,7 +299,8 @@
       "description": "Found in fields and mountains. Mistaking them for boulders, people often step or trip on them.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -386,7 +390,8 @@
       "description": "Found in fields and mountains. Mistaking them for boulders, people often step or trip on them.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -483,7 +488,8 @@
       "description": "Found in fields and mountains. Mistaking them for boulders, people often step or trip on them.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -572,7 +578,8 @@
       "description": "Found in fields and mountains. Mistaking them for boulders, people often step or trip on them.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -655,7 +662,8 @@
       "description": "Found in fields and mountains. Mistaking them for boulders, people often step or trip on them.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -739,7 +747,8 @@
       "description": "Found in fields and mountains. Mistaking them for boulders, people often step or trip on them.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

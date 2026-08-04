@@ -93,7 +93,8 @@
       "description": "They use their large ears to dig burrows. They will dig the whole night through.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -179,7 +180,8 @@
       "description": "They use their large ears to dig burrows. They will dig the whole night through.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -258,7 +260,8 @@
       "description": "They use their large ears to dig burrows. They will dig the whole night through.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -289,7 +292,8 @@
       "description": "They use their large ears to dig burrows. They will dig the whole night through.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

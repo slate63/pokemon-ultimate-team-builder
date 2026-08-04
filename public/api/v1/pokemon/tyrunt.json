@@ -94,7 +94,8 @@
       "description": "This Pok\u00e9mon was restored from a fossil. If something happens that it doesn\u2019t like, it throws a tantrum and runs wild.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -184,7 +185,8 @@
       "description": "This Pok\u00e9mon was restored from a fossil. If something happens that it doesn\u2019t like, it throws a tantrum and runs wild.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -279,7 +281,8 @@
       "description": "This Pok\u00e9mon was restored from a fossil. If something happens that it doesn\u2019t like, it throws a tantrum and runs wild.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -310,7 +313,8 @@
       "description": "This Pok\u00e9mon was restored from a fossil. If something happens that it doesn\u2019t like, it throws a tantrum and runs wild.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

@@ -102,7 +102,8 @@
       "description": "Within dense forests, this Pok\u00e9mon lives in a pack with others of its kind. It\u2019s incredibly aggressive, and the other Pok\u00e9mon of the forest fear it.",
       "is_legendary": false,
       "is_mythical": true,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -204,7 +205,8 @@
       "description": "Within dense forests, this Pok\u00e9mon lives in a pack with others of its kind. It\u2019s incredibly aggressive, and the other Pok\u00e9mon of the forest fear it.",
       "is_legendary": false,
       "is_mythical": true,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

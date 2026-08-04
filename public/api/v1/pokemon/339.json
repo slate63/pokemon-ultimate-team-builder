@@ -74,7 +74,8 @@
       "description": "BARBOACH\u2019s sensitive whiskers serve as a superb radar system. This POK\u00e9MON hides in mud, leaving only its two whiskers exposed while it waits for prey to come along.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "4": {
       "types": [
@@ -159,7 +160,8 @@
       "description": "BARBOACH\u2019s sensitive whiskers serve as a superb radar system. This POK\u00e9MON hides in mud, leaving only its two whiskers exposed while it waits for prey to come along.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -243,7 +245,8 @@
       "description": "BARBOACH\u2019s sensitive whiskers serve as a superb radar system. This POK\u00e9MON hides in mud, leaving only its two whiskers exposed while it waits for prey to come along.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -329,7 +332,8 @@
       "description": "BARBOACH\u2019s sensitive whiskers serve as a superb radar system. This POK\u00e9MON hides in mud, leaving only its two whiskers exposed while it waits for prey to come along.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -413,7 +417,8 @@
       "description": "BARBOACH\u2019s sensitive whiskers serve as a superb radar system. This POK\u00e9MON hides in mud, leaving only its two whiskers exposed while it waits for prey to come along.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -493,7 +498,8 @@
       "description": "BARBOACH\u2019s sensitive whiskers serve as a superb radar system. This POK\u00e9MON hides in mud, leaving only its two whiskers exposed while it waits for prey to come along.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -574,7 +580,8 @@
       "description": "BARBOACH\u2019s sensitive whiskers serve as a superb radar system. This POK\u00e9MON hides in mud, leaving only its two whiskers exposed while it waits for prey to come along.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

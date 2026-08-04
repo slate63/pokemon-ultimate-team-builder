@@ -85,7 +85,8 @@
       "description": "Leavanny dress it in clothes they made for it when it hatched. It hides its head in its hood while it is sleeping.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -169,7 +170,8 @@
       "description": "Leavanny dress it in clothes they made for it when it hatched. It hides its head in its hood while it is sleeping.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -256,7 +258,8 @@
       "description": "Leavanny dress it in clothes they made for it when it hatched. It hides its head in its hood while it is sleeping.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -290,7 +293,8 @@
       "description": "Leavanny dress it in clothes they made for it when it hatched. It hides its head in its hood while it is sleeping.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -362,7 +366,8 @@
       "description": "Leavanny dress it in clothes they made for it when it hatched. It hides its head in its hood while it is sleeping.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

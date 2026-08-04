@@ -102,7 +102,8 @@
       "description": "With the hair wrapped around its body helping to enhance its muscles, this Pok\u00e9mon can overwhelm even Machamp.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -195,7 +196,8 @@
       "description": "With the hair wrapped around its body helping to enhance its muscles, this Pok\u00e9mon can overwhelm even Machamp.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

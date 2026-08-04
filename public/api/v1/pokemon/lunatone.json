@@ -76,7 +76,8 @@
       "description": "LUNATONE was discovered at a location where a meteorite fell. As a result, some people theorize that this POK\u00e9MON came from space. However, no one has been able to prove this theory so far.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "4": {
       "types": [
@@ -171,7 +172,8 @@
       "description": "LUNATONE was discovered at a location where a meteorite fell. As a result, some people theorize that this POK\u00e9MON came from space. However, no one has been able to prove this theory so far.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -270,7 +272,8 @@
       "description": "LUNATONE was discovered at a location where a meteorite fell. As a result, some people theorize that this POK\u00e9MON came from space. However, no one has been able to prove this theory so far.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -370,7 +373,8 @@
       "description": "LUNATONE was discovered at a location where a meteorite fell. As a result, some people theorize that this POK\u00e9MON came from space. However, no one has been able to prove this theory so far.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -469,7 +473,8 @@
       "description": "LUNATONE was discovered at a location where a meteorite fell. As a result, some people theorize that this POK\u00e9MON came from space. However, no one has been able to prove this theory so far.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -573,7 +578,8 @@
       "description": "LUNATONE was discovered at a location where a meteorite fell. As a result, some people theorize that this POK\u00e9MON came from space. However, no one has been able to prove this theory so far.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -603,7 +609,8 @@
       "description": "LUNATONE was discovered at a location where a meteorite fell. As a result, some people theorize that this POK\u00e9MON came from space. However, no one has been able to prove this theory so far.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

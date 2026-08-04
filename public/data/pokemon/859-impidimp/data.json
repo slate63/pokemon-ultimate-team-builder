@@ -74,7 +74,8 @@
       "description": "Through its nose, it sucks in the emanations produced by people and Pok\u00e9mon when they feel annoyed. It thrives off this negative energy.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -149,7 +150,8 @@
       "description": "Through its nose, it sucks in the emanations produced by people and Pok\u00e9mon when they feel annoyed. It thrives off this negative energy.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

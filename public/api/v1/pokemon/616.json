@@ -79,7 +79,8 @@
       "description": "When attacked, it defends itself by closing the lid of its shell. It can spit a sticky, poisonous liquid.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -159,7 +160,8 @@
       "description": "When attacked, it defends itself by closing the lid of its shell. It can spit a sticky, poisonous liquid.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -237,7 +239,8 @@
       "description": "When attacked, it defends itself by closing the lid of its shell. It can spit a sticky, poisonous liquid.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -308,7 +311,8 @@
       "description": "When attacked, it defends itself by closing the lid of its shell. It can spit a sticky, poisonous liquid.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -339,7 +343,8 @@
       "description": "When attacked, it defends itself by closing the lid of its shell. It can spit a sticky, poisonous liquid.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

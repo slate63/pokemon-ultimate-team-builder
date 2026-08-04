@@ -88,7 +88,8 @@
       "description": "GRUMPIG uses the black pearls on its body to amplify its psychic power waves for gaining total control over its foe. When this POK\u00e9MON uses its special power, its snorting breath grows labored.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "4": {
       "types": [
@@ -191,7 +192,8 @@
       "description": "GRUMPIG uses the black pearls on its body to amplify its psychic power waves for gaining total control over its foe. When this POK\u00e9MON uses its special power, its snorting breath grows labored.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -286,7 +288,8 @@
       "description": "GRUMPIG uses the black pearls on its body to amplify its psychic power waves for gaining total control over its foe. When this POK\u00e9MON uses its special power, its snorting breath grows labored.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -389,7 +392,8 @@
       "description": "GRUMPIG uses the black pearls on its body to amplify its psychic power waves for gaining total control over its foe. When this POK\u00e9MON uses its special power, its snorting breath grows labored.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -491,7 +495,8 @@
       "description": "GRUMPIG uses the black pearls on its body to amplify its psychic power waves for gaining total control over its foe. When this POK\u00e9MON uses its special power, its snorting breath grows labored.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -579,7 +584,8 @@
       "description": "GRUMPIG uses the black pearls on its body to amplify its psychic power waves for gaining total control over its foe. When this POK\u00e9MON uses its special power, its snorting breath grows labored.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -693,7 +699,8 @@
       "description": "GRUMPIG uses the black pearls on its body to amplify its psychic power waves for gaining total control over its foe. When this POK\u00e9MON uses its special power, its snorting breath grows labored.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

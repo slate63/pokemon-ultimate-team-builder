@@ -93,7 +93,8 @@
       "description": "It pushes the tips of its two tails against the foe, then lets loose with over 20,000 volts of power.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": true
     },
     "5": {
       "types": [
@@ -183,7 +184,8 @@
       "description": "It pushes the tips of its two tails against the foe, then lets loose with over 20,000 volts of power.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": true
     },
     "6": {
       "types": [
@@ -277,7 +279,8 @@
       "description": "It pushes the tips of its two tails against the foe, then lets loose with over 20,000 volts of power.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": true
     },
     "7": {
       "types": [
@@ -371,7 +374,8 @@
       "description": "It pushes the tips of its two tails against the foe, then lets loose with over 20,000 volts of power.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": true
     },
     "8": {
       "types": [
@@ -471,7 +475,8 @@
       "description": "It pushes the tips of its two tails against the foe, then lets loose with over 20,000 volts of power.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": true
     },
     "9": {
       "types": [
@@ -568,7 +573,8 @@
       "description": "It pushes the tips of its two tails against the foe, then lets loose with over 20,000 volts of power.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": true
     }
   }
 }

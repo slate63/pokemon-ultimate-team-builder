@@ -52,7 +52,8 @@
       "description": "When storing thermal energy in its body, its temperature could soar to over 1600 degrees.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "2": {
       "types": [
@@ -115,7 +116,8 @@
       "description": "When storing thermal energy in its body, its temperature could soar to over 1600 degrees.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "3": {
       "types": [
@@ -186,7 +188,8 @@
       "description": "When storing thermal energy in its body, its temperature could soar to over 1600 degrees.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "4": {
       "types": [
@@ -270,7 +273,8 @@
       "description": "When storing thermal energy in its body, its temperature could soar to over 1600 degrees.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -352,7 +356,8 @@
       "description": "When storing thermal energy in its body, its temperature could soar to over 1600 degrees.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -438,7 +443,8 @@
       "description": "When storing thermal energy in its body, its temperature could soar to over 1600 degrees.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -521,7 +527,8 @@
       "description": "When storing thermal energy in its body, its temperature could soar to over 1600 degrees.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -619,7 +626,8 @@
       "description": "When storing thermal energy in its body, its temperature could soar to over 1600 degrees.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -706,7 +714,8 @@
       "description": "When storing thermal energy in its body, its temperature could soar to over 1600 degrees.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

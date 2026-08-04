@@ -89,7 +89,8 @@
       "description": "Its body resembles polished metal, and it\u2019s both lightweight and strong. The only drawback is that it rusts easily.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -175,7 +176,8 @@
       "description": "Its body resembles polished metal, and it\u2019s both lightweight and strong. The only drawback is that it rusts easily.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

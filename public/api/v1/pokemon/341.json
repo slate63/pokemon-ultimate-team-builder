@@ -84,7 +84,8 @@
       "description": "CORPHISH were originally foreign POK\u00e9MON that were imported as pets. They eventually turned up in the wild. This POK\u00e9MON is very hardy and has greatly increased its population.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "4": {
       "types": [
@@ -179,7 +180,8 @@
       "description": "CORPHISH were originally foreign POK\u00e9MON that were imported as pets. They eventually turned up in the wild. This POK\u00e9MON is very hardy and has greatly increased its population.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -271,7 +273,8 @@
       "description": "CORPHISH were originally foreign POK\u00e9MON that were imported as pets. They eventually turned up in the wild. This POK\u00e9MON is very hardy and has greatly increased its population.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -372,7 +375,8 @@
       "description": "CORPHISH were originally foreign POK\u00e9MON that were imported as pets. They eventually turned up in the wild. This POK\u00e9MON is very hardy and has greatly increased its population.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -465,7 +469,8 @@
       "description": "CORPHISH were originally foreign POK\u00e9MON that were imported as pets. They eventually turned up in the wild. This POK\u00e9MON is very hardy and has greatly increased its population.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -560,7 +565,8 @@
       "description": "CORPHISH were originally foreign POK\u00e9MON that were imported as pets. They eventually turned up in the wild. This POK\u00e9MON is very hardy and has greatly increased its population.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -645,7 +651,8 @@
       "description": "CORPHISH were originally foreign POK\u00e9MON that were imported as pets. They eventually turned up in the wild. This POK\u00e9MON is very hardy and has greatly increased its population.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

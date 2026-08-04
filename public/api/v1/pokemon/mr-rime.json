@@ -124,7 +124,8 @@
       "description": "It\u2019s highly skilled at tap-dancing. It waves its cane of ice in time with its graceful movements.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -156,7 +157,8 @@
       "description": "It\u2019s highly skilled at tap-dancing. It waves its cane of ice in time with its graceful movements.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

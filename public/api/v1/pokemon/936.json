@@ -90,7 +90,8 @@
       "description": "Armarouge evolved through the use of a set of armor that belonged to a distinguished warrior. This Pok\u00e9mon is incredibly loyal.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

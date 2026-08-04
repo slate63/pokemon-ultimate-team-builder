@@ -92,7 +92,8 @@
       "description": "By churning its wings, it creates shock waves that inflict critical internal injuries to foes.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -172,7 +173,8 @@
       "description": "By churning its wings, it creates shock waves that inflict critical internal injuries to foes.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -252,7 +254,8 @@
       "description": "By churning its wings, it creates shock waves that inflict critical internal injuries to foes.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -335,7 +338,8 @@
       "description": "By churning its wings, it creates shock waves that inflict critical internal injuries to foes.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -416,7 +420,8 @@
       "description": "By churning its wings, it creates shock waves that inflict critical internal injuries to foes.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -498,7 +503,8 @@
       "description": "By churning its wings, it creates shock waves that inflict critical internal injuries to foes.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

@@ -100,7 +100,8 @@
       "description": "The body that supports the ball barely moves. Therefore, it is thought that the true body of this Pok\u00e9mon is actually inside the ball.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

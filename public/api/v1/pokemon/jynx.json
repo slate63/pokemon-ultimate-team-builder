@@ -59,7 +59,8 @@
       "description": "It seductively wiggles its hips as it walks. It can cause people to dance in unison with it.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "2": {
       "types": [
@@ -125,7 +126,8 @@
       "description": "It seductively wiggles its hips as it walks. It can cause people to dance in unison with it.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "3": {
       "types": [
@@ -210,7 +212,8 @@
       "description": "It seductively wiggles its hips as it walks. It can cause people to dance in unison with it.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "4": {
       "types": [
@@ -315,7 +318,8 @@
       "description": "It seductively wiggles its hips as it walks. It can cause people to dance in unison with it.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -418,7 +422,8 @@
       "description": "It seductively wiggles its hips as it walks. It can cause people to dance in unison with it.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -528,7 +533,8 @@
       "description": "It seductively wiggles its hips as it walks. It can cause people to dance in unison with it.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -637,7 +643,8 @@
       "description": "It seductively wiggles its hips as it walks. It can cause people to dance in unison with it.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -751,7 +758,8 @@
       "description": "It seductively wiggles its hips as it walks. It can cause people to dance in unison with it.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -783,7 +791,8 @@
       "description": "It seductively wiggles its hips as it walks. It can cause people to dance in unison with it.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

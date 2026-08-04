@@ -100,7 +100,8 @@
       "description": "The shell on its back is chemically unstable and explodes violently if struck. The hole in its stomach is its weak point.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -198,7 +199,8 @@
       "description": "The shell on its back is chemically unstable and explodes violently if struck. The hole in its stomach is its weak point.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -228,7 +230,8 @@
       "description": "The shell on its back is chemically unstable and explodes violently if struck. The hole in its stomach is its weak point.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

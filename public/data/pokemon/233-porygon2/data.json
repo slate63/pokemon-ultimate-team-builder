@@ -62,7 +62,8 @@
       "description": "This upgraded version of PORYGON is designed for space exploration. It can't fly, though.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": true
     },
     "3": {
       "types": [
@@ -138,7 +139,8 @@
       "description": "This upgraded version of PORYGON is designed for space exploration. It can't fly, though.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": true
     },
     "4": {
       "types": [
@@ -227,7 +229,8 @@
       "description": "This upgraded version of PORYGON is designed for space exploration. It can't fly, though.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": true
     },
     "5": {
       "types": [
@@ -314,7 +317,8 @@
       "description": "This upgraded version of PORYGON is designed for space exploration. It can't fly, though.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": true
     },
     "6": {
       "types": [
@@ -407,7 +411,8 @@
       "description": "This upgraded version of PORYGON is designed for space exploration. It can't fly, though.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": true
     },
     "7": {
       "types": [
@@ -502,7 +507,8 @@
       "description": "This upgraded version of PORYGON is designed for space exploration. It can't fly, though.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": true
     },
     "8": {
       "types": [
@@ -596,7 +602,8 @@
       "description": "This upgraded version of PORYGON is designed for space exploration. It can't fly, though.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": true
     },
     "9": {
       "types": [
@@ -676,7 +683,8 @@
       "description": "This upgraded version of PORYGON is designed for space exploration. It can't fly, though.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": true
     }
   }
 }

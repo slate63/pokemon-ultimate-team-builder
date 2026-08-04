@@ -70,7 +70,8 @@
       "description": "This Pok\u00e9mon migrated to Paldea from distant lands long ago. The gel secreted by its feathers repels water and grime.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

@@ -82,7 +82,8 @@
       "description": "This Pok\u00e9mon can store energy in its large dewlap. Mabosstiff unleashes this energy all at once to blow away enemies.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

@@ -79,7 +79,8 @@
       "description": "Its mane shines when it discharges electricity. They use their flashing manes to communicate with one another.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -156,7 +157,8 @@
       "description": "Its mane shines when it discharges electricity. They use their flashing manes to communicate with one another.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -233,7 +235,8 @@
       "description": "Its mane shines when it discharges electricity. They use their flashing manes to communicate with one another.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -266,7 +269,8 @@
       "description": "Its mane shines when it discharges electricity. They use their flashing manes to communicate with one another.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -344,7 +348,8 @@
       "description": "Its mane shines when it discharges electricity. They use their flashing manes to communicate with one another.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

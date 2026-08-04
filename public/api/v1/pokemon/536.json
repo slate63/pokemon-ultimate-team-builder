@@ -75,7 +75,8 @@
       "description": "When they vibrate the bumps on their heads, they can make waves in water or earthquake-like vibrations on land.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -151,7 +152,8 @@
       "description": "When they vibrate the bumps on their heads, they can make waves in water or earthquake-like vibrations on land.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -225,7 +227,8 @@
       "description": "When they vibrate the bumps on their heads, they can make waves in water or earthquake-like vibrations on land.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -296,7 +299,8 @@
       "description": "When they vibrate the bumps on their heads, they can make waves in water or earthquake-like vibrations on land.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -328,7 +332,8 @@
       "description": "When they vibrate the bumps on their heads, they can make waves in water or earthquake-like vibrations on land.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

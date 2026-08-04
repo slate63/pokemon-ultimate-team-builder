@@ -80,7 +80,8 @@
       "description": "Kilowattrel inflates its throat sac to amplify its electricity. By riding the wind, this Pok\u00e9mon can fly over 430 miles in a day.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

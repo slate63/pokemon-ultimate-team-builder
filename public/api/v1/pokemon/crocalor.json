@@ -74,7 +74,8 @@
       "description": "The combination of Crocalor\u2019s fire energy and overflowing vitality has caused an egg-shaped fireball to appear on the Pok\u00e9mon\u2019s head.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

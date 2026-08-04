@@ -90,7 +90,8 @@
       "description": "SKITTY has the habit of becoming fascinated by moving objects and chasing them around. This POK\u00e9MON is known to chase after its own tail and become dizzy.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "4": {
       "types": [
@@ -191,7 +192,8 @@
       "description": "SKITTY has the habit of becoming fascinated by moving objects and chasing them around. This POK\u00e9MON is known to chase after its own tail and become dizzy.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -288,7 +290,8 @@
       "description": "SKITTY has the habit of becoming fascinated by moving objects and chasing them around. This POK\u00e9MON is known to chase after its own tail and become dizzy.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -394,7 +397,8 @@
       "description": "SKITTY has the habit of becoming fascinated by moving objects and chasing them around. This POK\u00e9MON is known to chase after its own tail and become dizzy.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -492,7 +496,8 @@
       "description": "SKITTY has the habit of becoming fascinated by moving objects and chasing them around. This POK\u00e9MON is known to chase after its own tail and become dizzy.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -583,7 +588,8 @@
       "description": "SKITTY has the habit of becoming fascinated by moving objects and chasing them around. This POK\u00e9MON is known to chase after its own tail and become dizzy.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -614,7 +620,8 @@
       "description": "SKITTY has the habit of becoming fascinated by moving objects and chasing them around. This POK\u00e9MON is known to chase after its own tail and become dizzy.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

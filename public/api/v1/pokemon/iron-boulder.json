@@ -79,7 +79,8 @@
       "description": "It resembles a Pok\u00e9mon described in a dubious magazine as a Terrakion that had been modified by an evil organization.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

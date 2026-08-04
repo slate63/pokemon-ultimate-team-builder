@@ -98,7 +98,8 @@
       "description": "It is possible that this is the creature listed as Roaring Moon in an expedition journal that still holds many mysteries.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

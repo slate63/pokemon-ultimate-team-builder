@@ -95,7 +95,8 @@
       "description": "It leaps at its prey with a courageous shout. Its scaly punches tear its opponents to shreds.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -181,7 +182,8 @@
       "description": "It leaps at its prey with a courageous shout. Its scaly punches tear its opponents to shreds.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -271,7 +273,8 @@
       "description": "It leaps at its prey with a courageous shout. Its scaly punches tear its opponents to shreds.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

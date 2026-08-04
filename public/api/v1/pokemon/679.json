@@ -77,7 +77,8 @@
       "description": "Apparently this Pok\u00e9mon is born when a departed spirit inhabits a sword. It attaches itself to people and drinks their life force.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -155,7 +156,8 @@
       "description": "Apparently this Pok\u00e9mon is born when a departed spirit inhabits a sword. It attaches itself to people and drinks their life force.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -229,7 +231,8 @@
       "description": "Apparently this Pok\u00e9mon is born when a departed spirit inhabits a sword. It attaches itself to people and drinks their life force.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -259,7 +262,8 @@
       "description": "Apparently this Pok\u00e9mon is born when a departed spirit inhabits a sword. It attaches itself to people and drinks their life force.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

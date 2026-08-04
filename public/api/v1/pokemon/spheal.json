@@ -84,7 +84,8 @@
       "description": "SPHEAL is much faster rolling than walking to get around. When groups of this POK\u00e9MON eat, they all clap at once to show their pleasure. Because of this, their mealtimes are noisy.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "4": {
       "types": [
@@ -176,7 +177,8 @@
       "description": "SPHEAL is much faster rolling than walking to get around. When groups of this POK\u00e9MON eat, they all clap at once to show their pleasure. Because of this, their mealtimes are noisy.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -264,7 +266,8 @@
       "description": "SPHEAL is much faster rolling than walking to get around. When groups of this POK\u00e9MON eat, they all clap at once to show their pleasure. Because of this, their mealtimes are noisy.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -354,7 +357,8 @@
       "description": "SPHEAL is much faster rolling than walking to get around. When groups of this POK\u00e9MON eat, they all clap at once to show their pleasure. Because of this, their mealtimes are noisy.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -442,7 +446,8 @@
       "description": "SPHEAL is much faster rolling than walking to get around. When groups of this POK\u00e9MON eat, they all clap at once to show their pleasure. Because of this, their mealtimes are noisy.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -525,7 +530,8 @@
       "description": "SPHEAL is much faster rolling than walking to get around. When groups of this POK\u00e9MON eat, they all clap at once to show their pleasure. Because of this, their mealtimes are noisy.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -557,7 +563,8 @@
       "description": "SPHEAL is much faster rolling than walking to get around. When groups of this POK\u00e9MON eat, they all clap at once to show their pleasure. Because of this, their mealtimes are noisy.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

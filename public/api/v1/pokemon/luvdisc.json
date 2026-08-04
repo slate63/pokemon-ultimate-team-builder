@@ -72,7 +72,8 @@
       "description": "LUVDISC live in shallow seas in the tropics. This heart-shaped POK\u00e9MON earned its name by swimming after loving couples it spotted in the ocean\u2019s waves.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "4": {
       "types": [
@@ -152,7 +153,8 @@
       "description": "LUVDISC live in shallow seas in the tropics. This heart-shaped POK\u00e9MON earned its name by swimming after loving couples it spotted in the ocean\u2019s waves.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -230,7 +232,8 @@
       "description": "LUVDISC live in shallow seas in the tropics. This heart-shaped POK\u00e9MON earned its name by swimming after loving couples it spotted in the ocean\u2019s waves.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -312,7 +315,8 @@
       "description": "LUVDISC live in shallow seas in the tropics. This heart-shaped POK\u00e9MON earned its name by swimming after loving couples it spotted in the ocean\u2019s waves.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -395,7 +399,8 @@
       "description": "LUVDISC live in shallow seas in the tropics. This heart-shaped POK\u00e9MON earned its name by swimming after loving couples it spotted in the ocean\u2019s waves.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -466,7 +471,8 @@
       "description": "LUVDISC live in shallow seas in the tropics. This heart-shaped POK\u00e9MON earned its name by swimming after loving couples it spotted in the ocean\u2019s waves.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -537,7 +543,8 @@
       "description": "LUVDISC live in shallow seas in the tropics. This heart-shaped POK\u00e9MON earned its name by swimming after loving couples it spotted in the ocean\u2019s waves.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

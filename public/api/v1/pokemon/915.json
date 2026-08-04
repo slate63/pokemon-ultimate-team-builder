@@ -74,7 +74,8 @@
       "description": "It searches for food all day. It possesses a keen sense of smell but doesn\u2019t use it for anything other than foraging.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

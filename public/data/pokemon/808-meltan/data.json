@@ -26,7 +26,8 @@
       "description": "It dissolves and eats metal. Circulating liquid metal within its body is how it generates energy.",
       "is_legendary": false,
       "is_mythical": true,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -77,7 +78,8 @@
       "description": "It dissolves and eats metal. Circulating liquid metal within its body is how it generates energy.",
       "is_legendary": false,
       "is_mythical": true,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -106,7 +108,8 @@
       "description": "It dissolves and eats metal. Circulating liquid metal within its body is how it generates energy.",
       "is_legendary": false,
       "is_mythical": true,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

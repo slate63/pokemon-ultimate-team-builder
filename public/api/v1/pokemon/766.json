@@ -104,7 +104,8 @@
       "description": "They form groups of roughly 20 individuals. Their mutual bond is remarkable\u2014they will never let down a comrade.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -201,7 +202,8 @@
       "description": "They form groups of roughly 20 individuals. Their mutual bond is remarkable\u2014they will never let down a comrade.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -294,7 +296,8 @@
       "description": "They form groups of roughly 20 individuals. Their mutual bond is remarkable\u2014they will never let down a comrade.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

@@ -87,7 +87,8 @@
       "description": "Legends say it can share eternal life. It slept for a thousand years in the form of a tree before its revival.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -173,7 +174,8 @@
       "description": "Legends say it can share eternal life. It slept for a thousand years in the form of a tree before its revival.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -258,7 +260,8 @@
       "description": "Legends say it can share eternal life. It slept for a thousand years in the form of a tree before its revival.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -287,7 +290,8 @@
       "description": "Legends say it can share eternal life. It slept for a thousand years in the form of a tree before its revival.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

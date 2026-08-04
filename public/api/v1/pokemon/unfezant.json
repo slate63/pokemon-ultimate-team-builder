@@ -75,7 +75,8 @@
       "description": "Males swing their head plumage to threaten opponents. The females\u2019 flying abilities surpass those of the males.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -146,7 +147,8 @@
       "description": "Males swing their head plumage to threaten opponents. The females\u2019 flying abilities surpass those of the males.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -218,7 +220,8 @@
       "description": "Males swing their head plumage to threaten opponents. The females\u2019 flying abilities surpass those of the males.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -291,7 +294,8 @@
       "description": "Males swing their head plumage to threaten opponents. The females\u2019 flying abilities surpass those of the males.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -323,7 +327,8 @@
       "description": "Males swing their head plumage to threaten opponents. The females\u2019 flying abilities surpass those of the males.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

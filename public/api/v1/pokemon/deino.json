@@ -90,7 +90,8 @@
       "description": "It tends to bite everything, and it is not a picky eater. Approaching it carelessly is dangerous.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -181,7 +182,8 @@
       "description": "It tends to bite everything, and it is not a picky eater. Approaching it carelessly is dangerous.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -269,7 +271,8 @@
       "description": "It tends to bite everything, and it is not a picky eater. Approaching it carelessly is dangerous.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -346,7 +349,8 @@
       "description": "It tends to bite everything, and it is not a picky eater. Approaching it carelessly is dangerous.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -422,7 +426,8 @@
       "description": "It tends to bite everything, and it is not a picky eater. Approaching it carelessly is dangerous.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

@@ -28,7 +28,8 @@
       "description": "This POK\u00e9MON is vulnerable to attack while its shell is soft, exposing its weak and tender body.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "2": {
       "types": [
@@ -56,7 +57,8 @@
       "description": "This POK\u00e9MON is vulnerable to attack while its shell is soft, exposing its weak and tender body.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "3": {
       "types": [
@@ -87,7 +89,8 @@
       "description": "This POK\u00e9MON is vulnerable to attack while its shell is soft, exposing its weak and tender body.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "4": {
       "types": [
@@ -123,7 +126,8 @@
       "description": "This POK\u00e9MON is vulnerable to attack while its shell is soft, exposing its weak and tender body.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -156,7 +160,8 @@
       "description": "This POK\u00e9MON is vulnerable to attack while its shell is soft, exposing its weak and tender body.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -192,7 +197,8 @@
       "description": "This POK\u00e9MON is vulnerable to attack while its shell is soft, exposing its weak and tender body.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -228,7 +234,8 @@
       "description": "This POK\u00e9MON is vulnerable to attack while its shell is soft, exposing its weak and tender body.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -263,7 +270,8 @@
       "description": "This POK\u00e9MON is vulnerable to attack while its shell is soft, exposing its weak and tender body.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -292,7 +300,8 @@
       "description": "This POK\u00e9MON is vulnerable to attack while its shell is soft, exposing its weak and tender body.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

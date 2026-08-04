@@ -65,7 +65,8 @@
       "description": "Dolliv shares its tasty, fresh-scented oil with others. This species has coexisted with humans since times long gone.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

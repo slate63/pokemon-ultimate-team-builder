@@ -80,7 +80,8 @@
       "description": "They crush berries with their talons. They bravely stand up to any opponent, no matter how strong it is.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -158,7 +159,8 @@
       "description": "They crush berries with their talons. They bravely stand up to any opponent, no matter how strong it is.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -235,7 +237,8 @@
       "description": "They crush berries with their talons. They bravely stand up to any opponent, no matter how strong it is.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -318,7 +321,8 @@
       "description": "They crush berries with their talons. They bravely stand up to any opponent, no matter how strong it is.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -396,7 +400,8 @@
       "description": "They crush berries with their talons. They bravely stand up to any opponent, no matter how strong it is.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

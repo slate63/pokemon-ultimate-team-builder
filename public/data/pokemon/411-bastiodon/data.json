@@ -87,7 +87,8 @@
       "description": "Any frontal attack is repulsed. It is a docile Pok\u00e9mon that feeds on grass and berries.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -172,7 +173,8 @@
       "description": "Any frontal attack is repulsed. It is a docile Pok\u00e9mon that feeds on grass and berries.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -260,7 +262,8 @@
       "description": "Any frontal attack is repulsed. It is a docile Pok\u00e9mon that feeds on grass and berries.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -349,7 +352,8 @@
       "description": "Any frontal attack is repulsed. It is a docile Pok\u00e9mon that feeds on grass and berries.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -431,7 +435,8 @@
       "description": "Any frontal attack is repulsed. It is a docile Pok\u00e9mon that feeds on grass and berries.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -530,7 +535,8 @@
       "description": "Any frontal attack is repulsed. It is a docile Pok\u00e9mon that feeds on grass and berries.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

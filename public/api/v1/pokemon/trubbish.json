@@ -83,7 +83,8 @@
       "description": "Inhaling the gas they belch will make you sleep for a week. They prefer unsanitary places.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -165,7 +166,8 @@
       "description": "Inhaling the gas they belch will make you sleep for a week. They prefer unsanitary places.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -252,7 +254,8 @@
       "description": "Inhaling the gas they belch will make you sleep for a week. They prefer unsanitary places.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -332,7 +335,8 @@
       "description": "Inhaling the gas they belch will make you sleep for a week. They prefer unsanitary places.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -363,7 +367,8 @@
       "description": "Inhaling the gas they belch will make you sleep for a week. They prefer unsanitary places.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

@@ -94,7 +94,8 @@
       "description": "Its impressive tusks are made of ice. The population thinned when it turned warm after the ice age.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -183,7 +184,8 @@
       "description": "Its impressive tusks are made of ice. The population thinned when it turned warm after the ice age.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -272,7 +274,8 @@
       "description": "Its impressive tusks are made of ice. The population thinned when it turned warm after the ice age.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -361,7 +364,8 @@
       "description": "Its impressive tusks are made of ice. The population thinned when it turned warm after the ice age.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -457,7 +461,8 @@
       "description": "Its impressive tusks are made of ice. The population thinned when it turned warm after the ice age.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -554,7 +559,8 @@
       "description": "Its impressive tusks are made of ice. The population thinned when it turned warm after the ice age.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

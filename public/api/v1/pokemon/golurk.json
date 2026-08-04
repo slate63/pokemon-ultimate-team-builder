@@ -106,7 +106,8 @@
       "description": "It flies across the sky at Mach speeds. Removing the seal on its chest makes its internal energy go out of control.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -214,7 +215,8 @@
       "description": "It flies across the sky at Mach speeds. Removing the seal on its chest makes its internal energy go out of control.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -320,7 +322,8 @@
       "description": "It flies across the sky at Mach speeds. Removing the seal on its chest makes its internal energy go out of control.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -426,7 +429,8 @@
       "description": "It flies across the sky at Mach speeds. Removing the seal on its chest makes its internal energy go out of control.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -536,7 +540,8 @@
       "description": "It flies across the sky at Mach speeds. Removing the seal on its chest makes its internal energy go out of control.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

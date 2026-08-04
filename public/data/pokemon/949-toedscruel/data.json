@@ -87,7 +87,8 @@
       "description": "These Pok\u00e9mon gather into groups and form colonies deep within forests. They absolutely hate it when strangers approach.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

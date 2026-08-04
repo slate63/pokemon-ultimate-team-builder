@@ -78,7 +78,8 @@
       "description": "SOLROCK is a new species of POK\u00e9MON that is said to have fallen from space. It floats in air and moves silently. In battle, this POK\u00e9MON releases intensely bright light.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "4": {
       "types": [
@@ -176,7 +177,8 @@
       "description": "SOLROCK is a new species of POK\u00e9MON that is said to have fallen from space. It floats in air and moves silently. In battle, this POK\u00e9MON releases intensely bright light.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -279,7 +281,8 @@
       "description": "SOLROCK is a new species of POK\u00e9MON that is said to have fallen from space. It floats in air and moves silently. In battle, this POK\u00e9MON releases intensely bright light.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -382,7 +385,8 @@
       "description": "SOLROCK is a new species of POK\u00e9MON that is said to have fallen from space. It floats in air and moves silently. In battle, this POK\u00e9MON releases intensely bright light.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -483,7 +487,8 @@
       "description": "SOLROCK is a new species of POK\u00e9MON that is said to have fallen from space. It floats in air and moves silently. In battle, this POK\u00e9MON releases intensely bright light.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -590,7 +595,8 @@
       "description": "SOLROCK is a new species of POK\u00e9MON that is said to have fallen from space. It floats in air and moves silently. In battle, this POK\u00e9MON releases intensely bright light.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -620,7 +626,8 @@
       "description": "SOLROCK is a new species of POK\u00e9MON that is said to have fallen from space. It floats in air and moves silently. In battle, this POK\u00e9MON releases intensely bright light.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

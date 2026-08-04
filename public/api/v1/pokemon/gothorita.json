@@ -98,7 +98,8 @@
       "description": "They use hypnosis to control people and Pok\u00e9mon. Tales of Gothorita leading people astray are told in every corner.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -201,7 +202,8 @@
       "description": "They use hypnosis to control people and Pok\u00e9mon. Tales of Gothorita leading people astray are told in every corner.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -303,7 +305,8 @@
       "description": "They use hypnosis to control people and Pok\u00e9mon. Tales of Gothorita leading people astray are told in every corner.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -389,7 +392,8 @@
       "description": "They use hypnosis to control people and Pok\u00e9mon. Tales of Gothorita leading people astray are told in every corner.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -472,7 +476,8 @@
       "description": "They use hypnosis to control people and Pok\u00e9mon. Tales of Gothorita leading people astray are told in every corner.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

@@ -84,7 +84,8 @@
       "description": "It\u2019s so strong that it can knock out some opponents in a single hit, but it also may forget what it\u2019s battling midfight.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -169,7 +170,8 @@
       "description": "It\u2019s so strong that it can knock out some opponents in a single hit, but it also may forget what it\u2019s battling midfight.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

@@ -81,7 +81,8 @@
       "description": "This Pok\u00e9mon closely resembles a scientific weapon that a paranormal magazine claimed was sent to this planet by aliens.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

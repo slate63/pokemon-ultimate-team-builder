@@ -81,7 +81,8 @@
       "description": "It eats berries and stores their seeds in its beak. When it encounters enemies or prey, it fires off all the seeds in a burst.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -115,7 +116,8 @@
       "description": "It eats berries and stores their seeds in its beak. When it encounters enemies or prey, it fires off all the seeds in a burst.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -194,7 +196,8 @@
       "description": "It eats berries and stores their seeds in its beak. When it encounters enemies or prey, it fires off all the seeds in a burst.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

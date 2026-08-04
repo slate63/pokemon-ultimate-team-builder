@@ -71,7 +71,8 @@
       "description": "Protected by a hard shell, it spins its body like a wheel and crashes furiously into its enemies.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -142,7 +143,8 @@
       "description": "Protected by a hard shell, it spins its body like a wheel and crashes furiously into its enemies.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -213,7 +215,8 @@
       "description": "Protected by a hard shell, it spins its body like a wheel and crashes furiously into its enemies.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -282,7 +285,8 @@
       "description": "Protected by a hard shell, it spins its body like a wheel and crashes furiously into its enemies.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -314,7 +318,8 @@
       "description": "Protected by a hard shell, it spins its body like a wheel and crashes furiously into its enemies.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

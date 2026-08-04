@@ -91,7 +91,8 @@
       "description": "Said to be an ancestor of bird Pok\u00e9mon, they were unable to fly and moved about by hopping from one branch to another.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -187,7 +188,8 @@
       "description": "Said to be an ancestor of bird Pok\u00e9mon, they were unable to fly and moved about by hopping from one branch to another.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -283,7 +285,8 @@
       "description": "Said to be an ancestor of bird Pok\u00e9mon, they were unable to fly and moved about by hopping from one branch to another.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -374,7 +377,8 @@
       "description": "Said to be an ancestor of bird Pok\u00e9mon, they were unable to fly and moved about by hopping from one branch to another.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -404,7 +408,8 @@
       "description": "Said to be an ancestor of bird Pok\u00e9mon, they were unable to fly and moved about by hopping from one branch to another.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

@@ -81,7 +81,8 @@
       "description": "Houndstone spends most of its time sleeping in graveyards. Among all the dog Pok\u00e9mon, this one is most loyal to its master.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

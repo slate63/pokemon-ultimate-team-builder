@@ -114,7 +114,8 @@
       "description": "It warms its body by absorbing sunlight with its wings. When its body temperature falls, it can no longer move.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -230,7 +231,8 @@
       "description": "It warms its body by absorbing sunlight with its wings. When its body temperature falls, it can no longer move.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -339,7 +341,8 @@
       "description": "It warms its body by absorbing sunlight with its wings. When its body temperature falls, it can no longer move.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -437,7 +440,8 @@
       "description": "It warms its body by absorbing sunlight with its wings. When its body temperature falls, it can no longer move.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -468,7 +472,8 @@
       "description": "It warms its body by absorbing sunlight with its wings. When its body temperature falls, it can no longer move.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

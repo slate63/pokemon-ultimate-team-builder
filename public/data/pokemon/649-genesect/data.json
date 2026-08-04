@@ -95,7 +95,8 @@
       "description": "Over 300 million years ago, it was feared as the strongest of hunters. It has been modified by Team Plasma.",
       "is_legendary": false,
       "is_mythical": true,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -195,7 +196,8 @@
       "description": "Over 300 million years ago, it was feared as the strongest of hunters. It has been modified by Team Plasma.",
       "is_legendary": false,
       "is_mythical": true,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -293,7 +295,8 @@
       "description": "Over 300 million years ago, it was feared as the strongest of hunters. It has been modified by Team Plasma.",
       "is_legendary": false,
       "is_mythical": true,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -380,7 +383,8 @@
       "description": "Over 300 million years ago, it was feared as the strongest of hunters. It has been modified by Team Plasma.",
       "is_legendary": false,
       "is_mythical": true,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -410,7 +414,8 @@
       "description": "Over 300 million years ago, it was feared as the strongest of hunters. It has been modified by Team Plasma.",
       "is_legendary": false,
       "is_mythical": true,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

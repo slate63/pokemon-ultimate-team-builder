@@ -34,7 +34,8 @@
       "description": "Its body is gaseous and frail. It slowly grows as it collects dust from the atmosphere.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -68,7 +69,8 @@
       "description": "Its body is gaseous and frail. It slowly grows as it collects dust from the atmosphere.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -100,7 +102,8 @@
       "description": "Its body is gaseous and frail. It slowly grows as it collects dust from the atmosphere.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

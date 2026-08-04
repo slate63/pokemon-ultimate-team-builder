@@ -81,7 +81,8 @@
       "description": "It lures people in with its Pok\u00e9 Ball pattern, then releases poison spores. Why it resembles a Pok\u00e9 Ball is unknown.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -163,7 +164,8 @@
       "description": "It lures people in with its Pok\u00e9 Ball pattern, then releases poison spores. Why it resembles a Pok\u00e9 Ball is unknown.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -240,7 +242,8 @@
       "description": "It lures people in with its Pok\u00e9 Ball pattern, then releases poison spores. Why it resembles a Pok\u00e9 Ball is unknown.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -312,7 +315,8 @@
       "description": "It lures people in with its Pok\u00e9 Ball pattern, then releases poison spores. Why it resembles a Pok\u00e9 Ball is unknown.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -383,7 +387,8 @@
       "description": "It lures people in with its Pok\u00e9 Ball pattern, then releases poison spores. Why it resembles a Pok\u00e9 Ball is unknown.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

@@ -37,7 +37,8 @@
       "description": "While one alone doesn\u2019t have much power, a chain of many Tynamo can be as powerful as lightning.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -69,7 +70,8 @@
       "description": "While one alone doesn\u2019t have much power, a chain of many Tynamo can be as powerful as lightning.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -106,7 +108,8 @@
       "description": "While one alone doesn\u2019t have much power, a chain of many Tynamo can be as powerful as lightning.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -137,7 +140,8 @@
       "description": "While one alone doesn\u2019t have much power, a chain of many Tynamo can be as powerful as lightning.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -174,7 +178,8 @@
       "description": "While one alone doesn\u2019t have much power, a chain of many Tynamo can be as powerful as lightning.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

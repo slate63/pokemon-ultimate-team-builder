@@ -84,7 +84,8 @@
       "description": "With its sharp fangs, it will bite anything. It did not originally live in Alola but was imported from another region.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -117,7 +118,8 @@
       "description": "With its sharp fangs, it will bite anything. It did not originally live in Alola but was imported from another region.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -194,7 +196,8 @@
       "description": "With its sharp fangs, it will bite anything. It did not originally live in Alola but was imported from another region.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

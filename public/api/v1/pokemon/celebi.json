@@ -63,7 +63,8 @@
       "description": "This POK\u00e9MON wan\u00ad ders across time. Grass and trees flourish in the forests in which it has appeared.",
       "is_legendary": false,
       "is_mythical": true,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "3": {
       "types": [
@@ -140,7 +141,8 @@
       "description": "This POK\u00e9MON wan\u00ad ders across time. Grass and trees flourish in the forests in which it has appeared.",
       "is_legendary": false,
       "is_mythical": true,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "4": {
       "types": [
@@ -240,7 +242,8 @@
       "description": "This POK\u00e9MON wan\u00ad ders across time. Grass and trees flourish in the forests in which it has appeared.",
       "is_legendary": false,
       "is_mythical": true,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -336,7 +339,8 @@
       "description": "This POK\u00e9MON wan\u00ad ders across time. Grass and trees flourish in the forests in which it has appeared.",
       "is_legendary": false,
       "is_mythical": true,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -441,7 +445,8 @@
       "description": "This POK\u00e9MON wan\u00ad ders across time. Grass and trees flourish in the forests in which it has appeared.",
       "is_legendary": false,
       "is_mythical": true,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -543,7 +548,8 @@
       "description": "This POK\u00e9MON wan\u00ad ders across time. Grass and trees flourish in the forests in which it has appeared.",
       "is_legendary": false,
       "is_mythical": true,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -653,7 +659,8 @@
       "description": "This POK\u00e9MON wan\u00ad ders across time. Grass and trees flourish in the forests in which it has appeared.",
       "is_legendary": false,
       "is_mythical": true,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -683,7 +690,8 @@
       "description": "This POK\u00e9MON wan\u00ad ders across time. Grass and trees flourish in the forests in which it has appeared.",
       "is_legendary": false,
       "is_mythical": true,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

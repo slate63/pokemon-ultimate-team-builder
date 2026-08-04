@@ -50,7 +50,8 @@
       "description": "A POK\u00e9MON that was resurrected from a fossil found in what was once the ocean floor eons ago.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "2": {
       "types": [
@@ -109,7 +110,8 @@
       "description": "A POK\u00e9MON that was resurrected from a fossil found in what was once the ocean floor eons ago.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "3": {
       "types": [
@@ -192,7 +194,8 @@
       "description": "A POK\u00e9MON that was resurrected from a fossil found in what was once the ocean floor eons ago.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "4": {
       "types": [
@@ -280,7 +283,8 @@
       "description": "A POK\u00e9MON that was resurrected from a fossil found in what was once the ocean floor eons ago.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -365,7 +369,8 @@
       "description": "A POK\u00e9MON that was resurrected from a fossil found in what was once the ocean floor eons ago.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -458,7 +463,8 @@
       "description": "A POK\u00e9MON that was resurrected from a fossil found in what was once the ocean floor eons ago.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -547,7 +553,8 @@
       "description": "A POK\u00e9MON that was resurrected from a fossil found in what was once the ocean floor eons ago.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -641,7 +648,8 @@
       "description": "A POK\u00e9MON that was resurrected from a fossil found in what was once the ocean floor eons ago.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -673,7 +681,8 @@
       "description": "A POK\u00e9MON that was resurrected from a fossil found in what was once the ocean floor eons ago.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

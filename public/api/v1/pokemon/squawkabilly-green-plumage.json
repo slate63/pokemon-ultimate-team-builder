@@ -80,7 +80,8 @@
       "description": "These Pok\u00e9mon prefer to live in cities. They form flocks based on the color of their feathers, and they fight over territory.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

@@ -83,7 +83,8 @@
       "description": "Its abdomen is a honeycomb for grubs. It raises its grubs on honey collected by COMBEE.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -168,7 +169,8 @@
       "description": "Its abdomen is a honeycomb for grubs. It raises its grubs on honey collected by COMBEE.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -255,7 +257,8 @@
       "description": "Its abdomen is a honeycomb for grubs. It raises its grubs on honey collected by COMBEE.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -336,7 +339,8 @@
       "description": "Its abdomen is a honeycomb for grubs. It raises its grubs on honey collected by COMBEE.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -431,7 +435,8 @@
       "description": "Its abdomen is a honeycomb for grubs. It raises its grubs on honey collected by COMBEE.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -521,7 +526,8 @@
       "description": "Its abdomen is a honeycomb for grubs. It raises its grubs on honey collected by COMBEE.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

@@ -58,7 +58,8 @@
       "description": "Having four wings allows it to fly more quickly and quietly so it can sneak up on prey without its noticing.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "3": {
       "types": [
@@ -135,7 +136,8 @@
       "description": "Having four wings allows it to fly more quickly and quietly so it can sneak up on prey without its noticing.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "4": {
       "types": [
@@ -230,7 +232,8 @@
       "description": "Having four wings allows it to fly more quickly and quietly so it can sneak up on prey without its noticing.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -319,7 +322,8 @@
       "description": "Having four wings allows it to fly more quickly and quietly so it can sneak up on prey without its noticing.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -411,7 +415,8 @@
       "description": "Having four wings allows it to fly more quickly and quietly so it can sneak up on prey without its noticing.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -504,7 +509,8 @@
       "description": "Having four wings allows it to fly more quickly and quietly so it can sneak up on prey without its noticing.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -603,7 +609,8 @@
       "description": "Having four wings allows it to fly more quickly and quietly so it can sneak up on prey without its noticing.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -634,7 +641,8 @@
       "description": "Having four wings allows it to fly more quickly and quietly so it can sneak up on prey without its noticing.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

@@ -71,7 +71,8 @@
       "description": "The small ball holds the nutrients needed for evolution. Apparently, it is very sweet and tasty.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -146,7 +147,8 @@
       "description": "The small ball holds the nutrients needed for evolution. Apparently, it is very sweet and tasty.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -223,7 +225,8 @@
       "description": "The small ball holds the nutrients needed for evolution. Apparently, it is very sweet and tasty.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -299,7 +302,8 @@
       "description": "The small ball holds the nutrients needed for evolution. Apparently, it is very sweet and tasty.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -384,7 +388,8 @@
       "description": "The small ball holds the nutrients needed for evolution. Apparently, it is very sweet and tasty.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -413,7 +418,8 @@
       "description": "The small ball holds the nutrients needed for evolution. Apparently, it is very sweet and tasty.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

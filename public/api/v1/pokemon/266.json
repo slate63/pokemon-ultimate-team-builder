@@ -32,7 +32,8 @@
       "description": "SILCOON tethers itself to a tree branch using silk to keep from falling. There, this POK\u00e9MON hangs quietly while it awaits evolution. It peers out of the silk cocoon through a small hole.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "4": {
       "types": [
@@ -67,7 +68,8 @@
       "description": "SILCOON tethers itself to a tree branch using silk to keep from falling. There, this POK\u00e9MON hangs quietly while it awaits evolution. It peers out of the silk cocoon through a small hole.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -98,7 +100,8 @@
       "description": "SILCOON tethers itself to a tree branch using silk to keep from falling. There, this POK\u00e9MON hangs quietly while it awaits evolution. It peers out of the silk cocoon through a small hole.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -132,7 +135,8 @@
       "description": "SILCOON tethers itself to a tree branch using silk to keep from falling. There, this POK\u00e9MON hangs quietly while it awaits evolution. It peers out of the silk cocoon through a small hole.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -163,7 +167,8 @@
       "description": "SILCOON tethers itself to a tree branch using silk to keep from falling. There, this POK\u00e9MON hangs quietly while it awaits evolution. It peers out of the silk cocoon through a small hole.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -200,7 +205,8 @@
       "description": "SILCOON tethers itself to a tree branch using silk to keep from falling. There, this POK\u00e9MON hangs quietly while it awaits evolution. It peers out of the silk cocoon through a small hole.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -229,7 +235,8 @@
       "description": "SILCOON tethers itself to a tree branch using silk to keep from falling. There, this POK\u00e9MON hangs quietly while it awaits evolution. It peers out of the silk cocoon through a small hole.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

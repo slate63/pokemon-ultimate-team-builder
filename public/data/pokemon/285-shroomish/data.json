@@ -73,7 +73,8 @@
       "description": "SHROOMISH live in damp soil in the dark depths of forests. They are often found keeping still under fallen leaves. This POK\u00e9MON feeds on compost that is made up of fallen, rotted leaves.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "4": {
       "types": [
@@ -147,7 +148,8 @@
       "description": "SHROOMISH live in damp soil in the dark depths of forests. They are often found keeping still under fallen leaves. This POK\u00e9MON feeds on compost that is made up of fallen, rotted leaves.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -222,7 +224,8 @@
       "description": "SHROOMISH live in damp soil in the dark depths of forests. They are often found keeping still under fallen leaves. This POK\u00e9MON feeds on compost that is made up of fallen, rotted leaves.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -302,7 +305,8 @@
       "description": "SHROOMISH live in damp soil in the dark depths of forests. They are often found keeping still under fallen leaves. This POK\u00e9MON feeds on compost that is made up of fallen, rotted leaves.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -377,7 +381,8 @@
       "description": "SHROOMISH live in damp soil in the dark depths of forests. They are often found keeping still under fallen leaves. This POK\u00e9MON feeds on compost that is made up of fallen, rotted leaves.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -446,7 +451,8 @@
       "description": "SHROOMISH live in damp soil in the dark depths of forests. They are often found keeping still under fallen leaves. This POK\u00e9MON feeds on compost that is made up of fallen, rotted leaves.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -519,7 +525,8 @@
       "description": "SHROOMISH live in damp soil in the dark depths of forests. They are often found keeping still under fallen leaves. This POK\u00e9MON feeds on compost that is made up of fallen, rotted leaves.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

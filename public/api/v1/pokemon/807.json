@@ -90,7 +90,8 @@
       "description": "It electrifies its claws and tears its opponents apart with them. Even if they dodge its attack, they\u2019ll be electrocuted by the flying sparks.",
       "is_legendary": false,
       "is_mythical": true,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -190,7 +191,8 @@
       "description": "It electrifies its claws and tears its opponents apart with them. Even if they dodge its attack, they\u2019ll be electrocuted by the flying sparks.",
       "is_legendary": false,
       "is_mythical": true,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -219,7 +221,8 @@
       "description": "It electrifies its claws and tears its opponents apart with them. Even if they dodge its attack, they\u2019ll be electrocuted by the flying sparks.",
       "is_legendary": false,
       "is_mythical": true,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

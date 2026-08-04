@@ -76,7 +76,8 @@
       "description": "A soul unable to move on to the afterlife was blown around by the wind until it got tangled up with dried grass and became a Pok\u00e9mon.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

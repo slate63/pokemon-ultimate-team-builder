@@ -73,7 +73,8 @@
       "description": "It absorbs nutrients from cave walls. The petals it wears are made of crystallized poison.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

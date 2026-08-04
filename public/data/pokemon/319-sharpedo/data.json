@@ -81,7 +81,8 @@
       "description": "Nicknamed \u201cthe bully of the sea,\u201d SHARPEDO is widely feared. Its cruel fangs grow back immediately if they snap off. Just one of these POK\u00e9MON can thoroughly tear apart a supertanker.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "4": {
       "types": [
@@ -180,7 +181,8 @@
       "description": "Nicknamed \u201cthe bully of the sea,\u201d SHARPEDO is widely feared. Its cruel fangs grow back immediately if they snap off. Just one of these POK\u00e9MON can thoroughly tear apart a supertanker.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -273,7 +275,8 @@
       "description": "Nicknamed \u201cthe bully of the sea,\u201d SHARPEDO is widely feared. Its cruel fangs grow back immediately if they snap off. Just one of these POK\u00e9MON can thoroughly tear apart a supertanker.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -370,7 +373,8 @@
       "description": "Nicknamed \u201cthe bully of the sea,\u201d SHARPEDO is widely feared. Its cruel fangs grow back immediately if they snap off. Just one of these POK\u00e9MON can thoroughly tear apart a supertanker.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -463,7 +467,8 @@
       "description": "Nicknamed \u201cthe bully of the sea,\u201d SHARPEDO is widely feared. Its cruel fangs grow back immediately if they snap off. Just one of these POK\u00e9MON can thoroughly tear apart a supertanker.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -561,7 +566,8 @@
       "description": "Nicknamed \u201cthe bully of the sea,\u201d SHARPEDO is widely feared. Its cruel fangs grow back immediately if they snap off. Just one of these POK\u00e9MON can thoroughly tear apart a supertanker.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -592,7 +598,8 @@
       "description": "Nicknamed \u201cthe bully of the sea,\u201d SHARPEDO is widely feared. Its cruel fangs grow back immediately if they snap off. Just one of these POK\u00e9MON can thoroughly tear apart a supertanker.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

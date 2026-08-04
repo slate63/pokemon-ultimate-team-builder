@@ -104,7 +104,8 @@
       "description": "A Pok\u00e9mon formed by the spirits of people and Pok\u00e9mon. It loves damp, humid seasons.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -205,7 +206,8 @@
       "description": "A Pok\u00e9mon formed by the spirits of people and Pok\u00e9mon. It loves damp, humid seasons.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -306,7 +308,8 @@
       "description": "A Pok\u00e9mon formed by the spirits of people and Pok\u00e9mon. It loves damp, humid seasons.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -408,7 +411,8 @@
       "description": "A Pok\u00e9mon formed by the spirits of people and Pok\u00e9mon. It loves damp, humid seasons.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -506,7 +510,8 @@
       "description": "A Pok\u00e9mon formed by the spirits of people and Pok\u00e9mon. It loves damp, humid seasons.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -598,7 +603,8 @@
       "description": "A Pok\u00e9mon formed by the spirits of people and Pok\u00e9mon. It loves damp, humid seasons.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

@@ -46,6 +46,65 @@ from pokemon_constants import (
 
 # Global encounter cache mapping pokemon_id -> set of version_name strings
 _ENCOUNTER_CACHE: Optional[Dict[int, Set[str]]] = None
+# Global cache for trade evolution species mapping pokemon_id -> intro_generation_id
+_TRADE_EVO_CACHE: Optional[Dict[int, int]] = None
+
+TRADE_EVOLUTION_GENS_FALLBACK: Dict[int, int] = {
+    65: 1, 68: 1, 76: 1, 94: 1,
+    186: 2, 199: 2, 208: 2, 212: 2, 230: 2, 233: 2,
+    350: 5, 367: 3, 368: 3,
+    464: 4, 466: 4, 467: 4, 474: 4, 477: 4,
+    526: 5, 534: 5, 589: 5, 617: 5,
+    683: 6, 685: 6, 709: 6, 711: 6
+}
+
+
+def _load_trade_evolution_data() -> Dict[int, int]:
+    """Queries PokeAPI GraphQL for species requiring trade evolutions and their introduction generation."""
+    global _TRADE_EVO_CACHE
+    if _TRADE_EVO_CACHE is not None:
+        return _TRADE_EVO_CACHE
+
+    trade_map: Dict[int, int] = {}
+    try:
+        ctx = ssl._create_unverified_context()
+        req = urllib.request.Request(
+            'https://beta.pokeapi.co/graphql/v1beta',
+            data=json.dumps({'query': '''
+            query {
+              pokemon_v2_pokemonspecies(where: {pokemon_v2_pokemonevolutions: {evolution_trigger_id: {_eq: 2}}}) {
+                id
+                generation_id
+              }
+            }
+            '''}).encode('utf-8'),
+            headers={'Content-Type': 'application/json', 'User-Agent': 'Mozilla/5.0'}
+        )
+        with urllib.request.urlopen(req, context=ctx, timeout=10) as resp:
+            data = json.loads(resp.read().decode('utf-8')).get('data', {})
+
+        for s in data.get('pokemon_v2_pokemonspecies', []):
+            sid = s['id']
+            gen_id = s.get('generation_id', 1)
+            trade_map[sid] = gen_id
+    except Exception:
+        trade_map = dict(TRADE_EVOLUTION_GENS_FALLBACK)
+
+    if not trade_map:
+        trade_map = dict(TRADE_EVOLUTION_GENS_FALLBACK)
+
+    _TRADE_EVO_CACHE = trade_map
+    return _TRADE_EVO_CACHE
+
+
+def is_trade_evolution_for_gen(pokemon_id: int, target_gen: int) -> bool:
+    """Returns True if pokemon_id requires a trade evolution in target_gen."""
+    trade_data = _load_trade_evolution_data()
+    if pokemon_id in trade_data:
+        intro_gen = trade_data[pokemon_id]
+        return target_gen >= intro_gen
+    return False
+
 
 
 def _load_encounter_data() -> Dict[int, Set[str]]:

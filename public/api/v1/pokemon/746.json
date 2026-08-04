@@ -78,7 +78,8 @@
       "description": "When it\u2019s in trouble, its eyes moisten and begin to shine. The shining light attracts its comrades, and they stand together against their enemies.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -152,7 +153,8 @@
       "description": "When it\u2019s in trouble, its eyes moisten and begin to shine. The shining light attracts its comrades, and they stand together against their enemies.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -181,7 +183,8 @@
       "description": "When it\u2019s in trouble, its eyes moisten and begin to shine. The shining light attracts its comrades, and they stand together against their enemies.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

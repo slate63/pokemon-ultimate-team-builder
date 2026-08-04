@@ -83,7 +83,8 @@
       "description": "They flock in great numbers. Though small, they flap their wings with great power.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -159,7 +160,8 @@
       "description": "They flock in great numbers. Though small, they flap their wings with great power.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -239,7 +241,8 @@
       "description": "They flock in great numbers. Though small, they flap their wings with great power.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -320,7 +323,8 @@
       "description": "They flock in great numbers. Though small, they flap their wings with great power.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -396,7 +400,8 @@
       "description": "They flock in great numbers. Though small, they flap their wings with great power.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -467,7 +472,8 @@
       "description": "They flock in great numbers. Though small, they flap their wings with great power.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

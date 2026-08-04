@@ -81,7 +81,8 @@
       "description": "It forms coal inside its body. Coal dropped by this Pok\u00e9mon once helped fuel the lives of people in the Galar region.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -163,7 +164,8 @@
       "description": "It forms coal inside its body. Coal dropped by this Pok\u00e9mon once helped fuel the lives of people in the Galar region.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

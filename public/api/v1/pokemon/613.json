@@ -87,7 +87,8 @@
       "description": "When it is not feeling well, its mucus gets watery and the power of its Ice-type moves decreases.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -178,7 +179,8 @@
       "description": "When it is not feeling well, its mucus gets watery and the power of its Ice-type moves decreases.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -259,7 +261,8 @@
       "description": "When it is not feeling well, its mucus gets watery and the power of its Ice-type moves decreases.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -337,7 +340,8 @@
       "description": "When it is not feeling well, its mucus gets watery and the power of its Ice-type moves decreases.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -428,7 +432,8 @@
       "description": "When it is not feeling well, its mucus gets watery and the power of its Ice-type moves decreases.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

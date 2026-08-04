@@ -98,7 +98,8 @@
       "description": "They steal from people for fun, but their victims can\u2019t help but forgive them. Their deceptively cute act is perfect.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -197,7 +198,8 @@
       "description": "They steal from people for fun, but their victims can\u2019t help but forgive them. Their deceptively cute act is perfect.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -292,7 +294,8 @@
       "description": "They steal from people for fun, but their victims can\u2019t help but forgive them. Their deceptively cute act is perfect.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -379,7 +382,8 @@
       "description": "They steal from people for fun, but their victims can\u2019t help but forgive them. Their deceptively cute act is perfect.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -410,7 +414,8 @@
       "description": "They steal from people for fun, but their victims can\u2019t help but forgive them. Their deceptively cute act is perfect.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

@@ -77,7 +77,8 @@
       "description": "Its ear is hexagonal in shape. Compressed underground, its body is as hard as steel.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -156,7 +157,8 @@
       "description": "Its ear is hexagonal in shape. Compressed underground, its body is as hard as steel.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -234,7 +236,8 @@
       "description": "Its ear is hexagonal in shape. Compressed underground, its body is as hard as steel.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -304,7 +307,8 @@
       "description": "Its ear is hexagonal in shape. Compressed underground, its body is as hard as steel.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -335,7 +339,8 @@
       "description": "Its ear is hexagonal in shape. Compressed underground, its body is as hard as steel.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

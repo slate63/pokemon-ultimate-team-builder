@@ -86,7 +86,8 @@
       "description": "Much remains unknown about this creature. It resembles Cyclizar, but it is far more ruthless and powerful.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

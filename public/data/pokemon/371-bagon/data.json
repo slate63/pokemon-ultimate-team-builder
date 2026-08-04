@@ -79,7 +79,8 @@
       "description": "BAGON has a dream of one day soaring in the sky. In doomed efforts to fly, this POK\u00e9MON hurls itself off cliffs. As a result of its dives, its head has grown tough and as hard as tempered steel.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "4": {
       "types": [
@@ -164,7 +165,8 @@
       "description": "BAGON has a dream of one day soaring in the sky. In doomed efforts to fly, this POK\u00e9MON hurls itself off cliffs. As a result of its dives, its head has grown tough and as hard as tempered steel.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -246,7 +248,8 @@
       "description": "BAGON has a dream of one day soaring in the sky. In doomed efforts to fly, this POK\u00e9MON hurls itself off cliffs. As a result of its dives, its head has grown tough and as hard as tempered steel.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -335,7 +338,8 @@
       "description": "BAGON has a dream of one day soaring in the sky. In doomed efforts to fly, this POK\u00e9MON hurls itself off cliffs. As a result of its dives, its head has grown tough and as hard as tempered steel.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -418,7 +422,8 @@
       "description": "BAGON has a dream of one day soaring in the sky. In doomed efforts to fly, this POK\u00e9MON hurls itself off cliffs. As a result of its dives, its head has grown tough and as hard as tempered steel.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -499,7 +504,8 @@
       "description": "BAGON has a dream of one day soaring in the sky. In doomed efforts to fly, this POK\u00e9MON hurls itself off cliffs. As a result of its dives, its head has grown tough and as hard as tempered steel.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -577,7 +583,8 @@
       "description": "BAGON has a dream of one day soaring in the sky. In doomed efforts to fly, this POK\u00e9MON hurls itself off cliffs. As a result of its dives, its head has grown tough and as hard as tempered steel.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

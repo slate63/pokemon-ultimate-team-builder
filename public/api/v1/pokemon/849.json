@@ -96,7 +96,8 @@
       "description": "When this Pok\u00e9mon sounds as if it\u2019s strumming a guitar, it\u2019s actually clawing at the protrusions on its chest to generate electricity.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -202,7 +203,8 @@
       "description": "When this Pok\u00e9mon sounds as if it\u2019s strumming a guitar, it\u2019s actually clawing at the protrusions on its chest to generate electricity.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

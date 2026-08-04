@@ -92,7 +92,8 @@
       "description": "SLAKOTH lolls around for over twenty hours every day. Because it moves so little, it does not need much food. This POK\u00e9MON\u2019s sole daily meal consists of just three leaves.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "4": {
       "types": [
@@ -188,7 +189,8 @@
       "description": "SLAKOTH lolls around for over twenty hours every day. Because it moves so little, it does not need much food. This POK\u00e9MON\u2019s sole daily meal consists of just three leaves.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -280,7 +282,8 @@
       "description": "SLAKOTH lolls around for over twenty hours every day. Because it moves so little, it does not need much food. This POK\u00e9MON\u2019s sole daily meal consists of just three leaves.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -378,7 +381,8 @@
       "description": "SLAKOTH lolls around for over twenty hours every day. Because it moves so little, it does not need much food. This POK\u00e9MON\u2019s sole daily meal consists of just three leaves.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -469,7 +473,8 @@
       "description": "SLAKOTH lolls around for over twenty hours every day. Because it moves so little, it does not need much food. This POK\u00e9MON\u2019s sole daily meal consists of just three leaves.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -553,7 +558,8 @@
       "description": "SLAKOTH lolls around for over twenty hours every day. Because it moves so little, it does not need much food. This POK\u00e9MON\u2019s sole daily meal consists of just three leaves.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -646,7 +652,8 @@
       "description": "SLAKOTH lolls around for over twenty hours every day. Because it moves so little, it does not need much food. This POK\u00e9MON\u2019s sole daily meal consists of just three leaves.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

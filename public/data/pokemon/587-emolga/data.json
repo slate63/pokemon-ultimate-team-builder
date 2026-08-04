@@ -87,7 +87,8 @@
       "description": "The energy made in its cheeks\u2019 electric pouches is stored inside its membrane and released while it is gliding.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -177,7 +178,8 @@
       "description": "The energy made in its cheeks\u2019 electric pouches is stored inside its membrane and released while it is gliding.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -268,7 +270,8 @@
       "description": "The energy made in its cheeks\u2019 electric pouches is stored inside its membrane and released while it is gliding.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -352,7 +355,8 @@
       "description": "The energy made in its cheeks\u2019 electric pouches is stored inside its membrane and released while it is gliding.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -383,7 +387,8 @@
       "description": "The energy made in its cheeks\u2019 electric pouches is stored inside its membrane and released while it is gliding.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

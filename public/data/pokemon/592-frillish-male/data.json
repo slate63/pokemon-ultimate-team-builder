@@ -94,7 +94,8 @@
       "description": "With its thin, veil-like arms wrapped around the body of its opponent, it sinks to the ocean floor.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -187,7 +188,8 @@
       "description": "With its thin, veil-like arms wrapped around the body of its opponent, it sinks to the ocean floor.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -280,7 +282,8 @@
       "description": "With its thin, veil-like arms wrapped around the body of its opponent, it sinks to the ocean floor.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -366,7 +369,8 @@
       "description": "With its thin, veil-like arms wrapped around the body of its opponent, it sinks to the ocean floor.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -398,7 +402,8 @@
       "description": "With its thin, veil-like arms wrapped around the body of its opponent, it sinks to the ocean floor.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

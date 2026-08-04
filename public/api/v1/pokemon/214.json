@@ -62,7 +62,8 @@
       "description": "This powerful POK\u00e9MON thrusts its prized horn under its enemies\u2019 bellies then lifts and throws them.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "3": {
       "types": [
@@ -145,7 +146,8 @@
       "description": "This powerful POK\u00e9MON thrusts its prized horn under its enemies\u2019 bellies then lifts and throws them.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "4": {
       "types": [
@@ -239,7 +241,8 @@
       "description": "This powerful POK\u00e9MON thrusts its prized horn under its enemies\u2019 bellies then lifts and throws them.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -340,7 +343,8 @@
       "description": "This powerful POK\u00e9MON thrusts its prized horn under its enemies\u2019 bellies then lifts and throws them.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -446,7 +450,8 @@
       "description": "This powerful POK\u00e9MON thrusts its prized horn under its enemies\u2019 bellies then lifts and throws them.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -547,7 +552,8 @@
       "description": "This powerful POK\u00e9MON thrusts its prized horn under its enemies\u2019 bellies then lifts and throws them.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -652,7 +658,8 @@
       "description": "This powerful POK\u00e9MON thrusts its prized horn under its enemies\u2019 bellies then lifts and throws them.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -754,7 +761,8 @@
       "description": "This powerful POK\u00e9MON thrusts its prized horn under its enemies\u2019 bellies then lifts and throws them.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

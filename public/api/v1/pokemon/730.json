@@ -95,7 +95,8 @@
       "description": "It controls its water balloons with song. The melody is learned from others of its kind and is passed down from one generation to the next.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -190,7 +191,8 @@
       "description": "It controls its water balloons with song. The melody is learned from others of its kind and is passed down from one generation to the next.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -287,7 +289,8 @@
       "description": "It controls its water balloons with song. The melody is learned from others of its kind and is passed down from one generation to the next.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

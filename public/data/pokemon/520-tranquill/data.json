@@ -72,7 +72,8 @@
       "description": "It can return to its Trainer\u2019s location regardless of the distance separating them.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -140,7 +141,8 @@
       "description": "It can return to its Trainer\u2019s location regardless of the distance separating them.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -209,7 +211,8 @@
       "description": "It can return to its Trainer\u2019s location regardless of the distance separating them.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -278,7 +281,8 @@
       "description": "It can return to its Trainer\u2019s location regardless of the distance separating them.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -310,7 +314,8 @@
       "description": "It can return to its Trainer\u2019s location regardless of the distance separating them.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

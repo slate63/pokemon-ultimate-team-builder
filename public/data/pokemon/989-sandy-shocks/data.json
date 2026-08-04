@@ -84,7 +84,8 @@
       "description": "It slightly resembles a Magneton that lived for 10,000 years and was featured in an article in a paranormal magazine.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

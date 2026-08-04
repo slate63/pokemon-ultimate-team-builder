@@ -89,7 +89,8 @@
       "description": "Ill tempered, it fights by swinging its barbed tail around wildly. The leaf growing on its head is very bitter.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -181,7 +182,8 @@
       "description": "Ill tempered, it fights by swinging its barbed tail around wildly. The leaf growing on its head is very bitter.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -266,7 +268,8 @@
       "description": "Ill tempered, it fights by swinging its barbed tail around wildly. The leaf growing on its head is very bitter.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -298,7 +301,8 @@
       "description": "Ill tempered, it fights by swinging its barbed tail around wildly. The leaf growing on its head is very bitter.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -328,7 +332,8 @@
       "description": "Ill tempered, it fights by swinging its barbed tail around wildly. The leaf growing on its head is very bitter.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

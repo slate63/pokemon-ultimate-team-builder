@@ -89,7 +89,8 @@
       "description": "The shaking of its freezing upper half is what generates its electricity. It has a hard time walking around.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -121,7 +122,8 @@
       "description": "The shaking of its freezing upper half is what generates its electricity. It has a hard time walking around.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

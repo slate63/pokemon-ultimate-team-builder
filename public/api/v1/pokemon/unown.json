@@ -29,7 +29,8 @@
       "description": "Their shapes look like hieroglyphs on ancient tab\u00ad lets. It is said that the two are somehow related.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "3": {
       "types": [
@@ -60,7 +61,8 @@
       "description": "Their shapes look like hieroglyphs on ancient tab\u00ad lets. It is said that the two are somehow related.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "4": {
       "types": [
@@ -94,7 +96,8 @@
       "description": "Their shapes look like hieroglyphs on ancient tab\u00ad lets. It is said that the two are somehow related.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -122,7 +125,8 @@
       "description": "Their shapes look like hieroglyphs on ancient tab\u00ad lets. It is said that the two are somehow related.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -153,7 +157,8 @@
       "description": "Their shapes look like hieroglyphs on ancient tab\u00ad lets. It is said that the two are somehow related.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -181,7 +186,8 @@
       "description": "Their shapes look like hieroglyphs on ancient tab\u00ad lets. It is said that the two are somehow related.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -215,7 +221,8 @@
       "description": "Their shapes look like hieroglyphs on ancient tab\u00ad lets. It is said that the two are somehow related.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -244,7 +251,8 @@
       "description": "Their shapes look like hieroglyphs on ancient tab\u00ad lets. It is said that the two are somehow related.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

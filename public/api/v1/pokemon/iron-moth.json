@@ -82,7 +82,8 @@
       "description": "This Pok\u00e9mon resembles an unknown object described in a paranormal magazine as a UFO sent to observe humanity.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

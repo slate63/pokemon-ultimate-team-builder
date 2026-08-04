@@ -54,7 +54,8 @@
       "description": "It stores poison in an internal poison sac and secretes that poison through its skin. If you touch this Pok\u00e9mon, a tingling sensation follows.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -104,7 +105,8 @@
       "description": "It stores poison in an internal poison sac and secretes that poison through its skin. If you touch this Pok\u00e9mon, a tingling sensation follows.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

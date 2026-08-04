@@ -74,7 +74,8 @@
       "description": "Kubfu trains hard to perfect its moves. The moves it masters will determine which form it takes when it evolves.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -142,7 +143,8 @@
       "description": "Kubfu trains hard to perfect its moves. The moves it masters will determine which form it takes when it evolves.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

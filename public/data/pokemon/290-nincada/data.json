@@ -71,7 +71,8 @@
       "description": "NINCADA lives underground for many years in complete darkness. This POK\u00e9MON absorbs nutrients from the roots of trees. It stays motionless as it waits for evolution.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "4": {
       "types": [
@@ -147,7 +148,8 @@
       "description": "NINCADA lives underground for many years in complete darkness. This POK\u00e9MON absorbs nutrients from the roots of trees. It stays motionless as it waits for evolution.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -219,7 +221,8 @@
       "description": "NINCADA lives underground for many years in complete darkness. This POK\u00e9MON absorbs nutrients from the roots of trees. It stays motionless as it waits for evolution.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -299,7 +302,8 @@
       "description": "NINCADA lives underground for many years in complete darkness. This POK\u00e9MON absorbs nutrients from the roots of trees. It stays motionless as it waits for evolution.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -370,7 +374,8 @@
       "description": "NINCADA lives underground for many years in complete darkness. This POK\u00e9MON absorbs nutrients from the roots of trees. It stays motionless as it waits for evolution.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -441,7 +446,8 @@
       "description": "NINCADA lives underground for many years in complete darkness. This POK\u00e9MON absorbs nutrients from the roots of trees. It stays motionless as it waits for evolution.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -472,7 +478,8 @@
       "description": "NINCADA lives underground for many years in complete darkness. This POK\u00e9MON absorbs nutrients from the roots of trees. It stays motionless as it waits for evolution.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

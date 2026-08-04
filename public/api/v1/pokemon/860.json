@@ -79,7 +79,8 @@
       "description": "When it gets down on all fours as if to beg for forgiveness, it\u2019s trying to lure opponents in so that it can stab them with its spear-like hair.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -156,7 +157,8 @@
       "description": "When it gets down on all fours as if to beg for forgiveness, it\u2019s trying to lure opponents in so that it can stab them with its spear-like hair.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

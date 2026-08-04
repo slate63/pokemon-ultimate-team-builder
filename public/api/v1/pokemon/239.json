@@ -65,7 +65,8 @@
       "description": "It rotates its arms to generate electricity, but it tires easily, so it charges up only a little bit.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "3": {
       "types": [
@@ -143,7 +144,8 @@
       "description": "It rotates its arms to generate electricity, but it tires easily, so it charges up only a little bit.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "4": {
       "types": [
@@ -231,7 +233,8 @@
       "description": "It rotates its arms to generate electricity, but it tires easily, so it charges up only a little bit.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -317,7 +320,8 @@
       "description": "It rotates its arms to generate electricity, but it tires easily, so it charges up only a little bit.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -407,7 +411,8 @@
       "description": "It rotates its arms to generate electricity, but it tires easily, so it charges up only a little bit.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -495,7 +500,8 @@
       "description": "It rotates its arms to generate electricity, but it tires easily, so it charges up only a little bit.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -579,7 +585,8 @@
       "description": "It rotates its arms to generate electricity, but it tires easily, so it charges up only a little bit.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -662,7 +669,8 @@
       "description": "It rotates its arms to generate electricity, but it tires easily, so it charges up only a little bit.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

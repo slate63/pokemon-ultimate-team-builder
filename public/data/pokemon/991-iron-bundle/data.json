@@ -71,7 +71,8 @@
       "description": "Its shape is similar to a robot featured in a paranormal magazine article. The robot was said to have been created by an ancient civilization.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

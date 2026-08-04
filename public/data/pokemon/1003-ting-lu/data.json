@@ -77,7 +77,8 @@
       "description": "The fear poured into an ancient ritual vessel has clad itself in rocks and dirt to become a Pok\u00e9mon.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

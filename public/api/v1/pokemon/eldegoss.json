@@ -72,7 +72,8 @@
       "description": "The seeds attached to its cotton fluff are full of nutrients. It spreads them on the wind so that plants and other Pok\u00e9mon can benefit from them.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -103,7 +104,8 @@
       "description": "The seeds attached to its cotton fluff are full of nutrients. It spreads them on the wind so that plants and other Pok\u00e9mon can benefit from them.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

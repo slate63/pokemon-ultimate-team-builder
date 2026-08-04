@@ -98,7 +98,8 @@
       "description": "Munna always float in the air. People whose dreams are eaten by them forget what the dreams had been about.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -195,7 +196,8 @@
       "description": "Munna always float in the air. People whose dreams are eaten by them forget what the dreams had been about.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -292,7 +294,8 @@
       "description": "Munna always float in the air. People whose dreams are eaten by them forget what the dreams had been about.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -374,7 +377,8 @@
       "description": "Munna always float in the air. People whose dreams are eaten by them forget what the dreams had been about.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -405,7 +409,8 @@
       "description": "Munna always float in the air. People whose dreams are eaten by them forget what the dreams had been about.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

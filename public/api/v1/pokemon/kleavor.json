@@ -46,7 +46,8 @@
       "description": "A violent creature that fells towering trees with its crude axes and shields itself with hard stone. If one should chance upon this Pok\u00e9mon in the wilds, one's only recourse is to flee.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -134,7 +135,8 @@
       "description": "A violent creature that fells towering trees with its crude axes and shields itself with hard stone. If one should chance upon this Pok\u00e9mon in the wilds, one's only recourse is to flee.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

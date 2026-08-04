@@ -71,7 +71,8 @@
       "description": "Because of its unusual, star-like silhouette, people believe that it came here on a meteor.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "3": {
       "types": [
@@ -160,7 +161,8 @@
       "description": "Because of its unusual, star-like silhouette, people believe that it came here on a meteor.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "4": {
       "types": [
@@ -264,7 +266,8 @@
       "description": "Because of its unusual, star-like silhouette, people believe that it came here on a meteor.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -369,7 +372,8 @@
       "description": "Because of its unusual, star-like silhouette, people believe that it came here on a meteor.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -476,7 +480,8 @@
       "description": "Because of its unusual, star-like silhouette, people believe that it came here on a meteor.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -583,7 +588,8 @@
       "description": "Because of its unusual, star-like silhouette, people believe that it came here on a meteor.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -692,7 +698,8 @@
       "description": "Because of its unusual, star-like silhouette, people believe that it came here on a meteor.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -781,7 +788,8 @@
       "description": "Because of its unusual, star-like silhouette, people believe that it came here on a meteor.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

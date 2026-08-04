@@ -68,7 +68,8 @@
       "description": "This Pok\u00e9mon is said to have been born when a lonely spirit possessed a cold, leftover cup of tea.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -140,7 +141,8 @@
       "description": "This Pok\u00e9mon is said to have been born when a lonely spirit possessed a cold, leftover cup of tea.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

@@ -56,7 +56,8 @@
       "description": "Lives close to water. Its long tail is ridged with a fin which is often mistaken for a mermaid's.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "2": {
       "types": [
@@ -123,7 +124,8 @@
       "description": "Lives close to water. Its long tail is ridged with a fin which is often mistaken for a mermaid's.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "3": {
       "types": [
@@ -200,7 +202,8 @@
       "description": "Lives close to water. Its long tail is ridged with a fin which is often mistaken for a mermaid's.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "4": {
       "types": [
@@ -291,7 +294,8 @@
       "description": "Lives close to water. Its long tail is ridged with a fin which is often mistaken for a mermaid's.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -377,7 +381,8 @@
       "description": "Lives close to water. Its long tail is ridged with a fin which is often mistaken for a mermaid's.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -465,7 +470,8 @@
       "description": "Lives close to water. Its long tail is ridged with a fin which is often mistaken for a mermaid's.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -550,7 +556,8 @@
       "description": "Lives close to water. Its long tail is ridged with a fin which is often mistaken for a mermaid's.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -654,7 +661,8 @@
       "description": "Lives close to water. Its long tail is ridged with a fin which is often mistaken for a mermaid's.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -743,7 +751,8 @@
       "description": "Lives close to water. Its long tail is ridged with a fin which is often mistaken for a mermaid's.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

@@ -81,7 +81,8 @@
       "description": "A legend states that JIRACHI will make true any wish that is written on notes attached to its head when it awakens. If this POK\u00e9MON senses danger, it will fight without awakening.",
       "is_legendary": false,
       "is_mythical": true,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "4": {
       "types": [
@@ -181,7 +182,8 @@
       "description": "A legend states that JIRACHI will make true any wish that is written on notes attached to its head when it awakens. If this POK\u00e9MON senses danger, it will fight without awakening.",
       "is_legendary": false,
       "is_mythical": true,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -277,7 +279,8 @@
       "description": "A legend states that JIRACHI will make true any wish that is written on notes attached to its head when it awakens. If this POK\u00e9MON senses danger, it will fight without awakening.",
       "is_legendary": false,
       "is_mythical": true,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -381,7 +384,8 @@
       "description": "A legend states that JIRACHI will make true any wish that is written on notes attached to its head when it awakens. If this POK\u00e9MON senses danger, it will fight without awakening.",
       "is_legendary": false,
       "is_mythical": true,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -481,7 +485,8 @@
       "description": "A legend states that JIRACHI will make true any wish that is written on notes attached to its head when it awakens. If this POK\u00e9MON senses danger, it will fight without awakening.",
       "is_legendary": false,
       "is_mythical": true,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -596,7 +601,8 @@
       "description": "A legend states that JIRACHI will make true any wish that is written on notes attached to its head when it awakens. If this POK\u00e9MON senses danger, it will fight without awakening.",
       "is_legendary": false,
       "is_mythical": true,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -701,7 +707,8 @@
       "description": "A legend states that JIRACHI will make true any wish that is written on notes attached to its head when it awakens. If this POK\u00e9MON senses danger, it will fight without awakening.",
       "is_legendary": false,
       "is_mythical": true,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

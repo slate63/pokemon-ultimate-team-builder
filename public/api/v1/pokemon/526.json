@@ -77,7 +77,8 @@
       "description": "Compressing the energy from its internal core lets it fire off an attack capable of blowing away a mountain.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": true
     },
     "6": {
       "types": [
@@ -155,7 +156,8 @@
       "description": "Compressing the energy from its internal core lets it fire off an attack capable of blowing away a mountain.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": true
     },
     "7": {
       "types": [
@@ -235,7 +237,8 @@
       "description": "Compressing the energy from its internal core lets it fire off an attack capable of blowing away a mountain.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": true
     },
     "8": {
       "types": [
@@ -310,7 +313,8 @@
       "description": "Compressing the energy from its internal core lets it fire off an attack capable of blowing away a mountain.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": true
     },
     "9": {
       "types": [
@@ -341,7 +345,8 @@
       "description": "Compressing the energy from its internal core lets it fire off an attack capable of blowing away a mountain.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": true
     }
   }
 }

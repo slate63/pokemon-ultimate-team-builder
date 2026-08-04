@@ -79,7 +79,8 @@
       "description": "When this Pok\u00e9mon detects danger, it will open up its crystalline petals and fire beams from its conical body.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

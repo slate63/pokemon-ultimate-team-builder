@@ -68,7 +68,8 @@
       "description": "CLAMPERL\u2019s sturdy shell is not only good for protection - it is also used for clamping and catching prey. A fully grown CLAMPERL\u2019s shell will be scored with nicks and scratches all over.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "4": {
       "types": [
@@ -140,7 +141,8 @@
       "description": "CLAMPERL\u2019s sturdy shell is not only good for protection - it is also used for clamping and catching prey. A fully grown CLAMPERL\u2019s shell will be scored with nicks and scratches all over.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -212,7 +214,8 @@
       "description": "CLAMPERL\u2019s sturdy shell is not only good for protection - it is also used for clamping and catching prey. A fully grown CLAMPERL\u2019s shell will be scored with nicks and scratches all over.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -286,7 +289,8 @@
       "description": "CLAMPERL\u2019s sturdy shell is not only good for protection - it is also used for clamping and catching prey. A fully grown CLAMPERL\u2019s shell will be scored with nicks and scratches all over.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -356,7 +360,8 @@
       "description": "CLAMPERL\u2019s sturdy shell is not only good for protection - it is also used for clamping and catching prey. A fully grown CLAMPERL\u2019s shell will be scored with nicks and scratches all over.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -416,7 +421,8 @@
       "description": "CLAMPERL\u2019s sturdy shell is not only good for protection - it is also used for clamping and catching prey. A fully grown CLAMPERL\u2019s shell will be scored with nicks and scratches all over.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -446,7 +452,8 @@
       "description": "CLAMPERL\u2019s sturdy shell is not only good for protection - it is also used for clamping and catching prey. A fully grown CLAMPERL\u2019s shell will be scored with nicks and scratches all over.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

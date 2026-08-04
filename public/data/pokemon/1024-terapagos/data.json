@@ -89,7 +89,8 @@
       "description": "Terapagos protects itself using its power to transform energy into hard crystals. This Pok\u00e9mon is the source of the Terastal phenomenon.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

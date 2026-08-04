@@ -72,7 +72,8 @@
       "description": "If it sees any movement around it, this Pok\u00e9mon charges for it straightaway, leading with its sharply pointed jaw. It\u2019s very proud of that jaw.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -141,7 +142,8 @@
       "description": "If it sees any movement around it, this Pok\u00e9mon charges for it straightaway, leading with its sharply pointed jaw. It\u2019s very proud of that jaw.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

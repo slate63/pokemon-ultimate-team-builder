@@ -96,7 +96,8 @@
       "description": "SABLEYE lead quiet lives deep inside caverns. They are feared, however, because these POK\u00e9MON are thought to steal the spirits of people when their eyes burn with a sinister glow in the darkness.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "4": {
       "types": [
@@ -214,7 +215,8 @@
       "description": "SABLEYE lead quiet lives deep inside caverns. They are feared, however, because these POK\u00e9MON are thought to steal the spirits of people when their eyes burn with a sinister glow in the darkness.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -329,7 +331,8 @@
       "description": "SABLEYE lead quiet lives deep inside caverns. They are feared, however, because these POK\u00e9MON are thought to steal the spirits of people when their eyes burn with a sinister glow in the darkness.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -454,7 +457,8 @@
       "description": "SABLEYE lead quiet lives deep inside caverns. They are feared, however, because these POK\u00e9MON are thought to steal the spirits of people when their eyes burn with a sinister glow in the darkness.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -573,7 +577,8 @@
       "description": "SABLEYE lead quiet lives deep inside caverns. They are feared, however, because these POK\u00e9MON are thought to steal the spirits of people when their eyes burn with a sinister glow in the darkness.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -692,7 +697,8 @@
       "description": "SABLEYE lead quiet lives deep inside caverns. They are feared, however, because these POK\u00e9MON are thought to steal the spirits of people when their eyes burn with a sinister glow in the darkness.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -813,7 +819,8 @@
       "description": "SABLEYE lead quiet lives deep inside caverns. They are feared, however, because these POK\u00e9MON are thought to steal the spirits of people when their eyes burn with a sinister glow in the darkness.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

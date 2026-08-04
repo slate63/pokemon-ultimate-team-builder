@@ -90,7 +90,8 @@
       "description": "Its whiskers serve as antennas. By sending and receiving electrical waves, it can communicate with others over vast distances.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -177,7 +178,8 @@
       "description": "Its whiskers serve as antennas. By sending and receiving electrical waves, it can communicate with others over vast distances.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -259,7 +261,8 @@
       "description": "Its whiskers serve as antennas. By sending and receiving electrical waves, it can communicate with others over vast distances.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -345,7 +348,8 @@
       "description": "Its whiskers serve as antennas. By sending and receiving electrical waves, it can communicate with others over vast distances.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

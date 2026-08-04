@@ -74,7 +74,8 @@
       "description": "BALTOY moves while spinning around on its one foot. Primitive wall paintings depicting this POK\u00e9MON living among people were discovered in some ancient ruins.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "4": {
       "types": [
@@ -166,7 +167,8 @@
       "description": "BALTOY moves while spinning around on its one foot. Primitive wall paintings depicting this POK\u00e9MON living among people were discovered in some ancient ruins.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -265,7 +267,8 @@
       "description": "BALTOY moves while spinning around on its one foot. Primitive wall paintings depicting this POK\u00e9MON living among people were discovered in some ancient ruins.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -364,7 +367,8 @@
       "description": "BALTOY moves while spinning around on its one foot. Primitive wall paintings depicting this POK\u00e9MON living among people were discovered in some ancient ruins.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -461,7 +465,8 @@
       "description": "BALTOY moves while spinning around on its one foot. Primitive wall paintings depicting this POK\u00e9MON living among people were discovered in some ancient ruins.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -561,7 +566,8 @@
       "description": "BALTOY moves while spinning around on its one foot. Primitive wall paintings depicting this POK\u00e9MON living among people were discovered in some ancient ruins.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -591,7 +597,8 @@
       "description": "BALTOY moves while spinning around on its one foot. Primitive wall paintings depicting this POK\u00e9MON living among people were discovered in some ancient ruins.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

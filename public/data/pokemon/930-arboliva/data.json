@@ -81,7 +81,8 @@
       "description": "This calm Pok\u00e9mon is very compassionate. It will share its delicious, nutrient-rich oil with weakened Pok\u00e9mon.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

@@ -64,7 +64,8 @@
       "description": "If POLIWAG and POLIWHIRL hear its echoing cry, they respond by gather\u00ad ing from far and wide.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": true
     },
     "3": {
       "types": [
@@ -144,7 +145,8 @@
       "description": "If POLIWAG and POLIWHIRL hear its echoing cry, they respond by gather\u00ad ing from far and wide.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": true
     },
     "4": {
       "types": [
@@ -228,7 +230,8 @@
       "description": "If POLIWAG and POLIWHIRL hear its echoing cry, they respond by gather\u00ad ing from far and wide.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": true
     },
     "5": {
       "types": [
@@ -308,7 +311,8 @@
       "description": "If POLIWAG and POLIWHIRL hear its echoing cry, they respond by gather\u00ad ing from far and wide.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": true
     },
     "6": {
       "types": [
@@ -393,7 +397,8 @@
       "description": "If POLIWAG and POLIWHIRL hear its echoing cry, they respond by gather\u00ad ing from far and wide.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": true
     },
     "7": {
       "types": [
@@ -472,7 +477,8 @@
       "description": "If POLIWAG and POLIWHIRL hear its echoing cry, they respond by gather\u00ad ing from far and wide.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": true
     },
     "8": {
       "types": [
@@ -566,7 +572,8 @@
       "description": "If POLIWAG and POLIWHIRL hear its echoing cry, they respond by gather\u00ad ing from far and wide.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": true
     },
     "9": {
       "types": [
@@ -657,7 +664,8 @@
       "description": "If POLIWAG and POLIWHIRL hear its echoing cry, they respond by gather\u00ad ing from far and wide.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": true
     }
   }
 }

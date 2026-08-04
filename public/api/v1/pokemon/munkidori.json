@@ -88,7 +88,8 @@
       "description": "The chain is made from toxins that enhance capabilities. It stimulated Munkidori's brain and caused the Pok\u00e9mon's psychic powers to bloom.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

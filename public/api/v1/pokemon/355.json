@@ -83,7 +83,8 @@
       "description": "DUSKULL can pass through any wall no matter how thick it may be. Once this POK\u00e9MON chooses a target, it will doggedly pursue the intended victim until the break of dawn.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "4": {
       "types": [
@@ -178,7 +179,8 @@
       "description": "DUSKULL can pass through any wall no matter how thick it may be. Once this POK\u00e9MON chooses a target, it will doggedly pursue the intended victim until the break of dawn.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -267,7 +269,8 @@
       "description": "DUSKULL can pass through any wall no matter how thick it may be. Once this POK\u00e9MON chooses a target, it will doggedly pursue the intended victim until the break of dawn.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -362,7 +365,8 @@
       "description": "DUSKULL can pass through any wall no matter how thick it may be. Once this POK\u00e9MON chooses a target, it will doggedly pursue the intended victim until the break of dawn.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -454,7 +458,8 @@
       "description": "DUSKULL can pass through any wall no matter how thick it may be. Once this POK\u00e9MON chooses a target, it will doggedly pursue the intended victim until the break of dawn.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -546,7 +551,8 @@
       "description": "DUSKULL can pass through any wall no matter how thick it may be. Once this POK\u00e9MON chooses a target, it will doggedly pursue the intended victim until the break of dawn.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -624,7 +630,8 @@
       "description": "DUSKULL can pass through any wall no matter how thick it may be. Once this POK\u00e9MON chooses a target, it will doggedly pursue the intended victim until the break of dawn.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

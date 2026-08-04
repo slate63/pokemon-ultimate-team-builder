@@ -77,7 +77,8 @@
       "description": "Only Farfetch\u2019d that have survived many battles can attain this evolution. When this Pok\u00e9mon\u2019s leek withers, it will retire from combat.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -107,7 +108,8 @@
       "description": "Only Farfetch\u2019d that have survived many battles can attain this evolution. When this Pok\u00e9mon\u2019s leek withers, it will retire from combat.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

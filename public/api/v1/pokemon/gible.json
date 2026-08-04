@@ -93,7 +93,8 @@
       "description": "It nests in small, horizontal holes in cave walls. It pounces to catch prey that stray too close.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -181,7 +182,8 @@
       "description": "It nests in small, horizontal holes in cave walls. It pounces to catch prey that stray too close.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -272,7 +274,8 @@
       "description": "It nests in small, horizontal holes in cave walls. It pounces to catch prey that stray too close.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -359,7 +362,8 @@
       "description": "It nests in small, horizontal holes in cave walls. It pounces to catch prey that stray too close.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -449,7 +453,8 @@
       "description": "It nests in small, horizontal holes in cave walls. It pounces to catch prey that stray too close.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -532,7 +537,8 @@
       "description": "It nests in small, horizontal holes in cave walls. It pounces to catch prey that stray too close.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

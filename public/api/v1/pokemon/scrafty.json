@@ -108,7 +108,8 @@
       "description": "Groups of them beat up anything that enters their territory. Each can spit acidic liquid from its mouth.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -213,7 +214,8 @@
       "description": "Groups of them beat up anything that enters their territory. Each can spit acidic liquid from its mouth.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -316,7 +318,8 @@
       "description": "Groups of them beat up anything that enters their territory. Each can spit acidic liquid from its mouth.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -417,7 +420,8 @@
       "description": "Groups of them beat up anything that enters their territory. Each can spit acidic liquid from its mouth.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -532,7 +536,8 @@
       "description": "Groups of them beat up anything that enters their territory. Each can spit acidic liquid from its mouth.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

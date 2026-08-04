@@ -87,7 +87,8 @@
       "description": "There is a long-held belief that medicine made from its scales will heal even incurable illnesses.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -167,7 +168,8 @@
       "description": "There is a long-held belief that medicine made from its scales will heal even incurable illnesses.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -250,7 +252,8 @@
       "description": "There is a long-held belief that medicine made from its scales will heal even incurable illnesses.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -330,7 +333,8 @@
       "description": "There is a long-held belief that medicine made from its scales will heal even incurable illnesses.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -419,7 +423,8 @@
       "description": "There is a long-held belief that medicine made from its scales will heal even incurable illnesses.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -504,7 +509,8 @@
       "description": "There is a long-held belief that medicine made from its scales will heal even incurable illnesses.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

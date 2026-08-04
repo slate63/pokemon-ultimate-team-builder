@@ -113,7 +113,8 @@
       "description": "Its trust in its partner is what awakens it. This Pok\u00e9mon is capable of changing its type, a flexibility that is well displayed in battle.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -213,7 +214,8 @@
       "description": "Its trust in its partner is what awakens it. This Pok\u00e9mon is capable of changing its type, a flexibility that is well displayed in battle.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -242,7 +244,8 @@
       "description": "Its trust in its partner is what awakens it. This Pok\u00e9mon is capable of changing its type, a flexibility that is well displayed in battle.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

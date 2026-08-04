@@ -81,7 +81,8 @@
       "description": "A warm-up of running around gets fire energy coursing through this Pok\u00e9mon\u2019s body. Once that happens, it\u2019s ready to fight at full power.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -158,7 +159,8 @@
       "description": "A warm-up of running around gets fire energy coursing through this Pok\u00e9mon\u2019s body. Once that happens, it\u2019s ready to fight at full power.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

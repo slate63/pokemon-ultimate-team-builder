@@ -87,7 +87,8 @@
       "description": "Trimming its fluffy fur not only makes it more elegant but also increases the swiftness of its movements.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -170,7 +171,8 @@
       "description": "Trimming its fluffy fur not only makes it more elegant but also increases the swiftness of its movements.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -201,7 +203,8 @@
       "description": "Trimming its fluffy fur not only makes it more elegant but also increases the swiftness of its movements.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -230,7 +233,8 @@
       "description": "Trimming its fluffy fur not only makes it more elegant but also increases the swiftness of its movements.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

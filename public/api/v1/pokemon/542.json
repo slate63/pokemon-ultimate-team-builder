@@ -91,7 +91,8 @@
       "description": "Upon finding a small Pok\u00e9mon, it weaves clothing for it from leaves, using the cutters on its arms and sticky silk.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -182,7 +183,8 @@
       "description": "Upon finding a small Pok\u00e9mon, it weaves clothing for it from leaves, using the cutters on its arms and sticky silk.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -275,7 +277,8 @@
       "description": "Upon finding a small Pok\u00e9mon, it weaves clothing for it from leaves, using the cutters on its arms and sticky silk.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -309,7 +312,8 @@
       "description": "Upon finding a small Pok\u00e9mon, it weaves clothing for it from leaves, using the cutters on its arms and sticky silk.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -403,7 +407,8 @@
       "description": "Upon finding a small Pok\u00e9mon, it weaves clothing for it from leaves, using the cutters on its arms and sticky silk.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

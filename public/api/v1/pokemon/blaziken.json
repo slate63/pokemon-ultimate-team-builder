@@ -91,7 +91,8 @@
       "description": "Flames spout from its wrists, enveloping its knuckles. Its punches scorch its foes.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "4": {
       "types": [
@@ -196,7 +197,8 @@
       "description": "Flames spout from its wrists, enveloping its knuckles. Its punches scorch its foes.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -299,7 +301,8 @@
       "description": "Flames spout from its wrists, enveloping its knuckles. Its punches scorch its foes.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -408,7 +411,8 @@
       "description": "Flames spout from its wrists, enveloping its knuckles. Its punches scorch its foes.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -512,7 +516,8 @@
       "description": "Flames spout from its wrists, enveloping its knuckles. Its punches scorch its foes.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -627,7 +632,8 @@
       "description": "Flames spout from its wrists, enveloping its knuckles. Its punches scorch its foes.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -742,7 +748,8 @@
       "description": "Flames spout from its wrists, enveloping its knuckles. Its punches scorch its foes.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

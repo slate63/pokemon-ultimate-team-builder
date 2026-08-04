@@ -105,7 +105,8 @@
       "description": "It has some similarities to a Pok\u00e9mon introduced in a dubious magazine as a Tyranitar from one billion years into the future.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

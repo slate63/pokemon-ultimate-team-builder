@@ -88,7 +88,8 @@
       "description": "ZIGZAGOON restlessly wanders everywhere at all times. This POK\u00e9MON does so because it is very curious. It becomes interested in anything that it happens to see.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "4": {
       "types": [
@@ -185,7 +186,8 @@
       "description": "ZIGZAGOON restlessly wanders everywhere at all times. This POK\u00e9MON does so because it is very curious. It becomes interested in anything that it happens to see.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -275,7 +277,8 @@
       "description": "ZIGZAGOON restlessly wanders everywhere at all times. This POK\u00e9MON does so because it is very curious. It becomes interested in anything that it happens to see.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -375,7 +378,8 @@
       "description": "ZIGZAGOON restlessly wanders everywhere at all times. This POK\u00e9MON does so because it is very curious. It becomes interested in anything that it happens to see.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -466,7 +470,8 @@
       "description": "ZIGZAGOON restlessly wanders everywhere at all times. This POK\u00e9MON does so because it is very curious. It becomes interested in anything that it happens to see.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -560,7 +565,8 @@
       "description": "ZIGZAGOON restlessly wanders everywhere at all times. This POK\u00e9MON does so because it is very curious. It becomes interested in anything that it happens to see.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -591,7 +597,8 @@
       "description": "ZIGZAGOON restlessly wanders everywhere at all times. This POK\u00e9MON does so because it is very curious. It becomes interested in anything that it happens to see.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

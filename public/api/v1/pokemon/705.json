@@ -71,7 +71,8 @@
       "description": "It drives away opponents by excreting a sticky liquid that can dissolve anything. Its eyes devolved, so it can\u2019t see anything.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -143,7 +144,8 @@
       "description": "It drives away opponents by excreting a sticky liquid that can dissolve anything. Its eyes devolved, so it can\u2019t see anything.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -211,7 +213,8 @@
       "description": "It drives away opponents by excreting a sticky liquid that can dissolve anything. Its eyes devolved, so it can\u2019t see anything.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -279,7 +282,8 @@
       "description": "It drives away opponents by excreting a sticky liquid that can dissolve anything. Its eyes devolved, so it can\u2019t see anything.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

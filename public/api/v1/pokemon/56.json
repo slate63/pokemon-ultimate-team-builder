@@ -58,7 +58,8 @@
       "description": "Extremely quick to anger. It could be docile one moment then thrashing away the next instant.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "2": {
       "types": [
@@ -131,7 +132,8 @@
       "description": "Extremely quick to anger. It could be docile one moment then thrashing away the next instant.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "3": {
       "types": [
@@ -226,7 +228,8 @@
       "description": "Extremely quick to anger. It could be docile one moment then thrashing away the next instant.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "4": {
       "types": [
@@ -337,7 +340,8 @@
       "description": "Extremely quick to anger. It could be docile one moment then thrashing away the next instant.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -444,7 +448,8 @@
       "description": "Extremely quick to anger. It could be docile one moment then thrashing away the next instant.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -558,7 +563,8 @@
       "description": "Extremely quick to anger. It could be docile one moment then thrashing away the next instant.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -671,7 +677,8 @@
       "description": "Extremely quick to anger. It could be docile one moment then thrashing away the next instant.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -765,7 +772,8 @@
       "description": "Extremely quick to anger. It could be docile one moment then thrashing away the next instant.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -866,7 +874,8 @@
       "description": "Extremely quick to anger. It could be docile one moment then thrashing away the next instant.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

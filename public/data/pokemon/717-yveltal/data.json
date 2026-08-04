@@ -87,7 +87,8 @@
       "description": "When this legendary Pok\u00e9mon\u2019s wings and tail feathers spread wide and glow red, it absorbs the life force of living creatures.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -173,7 +174,8 @@
       "description": "When this legendary Pok\u00e9mon\u2019s wings and tail feathers spread wide and glow red, it absorbs the life force of living creatures.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -253,7 +255,8 @@
       "description": "When this legendary Pok\u00e9mon\u2019s wings and tail feathers spread wide and glow red, it absorbs the life force of living creatures.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -283,7 +286,8 @@
       "description": "When this legendary Pok\u00e9mon\u2019s wings and tail feathers spread wide and glow red, it absorbs the life force of living creatures.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

@@ -87,7 +87,8 @@
       "description": "It scatters spores that flicker and glow. Anyone seeing these lights falls into a deep slumber.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -162,7 +163,8 @@
       "description": "It scatters spores that flicker and glow. Anyone seeing these lights falls into a deep slumber.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -194,7 +196,8 @@
       "description": "It scatters spores that flicker and glow. Anyone seeing these lights falls into a deep slumber.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

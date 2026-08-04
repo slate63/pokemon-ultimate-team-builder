@@ -108,7 +108,8 @@
       "description": "It can lull people to sleep and make them dream. It is active during nights of the new moon.",
       "is_legendary": false,
       "is_mythical": true,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -206,7 +207,8 @@
       "description": "It can lull people to sleep and make them dream. It is active during nights of the new moon.",
       "is_legendary": false,
       "is_mythical": true,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -309,7 +311,8 @@
       "description": "It can lull people to sleep and make them dream. It is active during nights of the new moon.",
       "is_legendary": false,
       "is_mythical": true,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -405,7 +408,8 @@
       "description": "It can lull people to sleep and make them dream. It is active during nights of the new moon.",
       "is_legendary": false,
       "is_mythical": true,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -446,7 +450,8 @@
       "description": "It can lull people to sleep and make them dream. It is active during nights of the new moon.",
       "is_legendary": false,
       "is_mythical": true,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -536,7 +541,8 @@
       "description": "It can lull people to sleep and make them dream. It is active during nights of the new moon.",
       "is_legendary": false,
       "is_mythical": true,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

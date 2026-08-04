@@ -82,7 +82,8 @@
       "description": "This ferocious creature is shrouded in mystery. It's named after an aquatic monster mentioned in an old expedition journal.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

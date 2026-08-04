@@ -78,7 +78,8 @@
       "description": "Floragato deftly wields the vine hidden beneath its long fur, slamming the hard flower bud against its opponents.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

@@ -71,7 +71,8 @@
       "description": "SHEDINJA\u2019s hard body doesn\u2019t move - not even a twitch. In fact, its body appears to be merely a hollow shell. It is believed that this POK\u00e9MON will steal the spirit of anyone peering into its hollow body from its back.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "4": {
       "types": [
@@ -152,7 +153,8 @@
       "description": "SHEDINJA\u2019s hard body doesn\u2019t move - not even a twitch. In fact, its body appears to be merely a hollow shell. It is believed that this POK\u00e9MON will steal the spirit of anyone peering into its hollow body from its back.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -226,7 +228,8 @@
       "description": "SHEDINJA\u2019s hard body doesn\u2019t move - not even a twitch. In fact, its body appears to be merely a hollow shell. It is believed that this POK\u00e9MON will steal the spirit of anyone peering into its hollow body from its back.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -307,7 +310,8 @@
       "description": "SHEDINJA\u2019s hard body doesn\u2019t move - not even a twitch. In fact, its body appears to be merely a hollow shell. It is believed that this POK\u00e9MON will steal the spirit of anyone peering into its hollow body from its back.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -380,7 +384,8 @@
       "description": "SHEDINJA\u2019s hard body doesn\u2019t move - not even a twitch. In fact, its body appears to be merely a hollow shell. It is believed that this POK\u00e9MON will steal the spirit of anyone peering into its hollow body from its back.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -461,7 +466,8 @@
       "description": "SHEDINJA\u2019s hard body doesn\u2019t move - not even a twitch. In fact, its body appears to be merely a hollow shell. It is believed that this POK\u00e9MON will steal the spirit of anyone peering into its hollow body from its back.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -491,7 +497,8 @@
       "description": "SHEDINJA\u2019s hard body doesn\u2019t move - not even a twitch. In fact, its body appears to be merely a hollow shell. It is believed that this POK\u00e9MON will steal the spirit of anyone peering into its hollow body from its back.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

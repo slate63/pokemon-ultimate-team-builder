@@ -87,7 +87,8 @@
       "description": "Since a broken tusk will not grow back, they diligently sharpen their tusks on river rocks after they\u2019ve been fighting.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -175,7 +176,8 @@
       "description": "Since a broken tusk will not grow back, they diligently sharpen their tusks on river rocks after they\u2019ve been fighting.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -259,7 +261,8 @@
       "description": "Since a broken tusk will not grow back, they diligently sharpen their tusks on river rocks after they\u2019ve been fighting.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -339,7 +342,8 @@
       "description": "Since a broken tusk will not grow back, they diligently sharpen their tusks on river rocks after they\u2019ve been fighting.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -423,7 +427,8 @@
       "description": "Since a broken tusk will not grow back, they diligently sharpen their tusks on river rocks after they\u2019ve been fighting.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

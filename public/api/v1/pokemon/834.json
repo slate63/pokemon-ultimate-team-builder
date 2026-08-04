@@ -100,7 +100,8 @@
       "description": "With jaws that can shear through steel rods, this highly aggressive Pok\u00e9mon chomps down on its unfortunate prey.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -193,7 +194,8 @@
       "description": "With jaws that can shear through steel rods, this highly aggressive Pok\u00e9mon chomps down on its unfortunate prey.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

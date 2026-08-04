@@ -89,7 +89,8 @@
       "description": "It makes fur balls that crackle with static electricity. It stores them with berries in tree holes.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -177,7 +178,8 @@
       "description": "It makes fur balls that crackle with static electricity. It stores them with berries in tree holes.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -274,7 +276,8 @@
       "description": "It makes fur balls that crackle with static electricity. It stores them with berries in tree holes.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -366,7 +369,8 @@
       "description": "It makes fur balls that crackle with static electricity. It stores them with berries in tree holes.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -449,7 +453,8 @@
       "description": "It makes fur balls that crackle with static electricity. It stores them with berries in tree holes.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -546,7 +551,8 @@
       "description": "It makes fur balls that crackle with static electricity. It stores them with berries in tree holes.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

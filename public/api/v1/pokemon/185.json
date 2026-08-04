@@ -65,7 +65,8 @@
       "description": "Despite appearing to be a tree, its body is closer to rocks and stones. It is very weak to water.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "3": {
       "types": [
@@ -147,7 +148,8 @@
       "description": "Despite appearing to be a tree, its body is closer to rocks and stones. It is very weak to water.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "4": {
       "types": [
@@ -243,7 +245,8 @@
       "description": "Despite appearing to be a tree, its body is closer to rocks and stones. It is very weak to water.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -337,7 +340,8 @@
       "description": "Despite appearing to be a tree, its body is closer to rocks and stones. It is very weak to water.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -439,7 +443,8 @@
       "description": "Despite appearing to be a tree, its body is closer to rocks and stones. It is very weak to water.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -541,7 +546,8 @@
       "description": "Despite appearing to be a tree, its body is closer to rocks and stones. It is very weak to water.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -646,7 +652,8 @@
       "description": "Despite appearing to be a tree, its body is closer to rocks and stones. It is very weak to water.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -744,7 +751,8 @@
       "description": "Despite appearing to be a tree, its body is closer to rocks and stones. It is very weak to water.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

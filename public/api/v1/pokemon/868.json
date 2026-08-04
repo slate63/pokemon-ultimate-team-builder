@@ -59,7 +59,8 @@
       "description": "This Pok\u00e9mon was born from sweet-smelling particles in the air. Its body is made of cream.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -113,7 +114,8 @@
       "description": "This Pok\u00e9mon was born from sweet-smelling particles in the air. Its body is made of cream.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

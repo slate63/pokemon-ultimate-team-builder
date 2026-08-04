@@ -78,7 +78,8 @@
       "description": "The temperature of their breath is -58\u00b0 F. They create snow crystals and make snow fall in the areas around them.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -153,7 +154,8 @@
       "description": "The temperature of their breath is -58\u00b0 F. They create snow crystals and make snow fall in the areas around them.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -233,7 +235,8 @@
       "description": "The temperature of their breath is -58\u00b0 F. They create snow crystals and make snow fall in the areas around them.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -304,7 +307,8 @@
       "description": "The temperature of their breath is -58\u00b0 F. They create snow crystals and make snow fall in the areas around them.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -335,7 +339,8 @@
       "description": "The temperature of their breath is -58\u00b0 F. They create snow crystals and make snow fall in the areas around them.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

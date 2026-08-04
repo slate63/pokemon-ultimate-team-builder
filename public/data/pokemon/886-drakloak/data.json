@@ -85,7 +85,8 @@
       "description": "It\u2019s capable of flying faster than 120 mph. It battles alongside Dreepy and dotes on them until they successfully evolve.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -167,7 +168,8 @@
       "description": "It\u2019s capable of flying faster than 120 mph. It battles alongside Dreepy and dotes on them until they successfully evolve.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

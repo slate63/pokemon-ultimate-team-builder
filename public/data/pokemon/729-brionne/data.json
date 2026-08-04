@@ -82,7 +82,8 @@
       "description": "A skillful dancer, it creates a sequence of water balloons as it dances, and briskly bombards its enemies.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -161,7 +162,8 @@
       "description": "A skillful dancer, it creates a sequence of water balloons as it dances, and briskly bombards its enemies.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -237,7 +239,8 @@
       "description": "A skillful dancer, it creates a sequence of water balloons as it dances, and briskly bombards its enemies.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

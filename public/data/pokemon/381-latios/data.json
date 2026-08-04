@@ -92,7 +92,8 @@
       "description": "LATIOS has the ability to make its foe see an image of what it has seen or imagines in its head. This POK\u00e9MON is intelligent and understands human speech.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "4": {
       "types": [
@@ -200,7 +201,8 @@
       "description": "LATIOS has the ability to make its foe see an image of what it has seen or imagines in its head. This POK\u00e9MON is intelligent and understands human speech.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -304,7 +306,8 @@
       "description": "LATIOS has the ability to make its foe see an image of what it has seen or imagines in its head. This POK\u00e9MON is intelligent and understands human speech.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -414,7 +417,8 @@
       "description": "LATIOS has the ability to make its foe see an image of what it has seen or imagines in its head. This POK\u00e9MON is intelligent and understands human speech.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -521,7 +525,8 @@
       "description": "LATIOS has the ability to make its foe see an image of what it has seen or imagines in its head. This POK\u00e9MON is intelligent and understands human speech.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -640,7 +645,8 @@
       "description": "LATIOS has the ability to make its foe see an image of what it has seen or imagines in its head. This POK\u00e9MON is intelligent and understands human speech.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -746,7 +752,8 @@
       "description": "LATIOS has the ability to make its foe see an image of what it has seen or imagines in its head. This POK\u00e9MON is intelligent and understands human speech.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

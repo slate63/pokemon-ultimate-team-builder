@@ -95,7 +95,8 @@
       "description": "It wields the fur on its arms like a whip. Its arm attacks come with such rapidity that they cannot even be seen.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -191,7 +192,8 @@
       "description": "It wields the fur on its arms like a whip. Its arm attacks come with such rapidity that they cannot even be seen.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -284,7 +286,8 @@
       "description": "It wields the fur on its arms like a whip. Its arm attacks come with such rapidity that they cannot even be seen.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -379,7 +382,8 @@
       "description": "It wields the fur on its arms like a whip. Its arm attacks come with such rapidity that they cannot even be seen.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -469,7 +473,8 @@
       "description": "It wields the fur on its arms like a whip. Its arm attacks come with such rapidity that they cannot even be seen.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

@@ -81,7 +81,8 @@
       "description": "Glastrier emits intense cold from its hooves. It\u2019s also a belligerent Pok\u00e9mon\u2014anything it wants, it takes by force.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -157,7 +158,8 @@
       "description": "Glastrier emits intense cold from its hooves. It\u2019s also a belligerent Pok\u00e9mon\u2014anything it wants, it takes by force.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

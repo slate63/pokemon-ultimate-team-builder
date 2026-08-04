@@ -90,7 +90,8 @@
       "description": "VIGOROTH is always itching and agitated to go on a wild rampage. It simply can\u2019t tolerate sitting still for even a minute. This POK\u00e9MON\u2019s stress level rises if it can\u2019t be moving constantly.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "4": {
       "types": [
@@ -183,7 +184,8 @@
       "description": "VIGOROTH is always itching and agitated to go on a wild rampage. It simply can\u2019t tolerate sitting still for even a minute. This POK\u00e9MON\u2019s stress level rises if it can\u2019t be moving constantly.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -275,7 +277,8 @@
       "description": "VIGOROTH is always itching and agitated to go on a wild rampage. It simply can\u2019t tolerate sitting still for even a minute. This POK\u00e9MON\u2019s stress level rises if it can\u2019t be moving constantly.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -372,7 +375,8 @@
       "description": "VIGOROTH is always itching and agitated to go on a wild rampage. It simply can\u2019t tolerate sitting still for even a minute. This POK\u00e9MON\u2019s stress level rises if it can\u2019t be moving constantly.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -462,7 +466,8 @@
       "description": "VIGOROTH is always itching and agitated to go on a wild rampage. It simply can\u2019t tolerate sitting still for even a minute. This POK\u00e9MON\u2019s stress level rises if it can\u2019t be moving constantly.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -549,7 +554,8 @@
       "description": "VIGOROTH is always itching and agitated to go on a wild rampage. It simply can\u2019t tolerate sitting still for even a minute. This POK\u00e9MON\u2019s stress level rises if it can\u2019t be moving constantly.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -654,7 +660,8 @@
       "description": "VIGOROTH is always itching and agitated to go on a wild rampage. It simply can\u2019t tolerate sitting still for even a minute. This POK\u00e9MON\u2019s stress level rises if it can\u2019t be moving constantly.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

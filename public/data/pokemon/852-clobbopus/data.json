@@ -75,7 +75,8 @@
       "description": "It\u2019s very curious, but its means of investigating things is to try to punch them with its tentacles. The search for food is what brings it onto land.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -105,7 +106,8 @@
       "description": "It\u2019s very curious, but its means of investigating things is to try to punch them with its tentacles. The search for food is what brings it onto land.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

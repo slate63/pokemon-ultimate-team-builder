@@ -71,7 +71,8 @@
       "description": "This Pok\u00e9mon can pick up the scent of a Veluza just over 65 feet away and will hide itself in the sand.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

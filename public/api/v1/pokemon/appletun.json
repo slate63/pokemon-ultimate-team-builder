@@ -81,7 +81,8 @@
       "description": "Eating a sweet apple caused its evolution. A nectarous scent wafts from its body, luring in the bug Pok\u00e9mon it preys on.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -168,7 +169,8 @@
       "description": "Eating a sweet apple caused its evolution. A nectarous scent wafts from its body, luring in the bug Pok\u00e9mon it preys on.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

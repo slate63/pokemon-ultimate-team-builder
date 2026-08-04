@@ -92,7 +92,8 @@
       "description": "Seven syrpents live inside an apple made of syrup. The syrpent in the center is the commander.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

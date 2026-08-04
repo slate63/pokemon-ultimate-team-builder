@@ -49,7 +49,8 @@
       "description": "Once it strikes, it will not stop draining energy from the victim even if it gets too heavy to fly.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "2": {
       "types": [
@@ -106,7 +107,8 @@
       "description": "Once it strikes, it will not stop draining energy from the victim even if it gets too heavy to fly.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "3": {
       "types": [
@@ -182,7 +184,8 @@
       "description": "Once it strikes, it will not stop draining energy from the victim even if it gets too heavy to fly.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "4": {
       "types": [
@@ -273,7 +276,8 @@
       "description": "Once it strikes, it will not stop draining energy from the victim even if it gets too heavy to fly.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -358,7 +362,8 @@
       "description": "Once it strikes, it will not stop draining energy from the victim even if it gets too heavy to fly.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -446,7 +451,8 @@
       "description": "Once it strikes, it will not stop draining energy from the victim even if it gets too heavy to fly.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -535,7 +541,8 @@
       "description": "Once it strikes, it will not stop draining energy from the victim even if it gets too heavy to fly.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -628,7 +635,8 @@
       "description": "Once it strikes, it will not stop draining energy from the victim even if it gets too heavy to fly.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -659,7 +667,8 @@
       "description": "Once it strikes, it will not stop draining energy from the victim even if it gets too heavy to fly.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

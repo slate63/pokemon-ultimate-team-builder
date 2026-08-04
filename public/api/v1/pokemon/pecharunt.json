@@ -66,7 +66,8 @@
       "description": "It feeds others toxic mochi that draw out desires and capabilities. Those who eat the mochi fall under Pecharunt\u2019s control, chained to its will.",
       "is_legendary": false,
       "is_mythical": true,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

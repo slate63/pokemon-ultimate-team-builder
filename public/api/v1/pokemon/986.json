@@ -81,7 +81,8 @@
       "description": "It is possible that the creature listed as Brute Bonnet in a certain book could actually be this Pok\u00e9mon.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

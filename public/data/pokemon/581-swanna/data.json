@@ -77,7 +77,8 @@
       "description": "Swanna start to dance at dusk. The one dancing in the middle is the leader of the flock.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -154,7 +155,8 @@
       "description": "Swanna start to dance at dusk. The one dancing in the middle is the leader of the flock.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -230,7 +232,8 @@
       "description": "Swanna start to dance at dusk. The one dancing in the middle is the leader of the flock.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -264,7 +267,8 @@
       "description": "Swanna start to dance at dusk. The one dancing in the middle is the leader of the flock.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -345,7 +349,8 @@
       "description": "Swanna start to dance at dusk. The one dancing in the middle is the leader of the flock.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

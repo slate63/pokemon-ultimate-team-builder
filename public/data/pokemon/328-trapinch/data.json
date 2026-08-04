@@ -71,7 +71,8 @@
       "description": "TRAPINCH\u2019s nest is a sloped, bowl-like pit dug in sand. This POK\u00e9MON patiently waits for prey to tumble down the pit. Its giant jaws have enough strength to crush even boulders.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "4": {
       "types": [
@@ -148,7 +149,8 @@
       "description": "TRAPINCH\u2019s nest is a sloped, bowl-like pit dug in sand. This POK\u00e9MON patiently waits for prey to tumble down the pit. Its giant jaws have enough strength to crush even boulders.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -227,7 +229,8 @@
       "description": "TRAPINCH\u2019s nest is a sloped, bowl-like pit dug in sand. This POK\u00e9MON patiently waits for prey to tumble down the pit. Its giant jaws have enough strength to crush even boulders.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -310,7 +313,8 @@
       "description": "TRAPINCH\u2019s nest is a sloped, bowl-like pit dug in sand. This POK\u00e9MON patiently waits for prey to tumble down the pit. Its giant jaws have enough strength to crush even boulders.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -389,7 +393,8 @@
       "description": "TRAPINCH\u2019s nest is a sloped, bowl-like pit dug in sand. This POK\u00e9MON patiently waits for prey to tumble down the pit. Its giant jaws have enough strength to crush even boulders.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -467,7 +472,8 @@
       "description": "TRAPINCH\u2019s nest is a sloped, bowl-like pit dug in sand. This POK\u00e9MON patiently waits for prey to tumble down the pit. Its giant jaws have enough strength to crush even boulders.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -538,7 +544,8 @@
       "description": "TRAPINCH\u2019s nest is a sloped, bowl-like pit dug in sand. This POK\u00e9MON patiently waits for prey to tumble down the pit. Its giant jaws have enough strength to crush even boulders.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

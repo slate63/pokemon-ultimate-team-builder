@@ -112,7 +112,8 @@
       "description": "It has a compassionate personality, but if it is angered, it completely destroys its surroundings with its intense breath.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -214,7 +215,8 @@
       "description": "It has a compassionate personality, but if it is angered, it completely destroys its surroundings with its intense breath.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -246,7 +248,8 @@
       "description": "It has a compassionate personality, but if it is angered, it completely destroys its surroundings with its intense breath.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

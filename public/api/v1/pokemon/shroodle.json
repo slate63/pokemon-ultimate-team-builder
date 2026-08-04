@@ -86,7 +86,8 @@
       "description": "Though usually a mellow Pok\u00e9mon, it will sink its sharp, poison-soaked front teeth into any that anger it, causing paralysis in the object of its ire.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

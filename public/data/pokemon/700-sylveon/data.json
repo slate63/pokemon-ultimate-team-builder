@@ -82,7 +82,8 @@
       "description": "It sends a soothing aura from its ribbonlike feelers to calm fights.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -165,7 +166,8 @@
       "description": "It sends a soothing aura from its ribbonlike feelers to calm fights.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -258,7 +260,8 @@
       "description": "It sends a soothing aura from its ribbonlike feelers to calm fights.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -342,7 +345,8 @@
       "description": "It sends a soothing aura from its ribbonlike feelers to calm fights.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

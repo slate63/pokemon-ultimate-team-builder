@@ -74,7 +74,8 @@
       "description": "This Pok\u00e9mon dry cures its prey by spraying salt over them. The curing process steals away the water in the prey\u2019s body.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

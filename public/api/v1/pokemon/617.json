@@ -74,7 +74,8 @@
       "description": "When its body dries out, it weakens. So, to prevent dehydration, it wraps itself in many layers of thin membrane.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": true
     },
     "6": {
       "types": [
@@ -150,7 +151,8 @@
       "description": "When its body dries out, it weakens. So, to prevent dehydration, it wraps itself in many layers of thin membrane.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": true
     },
     "7": {
       "types": [
@@ -224,7 +226,8 @@
       "description": "When its body dries out, it weakens. So, to prevent dehydration, it wraps itself in many layers of thin membrane.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": true
     },
     "8": {
       "types": [
@@ -307,7 +310,8 @@
       "description": "When its body dries out, it weakens. So, to prevent dehydration, it wraps itself in many layers of thin membrane.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": true
     },
     "9": {
       "types": [
@@ -338,7 +342,8 @@
       "description": "When its body dries out, it weakens. So, to prevent dehydration, it wraps itself in many layers of thin membrane.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": true
     }
   }
 }

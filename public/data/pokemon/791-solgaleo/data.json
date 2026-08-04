@@ -97,7 +97,8 @@
       "description": "It is said to live in another world. The intense light it radiates from the surface of its body can make the darkest of nights light up like midday.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -198,7 +199,8 @@
       "description": "It is said to live in another world. The intense light it radiates from the surface of its body can make the darkest of nights light up like midday.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -297,7 +299,8 @@
       "description": "It is said to live in another world. The intense light it radiates from the surface of its body can make the darkest of nights light up like midday.",
       "is_legendary": true,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

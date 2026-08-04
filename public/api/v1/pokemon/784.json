@@ -115,7 +115,8 @@
       "description": "When it spots enemies, it threatens them by jingling the scales on its tail. Weak opponents will crack and flee in panic.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -221,7 +222,8 @@
       "description": "When it spots enemies, it threatens them by jingling the scales on its tail. Weak opponents will crack and flee in panic.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -332,7 +334,8 @@
       "description": "When it spots enemies, it threatens them by jingling the scales on its tail. Weak opponents will crack and flee in panic.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

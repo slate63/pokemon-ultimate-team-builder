@@ -62,7 +62,8 @@
       "description": "It has its third set of legs folded up. When it\u2019s in a tough spot, this Pok\u00e9mon jumps over 30 feet using the strength of its legs.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

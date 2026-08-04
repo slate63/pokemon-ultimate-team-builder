@@ -44,7 +44,8 @@
       "description": "The black orbs shine with an uncanny light when the Pok\u00e9mon is erecting invisible barriers. The fur shed from its beard retains heat well and is a highly useful material for winter clothing.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -143,7 +144,8 @@
       "description": "The black orbs shine with an uncanny light when the Pok\u00e9mon is erecting invisible barriers. The fur shed from its beard retains heat well and is a highly useful material for winter clothing.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

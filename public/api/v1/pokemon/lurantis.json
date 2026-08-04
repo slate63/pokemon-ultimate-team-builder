@@ -88,7 +88,8 @@
       "description": "It requires a lot of effort to maintain Lurantis\u2019s vivid coloring, but some collectors enjoy this work and treat it as their hobby.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -170,7 +171,8 @@
       "description": "It requires a lot of effort to maintain Lurantis\u2019s vivid coloring, but some collectors enjoy this work and treat it as their hobby.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -250,7 +252,8 @@
       "description": "It requires a lot of effort to maintain Lurantis\u2019s vivid coloring, but some collectors enjoy this work and treat it as their hobby.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

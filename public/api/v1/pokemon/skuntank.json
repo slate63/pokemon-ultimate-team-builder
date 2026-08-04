@@ -88,7 +88,8 @@
       "description": "It sprays a vile-smelling fluid from the tip of its tail to attack. Its range is over 160 feet.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -171,7 +172,8 @@
       "description": "It sprays a vile-smelling fluid from the tip of its tail to attack. Its range is over 160 feet.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -260,7 +262,8 @@
       "description": "It sprays a vile-smelling fluid from the tip of its tail to attack. Its range is over 160 feet.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -344,7 +347,8 @@
       "description": "It sprays a vile-smelling fluid from the tip of its tail to attack. Its range is over 160 feet.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -446,7 +450,8 @@
       "description": "It sprays a vile-smelling fluid from the tip of its tail to attack. Its range is over 160 feet.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -542,7 +547,8 @@
       "description": "It sprays a vile-smelling fluid from the tip of its tail to attack. Its range is over 160 feet.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

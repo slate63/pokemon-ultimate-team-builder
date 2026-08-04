@@ -85,7 +85,8 @@
       "description": "Normally, WHISMUR\u2019s voice is very quiet - it is barely audible even if one is paying close attention. However, if this POK\u00e9MON senses danger, it starts crying at an earsplitting volume.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "4": {
       "types": [
@@ -170,7 +171,8 @@
       "description": "Normally, WHISMUR\u2019s voice is very quiet - it is barely audible even if one is paying close attention. However, if this POK\u00e9MON senses danger, it starts crying at an earsplitting volume.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -248,7 +250,8 @@
       "description": "Normally, WHISMUR\u2019s voice is very quiet - it is barely audible even if one is paying close attention. However, if this POK\u00e9MON senses danger, it starts crying at an earsplitting volume.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -335,7 +338,8 @@
       "description": "Normally, WHISMUR\u2019s voice is very quiet - it is barely audible even if one is paying close attention. However, if this POK\u00e9MON senses danger, it starts crying at an earsplitting volume.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -416,7 +420,8 @@
       "description": "Normally, WHISMUR\u2019s voice is very quiet - it is barely audible even if one is paying close attention. However, if this POK\u00e9MON senses danger, it starts crying at an earsplitting volume.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -500,7 +505,8 @@
       "description": "Normally, WHISMUR\u2019s voice is very quiet - it is barely audible even if one is paying close attention. However, if this POK\u00e9MON senses danger, it starts crying at an earsplitting volume.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -530,7 +536,8 @@
       "description": "Normally, WHISMUR\u2019s voice is very quiet - it is barely audible even if one is paying close attention. However, if this POK\u00e9MON senses danger, it starts crying at an earsplitting volume.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }

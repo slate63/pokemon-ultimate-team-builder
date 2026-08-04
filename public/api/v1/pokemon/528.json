@@ -103,7 +103,8 @@
       "description": "It emits sound waves of various frequencies from its nose, including some powerful enough to destroy rocks.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -203,7 +204,8 @@
       "description": "It emits sound waves of various frequencies from its nose, including some powerful enough to destroy rocks.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -305,7 +307,8 @@
       "description": "It emits sound waves of various frequencies from its nose, including some powerful enough to destroy rocks.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -399,7 +402,8 @@
       "description": "It emits sound waves of various frequencies from its nose, including some powerful enough to destroy rocks.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -431,7 +435,8 @@
       "description": "It emits sound waves of various frequencies from its nose, including some powerful enough to destroy rocks.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": true
+      "is_fully_evolved": true,
+      "requires_trade": false
     }
   }
 }

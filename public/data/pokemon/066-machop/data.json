@@ -54,7 +54,8 @@
       "description": "Loves to build its muscles. It trains in all styles of martial arts to become even stronger.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "2": {
       "types": [
@@ -124,7 +125,8 @@
       "description": "Loves to build its muscles. It trains in all styles of martial arts to become even stronger.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "3": {
       "types": [
@@ -216,7 +218,8 @@
       "description": "Loves to build its muscles. It trains in all styles of martial arts to become even stronger.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "4": {
       "types": [
@@ -318,7 +321,8 @@
       "description": "Loves to build its muscles. It trains in all styles of martial arts to become even stronger.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "5": {
       "types": [
@@ -416,7 +420,8 @@
       "description": "Loves to build its muscles. It trains in all styles of martial arts to become even stronger.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "6": {
       "types": [
@@ -523,7 +528,8 @@
       "description": "Loves to build its muscles. It trains in all styles of martial arts to become even stronger.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "7": {
       "types": [
@@ -624,7 +630,8 @@
       "description": "Loves to build its muscles. It trains in all styles of martial arts to become even stronger.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "8": {
       "types": [
@@ -729,7 +736,8 @@
       "description": "Loves to build its muscles. It trains in all styles of martial arts to become even stronger.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     },
     "9": {
       "types": [
@@ -760,7 +768,8 @@
       "description": "Loves to build its muscles. It trains in all styles of martial arts to become even stronger.",
       "is_legendary": false,
       "is_mythical": false,
-      "is_fully_evolved": false
+      "is_fully_evolved": false,
+      "requires_trade": false
     }
   }
 }
