@@ -123,7 +123,7 @@ This application includes a public, unauthenticated static REST API hosted via G
 
 ```bash
 # Fetch Pikachu data without sprites
-curl -X GET "https://YOUR_USERNAME.github.io/pokemon-ultimate-team-builder/api/v1/pokemon/pikachu.json"
+curl -X GET "https://slate63.github.io/pokemon-ultimate-team-builder/api/v1/pokemon/pikachu.json"
 ```
 
 ---
