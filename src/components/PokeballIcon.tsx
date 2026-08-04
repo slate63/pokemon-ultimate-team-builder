@@ -13,9 +13,9 @@ const BALL_SVGS: Record<string, React.ReactElement> = {
   greatball: (
     <g clipPath="url(#header-ball-clip)">
       <circle cx="50" cy="50" r="50" fill="#F5F5F5" />
-      <path d="M 0 50 A 50 50 0 0 1 100 50 Z" fill="#0B5ED7" />
-      <path d="M 12 18 L 18 12 L 27 21 L 21 27 Z" fill="#DC3545" />
-      <path d="M 88 18 L 82 12 L 73 21 L 79 27 Z" fill="#DC3545" />
+      <path d="M 0 50 A 50 50 0 0 1 100 50 Z" fill="#0075FF" />
+      <rect x="-7" y="-12" width="14" height="24" rx="4" fill="#EE0000" transform="translate(18, 18) rotate(-45)" />
+      <rect x="-7" y="-12" width="14" height="24" rx="4" fill="#EE0000" transform="translate(82, 18) rotate(45)" />
       <rect x="0" y="44" width="100" height="12" fill="black" />
       <circle cx="50" cy="50" r="14" fill="#F5F5F5" stroke="black" strokeWidth="4" />
       <circle cx="50" cy="50" r="6" fill="black" />
