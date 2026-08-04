@@ -1,0 +1,26 @@
+{
+  "id": 865,
+  "name": "triple-dive",
+  "generations": {
+    "8": {
+      "id": 865,
+      "name": "triple-dive",
+      "type": "water",
+      "power": 30,
+      "accuracy": 95,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "9": {
+      "id": 865,
+      "name": "triple-dive",
+      "type": "water",
+      "power": 30,
+      "accuracy": 95,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    }
+  }
+}

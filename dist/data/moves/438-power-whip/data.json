@@ -1,0 +1,66 @@
+{
+  "id": 438,
+  "name": "power-whip",
+  "generations": {
+    "4": {
+      "id": 438,
+      "name": "power-whip",
+      "type": "grass",
+      "power": 120,
+      "accuracy": 85,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "5": {
+      "id": 438,
+      "name": "power-whip",
+      "type": "grass",
+      "power": 120,
+      "accuracy": 85,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "6": {
+      "id": 438,
+      "name": "power-whip",
+      "type": "grass",
+      "power": 120,
+      "accuracy": 85,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "7": {
+      "id": 438,
+      "name": "power-whip",
+      "type": "grass",
+      "power": 120,
+      "accuracy": 85,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "8": {
+      "id": 438,
+      "name": "power-whip",
+      "type": "grass",
+      "power": 120,
+      "accuracy": 85,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "9": {
+      "id": 438,
+      "name": "power-whip",
+      "type": "grass",
+      "power": 120,
+      "accuracy": 85,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    }
+  }
+}

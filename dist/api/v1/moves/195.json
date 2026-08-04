@@ -1,0 +1,86 @@
+{
+  "id": 195,
+  "name": "perish-song",
+  "generations": {
+    "2": {
+      "id": 195,
+      "name": "perish-song",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "3": {
+      "id": 195,
+      "name": "perish-song",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "4": {
+      "id": 195,
+      "name": "perish-song",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "5": {
+      "id": 195,
+      "name": "perish-song",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "6": {
+      "id": 195,
+      "name": "perish-song",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "7": {
+      "id": 195,
+      "name": "perish-song",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "8": {
+      "id": 195,
+      "name": "perish-song",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "9": {
+      "id": 195,
+      "name": "perish-song",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "status"
+    }
+  }
+}

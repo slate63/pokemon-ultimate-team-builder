@@ -1,0 +1,46 @@
+{
+  "id": 621,
+  "name": "hyperspace-fury",
+  "generations": {
+    "6": {
+      "id": 621,
+      "name": "hyperspace-fury",
+      "type": "dark",
+      "power": 100,
+      "accuracy": 0,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "7": {
+      "id": 621,
+      "name": "hyperspace-fury",
+      "type": "dark",
+      "power": 100,
+      "accuracy": 0,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "8": {
+      "id": 621,
+      "name": "hyperspace-fury",
+      "type": "dark",
+      "power": 100,
+      "accuracy": 0,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "9": {
+      "id": 621,
+      "name": "hyperspace-fury",
+      "type": "dark",
+      "power": 100,
+      "accuracy": 0,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "physical"
+    }
+  }
+}

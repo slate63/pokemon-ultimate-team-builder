@@ -1,0 +1,36 @@
+{
+  "id": 721,
+  "name": "plasma-fists",
+  "generations": {
+    "7": {
+      "id": 721,
+      "name": "plasma-fists",
+      "type": "electric",
+      "power": 100,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "8": {
+      "id": 721,
+      "name": "plasma-fists",
+      "type": "electric",
+      "power": 100,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "9": {
+      "id": 721,
+      "name": "plasma-fists",
+      "type": "electric",
+      "power": 100,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "physical"
+    }
+  }
+}

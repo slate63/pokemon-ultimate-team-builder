@@ -1,0 +1,88 @@
+{
+  "id": 986,
+  "name": "brute-bonnet",
+  "generations": {
+    "9": {
+      "types": [
+        "grass",
+        "dark"
+      ],
+      "stats": {
+        "generation": 9,
+        "number": 986,
+        "hp": 111,
+        "attack": 127,
+        "defense": 99,
+        "special_attack": 79,
+        "special_defense": 99,
+        "speed": 55
+      },
+      "height": 1.2,
+      "weight": 21.0,
+      "moves": [
+        "body-slam",
+        "thrash",
+        "double-edge",
+        "hyper-beam",
+        "absorb",
+        "mega-drain",
+        "growth",
+        "solar-beam",
+        "stun-spore",
+        "confuse-ray",
+        "spore",
+        "rest",
+        "substitute",
+        "thief",
+        "protect",
+        "scary-face",
+        "outrage",
+        "giga-drain",
+        "endure",
+        "sleep-talk",
+        "synthesis",
+        "sunny-day",
+        "crunch",
+        "facade",
+        "taunt",
+        "ingrain",
+        "astonish",
+        "bullet-seed",
+        "magical-leaf",
+        "close-combat",
+        "payback",
+        "sucker-punch",
+        "dark-pulse",
+        "seed-bomb",
+        "energy-ball",
+        "earth-power",
+        "giga-impact",
+        "zen-headbutt",
+        "leaf-storm",
+        "grass-knot",
+        "venoshock",
+        "rage-powder",
+        "clear-smog",
+        "hex",
+        "grassy-terrain",
+        "pollen-puff",
+        "stomping-tantrum",
+        "body-press",
+        "lash-out",
+        "tera-blast",
+        "trailblaze"
+      ],
+      "abilities": [
+        "protosynthesis"
+      ],
+      "availability": [
+        "scarlet"
+      ],
+      "description": "It is possible that the creature listed as Brute Bonnet in a certain book could actually be this Pok\u00e9mon.",
+      "is_legendary": false,
+      "is_mythical": false,
+      "is_fully_evolved": true,
+      "requires_trade": false
+    }
+  }
+}

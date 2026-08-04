@@ -1,0 +1,66 @@
+{
+  "id": 406,
+  "name": "dragon-pulse",
+  "generations": {
+    "4": {
+      "id": 406,
+      "name": "dragon-pulse",
+      "type": "dragon",
+      "power": 90,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "5": {
+      "id": 406,
+      "name": "dragon-pulse",
+      "type": "dragon",
+      "power": 90,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "6": {
+      "id": 406,
+      "name": "dragon-pulse",
+      "type": "dragon",
+      "power": 90,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "7": {
+      "id": 406,
+      "name": "dragon-pulse",
+      "type": "dragon",
+      "power": 85,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "8": {
+      "id": 406,
+      "name": "dragon-pulse",
+      "type": "dragon",
+      "power": 85,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "9": {
+      "id": 406,
+      "name": "dragon-pulse",
+      "type": "dragon",
+      "power": 85,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "special"
+    }
+  }
+}

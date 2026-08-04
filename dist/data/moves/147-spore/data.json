@@ -1,0 +1,96 @@
+{
+  "id": 147,
+  "name": "spore",
+  "generations": {
+    "1": {
+      "id": 147,
+      "name": "spore",
+      "type": "grass",
+      "power": 0,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "2": {
+      "id": 147,
+      "name": "spore",
+      "type": "grass",
+      "power": 0,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "3": {
+      "id": 147,
+      "name": "spore",
+      "type": "grass",
+      "power": 0,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "4": {
+      "id": 147,
+      "name": "spore",
+      "type": "grass",
+      "power": 0,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "5": {
+      "id": 147,
+      "name": "spore",
+      "type": "grass",
+      "power": 0,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "6": {
+      "id": 147,
+      "name": "spore",
+      "type": "grass",
+      "power": 0,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "7": {
+      "id": 147,
+      "name": "spore",
+      "type": "grass",
+      "power": 0,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "8": {
+      "id": 147,
+      "name": "spore",
+      "type": "grass",
+      "power": 0,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "9": {
+      "id": 147,
+      "name": "spore",
+      "type": "grass",
+      "power": 0,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "status"
+    }
+  }
+}

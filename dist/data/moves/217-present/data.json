@@ -1,0 +1,86 @@
+{
+  "id": 217,
+  "name": "present",
+  "generations": {
+    "2": {
+      "id": 217,
+      "name": "present",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 90,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "3": {
+      "id": 217,
+      "name": "present",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 90,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "4": {
+      "id": 217,
+      "name": "present",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 90,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "5": {
+      "id": 217,
+      "name": "present",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 90,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "6": {
+      "id": 217,
+      "name": "present",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 90,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "7": {
+      "id": 217,
+      "name": "present",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 90,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "8": {
+      "id": 217,
+      "name": "present",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 90,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "9": {
+      "id": 217,
+      "name": "present",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 90,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "physical"
+    }
+  }
+}

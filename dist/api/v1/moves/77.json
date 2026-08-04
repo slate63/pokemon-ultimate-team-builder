@@ -1,0 +1,96 @@
+{
+  "id": 77,
+  "name": "poison-powder",
+  "generations": {
+    "1": {
+      "id": 77,
+      "name": "poison-powder",
+      "type": "poison",
+      "power": 0,
+      "accuracy": 75,
+      "pp": 35,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "2": {
+      "id": 77,
+      "name": "poison-powder",
+      "type": "poison",
+      "power": 0,
+      "accuracy": 75,
+      "pp": 35,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "3": {
+      "id": 77,
+      "name": "poison-powder",
+      "type": "poison",
+      "power": 0,
+      "accuracy": 75,
+      "pp": 35,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "4": {
+      "id": 77,
+      "name": "poison-powder",
+      "type": "poison",
+      "power": 0,
+      "accuracy": 75,
+      "pp": 35,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "5": {
+      "id": 77,
+      "name": "poison-powder",
+      "type": "poison",
+      "power": 0,
+      "accuracy": 75,
+      "pp": 35,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "6": {
+      "id": 77,
+      "name": "poison-powder",
+      "type": "poison",
+      "power": 0,
+      "accuracy": 75,
+      "pp": 35,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "7": {
+      "id": 77,
+      "name": "poison-powder",
+      "type": "poison",
+      "power": 0,
+      "accuracy": 75,
+      "pp": 35,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "8": {
+      "id": 77,
+      "name": "poison-powder",
+      "type": "poison",
+      "power": 0,
+      "accuracy": 75,
+      "pp": 35,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "9": {
+      "id": 77,
+      "name": "poison-powder",
+      "type": "poison",
+      "power": 0,
+      "accuracy": 75,
+      "pp": 35,
+      "priority": 0,
+      "damage_class": "status"
+    }
+  }
+}

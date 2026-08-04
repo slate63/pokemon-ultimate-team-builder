@@ -1,0 +1,56 @@
+{
+  "id": 509,
+  "name": "circle-throw",
+  "generations": {
+    "5": {
+      "id": 509,
+      "name": "circle-throw",
+      "type": "fighting",
+      "power": 60,
+      "accuracy": 90,
+      "pp": 10,
+      "priority": -6,
+      "damage_class": "physical"
+    },
+    "6": {
+      "id": 509,
+      "name": "circle-throw",
+      "type": "fighting",
+      "power": 60,
+      "accuracy": 90,
+      "pp": 10,
+      "priority": -6,
+      "damage_class": "physical"
+    },
+    "7": {
+      "id": 509,
+      "name": "circle-throw",
+      "type": "fighting",
+      "power": 60,
+      "accuracy": 90,
+      "pp": 10,
+      "priority": -6,
+      "damage_class": "physical"
+    },
+    "8": {
+      "id": 509,
+      "name": "circle-throw",
+      "type": "fighting",
+      "power": 60,
+      "accuracy": 90,
+      "pp": 10,
+      "priority": -6,
+      "damage_class": "physical"
+    },
+    "9": {
+      "id": 509,
+      "name": "circle-throw",
+      "type": "fighting",
+      "power": 60,
+      "accuracy": 90,
+      "pp": 10,
+      "priority": -6,
+      "damage_class": "physical"
+    }
+  }
+}

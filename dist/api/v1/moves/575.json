@@ -1,0 +1,56 @@
+{
+  "id": 575,
+  "name": "parting-shot",
+  "generations": {
+    "5": {
+      "id": 575,
+      "name": "parting-shot",
+      "type": "dark",
+      "power": 0,
+      "accuracy": 100,
+      "pp": 20,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "6": {
+      "id": 575,
+      "name": "parting-shot",
+      "type": "dark",
+      "power": 0,
+      "accuracy": 100,
+      "pp": 20,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "7": {
+      "id": 575,
+      "name": "parting-shot",
+      "type": "dark",
+      "power": 0,
+      "accuracy": 100,
+      "pp": 20,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "8": {
+      "id": 575,
+      "name": "parting-shot",
+      "type": "dark",
+      "power": 0,
+      "accuracy": 100,
+      "pp": 20,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "9": {
+      "id": 575,
+      "name": "parting-shot",
+      "type": "dark",
+      "power": 0,
+      "accuracy": 100,
+      "pp": 20,
+      "priority": 0,
+      "damage_class": "status"
+    }
+  }
+}

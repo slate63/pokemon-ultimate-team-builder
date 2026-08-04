@@ -1,0 +1,16 @@
+{
+  "id": 918,
+  "name": "upper-hand",
+  "generations": {
+    "9": {
+      "id": 918,
+      "name": "upper-hand",
+      "type": "fighting",
+      "power": 65,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 3,
+      "damage_class": "physical"
+    }
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "id": 828,
+  "name": "thievul",
+  "generations": {
+    "8": {
+      "types": [
+        "dark"
+      ],
+      "stats": {
+        "generation": 8,
+        "number": 828,
+        "hp": 70,
+        "attack": 58,
+        "defense": 58,
+        "special_attack": 87,
+        "special_defense": 92,
+        "speed": 90
+      },
+      "height": 1.2,
+      "weight": 19.9,
+      "moves": [
+        "tail-whip",
+        "hyper-beam",
+        "dig",
+        "psychic",
+        "agility",
+        "quick-attack",
+        "screech",
+        "swift",
+        "rest",
+        "substitute",
+        "thief",
+        "snore",
+        "protect",
+        "endure",
+        "attract",
+        "sleep-talk",
+        "baton-pass",
+        "crunch",
+        "shadow-ball",
+        "beat-up",
+        "facade",
+        "taunt",
+        "fake-tears",
+        "mud-shot",
+        "u-turn",
+        "assurance",
+        "sucker-punch",
+        "dark-pulse",
+        "night-slash",
+        "giga-impact",
+        "nasty-plot",
+        "shadow-claw",
+        "thunder-fang",
+        "ice-fang",
+        "fire-fang",
+        "grass-knot",
+        "hone-claws",
+        "foul-play",
+        "round",
+        "acrobatics",
+        "tail-slap",
+        "snarl",
+        "parting-shot",
+        "play-rough",
+        "burning-jealousy",
+        "lash-out"
+      ],
+      "abilities": [
+        "run-away",
+        "unburden",
+        "stakeout"
+      ],
+      "availability": [
+        "sword",
+        "shield",
+        "brilliant-diamond",
+        "shining-pearl"
+      ],
+      "description": "It secretly marks potential targets with a scent. By following the scent, it stalks its targets and steals from them when they least expect it.",
+      "is_legendary": false,
+      "is_mythical": false,
+      "is_fully_evolved": true,
+      "requires_trade": false
+    },
+    "9": {
+      "types": [
+        "dark"
+      ],
+      "stats": {
+        "generation": 9,
+        "number": 828,
+        "hp": 70,
+        "attack": 58,
+        "defense": 58,
+        "special_attack": 87,
+        "special_defense": 92,
+        "speed": 90
+      },
+      "height": 1.2,
+      "weight": 19.9,
+      "moves": [],
+      "abilities": [
+        "run-away",
+        "unburden",
+        "stakeout"
+      ],
+      "availability": [
+        "scarlet",
+        "violet"
+      ],
+      "description": "It secretly marks potential targets with a scent. By following the scent, it stalks its targets and steals from them when they least expect it.",
+      "is_legendary": false,
+      "is_mythical": false,
+      "is_fully_evolved": true,
+      "requires_trade": false
+    }
+  }
+}

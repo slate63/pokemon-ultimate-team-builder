@@ -1,0 +1,46 @@
+{
+  "id": 582,
+  "name": "electrify",
+  "generations": {
+    "6": {
+      "id": 582,
+      "name": "electrify",
+      "type": "electric",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 20,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "7": {
+      "id": 582,
+      "name": "electrify",
+      "type": "electric",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 20,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "8": {
+      "id": 582,
+      "name": "electrify",
+      "type": "electric",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 20,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "9": {
+      "id": 582,
+      "name": "electrify",
+      "type": "electric",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 20,
+      "priority": 0,
+      "damage_class": "status"
+    }
+  }
+}

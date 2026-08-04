@@ -1,0 +1,258 @@
+{
+  "id": 265,
+  "name": "wurmple",
+  "generations": {
+    "3": {
+      "types": [
+        "bug"
+      ],
+      "stats": {
+        "generation": 3,
+        "number": 265,
+        "hp": 45,
+        "attack": 45,
+        "defense": 35,
+        "special_attack": 20,
+        "special_defense": 30,
+        "speed": 20
+      },
+      "height": 0.3,
+      "weight": 3.6,
+      "moves": [
+        "tackle",
+        "poison-sting",
+        "string-shot"
+      ],
+      "abilities": [
+        "shield-dust",
+        "run-away"
+      ],
+      "availability": [
+        "ruby",
+        "sapphire",
+        "emerald"
+      ],
+      "description": "Using the spikes on its rear end, WURMPLE peels the bark off trees and feeds on the sap that oozes out. This POK\u00e9MON\u2019s feet are tipped with suction pads that allow it to cling to glass without slipping.",
+      "is_legendary": false,
+      "is_mythical": false,
+      "is_fully_evolved": false,
+      "requires_trade": false
+    },
+    "4": {
+      "types": [
+        "bug"
+      ],
+      "stats": {
+        "generation": 4,
+        "number": 265,
+        "hp": 45,
+        "attack": 45,
+        "defense": 35,
+        "special_attack": 20,
+        "special_defense": 30,
+        "speed": 20
+      },
+      "height": 0.3,
+      "weight": 3.6,
+      "moves": [
+        "tackle",
+        "poison-sting",
+        "string-shot",
+        "snore",
+        "bug-bite"
+      ],
+      "abilities": [
+        "shield-dust",
+        "run-away"
+      ],
+      "availability": [
+        "diamond",
+        "pearl",
+        "platinum"
+      ],
+      "description": "Using the spikes on its rear end, WURMPLE peels the bark off trees and feeds on the sap that oozes out. This POK\u00e9MON\u2019s feet are tipped with suction pads that allow it to cling to glass without slipping.",
+      "is_legendary": false,
+      "is_mythical": false,
+      "is_fully_evolved": false,
+      "requires_trade": false
+    },
+    "5": {
+      "types": [
+        "bug"
+      ],
+      "stats": {
+        "generation": 5,
+        "number": 265,
+        "hp": 45,
+        "attack": 45,
+        "defense": 35,
+        "special_attack": 20,
+        "special_defense": 30,
+        "speed": 20
+      },
+      "height": 0.3,
+      "weight": 3.6,
+      "moves": [
+        "tackle",
+        "poison-sting",
+        "string-shot",
+        "snore",
+        "bug-bite",
+        "electroweb"
+      ],
+      "abilities": [
+        "shield-dust",
+        "run-away"
+      ],
+      "availability": [],
+      "description": "Using the spikes on its rear end, WURMPLE peels the bark off trees and feeds on the sap that oozes out. This POK\u00e9MON\u2019s feet are tipped with suction pads that allow it to cling to glass without slipping.",
+      "is_legendary": false,
+      "is_mythical": false,
+      "is_fully_evolved": false,
+      "requires_trade": false
+    },
+    "6": {
+      "types": [
+        "bug"
+      ],
+      "stats": {
+        "generation": 6,
+        "number": 265,
+        "hp": 45,
+        "attack": 45,
+        "defense": 35,
+        "special_attack": 20,
+        "special_defense": 30,
+        "speed": 20
+      },
+      "height": 0.3,
+      "weight": 3.6,
+      "moves": [
+        "tackle",
+        "poison-sting",
+        "string-shot",
+        "snore",
+        "bug-bite",
+        "electroweb"
+      ],
+      "abilities": [
+        "shield-dust",
+        "run-away"
+      ],
+      "availability": [
+        "omega-ruby",
+        "alpha-sapphire"
+      ],
+      "description": "Using the spikes on its rear end, WURMPLE peels the bark off trees and feeds on the sap that oozes out. This POK\u00e9MON\u2019s feet are tipped with suction pads that allow it to cling to glass without slipping.",
+      "is_legendary": false,
+      "is_mythical": false,
+      "is_fully_evolved": false,
+      "requires_trade": false
+    },
+    "7": {
+      "types": [
+        "bug"
+      ],
+      "stats": {
+        "generation": 7,
+        "number": 265,
+        "hp": 45,
+        "attack": 45,
+        "defense": 35,
+        "special_attack": 20,
+        "special_defense": 30,
+        "speed": 20
+      },
+      "height": 0.3,
+      "weight": 3.6,
+      "moves": [
+        "tackle",
+        "poison-sting",
+        "string-shot",
+        "snore",
+        "bug-bite",
+        "electroweb"
+      ],
+      "abilities": [
+        "shield-dust",
+        "run-away"
+      ],
+      "availability": [],
+      "description": "Using the spikes on its rear end, WURMPLE peels the bark off trees and feeds on the sap that oozes out. This POK\u00e9MON\u2019s feet are tipped with suction pads that allow it to cling to glass without slipping.",
+      "is_legendary": false,
+      "is_mythical": false,
+      "is_fully_evolved": false,
+      "requires_trade": false
+    },
+    "8": {
+      "types": [
+        "bug"
+      ],
+      "stats": {
+        "generation": 8,
+        "number": 265,
+        "hp": 45,
+        "attack": 45,
+        "defense": 35,
+        "special_attack": 20,
+        "special_defense": 30,
+        "speed": 20
+      },
+      "height": 0.3,
+      "weight": 3.6,
+      "moves": [
+        "tackle",
+        "poison-sting",
+        "string-shot",
+        "bug-bite"
+      ],
+      "abilities": [
+        "shield-dust",
+        "run-away"
+      ],
+      "availability": [
+        "sword",
+        "shield",
+        "brilliant-diamond",
+        "shining-pearl",
+        "legends-arceus"
+      ],
+      "description": "Using the spikes on its rear end, WURMPLE peels the bark off trees and feeds on the sap that oozes out. This POK\u00e9MON\u2019s feet are tipped with suction pads that allow it to cling to glass without slipping.",
+      "is_legendary": false,
+      "is_mythical": false,
+      "is_fully_evolved": false,
+      "requires_trade": false
+    },
+    "9": {
+      "types": [
+        "bug"
+      ],
+      "stats": {
+        "generation": 9,
+        "number": 265,
+        "hp": 45,
+        "attack": 45,
+        "defense": 35,
+        "special_attack": 20,
+        "special_defense": 30,
+        "speed": 20
+      },
+      "height": 0.3,
+      "weight": 3.6,
+      "moves": [],
+      "abilities": [
+        "shield-dust",
+        "run-away"
+      ],
+      "availability": [
+        "scarlet",
+        "violet"
+      ],
+      "description": "Using the spikes on its rear end, WURMPLE peels the bark off trees and feeds on the sap that oozes out. This POK\u00e9MON\u2019s feet are tipped with suction pads that allow it to cling to glass without slipping.",
+      "is_legendary": false,
+      "is_mythical": false,
+      "is_fully_evolved": false,
+      "requires_trade": false
+    }
+  }
+}

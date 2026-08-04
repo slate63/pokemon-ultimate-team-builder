@@ -1,0 +1,96 @@
+{
+  "id": 15,
+  "name": "cut",
+  "generations": {
+    "1": {
+      "id": 15,
+      "name": "cut",
+      "type": "normal",
+      "power": 50,
+      "accuracy": 95,
+      "pp": 30,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "2": {
+      "id": 15,
+      "name": "cut",
+      "type": "normal",
+      "power": 50,
+      "accuracy": 95,
+      "pp": 30,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "3": {
+      "id": 15,
+      "name": "cut",
+      "type": "normal",
+      "power": 50,
+      "accuracy": 95,
+      "pp": 30,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "4": {
+      "id": 15,
+      "name": "cut",
+      "type": "normal",
+      "power": 50,
+      "accuracy": 95,
+      "pp": 30,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "5": {
+      "id": 15,
+      "name": "cut",
+      "type": "normal",
+      "power": 50,
+      "accuracy": 95,
+      "pp": 30,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "6": {
+      "id": 15,
+      "name": "cut",
+      "type": "normal",
+      "power": 50,
+      "accuracy": 95,
+      "pp": 30,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "7": {
+      "id": 15,
+      "name": "cut",
+      "type": "normal",
+      "power": 50,
+      "accuracy": 95,
+      "pp": 30,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "8": {
+      "id": 15,
+      "name": "cut",
+      "type": "normal",
+      "power": 50,
+      "accuracy": 95,
+      "pp": 30,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "9": {
+      "id": 15,
+      "name": "cut",
+      "type": "normal",
+      "power": 50,
+      "accuracy": 95,
+      "pp": 30,
+      "priority": 0,
+      "damage_class": "physical"
+    }
+  }
+}

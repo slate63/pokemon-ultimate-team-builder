@@ -1,0 +1,66 @@
+{
+  "id": 440,
+  "name": "cross-poison",
+  "generations": {
+    "4": {
+      "id": 440,
+      "name": "cross-poison",
+      "type": "poison",
+      "power": 70,
+      "accuracy": 100,
+      "pp": 20,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "5": {
+      "id": 440,
+      "name": "cross-poison",
+      "type": "poison",
+      "power": 70,
+      "accuracy": 100,
+      "pp": 20,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "6": {
+      "id": 440,
+      "name": "cross-poison",
+      "type": "poison",
+      "power": 70,
+      "accuracy": 100,
+      "pp": 20,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "7": {
+      "id": 440,
+      "name": "cross-poison",
+      "type": "poison",
+      "power": 70,
+      "accuracy": 100,
+      "pp": 20,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "8": {
+      "id": 440,
+      "name": "cross-poison",
+      "type": "poison",
+      "power": 70,
+      "accuracy": 100,
+      "pp": 20,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "9": {
+      "id": 440,
+      "name": "cross-poison",
+      "type": "poison",
+      "power": 70,
+      "accuracy": 100,
+      "pp": 20,
+      "priority": 0,
+      "damage_class": "physical"
+    }
+  }
+}

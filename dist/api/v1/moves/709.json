@@ -1,0 +1,36 @@
+{
+  "id": 709,
+  "name": "accelerock",
+  "generations": {
+    "7": {
+      "id": 709,
+      "name": "accelerock",
+      "type": "rock",
+      "power": 40,
+      "accuracy": 100,
+      "pp": 20,
+      "priority": 1,
+      "damage_class": "physical"
+    },
+    "8": {
+      "id": 709,
+      "name": "accelerock",
+      "type": "rock",
+      "power": 40,
+      "accuracy": 100,
+      "pp": 20,
+      "priority": 1,
+      "damage_class": "physical"
+    },
+    "9": {
+      "id": 709,
+      "name": "accelerock",
+      "type": "rock",
+      "power": 40,
+      "accuracy": 100,
+      "pp": 20,
+      "priority": 1,
+      "damage_class": "physical"
+    }
+  }
+}

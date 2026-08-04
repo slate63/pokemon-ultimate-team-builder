@@ -1,0 +1,36 @@
+{
+  "id": 765,
+  "name": "max-geyser",
+  "generations": {
+    "7": {
+      "id": 765,
+      "name": "max-geyser",
+      "type": "water",
+      "power": 10,
+      "accuracy": 0,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "8": {
+      "id": 765,
+      "name": "max-geyser",
+      "type": "water",
+      "power": 10,
+      "accuracy": 0,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "9": {
+      "id": 765,
+      "name": "max-geyser",
+      "type": "water",
+      "power": 10,
+      "accuracy": 0,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    }
+  }
+}

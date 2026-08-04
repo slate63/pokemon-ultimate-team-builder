@@ -1,0 +1,74 @@
+{
+  "id": 996,
+  "name": "frigibax",
+  "generations": {
+    "9": {
+      "types": [
+        "dragon",
+        "ice"
+      ],
+      "stats": {
+        "generation": 9,
+        "number": 996,
+        "hp": 65,
+        "attack": 75,
+        "defense": 45,
+        "special_attack": 35,
+        "special_defense": 45,
+        "speed": 55
+      },
+      "height": 0.5,
+      "weight": 17.0,
+      "moves": [
+        "swords-dance",
+        "tackle",
+        "body-slam",
+        "take-down",
+        "leer",
+        "bite",
+        "ice-beam",
+        "blizzard",
+        "dig",
+        "focus-energy",
+        "rest",
+        "substitute",
+        "protect",
+        "icy-wind",
+        "outrage",
+        "endure",
+        "sleep-talk",
+        "dragon-breath",
+        "rain-dance",
+        "crunch",
+        "facade",
+        "helping-hand",
+        "icicle-spear",
+        "dragon-claw",
+        "aqua-tail",
+        "dragon-pulse",
+        "dragon-rush",
+        "avalanche",
+        "ice-fang",
+        "draco-meteor",
+        "dragon-tail",
+        "icicle-crash",
+        "freeze-dry",
+        "tera-blast",
+        "snowscape"
+      ],
+      "abilities": [
+        "thermal-exchange",
+        "ice-body"
+      ],
+      "availability": [
+        "scarlet",
+        "violet"
+      ],
+      "description": "Frigibax absorbs heat through its dorsal fin and converts the heat into ice energy. The higher the temperature, the more energy Frigibax stores.",
+      "is_legendary": false,
+      "is_mythical": false,
+      "is_fully_evolved": false,
+      "requires_trade": false
+    }
+  }
+}

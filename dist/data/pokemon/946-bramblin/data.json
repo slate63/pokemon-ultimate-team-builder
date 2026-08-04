@@ -1,0 +1,83 @@
+{
+  "id": 946,
+  "name": "bramblin",
+  "generations": {
+    "9": {
+      "types": [
+        "grass",
+        "ghost"
+      ],
+      "stats": {
+        "generation": 9,
+        "number": 946,
+        "hp": 40,
+        "attack": 65,
+        "defense": 30,
+        "special_attack": 45,
+        "special_defense": 35,
+        "speed": 60
+      },
+      "height": 0.6,
+      "weight": 0.6,
+      "moves": [
+        "disable",
+        "absorb",
+        "mega-drain",
+        "leech-seed",
+        "solar-beam",
+        "night-shade",
+        "confuse-ray",
+        "defense-curl",
+        "rest",
+        "substitute",
+        "thief",
+        "curse",
+        "spite",
+        "protect",
+        "scary-face",
+        "spikes",
+        "giga-drain",
+        "endure",
+        "rollout",
+        "sleep-talk",
+        "pain-split",
+        "rapid-spin",
+        "shadow-ball",
+        "beat-up",
+        "facade",
+        "astonish",
+        "bullet-seed",
+        "block",
+        "seed-bomb",
+        "energy-ball",
+        "shadow-sneak",
+        "leaf-storm",
+        "power-whip",
+        "grass-knot",
+        "hex",
+        "phantom-force",
+        "grassy-terrain",
+        "infestation",
+        "strength-sap",
+        "grassy-glide",
+        "poltergeist",
+        "tera-blast",
+        "pounce",
+        "trailblaze"
+      ],
+      "abilities": [
+        "wind-rider",
+        "infiltrator"
+      ],
+      "availability": [
+        "scarlet",
+        "violet"
+      ],
+      "description": "A soul unable to move on to the afterlife was blown around by the wind until it got tangled up with dried grass and became a Pok\u00e9mon.",
+      "is_legendary": false,
+      "is_mythical": false,
+      "is_fully_evolved": false,
+      "requires_trade": false
+    }
+  }
+}

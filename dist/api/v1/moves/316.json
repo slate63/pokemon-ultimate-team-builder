@@ -1,0 +1,76 @@
+{
+  "id": 316,
+  "name": "odor-sleuth",
+  "generations": {
+    "3": {
+      "id": 316,
+      "name": "odor-sleuth",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 40,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "4": {
+      "id": 316,
+      "name": "odor-sleuth",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 40,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "5": {
+      "id": 316,
+      "name": "odor-sleuth",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 40,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "6": {
+      "id": 316,
+      "name": "odor-sleuth",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 40,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "7": {
+      "id": 316,
+      "name": "odor-sleuth",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 40,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "8": {
+      "id": 316,
+      "name": "odor-sleuth",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 40,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "9": {
+      "id": 316,
+      "name": "odor-sleuth",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 40,
+      "priority": 0,
+      "damage_class": "status"
+    }
+  }
+}

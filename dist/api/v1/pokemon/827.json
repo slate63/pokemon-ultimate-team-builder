@@ -1,0 +1,108 @@
+{
+  "id": 827,
+  "name": "nickit",
+  "generations": {
+    "8": {
+      "types": [
+        "dark"
+      ],
+      "stats": {
+        "generation": 8,
+        "number": 827,
+        "hp": 40,
+        "attack": 28,
+        "defense": 28,
+        "special_attack": 47,
+        "special_defense": 52,
+        "speed": 50
+      },
+      "height": 0.6,
+      "weight": 8.9,
+      "moves": [
+        "tail-whip",
+        "dig",
+        "agility",
+        "quick-attack",
+        "screech",
+        "swift",
+        "rest",
+        "substitute",
+        "thief",
+        "snore",
+        "protect",
+        "endure",
+        "attract",
+        "sleep-talk",
+        "baton-pass",
+        "beat-up",
+        "torment",
+        "facade",
+        "taunt",
+        "knock-off",
+        "fake-tears",
+        "howl",
+        "mud-shot",
+        "assurance",
+        "sucker-punch",
+        "night-slash",
+        "nasty-plot",
+        "hone-claws",
+        "foul-play",
+        "round",
+        "quick-guard",
+        "tail-slap",
+        "snarl",
+        "play-rough",
+        "lash-out"
+      ],
+      "abilities": [
+        "run-away",
+        "unburden",
+        "stakeout"
+      ],
+      "availability": [
+        "sword",
+        "shield",
+        "brilliant-diamond",
+        "shining-pearl"
+      ],
+      "description": "Aided by the soft pads on its feet, it silently raids the food stores of other Pok\u00e9mon. It survives off its ill-gotten gains.",
+      "is_legendary": false,
+      "is_mythical": false,
+      "is_fully_evolved": false,
+      "requires_trade": false
+    },
+    "9": {
+      "types": [
+        "dark"
+      ],
+      "stats": {
+        "generation": 9,
+        "number": 827,
+        "hp": 40,
+        "attack": 28,
+        "defense": 28,
+        "special_attack": 47,
+        "special_defense": 52,
+        "speed": 50
+      },
+      "height": 0.6,
+      "weight": 8.9,
+      "moves": [],
+      "abilities": [
+        "run-away",
+        "unburden",
+        "stakeout"
+      ],
+      "availability": [
+        "scarlet",
+        "violet"
+      ],
+      "description": "Aided by the soft pads on its feet, it silently raids the food stores of other Pok\u00e9mon. It survives off its ill-gotten gains.",
+      "is_legendary": false,
+      "is_mythical": false,
+      "is_fully_evolved": false,
+      "requires_trade": false
+    }
+  }
+}

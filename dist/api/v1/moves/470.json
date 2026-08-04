@@ -1,0 +1,56 @@
+{
+  "id": 470,
+  "name": "guard-split",
+  "generations": {
+    "5": {
+      "id": 470,
+      "name": "guard-split",
+      "type": "psychic",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "6": {
+      "id": 470,
+      "name": "guard-split",
+      "type": "psychic",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "7": {
+      "id": 470,
+      "name": "guard-split",
+      "type": "psychic",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "8": {
+      "id": 470,
+      "name": "guard-split",
+      "type": "psychic",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "9": {
+      "id": 470,
+      "name": "guard-split",
+      "type": "psychic",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "status"
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "id": 324,
+  "name": "signal-beam",
+  "generations": {
+    "3": {
+      "id": 324,
+      "name": "signal-beam",
+      "type": "bug",
+      "power": 75,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "4": {
+      "id": 324,
+      "name": "signal-beam",
+      "type": "bug",
+      "power": 75,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "5": {
+      "id": 324,
+      "name": "signal-beam",
+      "type": "bug",
+      "power": 75,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "6": {
+      "id": 324,
+      "name": "signal-beam",
+      "type": "bug",
+      "power": 75,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "7": {
+      "id": 324,
+      "name": "signal-beam",
+      "type": "bug",
+      "power": 75,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "8": {
+      "id": 324,
+      "name": "signal-beam",
+      "type": "bug",
+      "power": 75,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "9": {
+      "id": 324,
+      "name": "signal-beam",
+      "type": "bug",
+      "power": 75,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "special"
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": 971,
+  "name": "greavard",
+  "generations": {
+    "9": {
+      "types": [
+        "ghost"
+      ],
+      "stats": {
+        "generation": 9,
+        "number": 971,
+        "hp": 50,
+        "attack": 61,
+        "defense": 60,
+        "special_attack": 30,
+        "special_defense": 55,
+        "speed": 34
+      },
+      "height": 0.6,
+      "weight": 35.0,
+      "moves": [
+        "headbutt",
+        "tackle",
+        "take-down",
+        "double-edge",
+        "tail-whip",
+        "bite",
+        "growl",
+        "roar",
+        "disable",
+        "dig",
+        "night-shade",
+        "confuse-ray",
+        "lick",
+        "rest",
+        "substitute",
+        "thief",
+        "protect",
+        "scary-face",
+        "mud-slap",
+        "destiny-bond",
+        "sandstorm",
+        "endure",
+        "charm",
+        "sleep-talk",
+        "pain-split",
+        "rain-dance",
+        "sunny-day",
+        "crunch",
+        "shadow-ball",
+        "uproar",
+        "memento",
+        "facade",
+        "helping-hand",
+        "trick",
+        "yawn",
+        "endeavor",
+        "howl",
+        "mud-shot",
+        "thunder-fang",
+        "ice-fang",
+        "fire-fang",
+        "shadow-sneak",
+        "ally-switch",
+        "hex",
+        "bulldoze",
+        "snarl",
+        "phantom-force",
+        "play-rough",
+        "psychic-fangs",
+        "stomping-tantrum",
+        "poltergeist",
+        "tera-blast"
+      ],
+      "abilities": [
+        "pickup",
+        "fluffy"
+      ],
+      "availability": [
+        "scarlet",
+        "violet"
+      ],
+      "description": "It is said that a dog Pok\u00e9mon that died in the wild without ever interacting with a human was reborn as this Pok\u00e9mon.",
+      "is_legendary": false,
+      "is_mythical": false,
+      "is_fully_evolved": false,
+      "requires_trade": false
+    }
+  }
+}

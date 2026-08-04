@@ -1,0 +1,96 @@
+{
+  "id": 7,
+  "name": "fire-punch",
+  "generations": {
+    "1": {
+      "id": 7,
+      "name": "fire-punch",
+      "type": "fire",
+      "power": 75,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "2": {
+      "id": 7,
+      "name": "fire-punch",
+      "type": "fire",
+      "power": 75,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "3": {
+      "id": 7,
+      "name": "fire-punch",
+      "type": "fire",
+      "power": 75,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "4": {
+      "id": 7,
+      "name": "fire-punch",
+      "type": "fire",
+      "power": 75,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "5": {
+      "id": 7,
+      "name": "fire-punch",
+      "type": "fire",
+      "power": 75,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "6": {
+      "id": 7,
+      "name": "fire-punch",
+      "type": "fire",
+      "power": 75,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "7": {
+      "id": 7,
+      "name": "fire-punch",
+      "type": "fire",
+      "power": 75,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "8": {
+      "id": 7,
+      "name": "fire-punch",
+      "type": "fire",
+      "power": 75,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "9": {
+      "id": 7,
+      "name": "fire-punch",
+      "type": "fire",
+      "power": 75,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "physical"
+    }
+  }
+}

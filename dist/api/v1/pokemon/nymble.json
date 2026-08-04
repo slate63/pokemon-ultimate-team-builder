@@ -1,0 +1,69 @@
+{
+  "id": 919,
+  "name": "nymble",
+  "generations": {
+    "9": {
+      "types": [
+        "bug"
+      ],
+      "stats": {
+        "generation": 9,
+        "number": 919,
+        "hp": 33,
+        "attack": 46,
+        "defense": 40,
+        "special_attack": 21,
+        "special_defense": 25,
+        "speed": 45
+      },
+      "height": 0.2,
+      "weight": 1.0,
+      "moves": [
+        "double-kick",
+        "tackle",
+        "take-down",
+        "leer",
+        "counter",
+        "agility",
+        "screech",
+        "leech-life",
+        "rest",
+        "substitute",
+        "thief",
+        "protect",
+        "endure",
+        "sleep-talk",
+        "rain-dance",
+        "sunny-day",
+        "facade",
+        "astonish",
+        "feint",
+        "u-turn",
+        "assurance",
+        "sucker-punch",
+        "x-scissor",
+        "bug-buzz",
+        "bug-bite",
+        "struggle-bug",
+        "first-impression",
+        "skitter-smack",
+        "tera-blast",
+        "pounce",
+        "trailblaze"
+      ],
+      "abilities": [
+        "swarm",
+        "tinted-lens"
+      ],
+      "availability": [
+        "scarlet",
+        "violet"
+      ],
+      "description": "It has its third set of legs folded up. When it\u2019s in a tough spot, this Pok\u00e9mon jumps over 30 feet using the strength of its legs.",
+      "is_legendary": false,
+      "is_mythical": false,
+      "is_fully_evolved": false,
+      "requires_trade": false
+    }
+  }
+}

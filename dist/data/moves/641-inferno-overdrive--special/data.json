@@ -1,0 +1,46 @@
+{
+  "id": 641,
+  "name": "inferno-overdrive--special",
+  "generations": {
+    "6": {
+      "id": 641,
+      "name": "inferno-overdrive--special",
+      "type": "fire",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 1,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "7": {
+      "id": 641,
+      "name": "inferno-overdrive--special",
+      "type": "fire",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 1,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "8": {
+      "id": 641,
+      "name": "inferno-overdrive--special",
+      "type": "fire",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 1,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "9": {
+      "id": 641,
+      "name": "inferno-overdrive--special",
+      "type": "fire",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 1,
+      "priority": 0,
+      "damage_class": "special"
+    }
+  }
+}

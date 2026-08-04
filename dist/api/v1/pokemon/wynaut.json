@@ -1,0 +1,276 @@
+{
+  "id": 360,
+  "name": "wynaut",
+  "generations": {
+    "3": {
+      "types": [
+        "psychic"
+      ],
+      "stats": {
+        "generation": 3,
+        "number": 360,
+        "hp": 95,
+        "attack": 23,
+        "defense": 48,
+        "special_attack": 23,
+        "special_defense": 48,
+        "speed": 23
+      },
+      "height": 0.6,
+      "weight": 14.0,
+      "moves": [
+        "counter",
+        "splash",
+        "destiny-bond",
+        "charm",
+        "safeguard",
+        "encore",
+        "mirror-coat"
+      ],
+      "abilities": [
+        "shadow-tag",
+        "telepathy"
+      ],
+      "availability": [
+        "ruby",
+        "sapphire",
+        "emerald",
+        "firered",
+        "leafgreen"
+      ],
+      "description": "WYNAUT can always be seen with a big, happy smile on its face. Look at its tail to determine if it is angry. When angered, this POK\u00e9MON will be slapping the ground with its tail.",
+      "is_legendary": false,
+      "is_mythical": false,
+      "is_fully_evolved": false,
+      "requires_trade": false
+    },
+    "4": {
+      "types": [
+        "psychic"
+      ],
+      "stats": {
+        "generation": 4,
+        "number": 360,
+        "hp": 95,
+        "attack": 23,
+        "defense": 48,
+        "special_attack": 23,
+        "special_defense": 48,
+        "speed": 23
+      },
+      "height": 0.6,
+      "weight": 14.0,
+      "moves": [
+        "counter",
+        "splash",
+        "destiny-bond",
+        "charm",
+        "safeguard",
+        "encore",
+        "mirror-coat"
+      ],
+      "abilities": [
+        "shadow-tag",
+        "telepathy"
+      ],
+      "availability": [
+        "diamond",
+        "pearl",
+        "platinum",
+        "heartgold",
+        "soulsilver"
+      ],
+      "description": "WYNAUT can always be seen with a big, happy smile on its face. Look at its tail to determine if it is angry. When angered, this POK\u00e9MON will be slapping the ground with its tail.",
+      "is_legendary": false,
+      "is_mythical": false,
+      "is_fully_evolved": false,
+      "requires_trade": false
+    },
+    "5": {
+      "types": [
+        "psychic"
+      ],
+      "stats": {
+        "generation": 5,
+        "number": 360,
+        "hp": 95,
+        "attack": 23,
+        "defense": 48,
+        "special_attack": 23,
+        "special_defense": 48,
+        "speed": 23
+      },
+      "height": 0.6,
+      "weight": 14.0,
+      "moves": [
+        "counter",
+        "splash",
+        "destiny-bond",
+        "charm",
+        "safeguard",
+        "encore",
+        "mirror-coat"
+      ],
+      "abilities": [
+        "shadow-tag",
+        "telepathy"
+      ],
+      "availability": [],
+      "description": "WYNAUT can always be seen with a big, happy smile on its face. Look at its tail to determine if it is angry. When angered, this POK\u00e9MON will be slapping the ground with its tail.",
+      "is_legendary": false,
+      "is_mythical": false,
+      "is_fully_evolved": false,
+      "requires_trade": false
+    },
+    "6": {
+      "types": [
+        "psychic"
+      ],
+      "stats": {
+        "generation": 6,
+        "number": 360,
+        "hp": 95,
+        "attack": 23,
+        "defense": 48,
+        "special_attack": 23,
+        "special_defense": 48,
+        "speed": 23
+      },
+      "height": 0.6,
+      "weight": 14.0,
+      "moves": [
+        "counter",
+        "splash",
+        "destiny-bond",
+        "charm",
+        "safeguard",
+        "encore",
+        "mirror-coat"
+      ],
+      "abilities": [
+        "shadow-tag",
+        "telepathy"
+      ],
+      "availability": [
+        "x",
+        "y",
+        "omega-ruby",
+        "alpha-sapphire"
+      ],
+      "description": "WYNAUT can always be seen with a big, happy smile on its face. Look at its tail to determine if it is angry. When angered, this POK\u00e9MON will be slapping the ground with its tail.",
+      "is_legendary": false,
+      "is_mythical": false,
+      "is_fully_evolved": false,
+      "requires_trade": false
+    },
+    "7": {
+      "types": [
+        "psychic"
+      ],
+      "stats": {
+        "generation": 7,
+        "number": 360,
+        "hp": 95,
+        "attack": 23,
+        "defense": 48,
+        "special_attack": 23,
+        "special_defense": 48,
+        "speed": 23
+      },
+      "height": 0.6,
+      "weight": 14.0,
+      "moves": [
+        "counter",
+        "splash",
+        "destiny-bond",
+        "charm",
+        "safeguard",
+        "encore",
+        "mirror-coat"
+      ],
+      "abilities": [
+        "shadow-tag",
+        "telepathy"
+      ],
+      "availability": [],
+      "description": "WYNAUT can always be seen with a big, happy smile on its face. Look at its tail to determine if it is angry. When angered, this POK\u00e9MON will be slapping the ground with its tail.",
+      "is_legendary": false,
+      "is_mythical": false,
+      "is_fully_evolved": false,
+      "requires_trade": false
+    },
+    "8": {
+      "types": [
+        "psychic"
+      ],
+      "stats": {
+        "generation": 8,
+        "number": 360,
+        "hp": 95,
+        "attack": 23,
+        "defense": 48,
+        "special_attack": 23,
+        "special_defense": 48,
+        "speed": 23
+      },
+      "height": 0.6,
+      "weight": 14.0,
+      "moves": [
+        "counter",
+        "amnesia",
+        "splash",
+        "destiny-bond",
+        "charm",
+        "safeguard",
+        "encore",
+        "mirror-coat"
+      ],
+      "abilities": [
+        "shadow-tag",
+        "telepathy"
+      ],
+      "availability": [
+        "sword",
+        "shield",
+        "brilliant-diamond",
+        "shining-pearl"
+      ],
+      "description": "WYNAUT can always be seen with a big, happy smile on its face. Look at its tail to determine if it is angry. When angered, this POK\u00e9MON will be slapping the ground with its tail.",
+      "is_legendary": false,
+      "is_mythical": false,
+      "is_fully_evolved": false,
+      "requires_trade": false
+    },
+    "9": {
+      "types": [
+        "psychic"
+      ],
+      "stats": {
+        "generation": 9,
+        "number": 360,
+        "hp": 95,
+        "attack": 23,
+        "defense": 48,
+        "special_attack": 23,
+        "special_defense": 48,
+        "speed": 23
+      },
+      "height": 0.6,
+      "weight": 14.0,
+      "moves": [],
+      "abilities": [
+        "shadow-tag",
+        "telepathy"
+      ],
+      "availability": [
+        "scarlet",
+        "violet"
+      ],
+      "description": "WYNAUT can always be seen with a big, happy smile on its face. Look at its tail to determine if it is angry. When angered, this POK\u00e9MON will be slapping the ground with its tail.",
+      "is_legendary": false,
+      "is_mythical": false,
+      "is_fully_evolved": false,
+      "requires_trade": false
+    }
+  }
+}

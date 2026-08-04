@@ -1,0 +1,66 @@
+{
+  "id": 380,
+  "name": "gastro-acid",
+  "generations": {
+    "4": {
+      "id": 380,
+      "name": "gastro-acid",
+      "type": "poison",
+      "power": 0,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "5": {
+      "id": 380,
+      "name": "gastro-acid",
+      "type": "poison",
+      "power": 0,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "6": {
+      "id": 380,
+      "name": "gastro-acid",
+      "type": "poison",
+      "power": 0,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "7": {
+      "id": 380,
+      "name": "gastro-acid",
+      "type": "poison",
+      "power": 0,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "8": {
+      "id": 380,
+      "name": "gastro-acid",
+      "type": "poison",
+      "power": 0,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "9": {
+      "id": 380,
+      "name": "gastro-acid",
+      "type": "poison",
+      "power": 0,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "status"
+    }
+  }
+}

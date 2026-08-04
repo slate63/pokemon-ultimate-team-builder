@@ -1,0 +1,16 @@
+{
+  "id": 909,
+  "name": "thunderclap",
+  "generations": {
+    "9": {
+      "id": 909,
+      "name": "thunderclap",
+      "type": "electric",
+      "power": 70,
+      "accuracy": 100,
+      "pp": 5,
+      "priority": 1,
+      "damage_class": "special"
+    }
+  }
+}

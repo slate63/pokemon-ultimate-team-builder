@@ -1,0 +1,26 @@
+{
+  "id": 850,
+  "name": "take-heart",
+  "generations": {
+    "8": {
+      "id": 850,
+      "name": "take-heart",
+      "type": "psychic",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "9": {
+      "id": 850,
+      "name": "take-heart",
+      "type": "psychic",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "status"
+    }
+  }
+}

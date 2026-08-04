@@ -84,6 +84,7 @@ export function resolvePokemon(pokemon: Pokemon, activeGen: number): ResolvedPok
     is_legendary: genData.is_legendary,
     is_mythical: genData.is_mythical,
     is_fully_evolved: genData.is_fully_evolved,
+    requires_trade: genData.requires_trade || false,
     sprite: pokemon.sprite,
     sprite_shiny: pokemon.sprite_shiny,
     back_sprite: pokemon.back_sprite,

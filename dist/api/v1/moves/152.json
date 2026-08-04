@@ -1,0 +1,96 @@
+{
+  "id": 152,
+  "name": "crabhammer",
+  "generations": {
+    "1": {
+      "id": 152,
+      "name": "crabhammer",
+      "type": "water",
+      "power": 100,
+      "accuracy": 85,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "2": {
+      "id": 152,
+      "name": "crabhammer",
+      "type": "water",
+      "power": 100,
+      "accuracy": 85,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "3": {
+      "id": 152,
+      "name": "crabhammer",
+      "type": "water",
+      "power": 100,
+      "accuracy": 85,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "4": {
+      "id": 152,
+      "name": "crabhammer",
+      "type": "water",
+      "power": 100,
+      "accuracy": 85,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "5": {
+      "id": 152,
+      "name": "crabhammer",
+      "type": "water",
+      "power": 100,
+      "accuracy": 85,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "6": {
+      "id": 152,
+      "name": "crabhammer",
+      "type": "water",
+      "power": 90,
+      "accuracy": 90,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "7": {
+      "id": 152,
+      "name": "crabhammer",
+      "type": "water",
+      "power": 100,
+      "accuracy": 90,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "8": {
+      "id": 152,
+      "name": "crabhammer",
+      "type": "water",
+      "power": 100,
+      "accuracy": 90,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "9": {
+      "id": 152,
+      "name": "crabhammer",
+      "type": "water",
+      "power": 100,
+      "accuracy": 90,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    }
+  }
+}

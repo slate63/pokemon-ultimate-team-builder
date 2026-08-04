@@ -1,0 +1,203 @@
+{
+  "id": 734,
+  "name": "yungoos",
+  "generations": {
+    "7": {
+      "types": [
+        "normal"
+      ],
+      "stats": {
+        "generation": 7,
+        "number": 734,
+        "hp": 48,
+        "attack": 70,
+        "defense": 30,
+        "special_attack": 30,
+        "special_defense": 30,
+        "speed": 45
+      },
+      "height": 0.4,
+      "weight": 6.0,
+      "moves": [
+        "sand-attack",
+        "tackle",
+        "take-down",
+        "thrash",
+        "leer",
+        "bite",
+        "earthquake",
+        "toxic",
+        "double-team",
+        "bide",
+        "rest",
+        "hyper-fang",
+        "super-fang",
+        "substitute",
+        "thief",
+        "snore",
+        "protect",
+        "scary-face",
+        "mud-slap",
+        "sandstorm",
+        "swagger",
+        "attract",
+        "sleep-talk",
+        "return",
+        "frustration",
+        "pursuit",
+        "iron-tail",
+        "hidden-power",
+        "crunch",
+        "uproar",
+        "torment",
+        "facade",
+        "taunt",
+        "revenge",
+        "yawn",
+        "endeavor",
+        "odor-sleuth",
+        "rock-tomb",
+        "shock-wave",
+        "u-turn",
+        "payback",
+        "last-resort",
+        "thunder-fang",
+        "ice-fang",
+        "fire-fang",
+        "round",
+        "echoed-voice",
+        "work-up",
+        "confide",
+        "stomping-tantrum"
+      ],
+      "abilities": [
+        "stakeout",
+        "strong-jaw",
+        "adaptability"
+      ],
+      "availability": [
+        "sun",
+        "moon",
+        "ultra-sun",
+        "ultra-moon"
+      ],
+      "description": "With its sharp fangs, it will bite anything. It did not originally live in Alola but was imported from another region.",
+      "is_legendary": false,
+      "is_mythical": false,
+      "is_fully_evolved": true,
+      "requires_trade": false
+    },
+    "8": {
+      "types": [
+        "normal"
+      ],
+      "stats": {
+        "generation": 8,
+        "number": 734,
+        "hp": 48,
+        "attack": 70,
+        "defense": 30,
+        "special_attack": 30,
+        "special_defense": 30,
+        "speed": 45
+      },
+      "height": 0.4,
+      "weight": 6.0,
+      "moves": [],
+      "abilities": [
+        "stakeout",
+        "strong-jaw",
+        "adaptability"
+      ],
+      "availability": [
+        "sword",
+        "shield",
+        "brilliant-diamond",
+        "shining-pearl"
+      ],
+      "description": "With its sharp fangs, it will bite anything. It did not originally live in Alola but was imported from another region.",
+      "is_legendary": false,
+      "is_mythical": false,
+      "is_fully_evolved": true,
+      "requires_trade": false
+    },
+    "9": {
+      "types": [
+        "normal"
+      ],
+      "stats": {
+        "generation": 9,
+        "number": 734,
+        "hp": 48,
+        "attack": 70,
+        "defense": 30,
+        "special_attack": 30,
+        "special_defense": 30,
+        "speed": 45
+      },
+      "height": 0.4,
+      "weight": 6.0,
+      "moves": [
+        "sand-attack",
+        "tackle",
+        "take-down",
+        "thrash",
+        "double-edge",
+        "leer",
+        "bite",
+        "dig",
+        "rest",
+        "super-fang",
+        "substitute",
+        "thief",
+        "reversal",
+        "protect",
+        "scary-face",
+        "mud-slap",
+        "sandstorm",
+        "endure",
+        "sleep-talk",
+        "rain-dance",
+        "sunny-day",
+        "crunch",
+        "facade",
+        "taunt",
+        "helping-hand",
+        "yawn",
+        "endeavor",
+        "rock-tomb",
+        "mud-shot",
+        "u-turn",
+        "payback",
+        "last-resort",
+        "seed-bomb",
+        "thunder-fang",
+        "ice-fang",
+        "fire-fang",
+        "zen-headbutt",
+        "bulldoze",
+        "work-up",
+        "wild-charge",
+        "psychic-fangs",
+        "stomping-tantrum",
+        "tera-blast",
+        "trailblaze",
+        "chilling-water"
+      ],
+      "abilities": [
+        "stakeout",
+        "strong-jaw",
+        "adaptability"
+      ],
+      "availability": [
+        "scarlet",
+        "violet"
+      ],
+      "description": "With its sharp fangs, it will bite anything. It did not originally live in Alola but was imported from another region.",
+      "is_legendary": false,
+      "is_mythical": false,
+      "is_fully_evolved": true,
+      "requires_trade": false
+    }
+  }
+}

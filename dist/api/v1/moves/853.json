@@ -1,0 +1,26 @@
+{
+  "id": 853,
+  "name": "axe-kick",
+  "generations": {
+    "8": {
+      "id": 853,
+      "name": "axe-kick",
+      "type": "fighting",
+      "power": 120,
+      "accuracy": 90,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "9": {
+      "id": 853,
+      "name": "axe-kick",
+      "type": "fighting",
+      "power": 120,
+      "accuracy": 90,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    }
+  }
+}

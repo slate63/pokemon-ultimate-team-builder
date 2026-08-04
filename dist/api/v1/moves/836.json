@@ -1,0 +1,26 @@
+{
+  "id": 836,
+  "name": "mountain-gale",
+  "generations": {
+    "8": {
+      "id": 836,
+      "name": "mountain-gale",
+      "type": "ice",
+      "power": 100,
+      "accuracy": 85,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "9": {
+      "id": 836,
+      "name": "mountain-gale",
+      "type": "ice",
+      "power": 100,
+      "accuracy": 85,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "id": 97,
+  "name": "agility",
+  "generations": {
+    "1": {
+      "id": 97,
+      "name": "agility",
+      "type": "psychic",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 30,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "2": {
+      "id": 97,
+      "name": "agility",
+      "type": "psychic",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 30,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "3": {
+      "id": 97,
+      "name": "agility",
+      "type": "psychic",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 30,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "4": {
+      "id": 97,
+      "name": "agility",
+      "type": "psychic",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 30,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "5": {
+      "id": 97,
+      "name": "agility",
+      "type": "psychic",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 30,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "6": {
+      "id": 97,
+      "name": "agility",
+      "type": "psychic",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 30,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "7": {
+      "id": 97,
+      "name": "agility",
+      "type": "psychic",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 30,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "8": {
+      "id": 97,
+      "name": "agility",
+      "type": "psychic",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 30,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "9": {
+      "id": 97,
+      "name": "agility",
+      "type": "psychic",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 30,
+      "priority": 0,
+      "damage_class": "status"
+    }
+  }
+}

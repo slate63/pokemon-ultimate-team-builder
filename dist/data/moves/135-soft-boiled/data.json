@@ -1,0 +1,96 @@
+{
+  "id": 135,
+  "name": "soft-boiled",
+  "generations": {
+    "1": {
+      "id": 135,
+      "name": "soft-boiled",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "2": {
+      "id": 135,
+      "name": "soft-boiled",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "3": {
+      "id": 135,
+      "name": "soft-boiled",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "4": {
+      "id": 135,
+      "name": "soft-boiled",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "5": {
+      "id": 135,
+      "name": "soft-boiled",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "6": {
+      "id": 135,
+      "name": "soft-boiled",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "7": {
+      "id": 135,
+      "name": "soft-boiled",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "8": {
+      "id": 135,
+      "name": "soft-boiled",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "9": {
+      "id": 135,
+      "name": "soft-boiled",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "status"
+    }
+  }
+}

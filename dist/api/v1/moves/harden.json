@@ -1,0 +1,96 @@
+{
+  "id": 106,
+  "name": "harden",
+  "generations": {
+    "1": {
+      "id": 106,
+      "name": "harden",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 30,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "2": {
+      "id": 106,
+      "name": "harden",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 30,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "3": {
+      "id": 106,
+      "name": "harden",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 30,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "4": {
+      "id": 106,
+      "name": "harden",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 30,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "5": {
+      "id": 106,
+      "name": "harden",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 30,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "6": {
+      "id": 106,
+      "name": "harden",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 30,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "7": {
+      "id": 106,
+      "name": "harden",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 30,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "8": {
+      "id": 106,
+      "name": "harden",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 30,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "9": {
+      "id": 106,
+      "name": "harden",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 30,
+      "priority": 0,
+      "damage_class": "status"
+    }
+  }
+}

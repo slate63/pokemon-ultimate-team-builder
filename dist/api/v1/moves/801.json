@@ -1,0 +1,26 @@
+{
+  "id": 801,
+  "name": "shell-side-arm",
+  "generations": {
+    "8": {
+      "id": 801,
+      "name": "shell-side-arm",
+      "type": "poison",
+      "power": 90,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "9": {
+      "id": 801,
+      "name": "shell-side-arm",
+      "type": "poison",
+      "power": 90,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "special"
+    }
+  }
+}

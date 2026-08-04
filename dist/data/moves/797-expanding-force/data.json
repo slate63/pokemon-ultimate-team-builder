@@ -1,0 +1,26 @@
+{
+  "id": 797,
+  "name": "expanding-force",
+  "generations": {
+    "8": {
+      "id": 797,
+      "name": "expanding-force",
+      "type": "psychic",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "9": {
+      "id": 797,
+      "name": "expanding-force",
+      "type": "psychic",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "special"
+    }
+  }
+}

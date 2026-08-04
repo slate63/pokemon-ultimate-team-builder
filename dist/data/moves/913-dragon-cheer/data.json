@@ -1,0 +1,16 @@
+{
+  "id": 913,
+  "name": "dragon-cheer",
+  "generations": {
+    "9": {
+      "id": 913,
+      "name": "dragon-cheer",
+      "type": "dragon",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "status"
+    }
+  }
+}

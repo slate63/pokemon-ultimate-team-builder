@@ -1,0 +1,26 @@
+{
+  "id": 819,
+  "name": "thunder-cage",
+  "generations": {
+    "8": {
+      "id": 819,
+      "name": "thunder-cage",
+      "type": "electric",
+      "power": 80,
+      "accuracy": 90,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "9": {
+      "id": 819,
+      "name": "thunder-cage",
+      "type": "electric",
+      "power": 80,
+      "accuracy": 90,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "special"
+    }
+  }
+}

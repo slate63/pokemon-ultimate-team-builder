@@ -1,0 +1,26 @@
+{
+  "id": 873,
+  "name": "raging-bull",
+  "generations": {
+    "8": {
+      "id": 873,
+      "name": "raging-bull",
+      "type": "normal",
+      "power": 90,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "9": {
+      "id": 873,
+      "name": "raging-bull",
+      "type": "normal",
+      "power": 90,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    }
+  }
+}

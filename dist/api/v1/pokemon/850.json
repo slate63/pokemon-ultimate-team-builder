@@ -1,0 +1,112 @@
+{
+  "id": 850,
+  "name": "sizzlipede",
+  "generations": {
+    "8": {
+      "types": [
+        "fire",
+        "bug"
+      ],
+      "stats": {
+        "generation": 8,
+        "number": 850,
+        "hp": 50,
+        "attack": 65,
+        "defense": 45,
+        "special_attack": 50,
+        "special_defense": 50,
+        "speed": 45
+      },
+      "height": 0.7,
+      "weight": 1.0,
+      "moves": [
+        "slam",
+        "wrap",
+        "bite",
+        "ember",
+        "fire-spin",
+        "smokescreen",
+        "defense-curl",
+        "leech-life",
+        "rest",
+        "substitute",
+        "flame-wheel",
+        "snore",
+        "protect",
+        "endure",
+        "rollout",
+        "attract",
+        "sleep-talk",
+        "sunny-day",
+        "crunch",
+        "heat-wave",
+        "facade",
+        "knock-off",
+        "bug-buzz",
+        "power-whip",
+        "bug-bite",
+        "venoshock",
+        "coil",
+        "round",
+        "scald",
+        "struggle-bug",
+        "heat-crash",
+        "lunge",
+        "fire-lash",
+        "burn-up",
+        "brutal-swing",
+        "skitter-smack",
+        "scorching-sands"
+      ],
+      "abilities": [
+        "flash-fire",
+        "white-smoke",
+        "flame-body"
+      ],
+      "availability": [
+        "sword",
+        "shield",
+        "brilliant-diamond",
+        "shining-pearl"
+      ],
+      "description": "It stores flammable gas in its body and uses it to generate heat. The yellow sections on its belly get particularly hot.",
+      "is_legendary": false,
+      "is_mythical": false,
+      "is_fully_evolved": false,
+      "requires_trade": false
+    },
+    "9": {
+      "types": [
+        "fire",
+        "bug"
+      ],
+      "stats": {
+        "generation": 9,
+        "number": 850,
+        "hp": 50,
+        "attack": 65,
+        "defense": 45,
+        "special_attack": 50,
+        "special_defense": 50,
+        "speed": 45
+      },
+      "height": 0.7,
+      "weight": 1.0,
+      "moves": [],
+      "abilities": [
+        "flash-fire",
+        "white-smoke",
+        "flame-body"
+      ],
+      "availability": [
+        "scarlet",
+        "violet"
+      ],
+      "description": "It stores flammable gas in its body and uses it to generate heat. The yellow sections on its belly get particularly hot.",
+      "is_legendary": false,
+      "is_mythical": false,
+      "is_fully_evolved": false,
+      "requires_trade": false
+    }
+  }
+}

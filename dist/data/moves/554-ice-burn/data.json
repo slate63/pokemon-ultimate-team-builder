@@ -1,0 +1,56 @@
+{
+  "id": 554,
+  "name": "ice-burn",
+  "generations": {
+    "5": {
+      "id": 554,
+      "name": "ice-burn",
+      "type": "ice",
+      "power": 140,
+      "accuracy": 90,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "6": {
+      "id": 554,
+      "name": "ice-burn",
+      "type": "ice",
+      "power": 140,
+      "accuracy": 90,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "7": {
+      "id": 554,
+      "name": "ice-burn",
+      "type": "ice",
+      "power": 140,
+      "accuracy": 90,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "8": {
+      "id": 554,
+      "name": "ice-burn",
+      "type": "ice",
+      "power": 140,
+      "accuracy": 90,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "9": {
+      "id": 554,
+      "name": "ice-burn",
+      "type": "ice",
+      "power": 140,
+      "accuracy": 90,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "special"
+    }
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "id": 789,
+  "name": "cosmog",
+  "generations": {
+    "7": {
+      "types": [
+        "psychic"
+      ],
+      "stats": {
+        "generation": 7,
+        "number": 789,
+        "hp": 43,
+        "attack": 29,
+        "defense": 31,
+        "special_attack": 29,
+        "special_defense": 31,
+        "speed": 37
+      },
+      "height": 0.2,
+      "weight": 0.1,
+      "moves": [
+        "teleport",
+        "splash"
+      ],
+      "abilities": [
+        "unaware"
+      ],
+      "availability": [
+        "sun",
+        "moon",
+        "ultra-sun",
+        "ultra-moon"
+      ],
+      "description": "Its body is gaseous and frail. It slowly grows as it collects dust from the atmosphere.",
+      "is_legendary": true,
+      "is_mythical": false,
+      "is_fully_evolved": false,
+      "requires_trade": false
+    },
+    "8": {
+      "types": [
+        "psychic"
+      ],
+      "stats": {
+        "generation": 8,
+        "number": 789,
+        "hp": 43,
+        "attack": 29,
+        "defense": 31,
+        "special_attack": 29,
+        "special_defense": 31,
+        "speed": 37
+      },
+      "height": 0.2,
+      "weight": 0.1,
+      "moves": [
+        "teleport",
+        "splash"
+      ],
+      "abilities": [
+        "unaware"
+      ],
+      "availability": [
+        "sword",
+        "shield",
+        "brilliant-diamond",
+        "shining-pearl"
+      ],
+      "description": "Its body is gaseous and frail. It slowly grows as it collects dust from the atmosphere.",
+      "is_legendary": true,
+      "is_mythical": false,
+      "is_fully_evolved": false,
+      "requires_trade": false
+    },
+    "9": {
+      "types": [
+        "psychic"
+      ],
+      "stats": {
+        "generation": 9,
+        "number": 789,
+        "hp": 43,
+        "attack": 29,
+        "defense": 31,
+        "special_attack": 29,
+        "special_defense": 31,
+        "speed": 37
+      },
+      "height": 0.2,
+      "weight": 0.1,
+      "moves": [
+        "teleport",
+        "splash"
+      ],
+      "abilities": [
+        "unaware"
+      ],
+      "availability": [
+        "scarlet",
+        "violet"
+      ],
+      "description": "Its body is gaseous and frail. It slowly grows as it collects dust from the atmosphere.",
+      "is_legendary": true,
+      "is_mythical": false,
+      "is_fully_evolved": false,
+      "requires_trade": false
+    }
+  }
+}

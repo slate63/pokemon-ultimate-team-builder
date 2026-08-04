@@ -1,0 +1,56 @@
+{
+  "id": 530,
+  "name": "dual-chop",
+  "generations": {
+    "5": {
+      "id": 530,
+      "name": "dual-chop",
+      "type": "dragon",
+      "power": 40,
+      "accuracy": 90,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "6": {
+      "id": 530,
+      "name": "dual-chop",
+      "type": "dragon",
+      "power": 40,
+      "accuracy": 90,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "7": {
+      "id": 530,
+      "name": "dual-chop",
+      "type": "dragon",
+      "power": 40,
+      "accuracy": 90,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "8": {
+      "id": 530,
+      "name": "dual-chop",
+      "type": "dragon",
+      "power": 40,
+      "accuracy": 90,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "9": {
+      "id": 530,
+      "name": "dual-chop",
+      "type": "dragon",
+      "power": 40,
+      "accuracy": 90,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "physical"
+    }
+  }
+}

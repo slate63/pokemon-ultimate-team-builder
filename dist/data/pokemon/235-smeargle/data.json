@@ -1,0 +1,281 @@
+{
+  "id": 235,
+  "name": "smeargle",
+  "generations": {
+    "2": {
+      "types": [
+        "normal"
+      ],
+      "stats": {
+        "generation": 2,
+        "number": 235,
+        "hp": 55,
+        "attack": 20,
+        "defense": 35,
+        "special_attack": 20,
+        "special_defense": 45,
+        "speed": 75
+      },
+      "height": 1.2,
+      "weight": 58.0,
+      "moves": [
+        "sketch"
+      ],
+      "availability": [
+        "gold",
+        "silver",
+        "crystal"
+      ],
+      "description": "A special fluid oozes from the tip of its tail. It paints the fluid everywhere to mark its territory.",
+      "is_legendary": false,
+      "is_mythical": false,
+      "is_fully_evolved": true,
+      "requires_trade": false
+    },
+    "3": {
+      "types": [
+        "normal"
+      ],
+      "stats": {
+        "generation": 3,
+        "number": 235,
+        "hp": 55,
+        "attack": 20,
+        "defense": 35,
+        "special_attack": 20,
+        "special_defense": 45,
+        "speed": 75
+      },
+      "height": 1.2,
+      "weight": 58.0,
+      "moves": [
+        "sketch"
+      ],
+      "abilities": [
+        "own-tempo",
+        "technician",
+        "moody"
+      ],
+      "availability": [
+        "emerald",
+        "firered",
+        "leafgreen"
+      ],
+      "description": "A special fluid oozes from the tip of its tail. It paints the fluid everywhere to mark its territory.",
+      "is_legendary": false,
+      "is_mythical": false,
+      "is_fully_evolved": true,
+      "requires_trade": false
+    },
+    "4": {
+      "types": [
+        "normal"
+      ],
+      "stats": {
+        "generation": 4,
+        "number": 235,
+        "hp": 55,
+        "attack": 20,
+        "defense": 35,
+        "special_attack": 20,
+        "special_defense": 45,
+        "speed": 75
+      },
+      "height": 1.2,
+      "weight": 58.0,
+      "moves": [
+        "sketch"
+      ],
+      "abilities": [
+        "own-tempo",
+        "technician",
+        "moody"
+      ],
+      "availability": [
+        "diamond",
+        "pearl",
+        "platinum",
+        "heartgold",
+        "soulsilver"
+      ],
+      "description": "A special fluid oozes from the tip of its tail. It paints the fluid everywhere to mark its territory.",
+      "is_legendary": false,
+      "is_mythical": false,
+      "is_fully_evolved": true,
+      "requires_trade": false
+    },
+    "5": {
+      "types": [
+        "normal"
+      ],
+      "stats": {
+        "generation": 5,
+        "number": 235,
+        "hp": 55,
+        "attack": 20,
+        "defense": 35,
+        "special_attack": 20,
+        "special_defense": 45,
+        "speed": 75
+      },
+      "height": 1.2,
+      "weight": 58.0,
+      "moves": [
+        "sketch"
+      ],
+      "abilities": [
+        "own-tempo",
+        "technician",
+        "moody"
+      ],
+      "availability": [],
+      "description": "A special fluid oozes from the tip of its tail. It paints the fluid everywhere to mark its territory.",
+      "is_legendary": false,
+      "is_mythical": false,
+      "is_fully_evolved": true,
+      "requires_trade": false
+    },
+    "6": {
+      "types": [
+        "normal"
+      ],
+      "stats": {
+        "generation": 6,
+        "number": 235,
+        "hp": 55,
+        "attack": 20,
+        "defense": 35,
+        "special_attack": 20,
+        "special_defense": 45,
+        "speed": 75
+      },
+      "height": 1.2,
+      "weight": 58.0,
+      "moves": [
+        "sketch"
+      ],
+      "abilities": [
+        "own-tempo",
+        "technician",
+        "moody"
+      ],
+      "availability": [
+        "x",
+        "y",
+        "omega-ruby",
+        "alpha-sapphire"
+      ],
+      "description": "A special fluid oozes from the tip of its tail. It paints the fluid everywhere to mark its territory.",
+      "is_legendary": false,
+      "is_mythical": false,
+      "is_fully_evolved": true,
+      "requires_trade": false
+    },
+    "7": {
+      "types": [
+        "normal"
+      ],
+      "stats": {
+        "generation": 7,
+        "number": 235,
+        "hp": 55,
+        "attack": 20,
+        "defense": 35,
+        "special_attack": 20,
+        "special_defense": 45,
+        "speed": 75
+      },
+      "height": 1.2,
+      "weight": 58.0,
+      "moves": [
+        "sketch"
+      ],
+      "abilities": [
+        "own-tempo",
+        "technician",
+        "moody"
+      ],
+      "availability": [
+        "sun",
+        "moon",
+        "ultra-sun",
+        "ultra-moon"
+      ],
+      "description": "A special fluid oozes from the tip of its tail. It paints the fluid everywhere to mark its territory.",
+      "is_legendary": false,
+      "is_mythical": false,
+      "is_fully_evolved": true,
+      "requires_trade": false
+    },
+    "8": {
+      "types": [
+        "normal"
+      ],
+      "stats": {
+        "generation": 8,
+        "number": 235,
+        "hp": 55,
+        "attack": 20,
+        "defense": 35,
+        "special_attack": 20,
+        "special_defense": 45,
+        "speed": 75
+      },
+      "height": 1.2,
+      "weight": 58.0,
+      "moves": [
+        "sketch"
+      ],
+      "abilities": [
+        "own-tempo",
+        "technician",
+        "moody"
+      ],
+      "availability": [
+        "sword",
+        "shield",
+        "brilliant-diamond",
+        "shining-pearl"
+      ],
+      "description": "A special fluid oozes from the tip of its tail. It paints the fluid everywhere to mark its territory.",
+      "is_legendary": false,
+      "is_mythical": false,
+      "is_fully_evolved": true,
+      "requires_trade": false
+    },
+    "9": {
+      "types": [
+        "normal"
+      ],
+      "stats": {
+        "generation": 9,
+        "number": 235,
+        "hp": 55,
+        "attack": 20,
+        "defense": 35,
+        "special_attack": 20,
+        "special_defense": 45,
+        "speed": 75
+      },
+      "height": 1.2,
+      "weight": 58.0,
+      "moves": [
+        "sketch"
+      ],
+      "abilities": [
+        "own-tempo",
+        "technician",
+        "moody"
+      ],
+      "availability": [
+        "scarlet",
+        "violet"
+      ],
+      "description": "A special fluid oozes from the tip of its tail. It paints the fluid everywhere to mark its territory.",
+      "is_legendary": false,
+      "is_mythical": false,
+      "is_fully_evolved": true,
+      "requires_trade": false
+    }
+  }
+}

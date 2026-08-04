@@ -1,0 +1,56 @@
+{
+  "id": 555,
+  "name": "snarl",
+  "generations": {
+    "5": {
+      "id": 555,
+      "name": "snarl",
+      "type": "dark",
+      "power": 55,
+      "accuracy": 95,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "6": {
+      "id": 555,
+      "name": "snarl",
+      "type": "dark",
+      "power": 55,
+      "accuracy": 95,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "7": {
+      "id": 555,
+      "name": "snarl",
+      "type": "dark",
+      "power": 55,
+      "accuracy": 95,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "8": {
+      "id": 555,
+      "name": "snarl",
+      "type": "dark",
+      "power": 55,
+      "accuracy": 95,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "9": {
+      "id": 555,
+      "name": "snarl",
+      "type": "dark",
+      "power": 55,
+      "accuracy": 95,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "special"
+    }
+  }
+}

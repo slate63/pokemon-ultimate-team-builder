@@ -1,0 +1,46 @@
+{
+  "id": 657,
+  "name": "twinkle-tackle--special",
+  "generations": {
+    "6": {
+      "id": 657,
+      "name": "twinkle-tackle--special",
+      "type": "fairy",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 1,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "7": {
+      "id": 657,
+      "name": "twinkle-tackle--special",
+      "type": "fairy",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 1,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "8": {
+      "id": 657,
+      "name": "twinkle-tackle--special",
+      "type": "fairy",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 1,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "9": {
+      "id": 657,
+      "name": "twinkle-tackle--special",
+      "type": "fairy",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 1,
+      "priority": 0,
+      "damage_class": "special"
+    }
+  }
+}

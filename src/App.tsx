@@ -55,6 +55,8 @@ export default function App() {
     setSelectedType2,
     fullyEvolvedOnly,
     setFullyEvolvedOnly,
+    excludeTrades,
+    setExcludeTrades,
     includeLegendaries,
     setIncludeLegendaries,
     includeMythicals,
@@ -133,6 +135,8 @@ export default function App() {
             onType2Change={setSelectedType2}
             fullyEvolvedOnly={fullyEvolvedOnly}
             onFullyEvolvedToggle={setFullyEvolvedOnly}
+            excludeTrades={excludeTrades}
+            onExcludeTradesToggle={setExcludeTrades}
             includeLegendaries={includeLegendaries}
             onLegendariesToggle={setIncludeLegendaries}
             includeMythicals={includeMythicals}

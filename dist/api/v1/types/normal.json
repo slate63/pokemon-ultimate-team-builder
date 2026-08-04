@@ -1,0 +1,157 @@
+{
+  "name": "normal",
+  "generations": {
+    "1": {
+      "double_damage_from": [
+        "fighting"
+      ],
+      "double_damage_to": [],
+      "half_damage_from": [],
+      "half_damage_to": [
+        "rock"
+      ],
+      "no_damage_from": [
+        "ghost"
+      ],
+      "no_damage_to": [
+        "ghost"
+      ]
+    },
+    "2": {
+      "double_damage_from": [
+        "fighting"
+      ],
+      "double_damage_to": [],
+      "half_damage_from": [],
+      "half_damage_to": [
+        "rock",
+        "steel"
+      ],
+      "no_damage_from": [
+        "ghost"
+      ],
+      "no_damage_to": [
+        "ghost"
+      ]
+    },
+    "3": {
+      "double_damage_from": [
+        "fighting"
+      ],
+      "double_damage_to": [],
+      "half_damage_from": [],
+      "half_damage_to": [
+        "rock",
+        "steel"
+      ],
+      "no_damage_from": [
+        "ghost"
+      ],
+      "no_damage_to": [
+        "ghost"
+      ]
+    },
+    "4": {
+      "double_damage_from": [
+        "fighting"
+      ],
+      "double_damage_to": [],
+      "half_damage_from": [],
+      "half_damage_to": [
+        "rock",
+        "steel"
+      ],
+      "no_damage_from": [
+        "ghost"
+      ],
+      "no_damage_to": [
+        "ghost"
+      ]
+    },
+    "5": {
+      "double_damage_from": [
+        "fighting"
+      ],
+      "double_damage_to": [],
+      "half_damage_from": [],
+      "half_damage_to": [
+        "rock",
+        "steel"
+      ],
+      "no_damage_from": [
+        "ghost"
+      ],
+      "no_damage_to": [
+        "ghost"
+      ]
+    },
+    "6": {
+      "double_damage_from": [
+        "fighting"
+      ],
+      "double_damage_to": [],
+      "half_damage_from": [],
+      "half_damage_to": [
+        "rock",
+        "steel"
+      ],
+      "no_damage_from": [
+        "ghost"
+      ],
+      "no_damage_to": [
+        "ghost"
+      ]
+    },
+    "7": {
+      "double_damage_from": [
+        "fighting"
+      ],
+      "double_damage_to": [],
+      "half_damage_from": [],
+      "half_damage_to": [
+        "rock",
+        "steel"
+      ],
+      "no_damage_from": [
+        "ghost"
+      ],
+      "no_damage_to": [
+        "ghost"
+      ]
+    },
+    "8": {
+      "double_damage_from": [
+        "fighting"
+      ],
+      "double_damage_to": [],
+      "half_damage_from": [],
+      "half_damage_to": [
+        "rock",
+        "steel"
+      ],
+      "no_damage_from": [
+        "ghost"
+      ],
+      "no_damage_to": [
+        "ghost"
+      ]
+    },
+    "9": {
+      "double_damage_from": [
+        "fighting"
+      ],
+      "double_damage_to": [],
+      "half_damage_from": [],
+      "half_damage_to": [
+        "rock",
+        "steel"
+      ],
+      "no_damage_from": [
+        "ghost"
+      ],
+      "no_damage_to": [
+        "ghost"
+      ]
+    }
+  }
+}

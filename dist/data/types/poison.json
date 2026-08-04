@@ -1,0 +1,237 @@
+{
+  "name": "poison",
+  "generations": {
+    "1": {
+      "double_damage_from": [
+        "ground",
+        "psychic",
+        "bug"
+      ],
+      "double_damage_to": [
+        "grass",
+        "bug"
+      ],
+      "half_damage_from": [
+        "fighting",
+        "poison",
+        "grass"
+      ],
+      "half_damage_to": [
+        "poison",
+        "ground",
+        "rock",
+        "ghost"
+      ],
+      "no_damage_from": [],
+      "no_damage_to": []
+    },
+    "2": {
+      "double_damage_from": [
+        "ground",
+        "psychic"
+      ],
+      "double_damage_to": [
+        "grass"
+      ],
+      "half_damage_from": [
+        "fighting",
+        "poison",
+        "bug",
+        "grass"
+      ],
+      "half_damage_to": [
+        "poison",
+        "ground",
+        "rock",
+        "ghost"
+      ],
+      "no_damage_from": [],
+      "no_damage_to": [
+        "steel"
+      ]
+    },
+    "3": {
+      "double_damage_from": [
+        "ground",
+        "psychic"
+      ],
+      "double_damage_to": [
+        "grass"
+      ],
+      "half_damage_from": [
+        "fighting",
+        "poison",
+        "bug",
+        "grass"
+      ],
+      "half_damage_to": [
+        "poison",
+        "ground",
+        "rock",
+        "ghost"
+      ],
+      "no_damage_from": [],
+      "no_damage_to": [
+        "steel"
+      ]
+    },
+    "4": {
+      "double_damage_from": [
+        "ground",
+        "psychic"
+      ],
+      "double_damage_to": [
+        "grass"
+      ],
+      "half_damage_from": [
+        "fighting",
+        "poison",
+        "bug",
+        "grass"
+      ],
+      "half_damage_to": [
+        "poison",
+        "ground",
+        "rock",
+        "ghost"
+      ],
+      "no_damage_from": [],
+      "no_damage_to": [
+        "steel"
+      ]
+    },
+    "5": {
+      "double_damage_from": [
+        "ground",
+        "psychic"
+      ],
+      "double_damage_to": [
+        "grass"
+      ],
+      "half_damage_from": [
+        "fighting",
+        "poison",
+        "bug",
+        "grass"
+      ],
+      "half_damage_to": [
+        "poison",
+        "ground",
+        "rock",
+        "ghost"
+      ],
+      "no_damage_from": [],
+      "no_damage_to": [
+        "steel"
+      ]
+    },
+    "6": {
+      "double_damage_from": [
+        "ground",
+        "psychic"
+      ],
+      "double_damage_to": [
+        "grass",
+        "fairy"
+      ],
+      "half_damage_from": [
+        "fighting",
+        "poison",
+        "bug",
+        "grass",
+        "fairy"
+      ],
+      "half_damage_to": [
+        "poison",
+        "ground",
+        "rock",
+        "ghost"
+      ],
+      "no_damage_from": [],
+      "no_damage_to": [
+        "steel"
+      ]
+    },
+    "7": {
+      "double_damage_from": [
+        "ground",
+        "psychic"
+      ],
+      "double_damage_to": [
+        "grass",
+        "fairy"
+      ],
+      "half_damage_from": [
+        "fighting",
+        "poison",
+        "bug",
+        "grass",
+        "fairy"
+      ],
+      "half_damage_to": [
+        "poison",
+        "ground",
+        "rock",
+        "ghost"
+      ],
+      "no_damage_from": [],
+      "no_damage_to": [
+        "steel"
+      ]
+    },
+    "8": {
+      "double_damage_from": [
+        "ground",
+        "psychic"
+      ],
+      "double_damage_to": [
+        "grass",
+        "fairy"
+      ],
+      "half_damage_from": [
+        "fighting",
+        "poison",
+        "bug",
+        "grass",
+        "fairy"
+      ],
+      "half_damage_to": [
+        "poison",
+        "ground",
+        "rock",
+        "ghost"
+      ],
+      "no_damage_from": [],
+      "no_damage_to": [
+        "steel"
+      ]
+    },
+    "9": {
+      "double_damage_from": [
+        "ground",
+        "psychic"
+      ],
+      "double_damage_to": [
+        "grass",
+        "fairy"
+      ],
+      "half_damage_from": [
+        "fighting",
+        "poison",
+        "bug",
+        "grass",
+        "fairy"
+      ],
+      "half_damage_to": [
+        "poison",
+        "ground",
+        "rock",
+        "ghost"
+      ],
+      "no_damage_from": [],
+      "no_damage_to": [
+        "steel"
+      ]
+    }
+  }
+}

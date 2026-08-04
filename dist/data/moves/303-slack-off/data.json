@@ -1,0 +1,76 @@
+{
+  "id": 303,
+  "name": "slack-off",
+  "generations": {
+    "3": {
+      "id": 303,
+      "name": "slack-off",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "4": {
+      "id": 303,
+      "name": "slack-off",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "5": {
+      "id": 303,
+      "name": "slack-off",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "6": {
+      "id": 303,
+      "name": "slack-off",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "7": {
+      "id": 303,
+      "name": "slack-off",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "8": {
+      "id": 303,
+      "name": "slack-off",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "9": {
+      "id": 303,
+      "name": "slack-off",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "status"
+    }
+  }
+}

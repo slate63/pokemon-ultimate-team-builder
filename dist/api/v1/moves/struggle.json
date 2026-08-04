@@ -1,0 +1,96 @@
+{
+  "id": 165,
+  "name": "struggle",
+  "generations": {
+    "1": {
+      "id": 165,
+      "name": "struggle",
+      "type": "normal",
+      "power": 50,
+      "accuracy": 0,
+      "pp": 1,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "2": {
+      "id": 165,
+      "name": "struggle",
+      "type": "normal",
+      "power": 50,
+      "accuracy": 0,
+      "pp": 1,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "3": {
+      "id": 165,
+      "name": "struggle",
+      "type": "normal",
+      "power": 50,
+      "accuracy": 0,
+      "pp": 1,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "4": {
+      "id": 165,
+      "name": "struggle",
+      "type": "normal",
+      "power": 50,
+      "accuracy": 0,
+      "pp": 1,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "5": {
+      "id": 165,
+      "name": "struggle",
+      "type": "normal",
+      "power": 50,
+      "accuracy": 0,
+      "pp": 1,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "6": {
+      "id": 165,
+      "name": "struggle",
+      "type": "normal",
+      "power": 50,
+      "accuracy": 0,
+      "pp": 1,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "7": {
+      "id": 165,
+      "name": "struggle",
+      "type": "normal",
+      "power": 50,
+      "accuracy": 0,
+      "pp": 1,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "8": {
+      "id": 165,
+      "name": "struggle",
+      "type": "normal",
+      "power": 50,
+      "accuracy": 0,
+      "pp": 1,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "9": {
+      "id": 165,
+      "name": "struggle",
+      "type": "normal",
+      "power": 50,
+      "accuracy": 0,
+      "pp": 1,
+      "priority": 0,
+      "damage_class": "physical"
+    }
+  }
+}

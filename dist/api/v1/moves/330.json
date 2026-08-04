@@ -1,0 +1,76 @@
+{
+  "id": 330,
+  "name": "muddy-water",
+  "generations": {
+    "3": {
+      "id": 330,
+      "name": "muddy-water",
+      "type": "water",
+      "power": 95,
+      "accuracy": 85,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "4": {
+      "id": 330,
+      "name": "muddy-water",
+      "type": "water",
+      "power": 95,
+      "accuracy": 85,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "5": {
+      "id": 330,
+      "name": "muddy-water",
+      "type": "water",
+      "power": 95,
+      "accuracy": 85,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "6": {
+      "id": 330,
+      "name": "muddy-water",
+      "type": "water",
+      "power": 95,
+      "accuracy": 85,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "7": {
+      "id": 330,
+      "name": "muddy-water",
+      "type": "water",
+      "power": 90,
+      "accuracy": 85,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "8": {
+      "id": 330,
+      "name": "muddy-water",
+      "type": "water",
+      "power": 90,
+      "accuracy": 85,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "9": {
+      "id": 330,
+      "name": "muddy-water",
+      "type": "water",
+      "power": 90,
+      "accuracy": 85,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "special"
+    }
+  }
+}

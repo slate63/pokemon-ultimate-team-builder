@@ -1,0 +1,26 @@
+{
+  "id": 866,
+  "name": "mortal-spin",
+  "generations": {
+    "8": {
+      "id": 866,
+      "name": "mortal-spin",
+      "type": "poison",
+      "power": 30,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "9": {
+      "id": 866,
+      "name": "mortal-spin",
+      "type": "poison",
+      "power": 30,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "physical"
+    }
+  }
+}

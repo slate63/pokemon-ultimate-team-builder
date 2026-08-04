@@ -1,0 +1,86 @@
+{
+  "id": 205,
+  "name": "rollout",
+  "generations": {
+    "2": {
+      "id": 205,
+      "name": "rollout",
+      "type": "rock",
+      "power": 30,
+      "accuracy": 90,
+      "pp": 20,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "3": {
+      "id": 205,
+      "name": "rollout",
+      "type": "rock",
+      "power": 30,
+      "accuracy": 90,
+      "pp": 20,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "4": {
+      "id": 205,
+      "name": "rollout",
+      "type": "rock",
+      "power": 30,
+      "accuracy": 90,
+      "pp": 20,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "5": {
+      "id": 205,
+      "name": "rollout",
+      "type": "rock",
+      "power": 30,
+      "accuracy": 90,
+      "pp": 20,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "6": {
+      "id": 205,
+      "name": "rollout",
+      "type": "rock",
+      "power": 30,
+      "accuracy": 90,
+      "pp": 20,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "7": {
+      "id": 205,
+      "name": "rollout",
+      "type": "rock",
+      "power": 30,
+      "accuracy": 90,
+      "pp": 20,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "8": {
+      "id": 205,
+      "name": "rollout",
+      "type": "rock",
+      "power": 30,
+      "accuracy": 90,
+      "pp": 20,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "9": {
+      "id": 205,
+      "name": "rollout",
+      "type": "rock",
+      "power": 30,
+      "accuracy": 90,
+      "pp": 20,
+      "priority": 0,
+      "damage_class": "physical"
+    }
+  }
+}

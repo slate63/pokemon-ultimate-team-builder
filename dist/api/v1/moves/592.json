@@ -1,0 +1,46 @@
+{
+  "id": 592,
+  "name": "steam-eruption",
+  "generations": {
+    "6": {
+      "id": 592,
+      "name": "steam-eruption",
+      "type": "water",
+      "power": 110,
+      "accuracy": 95,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "7": {
+      "id": 592,
+      "name": "steam-eruption",
+      "type": "water",
+      "power": 110,
+      "accuracy": 95,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "8": {
+      "id": 592,
+      "name": "steam-eruption",
+      "type": "water",
+      "power": 110,
+      "accuracy": 95,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "9": {
+      "id": 592,
+      "name": "steam-eruption",
+      "type": "water",
+      "power": 110,
+      "accuracy": 95,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "special"
+    }
+  }
+}

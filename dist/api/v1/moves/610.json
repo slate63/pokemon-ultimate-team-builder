@@ -1,0 +1,46 @@
+{
+  "id": 610,
+  "name": "hold-back",
+  "generations": {
+    "6": {
+      "id": 610,
+      "name": "hold-back",
+      "type": "normal",
+      "power": 40,
+      "accuracy": 100,
+      "pp": 40,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "7": {
+      "id": 610,
+      "name": "hold-back",
+      "type": "normal",
+      "power": 40,
+      "accuracy": 100,
+      "pp": 40,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "8": {
+      "id": 610,
+      "name": "hold-back",
+      "type": "normal",
+      "power": 40,
+      "accuracy": 100,
+      "pp": 40,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "9": {
+      "id": 610,
+      "name": "hold-back",
+      "type": "normal",
+      "power": 40,
+      "accuracy": 100,
+      "pp": 40,
+      "priority": 0,
+      "damage_class": "physical"
+    }
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "id": 831,
+  "name": "wooloo",
+  "generations": {
+    "8": {
+      "types": [
+        "normal"
+      ],
+      "stats": {
+        "generation": 8,
+        "number": 831,
+        "hp": 42,
+        "attack": 40,
+        "defense": 55,
+        "special_attack": 40,
+        "special_defense": 45,
+        "speed": 48
+      },
+      "height": 0.6,
+      "weight": 6.0,
+      "moves": [
+        "stomp",
+        "double-kick",
+        "headbutt",
+        "tackle",
+        "take-down",
+        "double-edge",
+        "growl",
+        "counter",
+        "thunder-wave",
+        "agility",
+        "defense-curl",
+        "rest",
+        "substitute",
+        "snore",
+        "reversal",
+        "protect",
+        "endure",
+        "swagger",
+        "attract",
+        "sleep-talk",
+        "facade",
+        "payback",
+        "copycat",
+        "guard-swap",
+        "guard-split",
+        "electro-ball",
+        "round",
+        "wild-charge",
+        "cotton-guard",
+        "grassy-glide"
+      ],
+      "abilities": [
+        "fluffy",
+        "run-away",
+        "bulletproof"
+      ],
+      "availability": [
+        "sword",
+        "shield",
+        "brilliant-diamond",
+        "shining-pearl"
+      ],
+      "description": "Its curly fleece is such an effective cushion that this Pok\u00e9mon could fall off a cliff and stand right back up at the bottom, unharmed.",
+      "is_legendary": false,
+      "is_mythical": false,
+      "is_fully_evolved": false,
+      "requires_trade": false
+    },
+    "9": {
+      "types": [
+        "normal"
+      ],
+      "stats": {
+        "generation": 9,
+        "number": 831,
+        "hp": 42,
+        "attack": 40,
+        "defense": 55,
+        "special_attack": 40,
+        "special_defense": 45,
+        "speed": 48
+      },
+      "height": 0.6,
+      "weight": 6.0,
+      "moves": [],
+      "abilities": [
+        "fluffy",
+        "run-away",
+        "bulletproof"
+      ],
+      "availability": [
+        "scarlet",
+        "violet"
+      ],
+      "description": "Its curly fleece is such an effective cushion that this Pok\u00e9mon could fall off a cliff and stand right back up at the bottom, unharmed.",
+      "is_legendary": false,
+      "is_mythical": false,
+      "is_fully_evolved": false,
+      "requires_trade": false
+    }
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "id": 902,
+  "name": "basculegion-male",
+  "generations": {
+    "8": {
+      "types": [
+        "water",
+        "ghost"
+      ],
+      "stats": {
+        "generation": 8,
+        "number": 902,
+        "hp": 120,
+        "attack": 112,
+        "defense": 65,
+        "special_attack": 80,
+        "special_defense": 75,
+        "speed": 78
+      },
+      "height": 3.0,
+      "weight": 110.0,
+      "moves": [
+        "tackle",
+        "double-edge",
+        "bite",
+        "crunch",
+        "shadow-ball",
+        "zen-headbutt",
+        "aqua-jet",
+        "hex",
+        "wave-crash"
+      ],
+      "abilities": [
+        "swift-swim",
+        "adaptability",
+        "mold-breaker"
+      ],
+      "availability": [
+        "sword",
+        "shield",
+        "brilliant-diamond",
+        "shining-pearl",
+        "legends-arceus"
+      ],
+      "description": "Clads itself in the souls of comrades that perished before fulfilling their goals of journeying upstream. No other species throughout all Hisui's rivers is Basculegion's equal.",
+      "is_legendary": false,
+      "is_mythical": false,
+      "is_fully_evolved": true,
+      "requires_trade": false
+    },
+    "9": {
+      "types": [
+        "water",
+        "ghost"
+      ],
+      "stats": {
+        "generation": 9,
+        "number": 902,
+        "hp": 120,
+        "attack": 112,
+        "defense": 65,
+        "special_attack": 80,
+        "special_defense": 75,
+        "speed": 78
+      },
+      "height": 3.0,
+      "weight": 110.0,
+      "moves": [
+        "headbutt",
+        "tackle",
+        "take-down",
+        "thrash",
+        "double-edge",
+        "tail-whip",
+        "bite",
+        "water-gun",
+        "hydro-pump",
+        "surf",
+        "ice-beam",
+        "blizzard",
+        "hyper-beam",
+        "agility",
+        "night-shade",
+        "confuse-ray",
+        "waterfall",
+        "rest",
+        "substitute",
+        "flail",
+        "spite",
+        "protect",
+        "scary-face",
+        "icy-wind",
+        "outrage",
+        "sleep-talk",
+        "pain-split",
+        "rain-dance",
+        "crunch",
+        "shadow-ball",
+        "whirlpool",
+        "uproar",
+        "facade",
+        "endeavor",
+        "muddy-water",
+        "mud-shot",
+        "water-pulse",
+        "giga-impact",
+        "ice-fang",
+        "aqua-jet",
+        "head-smash",
+        "soak",
+        "hex",
+        "phantom-force",
+        "psychic-fangs",
+        "liquidation",
+        "scale-shot",
+        "flip-turn",
+        "wave-crash",
+        "tera-blast",
+        "last-respects",
+        "snowscape",
+        "chilling-water"
+      ],
+      "abilities": [
+        "swift-swim",
+        "adaptability",
+        "mold-breaker"
+      ],
+      "availability": [
+        "scarlet",
+        "violet"
+      ],
+      "description": "Clads itself in the souls of comrades that perished before fulfilling their goals of journeying upstream. No other species throughout all Hisui's rivers is Basculegion's equal.",
+      "is_legendary": false,
+      "is_mythical": false,
+      "is_fully_evolved": true,
+      "requires_trade": false
+    }
+  }
+}

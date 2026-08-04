@@ -1,0 +1,46 @@
+{
+  "id": 668,
+  "name": "strength-sap",
+  "generations": {
+    "6": {
+      "id": 668,
+      "name": "strength-sap",
+      "type": "grass",
+      "power": 0,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "7": {
+      "id": 668,
+      "name": "strength-sap",
+      "type": "grass",
+      "power": 0,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "8": {
+      "id": 668,
+      "name": "strength-sap",
+      "type": "grass",
+      "power": 0,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "9": {
+      "id": 668,
+      "name": "strength-sap",
+      "type": "grass",
+      "power": 0,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "status"
+    }
+  }
+}

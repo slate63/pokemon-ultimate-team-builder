@@ -1,0 +1,294 @@
+{
+  "id": 202,
+  "name": "wobbuffet",
+  "generations": {
+    "2": {
+      "types": [
+        "psychic"
+      ],
+      "stats": {
+        "generation": 2,
+        "number": 202,
+        "hp": 190,
+        "attack": 33,
+        "defense": 58,
+        "special_attack": 33,
+        "special_defense": 58,
+        "speed": 33
+      },
+      "height": 1.3,
+      "weight": 28.5,
+      "moves": [
+        "counter",
+        "destiny-bond",
+        "safeguard",
+        "mirror-coat"
+      ],
+      "availability": [
+        "gold",
+        "silver",
+        "crystal"
+      ],
+      "description": "It hates light and shock. If attack\u00ad ed, it inflates its body to pump up its counter\u00ad strike.",
+      "is_legendary": false,
+      "is_mythical": false,
+      "is_fully_evolved": true,
+      "requires_trade": false
+    },
+    "3": {
+      "types": [
+        "psychic"
+      ],
+      "stats": {
+        "generation": 3,
+        "number": 202,
+        "hp": 190,
+        "attack": 33,
+        "defense": 58,
+        "special_attack": 33,
+        "special_defense": 58,
+        "speed": 33
+      },
+      "height": 1.3,
+      "weight": 28.5,
+      "moves": [
+        "counter",
+        "destiny-bond",
+        "safeguard",
+        "mirror-coat"
+      ],
+      "abilities": [
+        "shadow-tag",
+        "telepathy"
+      ],
+      "availability": [
+        "ruby",
+        "sapphire",
+        "emerald",
+        "firered",
+        "leafgreen"
+      ],
+      "description": "It hates light and shock. If attack\u00ad ed, it inflates its body to pump up its counter\u00ad strike.",
+      "is_legendary": false,
+      "is_mythical": false,
+      "is_fully_evolved": true,
+      "requires_trade": false
+    },
+    "4": {
+      "types": [
+        "psychic"
+      ],
+      "stats": {
+        "generation": 4,
+        "number": 202,
+        "hp": 190,
+        "attack": 33,
+        "defense": 58,
+        "special_attack": 33,
+        "special_defense": 58,
+        "speed": 33
+      },
+      "height": 1.3,
+      "weight": 28.5,
+      "moves": [
+        "counter",
+        "destiny-bond",
+        "safeguard",
+        "mirror-coat"
+      ],
+      "abilities": [
+        "shadow-tag",
+        "telepathy"
+      ],
+      "availability": [
+        "diamond",
+        "pearl",
+        "platinum",
+        "heartgold",
+        "soulsilver"
+      ],
+      "description": "It hates light and shock. If attack\u00ad ed, it inflates its body to pump up its counter\u00ad strike.",
+      "is_legendary": false,
+      "is_mythical": false,
+      "is_fully_evolved": true,
+      "requires_trade": false
+    },
+    "5": {
+      "types": [
+        "psychic"
+      ],
+      "stats": {
+        "generation": 5,
+        "number": 202,
+        "hp": 190,
+        "attack": 33,
+        "defense": 58,
+        "special_attack": 33,
+        "special_defense": 58,
+        "speed": 33
+      },
+      "height": 1.3,
+      "weight": 28.5,
+      "moves": [
+        "counter",
+        "destiny-bond",
+        "safeguard",
+        "mirror-coat"
+      ],
+      "abilities": [
+        "shadow-tag",
+        "telepathy"
+      ],
+      "availability": [],
+      "description": "It hates light and shock. If attack\u00ad ed, it inflates its body to pump up its counter\u00ad strike.",
+      "is_legendary": false,
+      "is_mythical": false,
+      "is_fully_evolved": true,
+      "requires_trade": false
+    },
+    "6": {
+      "types": [
+        "psychic"
+      ],
+      "stats": {
+        "generation": 6,
+        "number": 202,
+        "hp": 190,
+        "attack": 33,
+        "defense": 58,
+        "special_attack": 33,
+        "special_defense": 58,
+        "speed": 33
+      },
+      "height": 1.3,
+      "weight": 28.5,
+      "moves": [
+        "counter",
+        "destiny-bond",
+        "safeguard",
+        "mirror-coat"
+      ],
+      "abilities": [
+        "shadow-tag",
+        "telepathy"
+      ],
+      "availability": [
+        "x",
+        "y",
+        "omega-ruby",
+        "alpha-sapphire"
+      ],
+      "description": "It hates light and shock. If attack\u00ad ed, it inflates its body to pump up its counter\u00ad strike.",
+      "is_legendary": false,
+      "is_mythical": false,
+      "is_fully_evolved": true,
+      "requires_trade": false
+    },
+    "7": {
+      "types": [
+        "psychic"
+      ],
+      "stats": {
+        "generation": 7,
+        "number": 202,
+        "hp": 190,
+        "attack": 33,
+        "defense": 58,
+        "special_attack": 33,
+        "special_defense": 58,
+        "speed": 33
+      },
+      "height": 1.3,
+      "weight": 28.5,
+      "moves": [
+        "counter",
+        "destiny-bond",
+        "safeguard",
+        "mirror-coat"
+      ],
+      "abilities": [
+        "shadow-tag",
+        "telepathy"
+      ],
+      "availability": [],
+      "description": "It hates light and shock. If attack\u00ad ed, it inflates its body to pump up its counter\u00ad strike.",
+      "is_legendary": false,
+      "is_mythical": false,
+      "is_fully_evolved": true,
+      "requires_trade": false
+    },
+    "8": {
+      "types": [
+        "psychic"
+      ],
+      "stats": {
+        "generation": 8,
+        "number": 202,
+        "hp": 190,
+        "attack": 33,
+        "defense": 58,
+        "special_attack": 33,
+        "special_defense": 58,
+        "speed": 33
+      },
+      "height": 1.3,
+      "weight": 28.5,
+      "moves": [
+        "counter",
+        "amnesia",
+        "splash",
+        "destiny-bond",
+        "charm",
+        "safeguard",
+        "encore",
+        "mirror-coat"
+      ],
+      "abilities": [
+        "shadow-tag",
+        "telepathy"
+      ],
+      "availability": [
+        "sword",
+        "shield",
+        "brilliant-diamond",
+        "shining-pearl"
+      ],
+      "description": "It hates light and shock. If attack\u00ad ed, it inflates its body to pump up its counter\u00ad strike.",
+      "is_legendary": false,
+      "is_mythical": false,
+      "is_fully_evolved": true,
+      "requires_trade": false
+    },
+    "9": {
+      "types": [
+        "psychic"
+      ],
+      "stats": {
+        "generation": 9,
+        "number": 202,
+        "hp": 190,
+        "attack": 33,
+        "defense": 58,
+        "special_attack": 33,
+        "special_defense": 58,
+        "speed": 33
+      },
+      "height": 1.3,
+      "weight": 28.5,
+      "moves": [],
+      "abilities": [
+        "shadow-tag",
+        "telepathy"
+      ],
+      "availability": [
+        "scarlet",
+        "violet"
+      ],
+      "description": "It hates light and shock. If attack\u00ad ed, it inflates its body to pump up its counter\u00ad strike.",
+      "is_legendary": false,
+      "is_mythical": false,
+      "is_fully_evolved": true,
+      "requires_trade": false
+    }
+  }
+}

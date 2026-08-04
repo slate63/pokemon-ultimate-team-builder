@@ -1,0 +1,66 @@
+{
+  "id": 367,
+  "name": "acupressure",
+  "generations": {
+    "4": {
+      "id": 367,
+      "name": "acupressure",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 30,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "5": {
+      "id": 367,
+      "name": "acupressure",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 30,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "6": {
+      "id": 367,
+      "name": "acupressure",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 30,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "7": {
+      "id": 367,
+      "name": "acupressure",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 30,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "8": {
+      "id": 367,
+      "name": "acupressure",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 30,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "9": {
+      "id": 367,
+      "name": "acupressure",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 30,
+      "priority": 0,
+      "damage_class": "status"
+    }
+  }
+}

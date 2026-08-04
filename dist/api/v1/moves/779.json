@@ -1,0 +1,26 @@
+{
+  "id": 779,
+  "name": "snap-trap",
+  "generations": {
+    "8": {
+      "id": 779,
+      "name": "snap-trap",
+      "type": "grass",
+      "power": 35,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "9": {
+      "id": 779,
+      "name": "snap-trap",
+      "type": "grass",
+      "power": 35,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "physical"
+    }
+  }
+}

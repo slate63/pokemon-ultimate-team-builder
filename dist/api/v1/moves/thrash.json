@@ -1,0 +1,96 @@
+{
+  "id": 37,
+  "name": "thrash",
+  "generations": {
+    "1": {
+      "id": 37,
+      "name": "thrash",
+      "type": "normal",
+      "power": 90,
+      "accuracy": 100,
+      "pp": 20,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "2": {
+      "id": 37,
+      "name": "thrash",
+      "type": "normal",
+      "power": 90,
+      "accuracy": 100,
+      "pp": 20,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "3": {
+      "id": 37,
+      "name": "thrash",
+      "type": "normal",
+      "power": 90,
+      "accuracy": 100,
+      "pp": 20,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "4": {
+      "id": 37,
+      "name": "thrash",
+      "type": "normal",
+      "power": 90,
+      "accuracy": 100,
+      "pp": 20,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "5": {
+      "id": 37,
+      "name": "thrash",
+      "type": "normal",
+      "power": 90,
+      "accuracy": 100,
+      "pp": 20,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "6": {
+      "id": 37,
+      "name": "thrash",
+      "type": "normal",
+      "power": 120,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "7": {
+      "id": 37,
+      "name": "thrash",
+      "type": "normal",
+      "power": 120,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "8": {
+      "id": 37,
+      "name": "thrash",
+      "type": "normal",
+      "power": 120,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "9": {
+      "id": 37,
+      "name": "thrash",
+      "type": "normal",
+      "power": 120,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    }
+  }
+}

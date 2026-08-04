@@ -1,0 +1,76 @@
+{
+  "id": 265,
+  "name": "smelling-salts",
+  "generations": {
+    "3": {
+      "id": 265,
+      "name": "smelling-salts",
+      "type": "normal",
+      "power": 60,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "4": {
+      "id": 265,
+      "name": "smelling-salts",
+      "type": "normal",
+      "power": 60,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "5": {
+      "id": 265,
+      "name": "smelling-salts",
+      "type": "normal",
+      "power": 60,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "6": {
+      "id": 265,
+      "name": "smelling-salts",
+      "type": "normal",
+      "power": 60,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "7": {
+      "id": 265,
+      "name": "smelling-salts",
+      "type": "normal",
+      "power": 70,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "8": {
+      "id": 265,
+      "name": "smelling-salts",
+      "type": "normal",
+      "power": 70,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "9": {
+      "id": 265,
+      "name": "smelling-salts",
+      "type": "normal",
+      "power": 70,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    }
+  }
+}

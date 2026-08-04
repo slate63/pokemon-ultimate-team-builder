@@ -1,0 +1,16 @@
+{
+  "id": 901,
+  "name": "blood-moon",
+  "generations": {
+    "9": {
+      "id": 901,
+      "name": "blood-moon",
+      "type": "normal",
+      "power": 140,
+      "accuracy": 100,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "special"
+    }
+  }
+}

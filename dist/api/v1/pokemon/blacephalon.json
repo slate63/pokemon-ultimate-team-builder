@@ -1,0 +1,202 @@
+{
+  "id": 806,
+  "name": "blacephalon",
+  "generations": {
+    "7": {
+      "types": [
+        "fire",
+        "ghost"
+      ],
+      "stats": {
+        "generation": 7,
+        "number": 806,
+        "hp": 53,
+        "attack": 127,
+        "defense": 53,
+        "special_attack": 151,
+        "special_defense": 79,
+        "speed": 107
+      },
+      "height": 1.8,
+      "weight": 13.0,
+      "moves": [
+        "ember",
+        "flamethrower",
+        "hyper-beam",
+        "toxic",
+        "psychic",
+        "night-shade",
+        "double-team",
+        "light-screen",
+        "fire-blast",
+        "explosion",
+        "rest",
+        "substitute",
+        "thief",
+        "snore",
+        "spite",
+        "protect",
+        "swagger",
+        "sleep-talk",
+        "return",
+        "frustration",
+        "pain-split",
+        "hidden-power",
+        "sunny-day",
+        "shadow-ball",
+        "uproar",
+        "heat-wave",
+        "torment",
+        "will-o-wisp",
+        "facade",
+        "taunt",
+        "trick",
+        "magic-coat",
+        "recycle",
+        "knock-off",
+        "astonish",
+        "overheat",
+        "calm-mind",
+        "payback",
+        "fling",
+        "last-resort",
+        "dark-pulse",
+        "shadow-claw",
+        "psyshock",
+        "smack-down",
+        "flame-burst",
+        "flame-charge",
+        "foul-play",
+        "after-you",
+        "round",
+        "stored-power",
+        "quash",
+        "confide",
+        "mind-blown"
+      ],
+      "abilities": [
+        "beast-boost"
+      ],
+      "availability": [
+        "ultra-sun"
+      ],
+      "description": "It slithers toward people. Then, without warning, it triggers the explosion of its own head. It\u2019s apparently one kind of Ultra Beast.",
+      "is_legendary": false,
+      "is_mythical": false,
+      "is_fully_evolved": true,
+      "requires_trade": false
+    },
+    "8": {
+      "types": [
+        "fire",
+        "ghost"
+      ],
+      "stats": {
+        "generation": 8,
+        "number": 806,
+        "hp": 53,
+        "attack": 127,
+        "defense": 53,
+        "special_attack": 151,
+        "special_defense": 79,
+        "speed": 107
+      },
+      "height": 1.8,
+      "weight": 13.0,
+      "moves": [
+        "fire-punch",
+        "ember",
+        "flamethrower",
+        "hyper-beam",
+        "solar-beam",
+        "fire-spin",
+        "psychic",
+        "hypnosis",
+        "night-shade",
+        "confuse-ray",
+        "light-screen",
+        "self-destruct",
+        "fire-blast",
+        "rest",
+        "substitute",
+        "thief",
+        "snore",
+        "protect",
+        "endure",
+        "sleep-talk",
+        "encore",
+        "sunny-day",
+        "shadow-ball",
+        "uproar",
+        "heat-wave",
+        "will-o-wisp",
+        "facade",
+        "taunt",
+        "trick",
+        "magic-coat",
+        "astonish",
+        "overheat",
+        "calm-mind",
+        "rock-blast",
+        "payback",
+        "fling",
+        "dark-pulse",
+        "shadow-claw",
+        "zen-headbutt",
+        "psyshock",
+        "foul-play",
+        "round",
+        "stored-power",
+        "incinerate",
+        "mystical-fire",
+        "mind-blown",
+        "expanding-force"
+      ],
+      "abilities": [
+        "beast-boost"
+      ],
+      "availability": [
+        "sword",
+        "shield",
+        "brilliant-diamond",
+        "shining-pearl"
+      ],
+      "description": "It slithers toward people. Then, without warning, it triggers the explosion of its own head. It\u2019s apparently one kind of Ultra Beast.",
+      "is_legendary": false,
+      "is_mythical": false,
+      "is_fully_evolved": true,
+      "requires_trade": false
+    },
+    "9": {
+      "types": [
+        "fire",
+        "ghost"
+      ],
+      "stats": {
+        "generation": 9,
+        "number": 806,
+        "hp": 53,
+        "attack": 127,
+        "defense": 53,
+        "special_attack": 151,
+        "special_defense": 79,
+        "speed": 107
+      },
+      "height": 1.8,
+      "weight": 13.0,
+      "moves": [],
+      "abilities": [
+        "beast-boost"
+      ],
+      "availability": [
+        "scarlet",
+        "violet"
+      ],
+      "description": "It slithers toward people. Then, without warning, it triggers the explosion of its own head. It\u2019s apparently one kind of Ultra Beast.",
+      "is_legendary": false,
+      "is_mythical": false,
+      "is_fully_evolved": true,
+      "requires_trade": false
+    }
+  }
+}

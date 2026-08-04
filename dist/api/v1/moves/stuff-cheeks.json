@@ -1,0 +1,36 @@
+{
+  "id": 747,
+  "name": "stuff-cheeks",
+  "generations": {
+    "7": {
+      "id": 747,
+      "name": "stuff-cheeks",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "8": {
+      "id": 747,
+      "name": "stuff-cheeks",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "9": {
+      "id": 747,
+      "name": "stuff-cheeks",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "status"
+    }
+  }
+}

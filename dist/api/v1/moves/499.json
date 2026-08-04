@@ -1,0 +1,56 @@
+{
+  "id": 499,
+  "name": "clear-smog",
+  "generations": {
+    "5": {
+      "id": 499,
+      "name": "clear-smog",
+      "type": "poison",
+      "power": 50,
+      "accuracy": 0,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "6": {
+      "id": 499,
+      "name": "clear-smog",
+      "type": "poison",
+      "power": 50,
+      "accuracy": 0,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "7": {
+      "id": 499,
+      "name": "clear-smog",
+      "type": "poison",
+      "power": 50,
+      "accuracy": 0,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "8": {
+      "id": 499,
+      "name": "clear-smog",
+      "type": "poison",
+      "power": 50,
+      "accuracy": 0,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "9": {
+      "id": 499,
+      "name": "clear-smog",
+      "type": "poison",
+      "power": 50,
+      "accuracy": 0,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "special"
+    }
+  }
+}

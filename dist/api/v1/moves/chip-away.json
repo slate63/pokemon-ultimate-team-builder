@@ -1,0 +1,56 @@
+{
+  "id": 498,
+  "name": "chip-away",
+  "generations": {
+    "5": {
+      "id": 498,
+      "name": "chip-away",
+      "type": "normal",
+      "power": 70,
+      "accuracy": 100,
+      "pp": 20,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "6": {
+      "id": 498,
+      "name": "chip-away",
+      "type": "normal",
+      "power": 70,
+      "accuracy": 100,
+      "pp": 20,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "7": {
+      "id": 498,
+      "name": "chip-away",
+      "type": "normal",
+      "power": 70,
+      "accuracy": 100,
+      "pp": 20,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "8": {
+      "id": 498,
+      "name": "chip-away",
+      "type": "normal",
+      "power": 70,
+      "accuracy": 100,
+      "pp": 20,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "9": {
+      "id": 498,
+      "name": "chip-away",
+      "type": "normal",
+      "power": 70,
+      "accuracy": 100,
+      "pp": 20,
+      "priority": 0,
+      "damage_class": "physical"
+    }
+  }
+}

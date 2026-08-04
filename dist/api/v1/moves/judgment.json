@@ -1,0 +1,66 @@
+{
+  "id": 449,
+  "name": "judgment",
+  "generations": {
+    "4": {
+      "id": 449,
+      "name": "judgment",
+      "type": "normal",
+      "power": 100,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "5": {
+      "id": 449,
+      "name": "judgment",
+      "type": "normal",
+      "power": 100,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "6": {
+      "id": 449,
+      "name": "judgment",
+      "type": "normal",
+      "power": 100,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "7": {
+      "id": 449,
+      "name": "judgment",
+      "type": "normal",
+      "power": 100,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "8": {
+      "id": 449,
+      "name": "judgment",
+      "type": "normal",
+      "power": 100,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "9": {
+      "id": 449,
+      "name": "judgment",
+      "type": "normal",
+      "power": 100,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "special"
+    }
+  }
+}

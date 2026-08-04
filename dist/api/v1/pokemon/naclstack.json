@@ -1,0 +1,81 @@
+{
+  "id": 933,
+  "name": "naclstack",
+  "generations": {
+    "9": {
+      "types": [
+        "rock"
+      ],
+      "stats": {
+        "generation": 9,
+        "number": 933,
+        "hp": 60,
+        "attack": 60,
+        "defense": 100,
+        "special_attack": 35,
+        "special_defense": 65,
+        "speed": 35
+      },
+      "height": 0.6,
+      "weight": 105.0,
+      "moves": [
+        "headbutt",
+        "tackle",
+        "body-slam",
+        "take-down",
+        "double-edge",
+        "hyper-beam",
+        "rock-throw",
+        "earthquake",
+        "dig",
+        "recover",
+        "harden",
+        "rest",
+        "rock-slide",
+        "substitute",
+        "curse",
+        "protect",
+        "sandstorm",
+        "endure",
+        "sleep-talk",
+        "rain-dance",
+        "sunny-day",
+        "facade",
+        "helping-hand",
+        "iron-defense",
+        "mud-shot",
+        "rock-polish",
+        "power-gem",
+        "earth-power",
+        "giga-impact",
+        "zen-headbutt",
+        "flash-cannon",
+        "iron-head",
+        "stone-edge",
+        "stealth-rock",
+        "smack-down",
+        "heavy-slam",
+        "bulldoze",
+        "stomping-tantrum",
+        "body-press",
+        "meteor-beam",
+        "tera-blast",
+        "salt-cure"
+      ],
+      "abilities": [
+        "purifying-salt",
+        "sturdy",
+        "clear-body"
+      ],
+      "availability": [
+        "scarlet",
+        "violet"
+      ],
+      "description": "This Pok\u00e9mon dry cures its prey by spraying salt over them. The curing process steals away the water in the prey\u2019s body.",
+      "is_legendary": false,
+      "is_mythical": false,
+      "is_fully_evolved": true,
+      "requires_trade": false
+    }
+  }
+}

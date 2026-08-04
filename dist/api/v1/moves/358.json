@@ -1,0 +1,66 @@
+{
+  "id": 358,
+  "name": "wake-up-slap",
+  "generations": {
+    "4": {
+      "id": 358,
+      "name": "wake-up-slap",
+      "type": "fighting",
+      "power": 60,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "5": {
+      "id": 358,
+      "name": "wake-up-slap",
+      "type": "fighting",
+      "power": 60,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "6": {
+      "id": 358,
+      "name": "wake-up-slap",
+      "type": "fighting",
+      "power": 60,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "7": {
+      "id": 358,
+      "name": "wake-up-slap",
+      "type": "fighting",
+      "power": 70,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "8": {
+      "id": 358,
+      "name": "wake-up-slap",
+      "type": "fighting",
+      "power": 70,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "9": {
+      "id": 358,
+      "name": "wake-up-slap",
+      "type": "fighting",
+      "power": 70,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "physical"
+    }
+  }
+}

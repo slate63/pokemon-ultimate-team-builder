@@ -1,0 +1,140 @@
+{
+  "id": 833,
+  "name": "chewtle",
+  "generations": {
+    "8": {
+      "types": [
+        "water"
+      ],
+      "stats": {
+        "generation": 8,
+        "number": 833,
+        "hp": 50,
+        "attack": 64,
+        "defense": 50,
+        "special_attack": 38,
+        "special_defense": 38,
+        "speed": 44
+      },
+      "height": 0.3,
+      "weight": 8.5,
+      "moves": [
+        "headbutt",
+        "tackle",
+        "body-slam",
+        "bite",
+        "water-gun",
+        "hydro-pump",
+        "surf",
+        "counter",
+        "skull-bash",
+        "rest",
+        "substitute",
+        "snore",
+        "protect",
+        "endure",
+        "attract",
+        "sleep-talk",
+        "rain-dance",
+        "whirlpool",
+        "facade",
+        "revenge",
+        "dive",
+        "mud-shot",
+        "payback",
+        "assurance",
+        "gastro-acid",
+        "ice-fang",
+        "round",
+        "dragon-tail",
+        "liquidation",
+        "jaw-lock",
+        "scale-shot",
+        "skitter-smack"
+      ],
+      "abilities": [
+        "strong-jaw",
+        "shell-armor",
+        "swift-swim"
+      ],
+      "availability": [
+        "sword",
+        "shield",
+        "brilliant-diamond",
+        "shining-pearl"
+      ],
+      "description": "Apparently the itch of its teething impels it to snap its jaws at anything in front of it.",
+      "is_legendary": false,
+      "is_mythical": false,
+      "is_fully_evolved": false,
+      "requires_trade": false
+    },
+    "9": {
+      "types": [
+        "water"
+      ],
+      "stats": {
+        "generation": 9,
+        "number": 833,
+        "hp": 50,
+        "attack": 64,
+        "defense": 50,
+        "special_attack": 38,
+        "special_defense": 38,
+        "speed": 44
+      },
+      "height": 0.3,
+      "weight": 8.5,
+      "moves": [
+        "headbutt",
+        "tackle",
+        "body-slam",
+        "take-down",
+        "bite",
+        "water-gun",
+        "hydro-pump",
+        "surf",
+        "counter",
+        "waterfall",
+        "rest",
+        "substitute",
+        "protect",
+        "scary-face",
+        "endure",
+        "false-swipe",
+        "sleep-talk",
+        "rain-dance",
+        "crunch",
+        "whirlpool",
+        "facade",
+        "mud-shot",
+        "water-pulse",
+        "gastro-acid",
+        "poison-jab",
+        "ice-fang",
+        "shell-smash",
+        "dragon-tail",
+        "stomping-tantrum",
+        "liquidation",
+        "jaw-lock",
+        "skitter-smack",
+        "tera-blast",
+        "chilling-water"
+      ],
+      "abilities": [
+        "strong-jaw",
+        "shell-armor",
+        "swift-swim"
+      ],
+      "availability": [
+        "scarlet",
+        "violet"
+      ],
+      "description": "Apparently the itch of its teething impels it to snap its jaws at anything in front of it.",
+      "is_legendary": false,
+      "is_mythical": false,
+      "is_fully_evolved": false,
+      "requires_trade": false
+    }
+  }
+}

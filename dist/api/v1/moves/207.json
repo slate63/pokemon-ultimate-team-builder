@@ -1,0 +1,86 @@
+{
+  "id": 207,
+  "name": "swagger",
+  "generations": {
+    "2": {
+      "id": 207,
+      "name": "swagger",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 90,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "3": {
+      "id": 207,
+      "name": "swagger",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 90,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "4": {
+      "id": 207,
+      "name": "swagger",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 90,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "5": {
+      "id": 207,
+      "name": "swagger",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 90,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "6": {
+      "id": 207,
+      "name": "swagger",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 90,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "7": {
+      "id": 207,
+      "name": "swagger",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 90,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "8": {
+      "id": 207,
+      "name": "swagger",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 85,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "9": {
+      "id": 207,
+      "name": "swagger",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 85,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "status"
+    }
+  }
+}

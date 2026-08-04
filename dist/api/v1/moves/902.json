@@ -1,0 +1,16 @@
+{
+  "id": 902,
+  "name": "matcha-gotcha",
+  "generations": {
+    "9": {
+      "id": 902,
+      "name": "matcha-gotcha",
+      "type": "grass",
+      "power": 80,
+      "accuracy": 90,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "special"
+    }
+  }
+}

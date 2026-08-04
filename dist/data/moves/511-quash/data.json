@@ -1,0 +1,56 @@
+{
+  "id": 511,
+  "name": "quash",
+  "generations": {
+    "5": {
+      "id": 511,
+      "name": "quash",
+      "type": "dark",
+      "power": 0,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "6": {
+      "id": 511,
+      "name": "quash",
+      "type": "dark",
+      "power": 0,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "7": {
+      "id": 511,
+      "name": "quash",
+      "type": "dark",
+      "power": 0,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "8": {
+      "id": 511,
+      "name": "quash",
+      "type": "dark",
+      "power": 0,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "9": {
+      "id": 511,
+      "name": "quash",
+      "type": "dark",
+      "power": 0,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "status"
+    }
+  }
+}

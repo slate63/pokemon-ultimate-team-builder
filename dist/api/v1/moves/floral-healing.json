@@ -1,0 +1,46 @@
+{
+  "id": 666,
+  "name": "floral-healing",
+  "generations": {
+    "6": {
+      "id": 666,
+      "name": "floral-healing",
+      "type": "fairy",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "7": {
+      "id": 666,
+      "name": "floral-healing",
+      "type": "fairy",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "8": {
+      "id": 666,
+      "name": "floral-healing",
+      "type": "fairy",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "status"
+    },
+    "9": {
+      "id": 666,
+      "name": "floral-healing",
+      "type": "fairy",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "status"
+    }
+  }
+}

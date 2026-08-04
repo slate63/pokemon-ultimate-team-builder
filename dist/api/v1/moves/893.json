@@ -1,0 +1,16 @@
+{
+  "id": 893,
+  "name": "gigaton-hammer",
+  "generations": {
+    "9": {
+      "id": 893,
+      "name": "gigaton-hammer",
+      "type": "steel",
+      "power": 160,
+      "accuracy": 100,
+      "pp": 5,
+      "priority": 0,
+      "damage_class": "physical"
+    }
+  }
+}

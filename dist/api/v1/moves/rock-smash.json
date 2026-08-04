@@ -1,0 +1,86 @@
+{
+  "id": 249,
+  "name": "rock-smash",
+  "generations": {
+    "2": {
+      "id": 249,
+      "name": "rock-smash",
+      "type": "fighting",
+      "power": 20,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "3": {
+      "id": 249,
+      "name": "rock-smash",
+      "type": "fighting",
+      "power": 20,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "4": {
+      "id": 249,
+      "name": "rock-smash",
+      "type": "fighting",
+      "power": 20,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "5": {
+      "id": 249,
+      "name": "rock-smash",
+      "type": "fighting",
+      "power": 40,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "6": {
+      "id": 249,
+      "name": "rock-smash",
+      "type": "fighting",
+      "power": 40,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "7": {
+      "id": 249,
+      "name": "rock-smash",
+      "type": "fighting",
+      "power": 40,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "8": {
+      "id": 249,
+      "name": "rock-smash",
+      "type": "fighting",
+      "power": 40,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "9": {
+      "id": 249,
+      "name": "rock-smash",
+      "type": "fighting",
+      "power": 40,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "physical"
+    }
+  }
+}

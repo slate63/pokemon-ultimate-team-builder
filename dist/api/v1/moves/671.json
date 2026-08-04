@@ -1,0 +1,46 @@
+{
+  "id": 671,
+  "name": "spotlight",
+  "generations": {
+    "6": {
+      "id": 671,
+      "name": "spotlight",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 15,
+      "priority": 3,
+      "damage_class": "status"
+    },
+    "7": {
+      "id": 671,
+      "name": "spotlight",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 15,
+      "priority": 3,
+      "damage_class": "status"
+    },
+    "8": {
+      "id": 671,
+      "name": "spotlight",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 15,
+      "priority": 3,
+      "damage_class": "status"
+    },
+    "9": {
+      "id": 671,
+      "name": "spotlight",
+      "type": "normal",
+      "power": 0,
+      "accuracy": 0,
+      "pp": 15,
+      "priority": 3,
+      "damage_class": "status"
+    }
+  }
+}

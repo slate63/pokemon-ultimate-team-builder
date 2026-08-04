@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pokémon Ultimate Team Builder - Data API Reference</title>
+  <link rel="stylesheet" type="text/css" href="https://unpkg.com/swagger-ui-dist@5.11.0/swagger-ui.css" />
+  <link rel="icon" type="image/svg+xml" href="../../pokeball.svg" />
+  <style>
+    html {
+      box-sizing: border-box;
+      overflow-y: scroll;
+    }
+    *, *:before, *:after {
+      box-sizing: inherit;
+    }
+    body {
+      margin: 0;
+      background: #fafafa;
+      font-family: sans-serif;
+    }
+    .swagger-ui .topbar {
+      background-color: #1a1e29;
+      padding: 10px 0;
+    }
+    .topbar-custom-header {
+      color: #ffffff;
+      font-size: 1.25rem;
+      font-weight: 700;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      padding: 0 24px;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="swagger-ui">
+    <div class="topbar">
+      <div class="topbar-custom-header">
+        <span>⚡ Pokémon Ultimate Team Builder — Data API (v1)</span>
+      </div>
+    </div>
+  </div>
+
+  <div id="swagger-ui"></div>
+
+  <script src="https://unpkg.com/swagger-ui-dist@5.11.0/swagger-ui-bundle.js" charset="UTF-8"> </script>
+  <script src="https://unpkg.com/swagger-ui-dist@5.11.0/swagger-ui-standalone-preset.js" charset="UTF-8"> </script>
+  <script>
+    const embeddedSpec = {
+      "openapi": "3.0.3",
+      "info": {
+        "title": "Pokémon Data API",
+        "description": "Zero-auth static REST API for Pokémon, Move, Type, Nature, and Generation data. Designed for fast programmatic access without image/sprite overhead. Hosted via GitHub Pages.",
+        "version": "1.0.0"
+      },
+      "servers": [{ "url": "./", "description": "Current Environment / Base Path" }],
+      "paths": {
+        "/pokemon/index.json": {
+          "get": {
+            "summary": "List all Pokémon summaries",
+            "description": "Returns a lightweight lookup index of all 1,025 Pokémon with basic stats, typing, and classification flags.",
+            "responses": { "200": { "description": "A list of Pokémon summaries.", "content": { "application/json": { "schema": { "type": "array", "items": { "$ref": "#/components/schemas/PokemonSummary" } } } } } }
+          }
+        },
+        "/pokemon/{id_or_name}.json": {
+          "get": {
+            "summary": "Get detailed Pokémon data",
+            "description": "Returns full generation-by-generation data (stats, types, height, weight, movesets, availability) for a single Pokémon.",
+            "parameters": [{ "name": "id_or_name", "in": "path", "required": true, "description": "National Pokédex ID (e.g. 25) or lowercase name (e.g. pikachu)", "schema": { "type": "string" } }],
+            "responses": { "200": { "description": "Detailed Pokémon object.", "content": { "application/json": { "schema": { "$ref": "#/components/schemas/PokemonDetail" } } } }, "404": { "description": "Pokémon not found." } }
+          }
+        },
+        "/moves/index.json": {
+          "get": {
+            "summary": "List all moves",
+            "description": "Returns a list of all move summaries with power, accuracy, PP, type, and damage class.",
+            "responses": { "200": { "description": "A list of move summaries.", "content": { "application/json": { "schema": { "type": "array", "items": { "$ref": "#/components/schemas/MoveSummary" } } } } } }
+          }
+        },
+        "/moves/{id_or_name}.json": {
+          "get": {
+            "summary": "Get detailed move data",
+            "description": "Returns generation-by-generation move properties for a single move by ID or slug name.",
+            "parameters": [{ "name": "id_or_name", "in": "path", "required": true, "description": "Move ID (e.g. 85) or slug (e.g. thunderbolt)", "schema": { "type": "string" } }],
+            "responses": { "200": { "description": "Detailed move object.", "content": { "application/json": { "schema": { "$ref": "#/components/schemas/MoveDetail" } } } } }
+          }
+        },
+        "/types/index.json": {
+          "get": {
+            "summary": "List all Pokémon types",
+            "description": "Returns a list of all 18 elemental type names.",
+            "responses": { "200": { "description": "Array of type names.", "content": { "application/json": { "schema": { "type": "array", "items": { "type": "string", "example": "fire" } } } } } }
+          }
+        },
+        "/types/{name}.json": {
+          "get": {
+            "summary": "Get type effectiveness data",
+            "description": "Returns type matchup effectiveness across generations for a specific type.",
+            "parameters": [{ "name": "name", "in": "path", "required": true, "description": "Type name (e.g. fire, water, dragon)", "schema": { "type": "string" } }],
+            "responses": { "200": { "description": "Detailed type effectiveness object.", "content": { "application/json": { "schema": { "$ref": "#/components/schemas/TypeDetail" } } } } }
+          }
+        },
+        "/natures/index.json": {
+          "get": {
+            "summary": "List all natures",
+            "description": "Returns all 25 Pokémon natures and their stat modification properties.",
+            "responses": { "200": { "description": "Array of nature objects.", "content": { "application/json": { "schema": { "type": "array", "items": { "$ref": "#/components/schemas/Nature" } } } } } }
+          }
+        },
+        "/natures/{name}.json": {
+          "get": {
+            "summary": "Get single nature data",
+            "description": "Returns increased and decreased stat properties for a single nature by name identifier.",
+            "parameters": [{ "name": "name", "in": "path", "required": true, "description": "Nature ID name (e.g. adamant, jolly, modest)", "schema": { "type": "string" } }],
+            "responses": { "200": { "description": "Nature object.", "content": { "application/json": { "schema": { "$ref": "#/components/schemas/Nature" } } } } }
+          }
+        },
+        "/generations.json": {
+          "get": {
+            "summary": "List generations and games",
+            "description": "Returns all supported game generations (Gen 1 - Gen 9) and game version IDs.",
+            "responses": { "200": { "description": "Array of generation metadata objects.", "content": { "application/json": { "schema": { "type": "array", "items": { "$ref": "#/components/schemas/Generation" } } } } } }
+          }
+        }
+      },
+      "components": {
+        "schemas": {
+          "PokemonSummary": {
+            "type": "object",
+            "properties": {
+              "id": { "type": "integer", "example": 25 },
+              "name": { "type": "string", "example": "pikachu" },
+              "types": { "type": "array", "items": { "type": "string" }, "example": ["electric"] },
+              "stats": { "$ref": "#/components/schemas/BaseStats" },
+              "generation": { "type": "integer", "example": 9 },
+              "is_legendary": { "type": "boolean", "example": false },
+              "is_mythical": { "type": "boolean", "example": false },
+              "is_fully_evolved": { "type": "boolean", "example": false }
+            }
+          },
+          "PokemonDetail": {
+            "type": "object",
+            "properties": {
+              "id": { "type": "integer", "example": 25 },
+              "name": { "type": "string", "example": "pikachu" },
+              "generations": { "type": "object", "additionalProperties": { "$ref": "#/components/schemas/PokemonGenerationData" } }
+            }
+          },
+          "PokemonGenerationData": {
+            "type": "object",
+            "properties": {
+              "types": { "type": "array", "items": { "type": "string" }, "example": ["electric"] },
+              "stats": { "$ref": "#/components/schemas/BaseStats" },
+              "height": { "type": "number", "example": 0.4 },
+              "weight": { "type": "number", "example": 6.0 },
+              "moves": { "type": "array", "items": { "type": "string" }, "example": ["thunderbolt", "quick-attack"] },
+              "availability": { "type": "array", "items": { "type": "string" }, "example": ["red", "blue", "yellow"] },
+              "description": { "type": "string", "example": "When several of these Pokémon gather, their electricity could build and cause lightning storms." },
+              "is_legendary": { "type": "boolean", "example": false },
+              "is_mythical": { "type": "boolean", "example": false },
+              "is_fully_evolved": { "type": "boolean", "example": false }
+            }
+          },
+          "BaseStats": {
+            "type": "object",
+            "properties": {
+              "hp": { "type": "integer", "example": 35 },
+              "attack": { "type": "integer", "example": 55 },
+              "defense": { "type": "integer", "example": 40 },
+              "special_attack": { "type": "integer", "example": 50 },
+              "special_defense": { "type": "integer", "example": 50 },
+              "speed": { "type": "integer", "example": 90 }
+            }
+          },
+          "MoveSummary": {
+            "type": "object",
+            "properties": {
+              "id": { "type": "integer", "example": 85 },
+              "name": { "type": "string", "example": "thunderbolt" },
+              "type": { "type": "string", "example": "electric" },
+              "power": { "type": "integer", "nullable": true, "example": 90 },
+              "accuracy": { "type": "integer", "nullable": true, "example": 100 },
+              "pp": { "type": "integer", "example": 15 },
+              "priority": { "type": "integer", "example": 0 },
+              "damage_class": { "type": "string", "example": "special" }
+            }
+          },
+          "MoveDetail": {
+            "type": "object",
+            "properties": {
+              "id": { "type": "integer", "example": 85 },
+              "name": { "type": "string", "example": "thunderbolt" },
+              "generations": {
+                "type": "object",
+                "additionalProperties": {
+                  "type": "object",
+                  "properties": {
+                    "id": { "type": "integer" },
+                    "name": { "type": "string" },
+                    "type": { "type": "string" },
+                    "power": { "type": "integer", "nullable": true },
+                    "accuracy": { "type": "integer", "nullable": true },
+                    "pp": { "type": "integer" },
+                    "priority": { "type": "integer" },
+                    "damage_class": { "type": "string" }
+                  }
+                }
+              }
+            }
+          },
+          "TypeDetail": {
+            "type": "object",
+            "properties": {
+              "name": { "type": "string", "example": "fire" },
+              "generations": {
+                "type": "object",
+                "additionalProperties": {
+                  "type": "object",
+                  "properties": {
+                    "double_damage_from": { "type": "array", "items": { "type": "string" } },
+                    "double_damage_to": { "type": "array", "items": { "type": "string" } },
+                    "half_damage_from": { "type": "array", "items": { "type": "string" } },
+                    "half_damage_to": { "type": "array", "items": { "type": "string" } },
+                    "no_damage_from": { "type": "array", "items": { "type": "string" } },
+                    "no_damage_to": { "type": "array", "items": { "type": "string" } }
+                  }
+                }
+              }
+            }
+          },
+          "Nature": {
+            "type": "object",
+            "properties": {
+              "id": { "type": "string", "example": "adamant" },
+              "name": { "type": "string", "example": "Adamant" },
+              "increasedStat": { "type": "string", "nullable": true, "example": "attack" },
+              "decreasedStat": { "type": "string", "nullable": true, "example": "special_attack" },
+              "increasedStatName": { "type": "string", "nullable": true, "example": "Attack" },
+              "decreasedStatName": { "type": "string", "nullable": true, "example": "Sp. Atk" }
+            }
+          },
+          "Generation": {
+            "type": "object",
+            "properties": {
+              "id": { "type": "string", "example": "gen1" },
+              "name": { "type": "string", "example": "Red / Blue / Yellow" },
+              "generation": { "type": "integer", "example": 1 },
+              "badge": { "type": "string", "example": "🔴 Gen 1" },
+              "games": { "type": "array", "items": { "type": "string" }, "example": ["red", "blue", "yellow"] }
+            }
+          }
+        }
+      }
+    };
+
+    window.onload = function() {
+      // Attempt to load openapi.json, falling back to embedded spec (useful when opening via file:// protocol directly)
+      fetch('./openapi.json')
+        .then(res => {
+          if (!res.ok) throw new Error('HTTP error ' + res.status);
+          return res.json();
+        })
+        .then(specData => {
+          initSwaggerUI(specData);
+        })
+        .catch(err => {
+          console.warn('Could not fetch openapi.json dynamically (likely opened via file:// protocol). Using embedded specification.', err);
+          initSwaggerUI(embeddedSpec);
+        });
+    };
+
+    function initSwaggerUI(specObject) {
+      window.ui = SwaggerUIBundle({
+        spec: specObject,
+        dom_id: '#swagger-ui',
+        deepLinking: true,
+        presets: [
+          SwaggerUIBundle.presets.apis,
+          SwaggerUIStandalonePreset
+        ],
+        plugins: [
+          SwaggerUIBundle.plugins.DownloadUrl
+        ],
+        layout: "StandaloneLayout"
+      });
+    }
+  </script>
+</body>
+</html>

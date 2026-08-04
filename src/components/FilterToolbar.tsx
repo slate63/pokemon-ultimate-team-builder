@@ -12,6 +12,8 @@ interface FilterToolbarProps {
   onType2Change: (type: PokemonType | '') => void;
   fullyEvolvedOnly: boolean;
   onFullyEvolvedToggle: (checked: boolean) => void;
+  excludeTrades: boolean;
+  onExcludeTradesToggle: (checked: boolean) => void;
   includeLegendaries: boolean;
   onLegendariesToggle: (checked: boolean) => void;
   includeMythicals: boolean;
@@ -32,6 +34,8 @@ export const FilterToolbar: React.FC<FilterToolbarProps> = memo(({
   onType2Change,
   fullyEvolvedOnly,
   onFullyEvolvedToggle,
+  excludeTrades,
+  onExcludeTradesToggle,
   includeLegendaries,
   onLegendariesToggle,
   includeMythicals,
@@ -113,6 +117,15 @@ export const FilterToolbar: React.FC<FilterToolbarProps> = memo(({
               onChange={(e) => onFullyEvolvedToggle(e.target.checked)}
             />
             Fully Evolved Only
+          </label>
+
+          <label className="checkbox-label">
+            <input
+              type="checkbox"
+              checked={excludeTrades}
+              onChange={(e) => onExcludeTradesToggle(e.target.checked)}
+            />
+            Exclude Trade Evolutions
           </label>
 
           <label className="checkbox-label">

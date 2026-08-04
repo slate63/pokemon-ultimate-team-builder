@@ -1,0 +1,202 @@
+{
+  "id": 741,
+  "name": "oricorio-baile",
+  "generations": {
+    "7": {
+      "types": [
+        "fire",
+        "flying"
+      ],
+      "stats": {
+        "generation": 7,
+        "number": 741,
+        "hp": 75,
+        "attack": 70,
+        "defense": 70,
+        "special_attack": 98,
+        "special_defense": 70,
+        "speed": 93
+      },
+      "height": 0.6,
+      "weight": 3.4,
+      "moves": [
+        "pound",
+        "double-slap",
+        "swords-dance",
+        "fly",
+        "growl",
+        "peck",
+        "toxic",
+        "agility",
+        "double-team",
+        "mirror-move",
+        "sky-attack",
+        "rest",
+        "substitute",
+        "snore",
+        "protect",
+        "icy-wind",
+        "sandstorm",
+        "swagger",
+        "steel-wing",
+        "attract",
+        "sleep-talk",
+        "return",
+        "frustration",
+        "safeguard",
+        "baton-pass",
+        "hidden-power",
+        "facade",
+        "taunt",
+        "helping-hand",
+        "role-play",
+        "feather-dance",
+        "teeter-dance",
+        "air-cutter",
+        "aerial-ace",
+        "covet",
+        "calm-mind",
+        "roost",
+        "pluck",
+        "tailwind",
+        "u-turn",
+        "embargo",
+        "air-slash",
+        "defog",
+        "captivate",
+        "round",
+        "quash",
+        "acrobatics",
+        "work-up",
+        "hurricane",
+        "confide",
+        "revelation-dance"
+      ],
+      "abilities": [
+        "dancer"
+      ],
+      "availability": [
+        "sun",
+        "moon",
+        "ultra-sun",
+        "ultra-moon"
+      ],
+      "description": "It beats its wings together to create fire. As it moves in the steps of its beautiful dance, it bathes opponents in intense flames.",
+      "is_legendary": false,
+      "is_mythical": false,
+      "is_fully_evolved": true,
+      "requires_trade": false
+    },
+    "8": {
+      "types": [
+        "fire",
+        "flying"
+      ],
+      "stats": {
+        "generation": 8,
+        "number": 741,
+        "hp": 75,
+        "attack": 70,
+        "defense": 70,
+        "special_attack": 98,
+        "special_defense": 70,
+        "speed": 93
+      },
+      "height": 0.6,
+      "weight": 3.4,
+      "moves": [],
+      "abilities": [
+        "dancer"
+      ],
+      "availability": [
+        "sword",
+        "shield",
+        "brilliant-diamond",
+        "shining-pearl"
+      ],
+      "description": "It beats its wings together to create fire. As it moves in the steps of its beautiful dance, it bathes opponents in intense flames.",
+      "is_legendary": false,
+      "is_mythical": false,
+      "is_fully_evolved": true,
+      "requires_trade": false
+    },
+    "9": {
+      "types": [
+        "fire",
+        "flying"
+      ],
+      "stats": {
+        "generation": 9,
+        "number": 741,
+        "hp": 75,
+        "attack": 70,
+        "defense": 70,
+        "special_attack": 98,
+        "special_defense": 70,
+        "speed": 93
+      },
+      "height": 0.6,
+      "weight": 3.4,
+      "moves": [
+        "pound",
+        "swords-dance",
+        "fly",
+        "take-down",
+        "growl",
+        "peck",
+        "agility",
+        "swift",
+        "rest",
+        "substitute",
+        "reversal",
+        "protect",
+        "icy-wind",
+        "sandstorm",
+        "endure",
+        "charm",
+        "attract",
+        "sleep-talk",
+        "safeguard",
+        "baton-pass",
+        "rain-dance",
+        "sunny-day",
+        "psych-up",
+        "flatter",
+        "facade",
+        "taunt",
+        "helping-hand",
+        "feather-dance",
+        "teeter-dance",
+        "air-cutter",
+        "aerial-ace",
+        "calm-mind",
+        "roost",
+        "pluck",
+        "tailwind",
+        "u-turn",
+        "air-slash",
+        "defog",
+        "quiver-dance",
+        "acrobatics",
+        "hurricane",
+        "revelation-dance",
+        "dual-wingbeat",
+        "tera-blast",
+        "trailblaze",
+        "alluring-voice"
+      ],
+      "abilities": [
+        "dancer"
+      ],
+      "availability": [
+        "scarlet",
+        "violet"
+      ],
+      "description": "It beats its wings together to create fire. As it moves in the steps of its beautiful dance, it bathes opponents in intense flames.",
+      "is_legendary": false,
+      "is_mythical": false,
+      "is_fully_evolved": true,
+      "requires_trade": false
+    }
+  }
+}

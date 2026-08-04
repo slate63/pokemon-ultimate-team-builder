@@ -1,0 +1,76 @@
+{
+  "id": 257,
+  "name": "heat-wave",
+  "generations": {
+    "3": {
+      "id": 257,
+      "name": "heat-wave",
+      "type": "fire",
+      "power": 100,
+      "accuracy": 90,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "4": {
+      "id": 257,
+      "name": "heat-wave",
+      "type": "fire",
+      "power": 100,
+      "accuracy": 90,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "5": {
+      "id": 257,
+      "name": "heat-wave",
+      "type": "fire",
+      "power": 100,
+      "accuracy": 90,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "6": {
+      "id": 257,
+      "name": "heat-wave",
+      "type": "fire",
+      "power": 100,
+      "accuracy": 90,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "7": {
+      "id": 257,
+      "name": "heat-wave",
+      "type": "fire",
+      "power": 95,
+      "accuracy": 90,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "8": {
+      "id": 257,
+      "name": "heat-wave",
+      "type": "fire",
+      "power": 95,
+      "accuracy": 90,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "9": {
+      "id": 257,
+      "name": "heat-wave",
+      "type": "fire",
+      "power": 95,
+      "accuracy": 90,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "special"
+    }
+  }
+}

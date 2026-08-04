@@ -1,0 +1,76 @@
+{
+  "id": 253,
+  "name": "uproar",
+  "generations": {
+    "3": {
+      "id": 253,
+      "name": "uproar",
+      "type": "normal",
+      "power": 50,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "4": {
+      "id": 253,
+      "name": "uproar",
+      "type": "normal",
+      "power": 50,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "5": {
+      "id": 253,
+      "name": "uproar",
+      "type": "normal",
+      "power": 50,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "6": {
+      "id": 253,
+      "name": "uproar",
+      "type": "normal",
+      "power": 90,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "7": {
+      "id": 253,
+      "name": "uproar",
+      "type": "normal",
+      "power": 90,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "8": {
+      "id": 253,
+      "name": "uproar",
+      "type": "normal",
+      "power": 90,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "9": {
+      "id": 253,
+      "name": "uproar",
+      "type": "normal",
+      "power": 90,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "special"
+    }
+  }
+}

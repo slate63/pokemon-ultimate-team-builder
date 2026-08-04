@@ -1,0 +1,8 @@
+{
+  "id": "rash",
+  "name": "Rash",
+  "increasedStat": "special_attack",
+  "decreasedStat": "special_defense",
+  "increasedStatName": "Sp. Atk",
+  "decreasedStatName": "Sp. Def"
+}

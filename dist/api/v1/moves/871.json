@@ -1,0 +1,26 @@
+{
+  "id": 871,
+  "name": "torch-song",
+  "generations": {
+    "8": {
+      "id": 871,
+      "name": "torch-song",
+      "type": "fire",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "9": {
+      "id": 871,
+      "name": "torch-song",
+      "type": "fire",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 10,
+      "priority": 0,
+      "damage_class": "special"
+    }
+  }
+}

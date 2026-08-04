@@ -3,6 +3,35 @@ import { Pokemon, ResolvedPokemon, PokemonType } from '../types';
 import { resolvePokemon, GAME_DEXES } from '../data/pokemonData';
 import { POKEMON_TYPES } from '../utils/coverage';
 
+const TRADE_EVO_TO_LOWER: Record<number, number> = {
+  65: 64,   // Alakazam -> Kadabra
+  68: 67,   // Machamp -> Machoke
+  76: 75,   // Golem -> Graveler
+  94: 93,   // Gengar -> Haunter
+  186: 61,  // Politoed -> Poliwhirl
+  199: 79,  // Slowking -> Slowpoke
+  208: 95,  // Steelix -> Onix
+  212: 123, // Scizor -> Scyther
+  230: 117, // Kingdra -> Seadra
+  233: 137, // Porygon2 -> Porygon
+  350: 349, // Milotic -> Feebas
+  367: 366, // Huntail -> Clamperl
+  368: 366, // Gorebyss -> Clamperl
+  464: 112, // Rhyperior -> Rhydon
+  466: 125, // Electivire -> Electabuzz
+  467: 126, // Magmortar -> Magmar
+  474: 233, // Porygon-Z -> Porygon2
+  477: 356, // Dusknoir -> Dusclops
+  526: 525, // Gigalith -> Boldore
+  534: 533, // Conkeldurr -> Gurdurr
+  589: 588, // Escavalier -> Karrablast
+  617: 616, // Accelgor -> Shelmet
+  683: 682, // Aromatisse -> Spritzee
+  685: 684, // Slurpuff -> Swirlix
+  709: 708, // Trevenant -> Phantump
+  711: 710, // Gourgeist -> Pumpkaboo
+};
+
 function getValidTypesForGen(gen: number): PokemonType[] {
   if (gen === 1) {
     return [
@@ -31,6 +60,7 @@ export function useFilters(
   const [selectedType1, setSelectedType1] = useState<PokemonType | ''>('');
   const [selectedType2, setSelectedType2] = useState<PokemonType | ''>('');
   const [fullyEvolvedOnly, setFullyEvolvedOnly] = useState<boolean>(true);
+  const [excludeTrades, setExcludeTrades] = useState<boolean>(false);
   const [includeLegendaries, setIncludeLegendaries] = useState<boolean>(true);
   const [includeMythicals, setIncludeMythicals] = useState<boolean>(true);
   const [sortBy, setSortBy] = useState<string>('gen-num-type');
@@ -60,9 +90,45 @@ export function useFilters(
       return 9;
     };
 
-    return pokemonRoster
+    const resolvedList = pokemonRoster
       .map((p) => resolvePokemon(p, activeGen))
-      .filter((p): p is ResolvedPokemon => p !== undefined)
+      .filter((p): p is ResolvedPokemon => p !== undefined);
+
+    const resolvedMap = new Map<number, ResolvedPokemon>();
+    for (const p of resolvedList) {
+      resolvedMap.set(p.id, p);
+    }
+
+    const getUltimateLowerEvolution = (id: number): number | null => {
+      let currentId = id;
+      while (true) {
+        const lowerId = TRADE_EVO_TO_LOWER[currentId];
+        if (!lowerId) return null;
+
+        const lowerResolved = resolvedMap.get(lowerId);
+        if (!lowerResolved) return null;
+
+        if (lowerResolved.requires_trade) {
+          currentId = lowerId;
+        } else {
+          return lowerId;
+        }
+      }
+    };
+
+    const promotedSet = new Set<number>();
+    if (excludeTrades) {
+      for (const p of resolvedList) {
+        if (p.requires_trade) {
+          const lowerId = getUltimateLowerEvolution(p.id);
+          if (lowerId !== null) {
+            promotedSet.add(lowerId);
+          }
+        }
+      }
+    }
+
+    return resolvedList
       .filter((p) => {
         if (searchQuery.trim()) {
           const q = searchQuery.toLowerCase().trim();
@@ -74,7 +140,12 @@ export function useFilters(
         if (selectedType1 && !p.types.includes(selectedType1)) return false;
         if (selectedType2 && !p.types.includes(selectedType2)) return false;
 
-        if (fullyEvolvedOnly && p.is_fully_evolved === false) return false;
+        if (excludeTrades && p.requires_trade) return false;
+
+        if (fullyEvolvedOnly && p.is_fully_evolved === false) {
+          const isPromoted = excludeTrades && promotedSet.has(p.id);
+          if (!isPromoted) return false;
+        }
         if (!includeLegendaries && p.is_legendary) return false;
         if (!includeMythicals && p.is_mythical) return false;
 
@@ -147,6 +218,7 @@ export function useFilters(
     selectedType1,
     selectedType2,
     fullyEvolvedOnly,
+    excludeTrades,
     includeLegendaries,
     includeMythicals,
     sortBy,
@@ -161,6 +233,8 @@ export function useFilters(
     setSelectedType2,
     fullyEvolvedOnly,
     setFullyEvolvedOnly,
+    excludeTrades,
+    setExcludeTrades,
     includeLegendaries,
     setIncludeLegendaries,
     includeMythicals,

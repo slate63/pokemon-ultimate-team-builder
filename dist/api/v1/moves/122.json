@@ -1,0 +1,96 @@
+{
+  "id": 122,
+  "name": "lick",
+  "generations": {
+    "1": {
+      "id": 122,
+      "name": "lick",
+      "type": "ghost",
+      "power": 20,
+      "accuracy": 100,
+      "pp": 30,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "2": {
+      "id": 122,
+      "name": "lick",
+      "type": "ghost",
+      "power": 20,
+      "accuracy": 100,
+      "pp": 30,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "3": {
+      "id": 122,
+      "name": "lick",
+      "type": "ghost",
+      "power": 20,
+      "accuracy": 100,
+      "pp": 30,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "4": {
+      "id": 122,
+      "name": "lick",
+      "type": "ghost",
+      "power": 20,
+      "accuracy": 100,
+      "pp": 30,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "5": {
+      "id": 122,
+      "name": "lick",
+      "type": "ghost",
+      "power": 20,
+      "accuracy": 100,
+      "pp": 30,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "6": {
+      "id": 122,
+      "name": "lick",
+      "type": "ghost",
+      "power": 20,
+      "accuracy": 100,
+      "pp": 30,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "7": {
+      "id": 122,
+      "name": "lick",
+      "type": "ghost",
+      "power": 30,
+      "accuracy": 100,
+      "pp": 30,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "8": {
+      "id": 122,
+      "name": "lick",
+      "type": "ghost",
+      "power": 30,
+      "accuracy": 100,
+      "pp": 30,
+      "priority": 0,
+      "damage_class": "physical"
+    },
+    "9": {
+      "id": 122,
+      "name": "lick",
+      "type": "ghost",
+      "power": 30,
+      "accuracy": 100,
+      "pp": 30,
+      "priority": 0,
+      "damage_class": "physical"
+    }
+  }
+}

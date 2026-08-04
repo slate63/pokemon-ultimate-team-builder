@@ -1,0 +1,36 @@
+{
+  "id": 745,
+  "name": "snipe-shot",
+  "generations": {
+    "7": {
+      "id": 745,
+      "name": "snipe-shot",
+      "type": "water",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "8": {
+      "id": 745,
+      "name": "snipe-shot",
+      "type": "water",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "9": {
+      "id": 745,
+      "name": "snipe-shot",
+      "type": "water",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 15,
+      "priority": 0,
+      "damage_class": "special"
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "id": 145,
+  "name": "bubble",
+  "generations": {
+    "1": {
+      "id": 145,
+      "name": "bubble",
+      "type": "water",
+      "power": 20,
+      "accuracy": 100,
+      "pp": 30,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "2": {
+      "id": 145,
+      "name": "bubble",
+      "type": "water",
+      "power": 20,
+      "accuracy": 100,
+      "pp": 30,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "3": {
+      "id": 145,
+      "name": "bubble",
+      "type": "water",
+      "power": 20,
+      "accuracy": 100,
+      "pp": 30,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "4": {
+      "id": 145,
+      "name": "bubble",
+      "type": "water",
+      "power": 20,
+      "accuracy": 100,
+      "pp": 30,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "5": {
+      "id": 145,
+      "name": "bubble",
+      "type": "water",
+      "power": 20,
+      "accuracy": 100,
+      "pp": 30,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "6": {
+      "id": 145,
+      "name": "bubble",
+      "type": "water",
+      "power": 20,
+      "accuracy": 100,
+      "pp": 30,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "7": {
+      "id": 145,
+      "name": "bubble",
+      "type": "water",
+      "power": 40,
+      "accuracy": 100,
+      "pp": 30,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "8": {
+      "id": 145,
+      "name": "bubble",
+      "type": "water",
+      "power": 40,
+      "accuracy": 100,
+      "pp": 30,
+      "priority": 0,
+      "damage_class": "special"
+    },
+    "9": {
+      "id": 145,
+      "name": "bubble",
+      "type": "water",
+      "power": 40,
+      "accuracy": 100,
+      "pp": 30,
+      "priority": 0,
+      "damage_class": "special"
+    }
+  }
+}

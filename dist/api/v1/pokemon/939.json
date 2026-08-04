@@ -1,0 +1,82 @@
+{
+  "id": 939,
+  "name": "bellibolt",
+  "generations": {
+    "9": {
+      "types": [
+        "electric"
+      ],
+      "stats": {
+        "generation": 9,
+        "number": 939,
+        "hp": 109,
+        "attack": 64,
+        "defense": 91,
+        "special_attack": 103,
+        "special_defense": 83,
+        "speed": 45
+      },
+      "height": 1.2,
+      "weight": 113.0,
+      "moves": [
+        "tackle",
+        "water-gun",
+        "hyper-beam",
+        "thunder-shock",
+        "thunderbolt",
+        "thunder-wave",
+        "thunder",
+        "toxic",
+        "confuse-ray",
+        "light-screen",
+        "reflect",
+        "swift",
+        "rest",
+        "substitute",
+        "flail",
+        "protect",
+        "mud-slap",
+        "zap-cannon",
+        "endure",
+        "spark",
+        "sleep-talk",
+        "rain-dance",
+        "charge",
+        "slack-off",
+        "hyper-voice",
+        "weather-ball",
+        "muddy-water",
+        "mud-shot",
+        "water-pulse",
+        "sucker-punch",
+        "giga-impact",
+        "discharge",
+        "charge-beam",
+        "electro-ball",
+        "acid-spray",
+        "volt-switch",
+        "electroweb",
+        "wild-charge",
+        "eerie-impulse",
+        "electric-terrain",
+        "tera-blast",
+        "chilling-water",
+        "supercell-slam"
+      ],
+      "abilities": [
+        "electromorphosis",
+        "static",
+        "damp"
+      ],
+      "availability": [
+        "scarlet",
+        "violet"
+      ],
+      "description": "When this Pok\u00e9mon expands and contracts its wobbly body, the belly-button dynamo in its stomach produces a huge amount of electricity.",
+      "is_legendary": false,
+      "is_mythical": false,
+      "is_fully_evolved": true,
+      "requires_trade": false
+    }
+  }
+}

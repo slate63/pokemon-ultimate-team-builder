@@ -1,0 +1,80 @@
+{
+  "id": 961,
+  "name": "wugtrio",
+  "generations": {
+    "9": {
+      "types": [
+        "water"
+      ],
+      "stats": {
+        "generation": 9,
+        "number": 961,
+        "hp": 35,
+        "attack": 100,
+        "defense": 50,
+        "special_attack": 50,
+        "special_defense": 70,
+        "speed": 120
+      },
+      "height": 1.2,
+      "weight": 5.4,
+      "moves": [
+        "slam",
+        "sand-attack",
+        "headbutt",
+        "wrap",
+        "take-down",
+        "water-gun",
+        "hydro-pump",
+        "surf",
+        "ice-beam",
+        "blizzard",
+        "hyper-beam",
+        "dig",
+        "agility",
+        "swift",
+        "rest",
+        "substitute",
+        "protect",
+        "mud-slap",
+        "sandstorm",
+        "endure",
+        "sleep-talk",
+        "pain-split",
+        "rain-dance",
+        "whirlpool",
+        "facade",
+        "helping-hand",
+        "muddy-water",
+        "mud-shot",
+        "water-pulse",
+        "sucker-punch",
+        "earth-power",
+        "giga-impact",
+        "aqua-jet",
+        "foul-play",
+        "bulldoze",
+        "throat-chop",
+        "stomping-tantrum",
+        "liquidation",
+        "tera-blast",
+        "triple-dive",
+        "chilling-water"
+      ],
+      "abilities": [
+        "gooey",
+        "rattled",
+        "sand-veil"
+      ],
+      "availability": [
+        "scarlet",
+        "violet"
+      ],
+      "description": "It has a vicious temperament, contrary to what its appearance may suggest. It wraps its long bodies around prey, then drags the prey into its den.",
+      "is_legendary": false,
+      "is_mythical": false,
+      "is_fully_evolved": true,
+      "requires_trade": false
+    }
+  }
+}
