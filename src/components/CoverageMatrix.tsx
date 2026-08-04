@@ -49,6 +49,28 @@ export const CoverageMatrix: React.FC<CoverageMatrixProps> = memo(({
     [defensiveCoverage, types]
   );
 
+  const totals = useMemo(() => {
+    let weak2x = 0;
+    let weak4x = 0;
+    let resist = 0;
+    let immune = 0;
+    let hit = 0;
+
+    types.forEach((type) => {
+      const def = defensiveCoverage[type];
+      if (def) {
+        weak2x += def.weak2x;
+        weak4x += def.weak4x;
+        resist += def.resistHalf + def.resistQuarter;
+        immune += def.immune;
+      }
+      const offCount = offensiveCoverage[type] ?? 0;
+      hit += offCount;
+    });
+
+    return { weak2x, weak4x, resist, immune, hit };
+  }, [types, defensiveCoverage, offensiveCoverage]);
+
   const activeCount = team.filter(Boolean).length;
 
   const getCategoryShortLabel = (category: MatrixCategory, type?: PokemonType): string => {
@@ -189,6 +211,37 @@ export const CoverageMatrix: React.FC<CoverageMatrixProps> = memo(({
               );
             })}
           </tbody>
+          <tfoot>
+            <tr className="matrix-total-row">
+              <td className="text-left matrix-total-label">Total</td>
+              <td>
+                <span className={totals.weak2x > 0 ? 'val-weak' : 'val-neutral'}>
+                  {totals.weak2x}
+                </span>
+              </td>
+              <td>
+                <span className={totals.weak4x > 0 ? 'val-weak-4x' : 'val-neutral'}>
+                  {totals.weak4x}
+                </span>
+              </td>
+              <td>
+                <span className={totals.resist > 0 ? 'val-resist' : 'val-neutral'}>
+                  {totals.resist}
+                </span>
+              </td>
+              <td>
+                <span className={totals.immune > 0 ? 'val-immune' : 'val-neutral'}>
+                  {totals.immune}
+                </span>
+              </td>
+              <td>
+                <span className={totals.hit > 0 ? 'hit-count-active' : 'val-neutral'}>
+                  {totals.hit > 0 && <Zap size={11} style={{ flexShrink: 0, marginRight: '2px' }} />}
+                  <span>{totals.hit}</span>
+                </span>
+              </td>
+            </tr>
+          </tfoot>
         </table>
       )}
 
