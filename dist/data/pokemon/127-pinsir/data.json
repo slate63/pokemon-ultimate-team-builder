@@ -99,7 +99,11 @@
         "sunny-day",
         "rock-smash"
       ],
-      "availability": [],
+      "availability": [
+        "gold",
+        "silver",
+        "crystal"
+      ],
       "description": "If it fails to crush the victim in its pincers, it will swing it around and toss it hard.",
       "is_legendary": false,
       "is_mythical": false,

@@ -104,6 +104,10 @@ def _load_encounter_data() -> Dict[int, Set[str]]:
         for pid in [1, 4, 7]:
             encounter_map.setdefault(pid, set()).add('yellow')
 
+        # Gen 2 Bug-Catching Contest at National Park (Scyther & Pinsir)
+        for pid in [123, 127]:
+            encounter_map.setdefault(pid, set()).update(['gold', 'silver', 'crystal'])
+
         # Gen 3 Hoenn starters in Emerald postgame
         for pid in [252, 255, 258]:
             encounter_map.setdefault(pid, set()).add('emerald')

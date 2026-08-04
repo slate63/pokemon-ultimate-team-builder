@@ -106,7 +106,11 @@
         "sunny-day",
         "rock-smash"
       ],
-      "availability": [],
+      "availability": [
+        "gold",
+        "silver",
+        "crystal"
+      ],
       "description": "With ninja-like agility and speed, it can create the illusion that there is more than one.",
       "is_legendary": false,
       "is_mythical": false,
