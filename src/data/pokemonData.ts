@@ -2,29 +2,29 @@ import { Pokemon, ResolvedPokemon, Team, ResolvedTeam, GameDex, PokemonType } fr
 import { applyNatureToStats, getNature } from '../utils/natureUtils';
 
 export const GAME_DEXES: GameDex[] = [
-  { id: 'national', name: 'National Pokedex (All Gens)', generation: 9, games: ['all'], badge: '🌐 All' },
+  { id: 'national', name: 'National Pokedex (All Gens)', generation: 9, games: ['all'], badge: '🌎 All' },
   { id: 'gen1', name: 'Red / Blue / Yellow', generation: 1, games: ['red', 'blue', 'yellow'], badge: '🔴 Gen 1' },
-  { id: 'gen2', name: 'Gold / Silver / Crystal', generation: 2, games: ['gold', 'silver', 'crystal'], badge: '🌙 Gen 2' },
-  { id: 'gen3', name: 'Ruby / Sapphire / Emerald / FRLG', generation: 3, games: ['ruby', 'sapphire', 'emerald', 'firered', 'leafgreen'], badge: '🌿 Gen 3' },
-  { id: 'gen4', name: 'Diamond / Pearl / Platinum / HGSS', generation: 4, games: ['diamond', 'pearl', 'platinum', 'heartgold', 'soulsilver'], badge: '💎 Gen 4' },
-  { id: 'gen5', name: 'Black / White / B2W2', generation: 5, games: ['black', 'white', 'black-2', 'white-2'], badge: '⚡ Gen 5' },
-  { id: 'gen6', name: 'X / Y / ORAS', generation: 6, games: ['x', 'y', 'omega-ruby', 'alpha-sapphire'], badge: '🐉 Gen 6' },
-  { id: 'gen7', name: 'Sun / Moon / USUM', generation: 7, games: ['sun', 'moon', 'ultra-sun', 'ultra-moon'], badge: '☀️ Gen 7' },
+  { id: 'gen2', name: 'Gold / Silver / Crystal', generation: 2, games: ['gold', 'silver', 'crystal'], badge: '🟡 Gen 2' },
+  { id: 'gen3', name: 'Ruby / Sapphire / Emerald / FRLG', generation: 3, games: ['ruby', 'sapphire', 'emerald', 'firered', 'leafgreen'], badge: '🟢 Gen 3' },
+  { id: 'gen4', name: 'Diamond / Pearl / Platinum / HGSS', generation: 4, games: ['diamond', 'pearl', 'platinum', 'heartgold', 'soulsilver'], badge: '⚪ Gen 4' },
+  { id: 'gen5', name: 'Black / White / B2W2', generation: 5, games: ['black', 'white', 'black-2', 'white-2'], badge: '⚫ Gen 5' },
+  { id: 'gen6', name: 'X / Y / ORAS', generation: 6, games: ['x', 'y', 'omega-ruby', 'alpha-sapphire'], badge: '🔵 Gen 6' },
+  { id: 'gen7', name: 'Sun / Moon / USUM', generation: 7, games: ['sun', 'moon', 'ultra-sun', 'ultra-moon'], badge: '🟠 Gen 7' },
   { id: 'gen8', name: 'Sword / Shield / BDSP / Arceus', generation: 8, games: ['sword', 'shield', 'brilliant-diamond', 'shining-pearl', 'legends-arceus'], badge: '⚔️ Gen 8' },
-  { id: 'gen9', name: 'Scarlet / Violet', generation: 9, games: ['scarlet', 'violet'], badge: '🍇 Gen 9' },
+  { id: 'gen9', name: 'Scarlet / Violet', generation: 9, games: ['scarlet', 'violet'], badge: '🟣 Gen 9' },
 ];
 
 export const GAME_VERSIONS: Record<string, { id: string; badge: string }[]> = {
-  national: [{ id: 'all', badge: 'All Games' }],
-  gen1: [{ id: 'all', badge: 'All Gen 1' }, { id: 'red', badge: 'Red' }, { id: 'blue', badge: 'Blue' }, { id: 'yellow', badge: 'Yellow' }],
-  gen2: [{ id: 'all', badge: 'All Gen 2' }, { id: 'gold', badge: 'Gold' }, { id: 'silver', badge: 'Silver' }, { id: 'crystal', badge: 'Crystal' }],
-  gen3: [{ id: 'all', badge: 'All Gen 3' }, { id: 'ruby', badge: 'Ruby' }, { id: 'sapphire', badge: 'Sapphire' }, { id: 'emerald', badge: 'Emerald' }, { id: 'firered', badge: 'FireRed' }, { id: 'leafgreen', badge: 'LeafGreen' }],
-  gen4: [{ id: 'all', badge: 'All Gen 4' }, { id: 'diamond', badge: 'Diamond' }, { id: 'pearl', badge: 'Pearl' }, { id: 'platinum', badge: 'Platinum' }, { id: 'heartgold', badge: 'HeartGold' }, { id: 'soulsilver', badge: 'SoulSilver' }],
-  gen5: [{ id: 'all', badge: 'All Gen 5' }, { id: 'black', badge: 'Black' }, { id: 'white', badge: 'White' }, { id: 'black-2', badge: 'Black 2' }, { id: 'white-2', badge: 'White 2' }],
-  gen6: [{ id: 'all', badge: 'All Gen 6' }, { id: 'x', badge: 'X' }, { id: 'y', badge: 'Y' }, { id: 'omega-ruby', badge: 'Omega Ruby' }, { id: 'alpha-sapphire', badge: 'Alpha Sapphire' }],
-  gen7: [{ id: 'all', badge: 'All Gen 7' }, { id: 'sun', badge: 'Sun' }, { id: 'moon', badge: 'Moon' }, { id: 'ultra-sun', badge: 'Ultra Sun' }, { id: 'ultra-moon', badge: 'Ultra Moon' }],
-  gen8: [{ id: 'all', badge: 'All Gen 8' }, { id: 'sword', badge: 'Sword' }, { id: 'shield', badge: 'Shield' }, { id: 'brilliant-diamond', badge: 'Brilliant Diamond' }, { id: 'shining-pearl', badge: 'Shining Pearl' }, { id: 'legends-arceus', badge: 'Legends: Arceus' }],
-  gen9: [{ id: 'all', badge: 'All Gen 9' }, { id: 'scarlet', badge: 'Scarlet' }, { id: 'violet', badge: 'Violet' }],
+  national: [{ id: 'all', badge: '🌎 All Games' }],
+  gen1: [{ id: 'all', badge: '🌎 All Gen 1' }, { id: 'red', badge: '🔴 Red' }, { id: 'blue', badge: '🔵 Blue' }, { id: 'yellow', badge: '🟡 Yellow' }],
+  gen2: [{ id: 'all', badge: '🌎 All Gen 2' }, { id: 'gold', badge: '🟡 Gold' }, { id: 'silver', badge: '⚪ Silver' }, { id: 'crystal', badge: '🔵 Crystal' }],
+  gen3: [{ id: 'all', badge: '🌎 All Gen 3' }, { id: 'ruby', badge: '🔴 Ruby' }, { id: 'sapphire', badge: '🔵 Sapphire' }, { id: 'emerald', badge: '🟢 Emerald' }, { id: 'firered', badge: '🟠 FireRed' }, { id: 'leafgreen', badge: '🟢 LeafGreen' }],
+  gen4: [{ id: 'all', badge: '🌎 All Gen 4' }, { id: 'diamond', badge: '🔵 Diamond' }, { id: 'pearl', badge: '🟣 Pearl' }, { id: 'platinum', badge: '⚪ Platinum' }, { id: 'heartgold', badge: '🟡 HeartGold' }, { id: 'soulsilver', badge: '⚪ SoulSilver' }],
+  gen5: [{ id: 'all', badge: '🌎 All Gen 5' }, { id: 'black', badge: '⚫ Black' }, { id: 'white', badge: '⚪ White' }, { id: 'black-2', badge: '⚫ Black 2' }, { id: 'white-2', badge: '⚪ White 2' }],
+  gen6: [{ id: 'all', badge: '🌎 All Gen 6' }, { id: 'x', badge: '🔵 X' }, { id: 'y', badge: '🔴 Y' }, { id: 'omega-ruby', badge: '🔴 Omega Ruby' }, { id: 'alpha-sapphire', badge: '🔵 Alpha Sapphire' }],
+  gen7: [{ id: 'all', badge: '🌎 All Gen 7' }, { id: 'sun', badge: '🟠 Sun' }, { id: 'moon', badge: '🟣 Moon' }, { id: 'ultra-sun', badge: '🟠 Ultra Sun' }, { id: 'ultra-moon', badge: '🟣 Ultra Moon' }],
+  gen8: [{ id: 'all', badge: '🌎 All Gen 8' }, { id: 'sword', badge: '⚔️ Sword' }, { id: 'shield', badge: '🔰 Shield' }, { id: 'brilliant-diamond', badge: '🔵 Brilliant Diamond' }, { id: 'shining-pearl', badge: '🟣 Shining Pearl' }, { id: 'legends-arceus', badge: '🟡 Legends: Arceus' }],
+  gen9: [{ id: 'all', badge: '🌎 All Gen 9' }, { id: 'scarlet', badge: '🔴 Scarlet' }, { id: 'violet', badge: '🟣 Violet' }],
 };
 
 export function getPokemonSprite(id: number, shiny: boolean = false): string {
