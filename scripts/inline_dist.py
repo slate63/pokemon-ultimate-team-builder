@@ -81,6 +81,7 @@ html_template = f"""<!DOCTYPE html>
       window.__TYPES_DATA__ = {types_json_str};
       window.__POKEMON_DATA__ = {pokemon_json_str};
     </script>
+    <meta name="google-site-verification" content="UJVKja_zF3XFzUH5gINU_eyQAgeQakbsBxs3ewkPBhg" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="description" content="Ultimate Pokémon Team Planner - Plan, analyze, and optimize your 6-Pokémon team with complete type coverage, stat analysis, and game roster filters." />
     <title>Pokémon Ultimate Team Planner</title>
