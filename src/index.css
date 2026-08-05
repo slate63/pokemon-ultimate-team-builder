@@ -1199,6 +1199,45 @@ h1, h2, h3, h4, h5, h6 {
   margin-top: 1.5rem;
 }
 
+/* Modal 2-column grid layout */
+.modal-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.5rem;
+  margin-top: 0.5rem;
+}
+
+.modal-grid-left {
+  display: flex;
+  flex-direction: column;
+}
+
+.modal-grid-right {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Radar chart style overrides for inside the modal */
+.modal-radar-card {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+  border-top: none !important;
+  width: 100%;
+}
+
+@media (min-width: 768px) {
+  .modal-content {
+    max-width: 850px;
+  }
+
+  .modal-grid {
+    grid-template-columns: 1.2fr 1fr;
+    align-items: start;
+  }
+}
+
 /* Coverage Matrix & Table Utilities */
 .panel-title-content {
   display: flex;

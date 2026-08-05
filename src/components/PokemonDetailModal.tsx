@@ -4,6 +4,7 @@ import { getPokemonArtwork } from '../data/pokemonData';
 import { getPokemonSprite as getPokemonRetroSprite } from '../utils/spriteUtils';
 import { ALL_NATURES, getNature, getNatureTag, applyNatureToStats } from '../utils/natureUtils';
 import { X, Plus } from 'lucide-react';
+import { StatRadarChart } from './StatRadarChart';
 
 const GAME_COLORS: Record<string, { bg: string; border: string; text: string }> = {
   red: { bg: "rgba(239, 68, 68, 0.15)", border: "rgba(239, 68, 68, 0.3)", text: "rgb(248, 113, 113)" },
@@ -131,111 +132,124 @@ export const PokemonDetailModal: React.FC<PokemonDetailModalProps> = memo(({
           </div>
         </div>
 
-        {isGen3Plus && (
-          <div className="modal-nature-bar">
-            <span className="modal-nature-label">
-              Pokémon Nature:
-            </span>
-            <select
-              className="nature-select-input modal-nature-select"
-              value={selectedNature}
-              onChange={(e) => onNatureChange?.(e.target.value)}
-            >
-              {ALL_NATURES.map((n) => (
-                <option key={n.id} value={n.id}>
-                  {n.name} ({getNatureTag(n)})
-                </option>
-              ))}
-            </select>
-          </div>
-        )}
-
-        <div className="modal-section-mb">
-          <div className="modal-stats-header">
-            <span>Stats Breakdown {isGen3Plus ? '(Nature Highlighted)' : ''}</span>
-            <span className="modal-bst-total">Total: {bst}</span>
-          </div>
-
-          {stats.map((s) => {
-            const isIncreased = activeNature && activeNature.increasedStat === s.key && activeNature.increasedStat !== activeNature.decreasedStat;
-            const isDecreased = activeNature && activeNature.decreasedStat === s.key && activeNature.increasedStat !== activeNature.decreasedStat;
-
-            let labelColor = 'var(--text-main)';
-            let valColor = 'var(--text-main)';
-            let barBgGradient = undefined;
-            let barGlow = undefined;
-
-            if (isIncreased) {
-              labelColor = '#10b981';
-              valColor = '#10b981';
-              barBgGradient = 'linear-gradient(90deg, #10b981, #34d399)';
-              barGlow = '0 0 8px rgba(16, 185, 129, 0.5)';
-            } else if (isDecreased) {
-              labelColor = '#f43f5e';
-              valColor = '#f43f5e';
-              barBgGradient = 'linear-gradient(90deg, #f43f5e, #fb7185)';
-            }
-
-            return (
-              <div key={s.label} className="stat-bar-container">
-                <span className="stat-name" style={{ color: labelColor, fontWeight: isIncreased || isDecreased ? 700 : 500 }}>
-                  {s.label}
+        <div className="modal-grid">
+          <div className="modal-grid-left">
+            {isGen3Plus && (
+              <div className="modal-nature-bar">
+                <span className="modal-nature-label">
+                  Pokémon Nature:
                 </span>
-                <span className="stat-val" style={{ color: valColor, fontWeight: isIncreased || isDecreased ? 700 : 600 }}>
-                  {s.val}
-                </span>
-                <div className="stat-bar-bg">
-                  <div
-                    className="stat-bar-fill"
-                    style={{
-                      width: `${Math.min(100, (s.val / maxStatVal) * 100)}%`,
-                      background: barBgGradient,
-                      boxShadow: barGlow,
-                    }}
-                  />
-                </div>
+                <select
+                  className="nature-select-input modal-nature-select"
+                  value={selectedNature}
+                  onChange={(e) => onNatureChange?.(e.target.value)}
+                >
+                  {ALL_NATURES.map((n) => (
+                    <option key={n.id} value={n.id}>
+                      {n.name} ({getNatureTag(n)})
+                    </option>
+                  ))}
+                </select>
               </div>
-            );
-          })}
-        </div>
+            )}
 
-        {pokemon.abilities && pokemon.abilities.length > 0 && (
-          <div className="modal-info-row">
-            <strong className="modal-info-label">Abilities: </strong>
-            <span className="modal-info-val">{pokemon.abilities.join(', ')}</span>
-          </div>
-        )}
+            <div className="modal-section-mb">
+              <div className="modal-stats-header">
+                <span>Stats Breakdown {isGen3Plus ? '(Nature Highlighted)' : ''}</span>
+                <span className="modal-bst-total">Total: {bst}</span>
+              </div>
 
-        {pokemon.availability && pokemon.availability.length > 0 ? (
-          <div className="modal-info-row">
-            <strong className="modal-info-label">Catchable in: </strong>
-            <div className="type-badges-row modal-type-row" style={{ display: 'inline-flex', flexWrap: 'wrap', gap: '0.35rem', verticalAlign: 'middle', marginLeft: '0.4rem' }}>
-              {pokemon.availability.map((game) => {
-                const color = GAME_COLORS[game] || { bg: 'rgba(255, 255, 255, 0.05)', border: 'rgba(255, 255, 255, 0.1)', text: 'var(--text-main)' };
+              {stats.map((s) => {
+                const isIncreased = activeNature && activeNature.increasedStat === s.key && activeNature.increasedStat !== activeNature.decreasedStat;
+                const isDecreased = activeNature && activeNature.decreasedStat === s.key && activeNature.increasedStat !== activeNature.decreasedStat;
+
+                let labelColor = 'var(--text-main)';
+                let valColor = 'var(--text-main)';
+                let barBgGradient = undefined;
+                let barGlow = undefined;
+
+                if (isIncreased) {
+                  labelColor = '#10b981';
+                  valColor = '#10b981';
+                  barBgGradient = 'linear-gradient(90deg, #10b981, #34d399)';
+                  barGlow = '0 0 8px rgba(16, 185, 129, 0.5)';
+                } else if (isDecreased) {
+                  labelColor = '#f43f5e';
+                  valColor = '#f43f5e';
+                  barBgGradient = 'linear-gradient(90deg, #f43f5e, #fb7185)';
+                }
+
                 return (
-                  <span
-                    key={game}
-                    className="availability-badge"
-                    style={{
-                      backgroundColor: color.bg,
-                      borderColor: color.border,
-                      color: color.text,
-                    }}
-                  >
-                    {game}
-                  </span>
+                  <div key={s.label} className="stat-bar-container">
+                    <span className="stat-name" style={{ color: labelColor, fontWeight: isIncreased || isDecreased ? 700 : 500 }}>
+                      {s.label}
+                    </span>
+                    <span className="stat-val" style={{ color: valColor, fontWeight: isIncreased || isDecreased ? 700 : 600 }}>
+                      {s.val}
+                    </span>
+                    <div className="stat-bar-bg">
+                      <div
+                        className="stat-bar-fill"
+                        style={{
+                          width: `${Math.min(100, (s.val / maxStatVal) * 100)}%`,
+                          background: barBgGradient,
+                          boxShadow: barGlow,
+                        }}
+                      />
+                    </div>
+                  </div>
                 );
               })}
             </div>
+
+            {pokemon.abilities && pokemon.abilities.length > 0 && (
+              <div className="modal-info-row">
+                <strong className="modal-info-label">Abilities: </strong>
+                <span className="modal-info-val">{pokemon.abilities.join(', ')}</span>
+              </div>
+            )}
+
+            {pokemon.availability && pokemon.availability.length > 0 ? (
+              <div className="modal-info-row">
+                <strong className="modal-info-label">Catchable in: </strong>
+                <div className="type-badges-row modal-type-row" style={{ display: 'inline-flex', flexWrap: 'wrap', gap: '0.35rem', verticalAlign: 'middle', marginLeft: '0.4rem' }}>
+                  {pokemon.availability.map((game) => {
+                    const color = GAME_COLORS[game] || { bg: 'rgba(255, 255, 255, 0.05)', border: 'rgba(255, 255, 255, 0.1)', text: 'var(--text-main)' };
+                    return (
+                      <span
+                        key={game}
+                        className="availability-badge"
+                        style={{
+                          backgroundColor: color.bg,
+                          borderColor: color.border,
+                          color: color.text,
+                        }}
+                      >
+                        {game}
+                      </span>
+                    );
+                  })}
+                </div>
+              </div>
+            ) : (
+              <div className="modal-info-row">
+                <strong className="modal-info-label">Catchable in: </strong>
+                <span className="availability-badge availability-badge-event">
+                  Event Only
+                </span>
+              </div>
+            )}
           </div>
-        ) : (
-          <div className="modal-info-row">
-            <strong className="modal-info-label">Catchable in: </strong>
-            <span className="availability-badge availability-badge-event">
-              Event Only
-            </span>
+
+          <div className="modal-grid-right">
+            <StatRadarChart
+              pokemonStats={currentStats}
+              pokemonGen={pokemon.generation}
+              pokemonName={pokemon.name}
+              className="modal-radar-card"
+            />
           </div>
-        )}
+        </div>
 
         <div className="modal-footer-actions">
           <button className="btn" onClick={onClose}>

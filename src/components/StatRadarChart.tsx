@@ -1,10 +1,22 @@
-import React, { useState, memo } from 'react';
+import React, { useState, memo, useId } from 'react';
 import { ResolvedTeam } from '../types';
 import { Activity } from 'lucide-react';
 
 interface StatRadarChartProps {
-  team: ResolvedTeam;
+  team?: ResolvedTeam;
   activeGen?: number;
+  pokemonStats?: {
+    hp: number;
+    attack: number;
+    defense: number;
+    speed: number;
+    special?: number;
+    special_attack?: number;
+    special_defense?: number;
+  };
+  pokemonGen?: number;
+  pokemonName?: string;
+  className?: string;
 }
 
 interface StatAttribute {
@@ -30,56 +42,89 @@ const GEN2_PLUS_ATTRIBUTES: StatAttribute[] = [
   { key: 'spAtk', label: 'Sp. Atk', angleDeg: -150 },
 ];
 
-export const StatRadarChart: React.FC<StatRadarChartProps> = memo(({ team, activeGen }) => {
+export const StatRadarChart: React.FC<StatRadarChartProps> = memo(({
+  team,
+  activeGen,
+  pokemonStats,
+  pokemonGen,
+  pokemonName,
+  className
+}) => {
   const [hoveredKey, setHoveredKey] = useState<string | null>(null);
+  const idSuffix = useId().replace(/:/g, '');
+  const fillGradientId = `radarFillGradient-${idSuffix}`;
+  const glowFilterId = `yellowGlow-${idSuffix}`;
 
-  const activeMembers = team.filter((m): m is NonNullable<typeof m> => m !== null);
-  const count = activeMembers.length;
+  const activeMembers = team ? team.filter((m): m is NonNullable<typeof m> => m !== null) : [];
+  const count = team ? activeMembers.length : 1;
 
-  const isGen1 = activeGen === 1 || (count > 0 && activeMembers[0].pokemon.generation === 1);
+  const isGen1 = pokemonStats
+    ? pokemonGen === 1
+    : (activeGen === 1 || (count > 0 && activeMembers[0].pokemon.generation === 1));
   const attributes = isGen1 ? GEN1_ATTRIBUTES : GEN2_PLUS_ATTRIBUTES;
 
-  let hpSum = 0;
-  let atkSum = 0;
-  let defSum = 0;
-  let spdSum = 0;
-  let specialSum = 0;
-  let spDefSum = 0;
-  let spAtkSum = 0;
+  let avgStats: Record<string, number> = {};
 
-  if (count > 0) {
-    for (const m of activeMembers) {
-      const s = m.pokemon.stats;
-      hpSum += s.hp;
-      atkSum += s.attack;
-      defSum += s.defense;
-      spdSum += s.speed;
+  if (pokemonStats) {
+    avgStats = isGen1
+      ? {
+          hp: pokemonStats.hp,
+          attack: pokemonStats.attack,
+          defense: pokemonStats.defense,
+          speed: pokemonStats.speed,
+          special: pokemonStats.special ?? pokemonStats.special_attack ?? 0,
+        }
+      : {
+          hp: pokemonStats.hp,
+          attack: pokemonStats.attack,
+          defense: pokemonStats.defense,
+          speed: pokemonStats.speed,
+          spDef: pokemonStats.special_defense ?? pokemonStats.special ?? 0,
+          spAtk: pokemonStats.special_attack ?? pokemonStats.special ?? 0,
+        };
+  } else {
+    let hpSum = 0;
+    let atkSum = 0;
+    let defSum = 0;
+    let spdSum = 0;
+    let specialSum = 0;
+    let spDefSum = 0;
+    let spAtkSum = 0;
 
-      if (isGen1) {
-        specialSum += s.special ?? s.special_attack ?? 0;
-      } else {
-        spAtkSum += s.special_attack ?? s.special ?? 0;
-        spDefSum += s.special_defense ?? s.special ?? 0;
+    if (count > 0) {
+      for (const m of activeMembers) {
+        const s = m.pokemon.stats;
+        hpSum += s.hp;
+        atkSum += s.attack;
+        defSum += s.defense;
+        spdSum += s.speed;
+
+        if (isGen1) {
+          specialSum += s.special ?? s.special_attack ?? 0;
+        } else {
+          spAtkSum += s.special_attack ?? s.special ?? 0;
+          spDefSum += s.special_defense ?? s.special ?? 0;
+        }
       }
     }
-  }
 
-  const avgStats: Record<string, number> = isGen1
-    ? {
-        hp: count > 0 ? hpSum / count : 0,
-        attack: count > 0 ? atkSum / count : 0,
-        defense: count > 0 ? defSum / count : 0,
-        speed: count > 0 ? spdSum / count : 0,
-        special: count > 0 ? specialSum / count : 0,
-      }
-    : {
-        hp: count > 0 ? hpSum / count : 0,
-        attack: count > 0 ? atkSum / count : 0,
-        defense: count > 0 ? defSum / count : 0,
-        speed: count > 0 ? spdSum / count : 0,
-        spDef: count > 0 ? spDefSum / count : 0,
-        spAtk: count > 0 ? spAtkSum / count : 0,
-      };
+    avgStats = isGen1
+      ? {
+          hp: count > 0 ? hpSum / count : 0,
+          attack: count > 0 ? atkSum / count : 0,
+          defense: count > 0 ? defSum / count : 0,
+          speed: count > 0 ? spdSum / count : 0,
+          special: count > 0 ? specialSum / count : 0,
+        }
+      : {
+          hp: count > 0 ? hpSum / count : 0,
+          attack: count > 0 ? atkSum / count : 0,
+          defense: count > 0 ? defSum / count : 0,
+          speed: count > 0 ? spdSum / count : 0,
+          spDef: count > 0 ? spDefSum / count : 0,
+          spAtk: count > 0 ? spAtkSum / count : 0,
+        };
+  }
 
   const avgBst = Math.round(Object.values(avgStats).reduce((acc, v) => acc + v, 0));
 
@@ -119,17 +164,17 @@ export const StatRadarChart: React.FC<StatRadarChartProps> = memo(({ team, activ
     .join(' ');
 
   return (
-    <div className="stat-radar-card">
+    <div className={`stat-radar-card ${className || ''}`}>
       <div className="stat-radar-header">
         <div className="radar-header-title">
           <Activity size={16} color="var(--accent-gold)" />
           <span className="radar-title-text">
-            Team Average Base Stats {isGen1 ? '(Gen 1)' : ''}
+            {pokemonName ? `${pokemonName}'s Base Stats` : `Team Average Base Stats ${isGen1 ? '(Gen 1)' : ''}`}
           </span>
         </div>
         {count > 0 && (
           <span className="radar-bst-badge">
-            Avg BST: {avgBst}
+            {pokemonName ? `BST: ${avgBst}` : `Avg BST: ${avgBst}`}
           </span>
         )}
       </div>
@@ -137,11 +182,11 @@ export const StatRadarChart: React.FC<StatRadarChartProps> = memo(({ team, activ
       <div className="stat-radar-container">
         <svg viewBox={`0 0 ${width} ${height}`} className="stat-radar-svg">
           <defs>
-            <radialGradient id="radarFillGradient" cx="50%" cy="50%" r="50%">
+            <radialGradient id={fillGradientId} cx="50%" cy="50%" r="50%">
               <stop offset="0%" stopColor="#acc229" stopOpacity="0.75" />
               <stop offset="100%" stopColor="#7a8a1c" stopOpacity="0.55" />
             </radialGradient>
-            <filter id="yellowGlow" x="-20%" y="-20%" width="140%" height="140%">
+            <filter id={glowFilterId} x="-20%" y="-20%" width="140%" height="140%">
               <feGaussianBlur stdDeviation="2" result="blur" />
               <feComposite in="SourceGraphic" in2="blur" operator="over" />
             </filter>
@@ -184,7 +229,7 @@ export const StatRadarChart: React.FC<StatRadarChartProps> = memo(({ team, activ
           {count > 0 && (
             <polygon
               points={dataPolygonPoints}
-              fill="url(#radarFillGradient)"
+              fill={`url(#${fillGradientId})`}
               stroke="#c5df29"
               strokeWidth={2}
               strokeLinejoin="round"
@@ -207,7 +252,7 @@ export const StatRadarChart: React.FC<StatRadarChartProps> = memo(({ team, activ
                     fill="#facc15"
                     stroke="#ffffff"
                     strokeWidth={1.5}
-                    filter={isHovered ? 'url(#yellowGlow)' : undefined}
+                    filter={isHovered ? `url(#${glowFilterId})` : undefined}
                     style={{ transition: 'all 0.2s ease', cursor: 'pointer' }}
                     onMouseEnter={() => setHoveredKey(attr.key)}
                     onMouseLeave={() => setHoveredKey(null)}
