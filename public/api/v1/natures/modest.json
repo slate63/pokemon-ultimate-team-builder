@@ -1,8 +1,0 @@
-{
-  "id": "modest",
-  "name": "Modest",
-  "increasedStat": "special_attack",
-  "decreasedStat": "attack",
-  "increasedStatName": "Sp. Atk",
-  "decreasedStatName": "Attack"
-}

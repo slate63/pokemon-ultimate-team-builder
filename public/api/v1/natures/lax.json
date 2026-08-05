@@ -1,8 +1,0 @@
-{
-  "id": "lax",
-  "name": "Lax",
-  "increasedStat": "defense",
-  "decreasedStat": "special_defense",
-  "increasedStatName": "Defense",
-  "decreasedStatName": "Sp. Def"
-}

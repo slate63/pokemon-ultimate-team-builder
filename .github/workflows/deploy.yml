@@ -23,19 +23,47 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+
+      - name: Cache sprite data
+        id: sprite-cache
+        uses: actions/cache@v4
+        with:
+          path: public/data/pokemon/*/sprites
+          key: sprites-data-v1
+
+      - name: Download sprite data
+        if: steps.sprite-cache.outputs.cache-hit != 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh release download data-v1 \
+            --pattern pokemon-sprites.tar.gz \
+            --dir /tmp
+          tar -xzf /tmp/pokemon-sprites.tar.gz -C public/data/pokemon
+          rm /tmp/pokemon-sprites.tar.gz
+
       - name: Set up Node
         uses: actions/setup-node@v4
         with:
           node-version: 20
           cache: 'npm'
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
       - name: Install dependencies
         run: npm ci
+
       - name: Build project
         run: npm run build
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: './dist'
+
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4

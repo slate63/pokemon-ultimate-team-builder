@@ -1,4 +1,16 @@
 .DS_Store
-dist/.DS_Store
+
+# Build output
+dist/
+
+# Generated API (rebuilt by build_data_api.py)
+public/api/
+
+# Sprite binary assets (downloaded via scripts/setup-sprites.sh)
+public/data/pokemon/*/sprites/
+
+# Sprite tarball (local build artifact)
+pokemon-sprites.tar.gz
+
 AGENTS.md
 CLAUDE.md
