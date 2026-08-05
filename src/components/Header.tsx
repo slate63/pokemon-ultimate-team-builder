@@ -56,9 +56,19 @@ export const Header: React.FC<HeaderProps> = memo(({
         <div>
           <h1 className="brand-title">Pokémon Ultimate Team Planner</h1>
         </div>
+        <button
+          className="btn btn-danger"
+          onClick={onClearTeam}
+          disabled={teamCount === 0}
+          title={teamCount > 0 ? "Clear All Team Members" : "No team members to clear"}
+        >
+          <Trash2 size={16} />
+          <span>Clear</span>
+        </button>
       </div>
 
       <div className="header-controls">
+
         <div className="select-wrapper" title="Select Pokémon Generation / Dex">
           <span className="select-icon-label">Dex:</span>
           <select
@@ -117,15 +127,6 @@ export const Header: React.FC<HeaderProps> = memo(({
           <span>{copied ? 'Copied!' : 'Share'}</span>
         </button>
 
-        <button
-          className="btn btn-danger"
-          onClick={onClearTeam}
-          disabled={teamCount === 0}
-          title={teamCount > 0 ? "Clear All Team Members" : "No team members to clear"}
-        >
-          <Trash2 size={16} />
-          <span>Clear</span>
-        </button>
       </div>
     </header>
   );
