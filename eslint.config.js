@@ -7,7 +7,18 @@ import tseslint from 'typescript-eslint';
 export default tseslint.config(
   {
     // Generated, vendored, or build output — never linted.
-    ignores: ['dist', 'public', 'node_modules', 'src/data/fullRoster.json'],
+    //
+    // .claude/ holds agent worktrees: full checkouts of other branches living
+    // inside this one. Without this, `npm run lint` reports problems from
+    // whatever code those branches contain, which is confusing locally and
+    // makes the result depend on unrelated in-flight work. CI never has them.
+    ignores: [
+      'dist',
+      'public',
+      'node_modules',
+      '.claude',
+      'src/data/fullRoster.json',
+    ],
   },
 
   // Application source.
