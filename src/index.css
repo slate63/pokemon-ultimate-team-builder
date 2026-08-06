@@ -1444,13 +1444,16 @@ h1, h2, h3, h4, h5, h6 {
   flex-wrap: nowrap;
   flex: 1 1 auto;
   min-width: 0;
+  align-items: center;
 }
 
 .hof-sprite {
-  width: 48px;
-  height: 48px;
+  width: 100%;
+  height: auto;
+  flex: 1 1 0;
+  min-width: 0;
   max-width: 48px;
-  flex: 0 1 48px;
+  aspect-ratio: 1;
   object-fit: contain;
   image-rendering: pixelated;
 }
@@ -1531,10 +1534,7 @@ h1, h2, h3, h4, h5, h6 {
     font-size: 1.2rem;
   }
   .hof-sprite {
-    width: 40px;
-    height: 40px;
     max-width: 40px;
-    flex: 0 1 40px;
   }
 }
 
