@@ -4,6 +4,11 @@ on:
   pull_request:
   push:
     branches: ["main"]
+  # This repo currently does not create workflow runs for pushes to main
+  # (see the deploy workflow's run history -- the last push-triggered run was
+  # 2976fc34). Until that is resolved, workflow_dispatch is the only reliable
+  # way to run these checks, matching how the deploy workflow is being invoked.
+  workflow_dispatch:
 
 permissions:
   contents: read
