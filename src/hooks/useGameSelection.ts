@@ -8,9 +8,9 @@ export function useGameSelection() {
   const [selectedVersionId, setSelectedVersionId] = useState<string>('all');
   const [spriteStyle, setSpriteStyle] = useState<string>(() => {
     try {
-      return localStorage.getItem('pokemon_sprite_style') || 'showdown';
+      return localStorage.getItem('pokemon_sprite_style') || 'home';
     } catch {
-      return 'showdown';
+      return 'home';
     }
   });
 
