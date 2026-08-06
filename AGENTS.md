@@ -24,13 +24,22 @@ scripts/*.py  ──writes──>  public/data/**  ──vite copies──>  dis
 - **`public/data/**` is the source of truth** and is committed. `public/api/v1/**`
   is generated from it on every build and is gitignored. Never propose deleting or
   regenerating `public/data/**` as if it were build output.
-- `src/data/fullRoster.json` is a **regenerable intermediate, not an app asset.**
-  It is produced by `scripts/fetch_version_sprites.py` from PokeAPI and read by
-  `scripts/sync_sprites_to_data.py`. It is never shipped to `dist/`, so the app
-  cannot fetch it. Note that the sync it feeds is currently inert: 0 of 1025
-  `public/data/pokemon/*/data.json` files carry the sprite metadata it writes,
-  because the app derives sprite paths by directory convention in
-  `src/utils/spriteUtils.ts` instead.
+- `src/data/fullRoster.json` (31 MB) is a **tracked build input. Do not untrack or
+  delete it.** Two things read it:
+  - `scripts/inline_dist.py:42` — the *primary* source of `window.__POKEMON_DATA__`,
+    i.e. the entire production dataset. If the file is absent it silently falls
+    back to `dist/data/pokemon/*/data.json`, which is thinner (no sprite metadata),
+    so a missing file degrades the build instead of failing it.
+  - the `pokedex-index` dev plugin in `vite.config.ts`, which serves
+    `/data/indices/pokedex_index.json` from it.
+
+  The file is never *served over HTTP* from `dist/` — Vite copies `public/`, not
+  `src/` — so any code that tries to `fetch()` it is broken. That is separate from
+  it being a build input.
+
+  It is regenerable via `scripts/fetch_version_sprites.py`, but that costs ~1025
+  PokeAPI calls, and a fresh clone without it produces a degraded bundle with no
+  error. Treat it as required.
 
 ## Build pipeline
 

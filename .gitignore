@@ -16,7 +16,10 @@ __pycache__/
 # public/data/**  is the SOURCE OF TRUTH for Pokemon data. It stays in git.
 #                 Do not add it here, and do not "clean it up" as build output.
 # public/api/v1/** is generated from public/data on every build -> ignored below.
-# src/data/fullRoster.json is a regenerable intermediate (see note further down).
+# src/data/fullRoster.json is a TRACKED BUILD INPUT. inline_dist.py reads it as
+#                 the primary source of window.__POKEMON_DATA__ and silently
+#                 falls back to a thinner payload if it is missing. Do not
+#                 untrack it.
 # -----------------------------------------------------------------------------
 
 # Generated API data (rebuilt by build_data_api.py)
