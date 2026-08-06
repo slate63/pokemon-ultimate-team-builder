@@ -268,6 +268,17 @@ h1, h2, h3, h4, h5, h6 {
   color: var(--text-dim);
 }
 
+.btn-gold {
+  background: rgba(251, 191, 36, 0.15);
+  border-color: rgba(251, 191, 36, 0.3);
+  color: #fcd34d;
+}
+
+.btn-gold:hover {
+  background: rgba(251, 191, 36, 0.25);
+  border-color: rgba(251, 191, 36, 0.5);
+}
+
 
 /* Sticky Team Bar */
 .team-bar-section {
@@ -1320,6 +1331,111 @@ h1, h2, h3, h4, h5, h6 {
   color: var(--text-dim);
   text-align: center;
   margin-top: -0.5rem;
+}
+
+/* Hall of Fame */
+.hof-container {
+  padding: 1.5rem;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.hof-header {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 2rem;
+}
+
+.hof-title {
+  font-size: 1.6rem;
+  font-family: var(--font-heading);
+  margin: 0;
+  background: linear-gradient(135deg, var(--accent-gold) 0%, #f59e0b 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.hof-empty {
+  text-align: center;
+  padding: 4rem 1rem;
+  color: var(--text-muted);
+  font-size: 1rem;
+}
+
+.hof-games-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.hof-game-section {
+  background: var(--bg-card);
+  border: 1px solid var(--border-color);
+  border-radius: 12px;
+  padding: 1.25rem;
+}
+
+.hof-game-title {
+  font-size: 1.1rem;
+  font-family: var(--font-heading);
+  margin: 0 0 1rem 0;
+  color: var(--text-main);
+}
+
+.hof-teams-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.hof-team-row {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  padding: 0.5rem 0.75rem;
+  background: rgba(255, 255, 255, 0.03);
+  border-radius: 8px;
+  border: 1px solid transparent;
+  transition: all 0.2s ease;
+}
+
+.hof-team-row:hover {
+  background: rgba(255, 255, 255, 0.06);
+  border-color: var(--border-color);
+}
+
+.hof-rank {
+  font-size: 1.1rem;
+  font-weight: 700;
+  font-family: var(--font-heading);
+  min-width: 2.5rem;
+  color: var(--text-muted);
+}
+
+.hof-team-sprites {
+  display: flex;
+  gap: 0.25rem;
+  flex-wrap: wrap;
+}
+
+.hof-sprite {
+  width: 48px;
+  height: 48px;
+  image-rendering: pixelated;
+}
+
+@media (max-width: 640px) {
+  .hof-container {
+    padding: 1rem;
+  }
+  .hof-title {
+    font-size: 1.2rem;
+  }
+  .hof-sprite {
+    width: 40px;
+    height: 40px;
+  }
 }
 
 /* Header Responsive Adjustments */

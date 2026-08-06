@@ -1,7 +1,7 @@
 import React, { useState, useEffect, memo } from 'react';
 import { GAME_DEXES, GAME_VERSIONS } from '../data/pokemonData';
 import { getAvailableSpriteOptions } from '../utils/spriteUtils';
-import { Share2, Trash2, Check, Shuffle } from 'lucide-react';
+import { Share2, Trash2, Check, Shuffle, Trophy } from 'lucide-react';
 import { PokeballIcon } from './PokeballIcon';
 
 interface HeaderProps {
@@ -13,6 +13,7 @@ interface HeaderProps {
   onSpriteStyleChange: (style: string) => void;
   onClearTeam: () => void;
   onRandomizeTeam: () => void;
+  onHallOfFame: () => void;
   teamCount: number;
 }
 
@@ -25,6 +26,7 @@ export const Header: React.FC<HeaderProps> = memo(({
   onSpriteStyleChange,
   onClearTeam,
   onRandomizeTeam,
+  onHallOfFame,
   teamCount
 }) => {
   const [copied, setCopied] = useState(false);
@@ -64,6 +66,14 @@ export const Header: React.FC<HeaderProps> = memo(({
         >
           <Trash2 size={16} />
           <span>Clear</span>
+        </button>
+        <button
+          className="btn btn-gold"
+          onClick={onHallOfFame}
+          title="View Hall of Fame Teams"
+        >
+          <Trophy size={16} />
+          <span>Hall of Fame</span>
         </button>
       </div>
 
