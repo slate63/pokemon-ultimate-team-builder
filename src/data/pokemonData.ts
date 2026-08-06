@@ -39,7 +39,7 @@ export function getPokemonArtwork(id: number): string {
 }
 
 export function resolvePokemon(pokemon: Pokemon, activeGen: number): ResolvedPokemon | undefined {
-  let genKey = activeGen.toString();
+  const genKey = activeGen.toString();
   let genData = pokemon.generations?.[genKey];
 
   if (!genData) {
