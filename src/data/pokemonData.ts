@@ -39,7 +39,7 @@ export function getPokemonArtwork(id: number): string {
 }
 
 export function resolvePokemon(pokemon: Pokemon, activeGen: number): ResolvedPokemon | undefined {
-  let genKey = activeGen.toString();
+  const genKey = activeGen.toString();
   let genData = pokemon.generations?.[genKey];
 
   if (!genData) {
@@ -175,17 +175,12 @@ export async function loadFullPokemonList(): Promise<Pokemon[]> {
     console.warn('Failed to load pokemon_index.json fallback data', e);
   }
 
-  try {
-    const res3 = await fetch('./data/fullRoster.json');
-    if (res3.ok) {
-      const data = await res3.json();
-      if (Array.isArray(data) && data.length > 0) {
-        return data;
-      }
-    }
-  } catch (e) {
-    console.warn('Failed to load fullRoster.json fallback data', e);
-  }
+  // NOTE: there was previously a third tier here that fetched
+  // './data/fullRoster.json'. That request could never succeed: the file only
+  // exists at src/data/fullRoster.json, and Vite copies public/ into dist/,
+  // never src/. It was removed rather than "fixed" by shipping the file, which
+  // would add 31 MB to the deployed bundle. fullRoster.json remains a
+  // build-pipeline artifact used by scripts/*.py only.
 
   return [];
 }

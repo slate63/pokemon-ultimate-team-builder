@@ -267,7 +267,7 @@ export const StatRadarChart: React.FC<StatRadarChartProps> = memo(({
             const val = avgStats[attr.key] ?? 0;
             const isHovered = hoveredKey === attr.key;
 
-            let labelRadius = radius + 22;
+            const labelRadius = radius + 22;
             let textAnchor: 'middle' | 'start' | 'end' = 'middle';
             let dx = 0;
             let dy = 0;
