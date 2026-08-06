@@ -1,0 +1,8 @@
+# Dependencies for the scripts/ data pipeline.
+#
+# NOTE: the two build-time scripts (build_data_api.py, inline_dist.py) run on
+# every CI deploy and intentionally use only the Python standard library, so a
+# deploy can never fail on a missing package. Keep it that way.
+#
+# Only the manual fetch_*.py scripts need anything from this file.
+requests>=2.31,<3

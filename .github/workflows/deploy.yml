@@ -24,12 +24,29 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      # Derived from the release asset's updatedAt so that re-cutting the
+      # data-v1 release invalidates the cache. The previous static key
+      # ("sprites-data-v1") could never expire, which meant CI would serve the
+      # first sprite tarball it ever downloaded, forever.
+      - name: Resolve sprite release version
+        id: sprite-version
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          stamp=$(gh release view data-v1 --json assets \
+            --jq '.assets[] | select(.name == "pokemon-sprites.tar.gz") | .updatedAt' 2>/dev/null || true)
+          if [ -z "$stamp" ]; then
+            echo "::warning::Could not resolve sprite release asset; using static cache key." >&2
+            stamp="static-fallback"
+          fi
+          echo "key=sprites-$(printf '%s' "$stamp" | sha256sum | cut -c1-12)" >> "$GITHUB_OUTPUT"
+
       - name: Cache sprite data
         id: sprite-cache
         uses: actions/cache@v4
         with:
           path: public/data/pokemon/*/sprites
-          key: sprites-data-v1
+          key: ${{ steps.sprite-version.outputs.key }}
 
       - name: Download sprite data
         if: steps.sprite-cache.outputs.cache-hit != 'true'
@@ -45,7 +62,7 @@ jobs:
       - name: Set up Node
         uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version-file: '.nvmrc'
           cache: 'npm'
 
       - name: Set up Python

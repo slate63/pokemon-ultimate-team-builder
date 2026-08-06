@@ -35,9 +35,9 @@ An interactive, high-performance web application for planning, building, and ana
 
 ### Prerequisites
 
-- **Node.js**: v18.0.0 or higher
+- **Node.js**: v20 or higher (see `.nvmrc` — this is what CI uses)
 - **npm** (or **yarn** / **pnpm**)
-- **Python 3.x** *(optional, only required for re-running data extraction scripts)*
+- **Python 3.x** *(optional, only required for re-running data extraction scripts — `pip install -r requirements.txt`)*
 
 ### Installation
 

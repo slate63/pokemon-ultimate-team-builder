@@ -48,10 +48,11 @@ gitignored, and past commits of it are the largest single contributor to repo si
 | One-time fetchers | `fetch_*.py` | manual, hits PokeAPI |
 | Maintenance | `cleanup_roster.py`, `verify_availability.py`, `sync_sprites_to_data.py` | manual |
 
-**Build-time scripts must import only the Python standard library.** CI runs
-`setup-python` and installs `requirements.txt`, but keeping the two build scripts on
-stdlib alone means a deploy can never break on a missing package. The `fetch_*`
-scripts may use `requests`.
+**Build-time scripts must import only the Python standard library.** The deploy
+workflow sets up Python but deliberately does *not* `pip install` anything, so a
+deploy can never break on a missing package. Adding a third-party import to
+`build_data_api.py` or `inline_dist.py` will break production. The manual
+`fetch_*.py` scripts may use `requests` (see `requirements.txt`).
 
 `fetchalldata.sh` lives at the repo root **by design** — it does `cd "$(dirname "$0")"`
 and then invokes `python3 scripts/*.py`. Moving it into `scripts/` breaks all of its
