@@ -15,6 +15,7 @@ An interactive, high-performance web application for planning, building, and ana
 - **📈 Base Stats & Interactive Radar Charts**: Inspect comprehensive base stats with interactive radar chart visualizers for individual Pokémon and overall team stat averages.
 - **🔍 Advanced Search & Multi-Filter**: Filter Pokémon by generation, typing, stat ranges, evolution stages, abilities, and search by name or Pokédex number.
 - **✨ Complete Sprite & Form Visualizer**: View game-accurate sprite art, shiny forms, gender differences, and historical sprite variations across generations.
+- **🏆 Hall of Fame**: Browse ranked teams across completed game playthroughs, displayed with game-accurate sprites matching each version's art style.
 - **🚀 Zero-Latency Offline Dataset**: Powered by pre-processed, indexed Pokémon data compiled from PokeAPI GraphQL for instant search and zero API lag.
 
 ---
@@ -83,6 +84,7 @@ pokemon-ultimate-team-builder/
 │   │   ├── CoverageMatrix.tsx       # Defensive weakness & coverage analysis matrix
 │   │   ├── FilterToolbar.tsx        # Search, type/stat filters, & game selector
 │   │   ├── Header.tsx               # Top navigation bar
+│   │   ├── HallOfFame.tsx            # Hall of Fame ranked team browser
 │   │   ├── PokemonDetailModal.tsx   # Detailed modal (stats, movesets, evolutions, sprites)
 │   │   ├── PokemonGrid.tsx          # Responsive roster grid display
 │   │   ├── StatRadarChart.tsx       # Canvas radar chart visualizer for stats
@@ -107,8 +109,8 @@ This application includes a public, unauthenticated static REST API hosted via G
 
 ### 🌐 Endpoints
 
-- **Interactive Swagger UI**: `/api/v1/`
-- **OpenAPI 3.0 Spec**: `/api/v1/openapi.yaml`
+- **Interactive Swagger UI**: [`/api/v1/`](https://slate63.github.io/pokemon-ultimate-team-builder/api/v1/)
+- **OpenAPI 3.0 Spec**: [`/api/v1/openapi.yaml`](https://slate63.github.io/pokemon-ultimate-team-builder/api/v1/openapi.yaml)
 - **Pokémon Index**: `/api/v1/pokemon/index.json`
 - **Individual Pokémon**: `/api/v1/pokemon/{id_or_name}.json` *(e.g. `25.json` or `pikachu.json`)*
 - **Moves Index**: `/api/v1/moves/index.json`
