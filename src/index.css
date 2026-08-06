@@ -1392,6 +1392,17 @@ h1, h2, h3, h4, h5, h6 {
   align-items: flex-start;
 }
 
+/* Five-game generations (3, 4, 8) break 3-per-row instead of scrolling sideways */
+.hof-gen-games--wrap3 {
+  flex-wrap: wrap;
+  overflow-x: visible;
+}
+
+.hof-gen-games--wrap3 .hof-game-section {
+  flex: 1 1 calc((100% - 2rem) / 3);
+  max-width: calc((100% - 2rem) / 3);
+}
+
 .hof-game-section {
   background: var(--bg-card);
   border: 1px solid var(--border-color);
@@ -1523,6 +1534,10 @@ h1, h2, h3, h4, h5, h6 {
   }
   .hof-game-section {
     min-width: unset;
+  }
+  .hof-gen-games--wrap3 .hof-game-section {
+    flex-basis: auto;
+    max-width: none;
   }
 }
 

@@ -291,7 +291,7 @@ function GenRow({ gen, games, rosterById }: {
   return (
     <div className="hof-gen-row">
       <h2 className="hof-gen-title">{GEN_LABELS[gen] ?? `Generation ${gen}`}</h2>
-      <div className="hof-gen-games">
+      <div className={`hof-gen-games${games.length === 5 ? ' hof-gen-games--wrap3' : ''}`}>
         {games.map((game) => (
           <GameSection key={game.gameId} game={game} gen={gen} typeChartData={typeChartData} rosterById={rosterById} />
         ))}
