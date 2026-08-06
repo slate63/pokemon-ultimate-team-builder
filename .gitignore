@@ -1,3 +1,4 @@
+# OS
 .DS_Store
 
 # Dependencies
@@ -6,6 +7,10 @@ node_modules/
 # Build output
 dist/
 tsconfig.tsbuildinfo
+
+# Python bytecode
+__pycache__/
+*.py[cod]
 
 # Generated API data (rebuilt by build_data_api.py)
 public/api/v1/pokemon/
@@ -20,6 +25,5 @@ public/data/pokemon/*/sprites/
 # Sprite tarball (local build artifact)
 pokemon-sprites.tar.gz
 
-AGENTS.md
-CLAUDE.md
-.claude/launch.json
+# Machine-local agent settings (AGENTS.md / CLAUDE.md are intentionally tracked)
+.claude/settings.local.json
