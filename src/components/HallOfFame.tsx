@@ -248,14 +248,12 @@ function TeamRow({ team, gameId, gen, rosterById, typeChartData }: {
   );
 }
 
-function GameSection({ game, rosterById }: { game: HallOfFameGame; rosterById: Map<number, Pokemon> }) {
-  const gen = GAME_ID_TO_GEN[game.gameId] ?? 1;
-  const [typeChartData, setTypeChartData] = useState<TypeChartData | null>(null);
-
-  useEffect(() => {
-    loadTypeChartForGen(gen).then(setTypeChartData).catch(() => {});
-  }, [gen]);
-
+function GameSection({ game, gen, typeChartData, rosterById }: {
+  game: HallOfFameGame;
+  gen: number;
+  typeChartData: TypeChartData | null;
+  rosterById: Map<number, Pokemon>;
+}) {
   return (
     <div className="hof-game-section">
       <h2 className="hof-game-title">{game.badge} {game.name}</h2>
@@ -268,7 +266,57 @@ function GameSection({ game, rosterById }: { game: HallOfFameGame; rosterById: M
   );
 }
 
+const GEN_LABELS: Record<number, string> = {
+  1: 'Generation I',
+  2: 'Generation II',
+  3: 'Generation III',
+  4: 'Generation IV',
+  5: 'Generation V',
+  6: 'Generation VI',
+  7: 'Generation VII',
+  8: 'Generation VIII',
+  9: 'Generation IX',
+};
+
+function GenRow({ gen, games, rosterById }: {
+  gen: number;
+  games: HallOfFameGame[];
+  rosterById: Map<number, Pokemon>;
+}) {
+  const [typeChartData, setTypeChartData] = useState<TypeChartData | null>(null);
+
+  useEffect(() => {
+    loadTypeChartForGen(gen).then(setTypeChartData).catch(() => {});
+  }, [gen]);
+
+  return (
+    <div className="hof-gen-row">
+      <h2 className="hof-gen-title">{GEN_LABELS[gen] ?? `Generation ${gen}`}</h2>
+      <div className="hof-gen-games">
+        {games.map((game) => (
+          <GameSection key={game.gameId} game={game} gen={gen} typeChartData={typeChartData} rosterById={rosterById} />
+        ))}
+      </div>
+    </div>
+  );
+}
+
 export const HallOfFame: React.FC<HallOfFameProps> = memo(({ onBack, rosterById }) => {
+  const genGroups = useMemo(() => {
+    const groups: { gen: number; games: HallOfFameGame[] }[] = [];
+    const seen = new Map<number, HallOfFameGame[]>();
+    for (const game of HALL_OF_FAME_DATA) {
+      const gen = GAME_ID_TO_GEN[game.gameId] ?? 1;
+      if (!seen.has(gen)) {
+        const arr: HallOfFameGame[] = [];
+        seen.set(gen, arr);
+        groups.push({ gen, games: arr });
+      }
+      seen.get(gen)!.push(game);
+    }
+    return groups;
+  }, []);
+
   return (
     <div className="hof-container">
       <div className="hof-header">
@@ -285,8 +333,8 @@ export const HallOfFame: React.FC<HallOfFameProps> = memo(({ onBack, rosterById 
         </div>
       ) : (
         <div className="hof-games-grid">
-          {HALL_OF_FAME_DATA.map((game) => (
-            <GameSection key={game.gameId} game={game} rosterById={rosterById} />
+          {genGroups.map(({ gen, games }) => (
+            <GenRow key={gen} gen={gen} games={games} rosterById={rosterById} />
           ))}
         </div>
       )}
