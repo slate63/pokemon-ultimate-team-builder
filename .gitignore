@@ -7,8 +7,12 @@ node_modules/
 dist/
 tsconfig.tsbuildinfo
 
-# Generated API (rebuilt by build_data_api.py)
-public/api/
+# Generated API data (rebuilt by build_data_api.py)
+public/api/v1/pokemon/
+public/api/v1/moves/
+public/api/v1/types/
+public/api/v1/natures/
+public/api/v1/generations.json
 
 # Sprite binary assets (downloaded via scripts/setup-sprites.sh)
 public/data/pokemon/*/sprites/
