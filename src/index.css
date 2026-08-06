@@ -1440,12 +1440,16 @@ h1, h2, h3, h4, h5, h6 {
 .hof-team-sprites {
   display: flex;
   gap: 0.25rem;
-  flex-wrap: wrap;
+  flex-wrap: nowrap;
+  flex: 1 1 auto;
+  min-width: 0;
 }
 
 .hof-sprite {
   width: 48px;
   height: 48px;
+  min-width: 0;
+  flex: 1 1 0;
   image-rendering: pixelated;
 }
 
