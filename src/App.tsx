@@ -106,7 +106,7 @@ export default function App() {
 
 
       {page === 'hallOfFame' ? (
-        <HallOfFame onBack={() => setPage('builder')} />
+        <HallOfFame onBack={() => setPage('builder')} rosterById={rosterById} />
       ) : (
         <>
           <TeamBar
