@@ -1449,8 +1449,9 @@ h1, h2, h3, h4, h5, h6 {
 .hof-sprite {
   width: 48px;
   height: 48px;
-  min-width: 0;
-  flex: 1 1 0;
+  max-width: 48px;
+  flex: 0 1 48px;
+  object-fit: contain;
   image-rendering: pixelated;
 }
 
@@ -1532,6 +1533,8 @@ h1, h2, h3, h4, h5, h6 {
   .hof-sprite {
     width: 40px;
     height: 40px;
+    max-width: 40px;
+    flex: 0 1 40px;
   }
 }
 
