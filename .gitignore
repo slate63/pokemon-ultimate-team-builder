@@ -12,6 +12,13 @@ tsconfig.tsbuildinfo
 __pycache__/
 *.py[cod]
 
+# --- What is tracked, and why ------------------------------------------------
+# public/data/**  is the SOURCE OF TRUTH for Pokemon data. It stays in git.
+#                 Do not add it here, and do not "clean it up" as build output.
+# public/api/v1/** is generated from public/data on every build -> ignored below.
+# src/data/fullRoster.json is a regenerable intermediate (see note further down).
+# -----------------------------------------------------------------------------
+
 # Generated API data (rebuilt by build_data_api.py)
 public/api/v1/pokemon/
 public/api/v1/moves/

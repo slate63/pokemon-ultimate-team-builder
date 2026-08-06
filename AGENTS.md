@@ -21,9 +21,16 @@ scripts/*.py  ──writes──>  public/data/**  ──vite copies──>  dis
 - The app fetches with **relative** paths (`./data/...`) because `vite.config.ts`
   sets `base: './'` for Pages. Never use absolute (`/data/...`) paths — they break
   the deployed site, which is served from a subpath.
-- `src/data/fullRoster.json` is a **pipeline artifact, not an app asset.** It is
-  written and read by the Python scripts only. It is never shipped to `dist/`, so
-  the app cannot fetch it.
+- **`public/data/**` is the source of truth** and is committed. `public/api/v1/**`
+  is generated from it on every build and is gitignored. Never propose deleting or
+  regenerating `public/data/**` as if it were build output.
+- `src/data/fullRoster.json` is a **regenerable intermediate, not an app asset.**
+  It is produced by `scripts/fetch_version_sprites.py` from PokeAPI and read by
+  `scripts/sync_sprites_to_data.py`. It is never shipped to `dist/`, so the app
+  cannot fetch it. Note that the sync it feeds is currently inert: 0 of 1025
+  `public/data/pokemon/*/data.json` files carry the sprite metadata it writes,
+  because the app derives sprite paths by directory convention in
+  `src/utils/spriteUtils.ts` instead.
 
 ## Build pipeline
 
