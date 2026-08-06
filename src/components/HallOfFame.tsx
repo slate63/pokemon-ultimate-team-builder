@@ -68,10 +68,9 @@ async function loadAndResolveTeam(
   return results;
 }
 
-function HofDefenseMatrix({ resolvedTeam, typeChartData, gen }: {
+function HofDefenseMatrix({ resolvedTeam, typeChartData }: {
   resolvedTeam: ResolvedTeam;
   typeChartData: TypeChartData | null;
-  gen: number;
 }) {
   const chart = typeChartData?.chart;
   const types: PokemonType[] = typeChartData?.types ?? POKEMON_TYPES;
@@ -239,7 +238,7 @@ function TeamRow({ team, gameId, gen, rosterById, typeChartData }: {
       {expanded && resolvedTeam.some(Boolean) && (
         <div className="hof-team-details">
           <div className="hof-details-grid">
-            <HofDefenseMatrix resolvedTeam={resolvedTeam} typeChartData={typeChartData} gen={gen} />
+            <HofDefenseMatrix resolvedTeam={resolvedTeam} typeChartData={typeChartData} />
             <StatRadarChart team={resolvedTeam} activeGen={gen} className="hof-radar" />
           </div>
         </div>
