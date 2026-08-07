@@ -318,21 +318,56 @@ function GameSection({ game, gen, typeChartData, rosterById }: {
   typeChartData: TypeChartData | null;
   rosterById: Map<number, Pokemon>;
 }) {
+  const [rankBy, setRankBy] = useState<'composite' | 'bst'>('composite');
+  const hasBst = Boolean(game.bstTeams && game.bstTeams.length > 0);
+  const showBst = hasBst && rankBy === 'bst';
+
+  const teams = showBst ? game.bstTeams! : game.teams;
+  const starterTeams = showBst ? game.bstStarterTeams : game.starterTeams;
+
   return (
     <div className="hof-game-section">
-      <h2 className="hof-game-title">{game.badge} {game.name}</h2>
+      <div className="hof-game-header">
+        <h2 className="hof-game-title">{game.badge} {game.name}</h2>
+        {hasBst && (
+          <div className="hof-rank-toggle" role="group" aria-label="Ranking method">
+            <button
+              type="button"
+              className={rankBy === 'composite' ? 'is-active' : undefined}
+              onClick={() => setRankBy('composite')}
+            >
+              Balanced
+            </button>
+            <button
+              type="button"
+              className={rankBy === 'bst' ? 'is-active' : undefined}
+              onClick={() => setRankBy('bst')}
+            >
+              Raw BST
+            </button>
+          </div>
+        )}
+      </div>
+
       <div className="hof-teams-list">
-        {game.teams.map((team) => (
-          <TeamRow key={team.rank} team={team} gameId={game.gameId} gen={gen} rosterById={rosterById} typeChartData={typeChartData} />
+        {teams.map((team) => (
+          <TeamRow
+            key={`${rankBy}-${team.rank}`}
+            team={team}
+            gameId={game.gameId}
+            gen={gen}
+            rosterById={rosterById}
+            typeChartData={typeChartData}
+          />
         ))}
       </div>
 
-      {game.starterTeams && game.starterTeams.length > 0 && (
+      {starterTeams && starterTeams.length > 0 && (
         <div className="hof-starters">
           <h3 className="hof-starters-title">Best team with each starter</h3>
-          {game.starterTeams.map((group) => (
+          {starterTeams.map((group) => (
             <StarterGroup
-              key={group.name}
+              key={`${rankBy}-${group.name}`}
               group={group}
               gameId={game.gameId}
               gen={gen}
