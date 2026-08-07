@@ -4,8 +4,8 @@ export interface HallOfFameTeam {
 }
 
 export interface HallOfFameStarterGroup {
-  /** National dex number of the fully-evolved starter every team is built around. */
-  starter: number;
+  /** National dex numbers of the starters every team in this group is built around. */
+  starters: number[];
   name: string;
   teams: HallOfFameTeam[];
 }
@@ -33,7 +33,7 @@ export const HALL_OF_FAME_DATA: HallOfFameGame[] = [
     ],
     starterTeams: [
       {
-        starter: 3,
+        starters: [3],
         name: 'Venusaur',
         teams: [
           { rank: 1, pokemon: [3, 93, 112, 121, 130, 149] },
@@ -44,7 +44,7 @@ export const HALL_OF_FAME_DATA: HallOfFameGame[] = [
         ],
       },
       {
-        starter: 6,
+        starters: [6],
         name: 'Charizard',
         teams: [
           { rank: 1, pokemon: [6, 93, 103, 112, 121, 149] },
@@ -55,7 +55,7 @@ export const HALL_OF_FAME_DATA: HallOfFameGame[] = [
         ],
       },
       {
-        starter: 9,
+        starters: [9],
         name: 'Blastoise',
         teams: [
           { rank: 1, pokemon: [9, 93, 103, 112, 130, 149] },
@@ -78,6 +78,41 @@ export const HALL_OF_FAME_DATA: HallOfFameGame[] = [
       { rank: 4, pokemon: [80, 93, 103, 112, 130, 149] },
       { rank: 5, pokemon: [93, 112, 121, 130, 135, 149] },
     ],
+    starterTeams: [
+      {
+        starters: [3],
+        name: 'Venusaur',
+        teams: [
+          { rank: 1, pokemon: [3, 93, 112, 121, 130, 149] },
+          { rank: 2, pokemon: [3, 80, 93, 112, 130, 149] },
+          { rank: 3, pokemon: [3, 93, 112, 121, 127, 130] },
+          { rank: 4, pokemon: [3, 93, 112, 121, 127, 149] },
+          { rank: 5, pokemon: [3, 75, 93, 121, 130, 149] },
+        ],
+      },
+      {
+        starters: [6],
+        name: 'Charizard',
+        teams: [
+          { rank: 1, pokemon: [6, 93, 103, 112, 121, 149] },
+          { rank: 2, pokemon: [6, 62, 93, 103, 112, 149] },
+          { rank: 3, pokemon: [6, 62, 93, 97, 135, 149] },
+          { rank: 4, pokemon: [6, 62, 93, 103, 135, 149] },
+          { rank: 5, pokemon: [6, 80, 93, 103, 112, 149] },
+        ],
+      },
+      {
+        starters: [9],
+        name: 'Blastoise',
+        teams: [
+          { rank: 1, pokemon: [9, 93, 103, 112, 130, 149] },
+          { rank: 2, pokemon: [9, 93, 103, 112, 127, 130] },
+          { rank: 3, pokemon: [9, 62, 93, 103, 135, 149] },
+          { rank: 4, pokemon: [9, 93, 97, 112, 130, 149] },
+          { rank: 5, pokemon: [9, 93, 97, 103, 112, 130] },
+        ],
+      },
+    ],
   },
   {
     gameId: 'yellow',
@@ -89,6 +124,96 @@ export const HALL_OF_FAME_DATA: HallOfFameGame[] = [
       { rank: 3, pokemon: [62, 93, 103, 130, 135, 149] },
       { rank: 4, pokemon: [80, 93, 103, 112, 130, 149] },
       { rank: 5, pokemon: [93, 112, 121, 130, 135, 149] },
+    ],
+    starterTeams: [
+      {
+        starters: [25],
+        name: 'Pikachu',
+        teams: [
+          { rank: 1, pokemon: [25, 62, 93, 103, 130, 149] },
+          { rank: 2, pokemon: [25, 93, 112, 121, 130, 149] },
+          { rank: 3, pokemon: [25, 62, 93, 103, 121, 149] },
+          { rank: 4, pokemon: [25, 97, 112, 121, 130, 149] },
+          { rank: 5, pokemon: [25, 103, 112, 121, 130, 149] },
+        ],
+      },
+      {
+        starters: [3, 25],
+        name: 'Pikachu + Venusaur',
+        teams: [
+          { rank: 1, pokemon: [3, 25, 112, 121, 130, 149] },
+          { rank: 2, pokemon: [3, 25, 80, 112, 130, 149] },
+          { rank: 3, pokemon: [3, 25, 62, 97, 130, 149] },
+          { rank: 4, pokemon: [3, 25, 93, 112, 121, 130] },
+          { rank: 5, pokemon: [3, 25, 62, 93, 121, 149] },
+        ],
+      },
+      {
+        starters: [6, 25],
+        name: 'Pikachu + Charizard',
+        teams: [
+          { rank: 1, pokemon: [6, 25, 62, 93, 97, 149] },
+          { rank: 2, pokemon: [6, 25, 62, 93, 103, 149] },
+          { rank: 3, pokemon: [6, 25, 57, 93, 121, 149] },
+          { rank: 4, pokemon: [6, 25, 62, 93, 121, 149] },
+          { rank: 5, pokemon: [6, 25, 28, 93, 121, 149] },
+        ],
+      },
+      {
+        starters: [9, 25],
+        name: 'Pikachu + Blastoise',
+        teams: [
+          { rank: 1, pokemon: [9, 25, 62, 93, 103, 149] },
+          { rank: 2, pokemon: [9, 25, 97, 112, 130, 149] },
+          { rank: 3, pokemon: [9, 25, 103, 112, 130, 149] },
+          { rank: 4, pokemon: [9, 25, 112, 130, 143, 149] },
+          { rank: 5, pokemon: [9, 25, 112, 113, 130, 149] },
+        ],
+      },
+      {
+        starters: [3, 6, 25],
+        name: 'Pikachu + Venusaur + Charizard',
+        teams: [
+          { rank: 1, pokemon: [3, 6, 25, 112, 121, 149] },
+          { rank: 2, pokemon: [3, 6, 25, 93, 121, 149] },
+          { rank: 3, pokemon: [3, 6, 25, 80, 112, 149] },
+          { rank: 4, pokemon: [3, 6, 25, 28, 93, 121] },
+          { rank: 5, pokemon: [3, 6, 25, 62, 97, 149] },
+        ],
+      },
+      {
+        starters: [3, 9, 25],
+        name: 'Pikachu + Venusaur + Blastoise',
+        teams: [
+          { rank: 1, pokemon: [3, 9, 25, 97, 112, 130] },
+          { rank: 2, pokemon: [3, 9, 25, 62, 97, 149] },
+          { rank: 3, pokemon: [3, 9, 25, 103, 112, 130] },
+          { rank: 4, pokemon: [3, 9, 25, 57, 121, 149] },
+          { rank: 5, pokemon: [3, 9, 25, 97, 112, 149] },
+        ],
+      },
+      {
+        starters: [6, 9, 25],
+        name: 'Pikachu + Charizard + Blastoise',
+        teams: [
+          { rank: 1, pokemon: [6, 9, 25, 97, 112, 149] },
+          { rank: 2, pokemon: [6, 9, 25, 103, 112, 149] },
+          { rank: 3, pokemon: [6, 9, 25, 112, 128, 149] },
+          { rank: 4, pokemon: [6, 9, 25, 112, 143, 149] },
+          { rank: 5, pokemon: [6, 9, 25, 93, 97, 149] },
+        ],
+      },
+      {
+        starters: [3, 6, 9, 25],
+        name: 'Pikachu + Venusaur + Charizard + Blastoise',
+        teams: [
+          { rank: 1, pokemon: [3, 6, 9, 25, 112, 149] },
+          { rank: 2, pokemon: [3, 6, 9, 25, 97, 112] },
+          { rank: 3, pokemon: [3, 6, 9, 25, 103, 112] },
+          { rank: 4, pokemon: [3, 6, 9, 25, 112, 130] },
+          { rank: 5, pokemon: [3, 6, 9, 25, 112, 143] },
+        ],
+      },
     ],
   },
   {
@@ -104,7 +229,7 @@ export const HALL_OF_FAME_DATA: HallOfFameGame[] = [
     ],
     starterTeams: [
       {
-        starter: 154,
+        starters: [154],
         name: 'Meganium',
         teams: [
           { rank: 1, pokemon: [62, 82, 130, 149, 154, 248] },
@@ -115,7 +240,7 @@ export const HALL_OF_FAME_DATA: HallOfFameGame[] = [
         ],
       },
       {
-        starter: 157,
+        starters: [157],
         name: 'Typhlosion',
         teams: [
           { rank: 1, pokemon: [82, 149, 157, 195, 205, 248] },
@@ -126,7 +251,7 @@ export const HALL_OF_FAME_DATA: HallOfFameGame[] = [
         ],
       },
       {
-        starter: 160,
+        starters: [160],
         name: 'Feraligatr',
         teams: [
           { rank: 1, pokemon: [82, 149, 160, 205, 207, 248] },
@@ -149,6 +274,41 @@ export const HALL_OF_FAME_DATA: HallOfFameGame[] = [
       { rank: 4, pokemon: [82, 130, 149, 195, 227, 248] },
       { rank: 5, pokemon: [62, 82, 130, 149, 205, 248] },
     ],
+    starterTeams: [
+      {
+        starters: [154],
+        name: 'Meganium',
+        teams: [
+          { rank: 1, pokemon: [62, 82, 130, 149, 154, 248] },
+          { rank: 2, pokemon: [62, 82, 149, 154, 227, 248] },
+          { rank: 3, pokemon: [130, 149, 154, 195, 205, 248] },
+          { rank: 4, pokemon: [149, 154, 195, 205, 227, 248] },
+          { rank: 5, pokemon: [82, 149, 154, 195, 205, 248] },
+        ],
+      },
+      {
+        starters: [157],
+        name: 'Typhlosion',
+        teams: [
+          { rank: 1, pokemon: [62, 82, 149, 157, 227, 248] },
+          { rank: 2, pokemon: [149, 157, 195, 205, 227, 248] },
+          { rank: 3, pokemon: [82, 149, 157, 195, 205, 248] },
+          { rank: 4, pokemon: [82, 149, 157, 195, 205, 227] },
+          { rank: 5, pokemon: [62, 82, 149, 157, 197, 227] },
+        ],
+      },
+      {
+        starters: [160],
+        name: 'Feraligatr',
+        teams: [
+          { rank: 1, pokemon: [31, 149, 160, 205, 227, 248] },
+          { rank: 2, pokemon: [34, 149, 160, 205, 227, 248] },
+          { rank: 3, pokemon: [31, 82, 149, 160, 205, 248] },
+          { rank: 4, pokemon: [34, 82, 149, 160, 205, 248] },
+          { rank: 5, pokemon: [31, 82, 130, 149, 160, 205] },
+        ],
+      },
+    ],
   },
   {
     gameId: 'crystal',
@@ -160,6 +320,41 @@ export const HALL_OF_FAME_DATA: HallOfFameGame[] = [
       { rank: 3, pokemon: [62, 82, 130, 149, 205, 248] },
       { rank: 4, pokemon: [31, 82, 130, 149, 205, 248] },
       { rank: 5, pokemon: [34, 82, 130, 149, 205, 248] },
+    ],
+    starterTeams: [
+      {
+        starters: [154],
+        name: 'Meganium',
+        teams: [
+          { rank: 1, pokemon: [62, 82, 130, 149, 154, 248] },
+          { rank: 2, pokemon: [130, 149, 154, 195, 205, 248] },
+          { rank: 3, pokemon: [82, 149, 154, 195, 205, 248] },
+          { rank: 4, pokemon: [62, 130, 149, 154, 205, 248] },
+          { rank: 5, pokemon: [82, 130, 149, 154, 195, 248] },
+        ],
+      },
+      {
+        starters: [157],
+        name: 'Typhlosion',
+        teams: [
+          { rank: 1, pokemon: [82, 149, 157, 195, 205, 248] },
+          { rank: 2, pokemon: [62, 82, 149, 157, 205, 248] },
+          { rank: 3, pokemon: [82, 149, 157, 195, 197, 205] },
+          { rank: 4, pokemon: [62, 82, 149, 157, 195, 205] },
+          { rank: 5, pokemon: [62, 82, 149, 157, 205, 232] },
+        ],
+      },
+      {
+        starters: [160],
+        name: 'Feraligatr',
+        teams: [
+          { rank: 1, pokemon: [31, 82, 149, 160, 205, 248] },
+          { rank: 2, pokemon: [34, 82, 149, 160, 205, 248] },
+          { rank: 3, pokemon: [31, 82, 130, 149, 160, 205] },
+          { rank: 4, pokemon: [34, 82, 130, 149, 160, 205] },
+          { rank: 5, pokemon: [82, 149, 160, 195, 205, 248] },
+        ],
+      },
     ],
   },
   {

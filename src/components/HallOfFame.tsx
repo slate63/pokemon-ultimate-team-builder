@@ -260,7 +260,6 @@ function StarterGroup({ group, gameId, gen, rosterById, typeChartData }: {
   typeChartData: TypeChartData | null;
 }) {
   const [open, setOpen] = useState(false);
-  const starter = rosterById.get(group.starter);
 
   return (
     <div className={`hof-starter-group ${open ? 'hof-starter-open' : ''}`}>
@@ -270,17 +269,25 @@ function StarterGroup({ group, gameId, gen, rosterById, typeChartData }: {
         onClick={() => setOpen(!open)}
         aria-expanded={open}
       >
-        <img
-          className="hof-sprite hof-starter-sprite"
-          src={buildSpritePath(group.starter, starter?.name ?? group.name, gameId)}
-          alt={group.name}
-          loading="lazy"
-          onError={(e) => {
-            const img = e.currentTarget;
-            const fallback = `https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/${group.starter}.png`;
-            if (img.src !== fallback) img.src = fallback;
-          }}
-        />
+        <span className="hof-starter-sprites">
+          {group.starters.map((id) => {
+            const starter = rosterById.get(id);
+            return (
+              <img
+                key={id}
+                className="hof-sprite hof-starter-sprite"
+                src={buildSpritePath(id, starter?.name ?? group.name, gameId)}
+                alt={starter?.name ?? `Pokemon #${id}`}
+                loading="lazy"
+                onError={(e) => {
+                  const img = e.currentTarget;
+                  const fallback = `https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/${id}.png`;
+                  if (img.src !== fallback) img.src = fallback;
+                }}
+              />
+            );
+          })}
+        </span>
         <span className="hof-starter-name">{group.name}</span>
         <span className="hof-expand-icon">
           {open ? <ChevronUp size={16} /> : <ChevronDown size={16} />}
@@ -325,7 +332,7 @@ function GameSection({ game, gen, typeChartData, rosterById }: {
           <h3 className="hof-starters-title">Best team with each starter</h3>
           {game.starterTeams.map((group) => (
             <StarterGroup
-              key={group.starter}
+              key={group.name}
               group={group}
               gameId={game.gameId}
               gen={gen}
