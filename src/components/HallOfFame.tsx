@@ -352,7 +352,7 @@ function GameSection({ game, gen, typeChartData, rosterById }: {
       <div className="hof-teams-list">
         {teams.map((team) => (
           <TeamRow
-            key={`${rankBy}-${team.rank}`}
+            key={team.rank}
             team={team}
             gameId={game.gameId}
             gen={gen}
@@ -367,7 +367,7 @@ function GameSection({ game, gen, typeChartData, rosterById }: {
           <h3 className="hof-starters-title">Best team with each starter</h3>
           {starterTeams.map((group) => (
             <StarterGroup
-              key={`${rankBy}-${group.name}`}
+              key={group.name}
               group={group}
               gameId={game.gameId}
               gen={gen}
