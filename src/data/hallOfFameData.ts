@@ -14,6 +14,7 @@ export interface HallOfFameGame {
   gameId: string;
   name: string;
   badge: string;
+  /** Top teams by the balanced composite score (stats + type coverage). */
   teams: HallOfFameTeam[];
   /** Best teams when a given starter line is locked into a slot. */
   starterTeams?: HallOfFameStarterGroup[];
@@ -447,6 +448,48 @@ export const HALL_OF_FAME_DATA: HallOfFameGame[] = [
         ],
       },
     ],
+    bstTeams: [
+      { rank: 1, pokemon: [59, 130, 143, 149, 242, 248] },
+      { rank: 2, pokemon: [59, 130, 131, 143, 149, 248] },
+      { rank: 3, pokemon: [59, 130, 143, 149, 169, 248] },
+      { rank: 4, pokemon: [59, 130, 131, 149, 242, 248] },
+      { rank: 5, pokemon: [59, 130, 149, 169, 242, 248] },
+    ],
+    bstStarterTeams: [
+      {
+        starters: [154],
+        name: 'Meganium',
+        teams: [
+          { rank: 1, pokemon: [59, 130, 143, 149, 154, 248] },
+          { rank: 2, pokemon: [59, 130, 149, 154, 242, 248] },
+          { rank: 3, pokemon: [59, 143, 149, 154, 242, 248] },
+          { rank: 4, pokemon: [59, 130, 131, 149, 154, 248] },
+          { rank: 5, pokemon: [59, 130, 149, 154, 169, 248] },
+        ],
+      },
+      {
+        starters: [157],
+        name: 'Typhlosion',
+        teams: [
+          { rank: 1, pokemon: [59, 130, 143, 149, 157, 248] },
+          { rank: 2, pokemon: [59, 130, 149, 157, 242, 248] },
+          { rank: 3, pokemon: [59, 143, 149, 157, 242, 248] },
+          { rank: 4, pokemon: [59, 130, 131, 149, 157, 248] },
+          { rank: 5, pokemon: [59, 130, 149, 157, 169, 248] },
+        ],
+      },
+      {
+        starters: [160],
+        name: 'Feraligatr',
+        teams: [
+          { rank: 1, pokemon: [59, 130, 143, 149, 160, 248] },
+          { rank: 2, pokemon: [59, 130, 149, 160, 242, 248] },
+          { rank: 3, pokemon: [59, 143, 149, 160, 242, 248] },
+          { rank: 4, pokemon: [59, 130, 131, 149, 160, 248] },
+          { rank: 5, pokemon: [59, 130, 149, 160, 169, 248] },
+        ],
+      },
+    ],
   },
   {
     gameId: 'silver',
@@ -491,6 +534,48 @@ export const HALL_OF_FAME_DATA: HallOfFameGame[] = [
           { rank: 3, pokemon: [31, 82, 149, 160, 205, 248] },
           { rank: 4, pokemon: [34, 82, 149, 160, 205, 248] },
           { rank: 5, pokemon: [31, 82, 130, 149, 160, 205] },
+        ],
+      },
+    ],
+    bstTeams: [
+      { rank: 1, pokemon: [130, 131, 143, 149, 242, 248] },
+      { rank: 2, pokemon: [130, 143, 149, 169, 242, 248] },
+      { rank: 3, pokemon: [130, 143, 149, 157, 242, 248] },
+      { rank: 4, pokemon: [130, 143, 149, 160, 242, 248] },
+      { rank: 5, pokemon: [130, 131, 143, 149, 169, 248] },
+    ],
+    bstStarterTeams: [
+      {
+        starters: [154],
+        name: 'Meganium',
+        teams: [
+          { rank: 1, pokemon: [130, 143, 149, 154, 242, 248] },
+          { rank: 2, pokemon: [130, 131, 143, 149, 154, 248] },
+          { rank: 3, pokemon: [130, 143, 149, 154, 169, 248] },
+          { rank: 4, pokemon: [130, 131, 149, 154, 242, 248] },
+          { rank: 5, pokemon: [130, 149, 154, 169, 242, 248] },
+        ],
+      },
+      {
+        starters: [157],
+        name: 'Typhlosion',
+        teams: [
+          { rank: 1, pokemon: [130, 143, 149, 157, 242, 248] },
+          { rank: 2, pokemon: [130, 131, 143, 149, 157, 248] },
+          { rank: 3, pokemon: [130, 143, 149, 157, 169, 248] },
+          { rank: 4, pokemon: [130, 131, 149, 157, 242, 248] },
+          { rank: 5, pokemon: [130, 149, 157, 169, 242, 248] },
+        ],
+      },
+      {
+        starters: [160],
+        name: 'Feraligatr',
+        teams: [
+          { rank: 1, pokemon: [130, 143, 149, 160, 242, 248] },
+          { rank: 2, pokemon: [130, 131, 143, 149, 160, 248] },
+          { rank: 3, pokemon: [130, 143, 149, 160, 169, 248] },
+          { rank: 4, pokemon: [130, 131, 149, 160, 242, 248] },
+          { rank: 5, pokemon: [130, 149, 160, 169, 242, 248] },
         ],
       },
     ],
@@ -541,6 +626,48 @@ export const HALL_OF_FAME_DATA: HallOfFameGame[] = [
         ],
       },
     ],
+    bstTeams: [
+      { rank: 1, pokemon: [59, 130, 143, 149, 242, 248] },
+      { rank: 2, pokemon: [59, 130, 131, 143, 149, 248] },
+      { rank: 3, pokemon: [59, 130, 143, 149, 169, 248] },
+      { rank: 4, pokemon: [59, 130, 131, 149, 242, 248] },
+      { rank: 5, pokemon: [59, 130, 149, 169, 242, 248] },
+    ],
+    bstStarterTeams: [
+      {
+        starters: [154],
+        name: 'Meganium',
+        teams: [
+          { rank: 1, pokemon: [59, 130, 143, 149, 154, 248] },
+          { rank: 2, pokemon: [59, 130, 149, 154, 242, 248] },
+          { rank: 3, pokemon: [59, 143, 149, 154, 242, 248] },
+          { rank: 4, pokemon: [59, 130, 131, 149, 154, 248] },
+          { rank: 5, pokemon: [59, 130, 149, 154, 169, 248] },
+        ],
+      },
+      {
+        starters: [157],
+        name: 'Typhlosion',
+        teams: [
+          { rank: 1, pokemon: [59, 130, 143, 149, 157, 248] },
+          { rank: 2, pokemon: [59, 130, 149, 157, 242, 248] },
+          { rank: 3, pokemon: [59, 143, 149, 157, 242, 248] },
+          { rank: 4, pokemon: [59, 130, 131, 149, 157, 248] },
+          { rank: 5, pokemon: [59, 130, 149, 157, 169, 248] },
+        ],
+      },
+      {
+        starters: [160],
+        name: 'Feraligatr',
+        teams: [
+          { rank: 1, pokemon: [59, 130, 143, 149, 160, 248] },
+          { rank: 2, pokemon: [59, 130, 149, 160, 242, 248] },
+          { rank: 3, pokemon: [59, 143, 149, 160, 242, 248] },
+          { rank: 4, pokemon: [59, 130, 131, 149, 160, 248] },
+          { rank: 5, pokemon: [59, 130, 149, 160, 169, 248] },
+        ],
+      },
+    ],
   },
   {
     gameId: 'ruby',
@@ -585,6 +712,48 @@ export const HALL_OF_FAME_DATA: HallOfFameGame[] = [
           { rank: 3, pokemon: [214, 260, 289, 306, 373, 376] },
           { rank: 4, pokemon: [82, 214, 260, 289, 373, 376] },
           { rank: 5, pokemon: [227, 260, 289, 306, 373, 376] },
+        ],
+      },
+    ],
+    bstTeams: [
+      { rank: 1, pokemon: [130, 169, 260, 289, 373, 376] },
+      { rank: 2, pokemon: [130, 169, 254, 289, 373, 376] },
+      { rank: 3, pokemon: [130, 169, 257, 289, 373, 376] },
+      { rank: 4, pokemon: [130, 169, 289, 306, 373, 376] },
+      { rank: 5, pokemon: [130, 169, 289, 365, 373, 376] },
+    ],
+    bstStarterTeams: [
+      {
+        starters: [254],
+        name: 'Sceptile',
+        teams: [
+          { rank: 1, pokemon: [130, 169, 254, 289, 373, 376] },
+          { rank: 2, pokemon: [130, 254, 260, 289, 373, 376] },
+          { rank: 3, pokemon: [130, 254, 257, 289, 373, 376] },
+          { rank: 4, pokemon: [130, 254, 289, 306, 373, 376] },
+          { rank: 5, pokemon: [130, 254, 289, 365, 373, 376] },
+        ],
+      },
+      {
+        starters: [257],
+        name: 'Blaziken',
+        teams: [
+          { rank: 1, pokemon: [130, 169, 257, 289, 373, 376] },
+          { rank: 2, pokemon: [130, 257, 260, 289, 373, 376] },
+          { rank: 3, pokemon: [130, 254, 257, 289, 373, 376] },
+          { rank: 4, pokemon: [130, 257, 289, 306, 373, 376] },
+          { rank: 5, pokemon: [130, 257, 289, 365, 373, 376] },
+        ],
+      },
+      {
+        starters: [260],
+        name: 'Swampert',
+        teams: [
+          { rank: 1, pokemon: [130, 169, 260, 289, 373, 376] },
+          { rank: 2, pokemon: [130, 254, 260, 289, 373, 376] },
+          { rank: 3, pokemon: [130, 257, 260, 289, 373, 376] },
+          { rank: 4, pokemon: [130, 260, 289, 306, 373, 376] },
+          { rank: 5, pokemon: [130, 260, 289, 365, 373, 376] },
         ],
       },
     ],
@@ -635,6 +804,48 @@ export const HALL_OF_FAME_DATA: HallOfFameGame[] = [
         ],
       },
     ],
+    bstTeams: [
+      { rank: 1, pokemon: [130, 169, 260, 289, 373, 376] },
+      { rank: 2, pokemon: [130, 169, 254, 289, 373, 376] },
+      { rank: 3, pokemon: [130, 169, 257, 289, 373, 376] },
+      { rank: 4, pokemon: [130, 169, 289, 306, 373, 376] },
+      { rank: 5, pokemon: [130, 169, 289, 365, 373, 376] },
+    ],
+    bstStarterTeams: [
+      {
+        starters: [254],
+        name: 'Sceptile',
+        teams: [
+          { rank: 1, pokemon: [130, 169, 254, 289, 373, 376] },
+          { rank: 2, pokemon: [130, 254, 260, 289, 373, 376] },
+          { rank: 3, pokemon: [130, 254, 257, 289, 373, 376] },
+          { rank: 4, pokemon: [130, 254, 289, 306, 373, 376] },
+          { rank: 5, pokemon: [130, 254, 289, 365, 373, 376] },
+        ],
+      },
+      {
+        starters: [257],
+        name: 'Blaziken',
+        teams: [
+          { rank: 1, pokemon: [130, 169, 257, 289, 373, 376] },
+          { rank: 2, pokemon: [130, 257, 260, 289, 373, 376] },
+          { rank: 3, pokemon: [130, 254, 257, 289, 373, 376] },
+          { rank: 4, pokemon: [130, 257, 289, 306, 373, 376] },
+          { rank: 5, pokemon: [130, 257, 289, 365, 373, 376] },
+        ],
+      },
+      {
+        starters: [260],
+        name: 'Swampert',
+        teams: [
+          { rank: 1, pokemon: [130, 169, 260, 289, 373, 376] },
+          { rank: 2, pokemon: [130, 254, 260, 289, 373, 376] },
+          { rank: 3, pokemon: [130, 257, 260, 289, 373, 376] },
+          { rank: 4, pokemon: [130, 260, 289, 306, 373, 376] },
+          { rank: 5, pokemon: [130, 260, 289, 365, 373, 376] },
+        ],
+      },
+    ],
   },
   {
     gameId: 'emerald',
@@ -679,6 +890,48 @@ export const HALL_OF_FAME_DATA: HallOfFameGame[] = [
           { rank: 3, pokemon: [130, 205, 260, 306, 373, 376] },
           { rank: 4, pokemon: [205, 227, 260, 306, 373, 376] },
           { rank: 5, pokemon: [82, 130, 205, 260, 373, 376] },
+        ],
+      },
+    ],
+    bstTeams: [
+      { rank: 1, pokemon: [130, 169, 260, 289, 373, 376] },
+      { rank: 2, pokemon: [130, 157, 169, 289, 373, 376] },
+      { rank: 3, pokemon: [130, 157, 260, 289, 373, 376] },
+      { rank: 4, pokemon: [130, 160, 169, 289, 373, 376] },
+      { rank: 5, pokemon: [130, 169, 254, 289, 373, 376] },
+    ],
+    bstStarterTeams: [
+      {
+        starters: [254],
+        name: 'Sceptile',
+        teams: [
+          { rank: 1, pokemon: [130, 169, 254, 289, 373, 376] },
+          { rank: 2, pokemon: [130, 254, 260, 289, 373, 376] },
+          { rank: 3, pokemon: [130, 157, 254, 289, 373, 376] },
+          { rank: 4, pokemon: [130, 160, 254, 289, 373, 376] },
+          { rank: 5, pokemon: [130, 254, 257, 289, 373, 376] },
+        ],
+      },
+      {
+        starters: [257],
+        name: 'Blaziken',
+        teams: [
+          { rank: 1, pokemon: [130, 169, 257, 289, 373, 376] },
+          { rank: 2, pokemon: [130, 257, 260, 289, 373, 376] },
+          { rank: 3, pokemon: [130, 157, 257, 289, 373, 376] },
+          { rank: 4, pokemon: [130, 160, 257, 289, 373, 376] },
+          { rank: 5, pokemon: [130, 254, 257, 289, 373, 376] },
+        ],
+      },
+      {
+        starters: [260],
+        name: 'Swampert',
+        teams: [
+          { rank: 1, pokemon: [130, 169, 260, 289, 373, 376] },
+          { rank: 2, pokemon: [130, 157, 260, 289, 373, 376] },
+          { rank: 3, pokemon: [130, 160, 260, 289, 373, 376] },
+          { rank: 4, pokemon: [130, 254, 260, 289, 373, 376] },
+          { rank: 5, pokemon: [130, 257, 260, 289, 373, 376] },
         ],
       },
     ],
@@ -729,6 +982,48 @@ export const HALL_OF_FAME_DATA: HallOfFameGame[] = [
         ],
       },
     ],
+    bstTeams: [
+      { rank: 1, pokemon: [59, 130, 143, 149, 242, 248] },
+      { rank: 2, pokemon: [59, 130, 131, 143, 149, 248] },
+      { rank: 3, pokemon: [59, 130, 143, 149, 169, 248] },
+      { rank: 4, pokemon: [59, 130, 131, 149, 242, 248] },
+      { rank: 5, pokemon: [59, 130, 149, 169, 242, 248] },
+    ],
+    bstStarterTeams: [
+      {
+        starters: [3],
+        name: 'Venusaur',
+        teams: [
+          { rank: 1, pokemon: [3, 59, 130, 143, 149, 248] },
+          { rank: 2, pokemon: [3, 59, 130, 149, 242, 248] },
+          { rank: 3, pokemon: [3, 59, 143, 149, 242, 248] },
+          { rank: 4, pokemon: [3, 59, 130, 131, 149, 248] },
+          { rank: 5, pokemon: [3, 59, 130, 149, 169, 248] },
+        ],
+      },
+      {
+        starters: [6],
+        name: 'Charizard',
+        teams: [
+          { rank: 1, pokemon: [6, 59, 130, 143, 149, 248] },
+          { rank: 2, pokemon: [6, 59, 130, 149, 242, 248] },
+          { rank: 3, pokemon: [6, 59, 143, 149, 242, 248] },
+          { rank: 4, pokemon: [6, 59, 130, 131, 149, 248] },
+          { rank: 5, pokemon: [6, 59, 130, 149, 169, 248] },
+        ],
+      },
+      {
+        starters: [9],
+        name: 'Blastoise',
+        teams: [
+          { rank: 1, pokemon: [9, 59, 130, 143, 149, 248] },
+          { rank: 2, pokemon: [9, 59, 130, 149, 242, 248] },
+          { rank: 3, pokemon: [9, 59, 143, 149, 242, 248] },
+          { rank: 4, pokemon: [9, 59, 130, 131, 149, 248] },
+          { rank: 5, pokemon: [9, 59, 130, 149, 169, 248] },
+        ],
+      },
+    ],
   },
   {
     gameId: 'leafgreen',
@@ -773,6 +1068,493 @@ export const HALL_OF_FAME_DATA: HallOfFameGame[] = [
           { rank: 3, pokemon: [9, 34, 82, 149, 205, 248] },
           { rank: 4, pokemon: [9, 31, 82, 130, 149, 205] },
           { rank: 5, pokemon: [9, 34, 82, 130, 149, 205] },
+        ],
+      },
+    ],
+    bstTeams: [
+      { rank: 1, pokemon: [130, 131, 143, 149, 242, 248] },
+      { rank: 2, pokemon: [130, 143, 149, 169, 242, 248] },
+      { rank: 3, pokemon: [6, 130, 143, 149, 242, 248] },
+      { rank: 4, pokemon: [9, 130, 143, 149, 242, 248] },
+      { rank: 5, pokemon: [130, 131, 143, 149, 169, 248] },
+    ],
+    bstStarterTeams: [
+      {
+        starters: [3],
+        name: 'Venusaur',
+        teams: [
+          { rank: 1, pokemon: [3, 130, 143, 149, 242, 248] },
+          { rank: 2, pokemon: [3, 130, 131, 143, 149, 248] },
+          { rank: 3, pokemon: [3, 130, 143, 149, 169, 248] },
+          { rank: 4, pokemon: [3, 130, 131, 149, 242, 248] },
+          { rank: 5, pokemon: [3, 130, 149, 169, 242, 248] },
+        ],
+      },
+      {
+        starters: [6],
+        name: 'Charizard',
+        teams: [
+          { rank: 1, pokemon: [6, 130, 143, 149, 242, 248] },
+          { rank: 2, pokemon: [6, 130, 131, 143, 149, 248] },
+          { rank: 3, pokemon: [6, 130, 143, 149, 169, 248] },
+          { rank: 4, pokemon: [6, 130, 131, 149, 242, 248] },
+          { rank: 5, pokemon: [6, 130, 149, 169, 242, 248] },
+        ],
+      },
+      {
+        starters: [9],
+        name: 'Blastoise',
+        teams: [
+          { rank: 1, pokemon: [9, 130, 143, 149, 242, 248] },
+          { rank: 2, pokemon: [9, 130, 131, 143, 149, 248] },
+          { rank: 3, pokemon: [9, 130, 143, 149, 169, 248] },
+          { rank: 4, pokemon: [9, 130, 131, 149, 242, 248] },
+          { rank: 5, pokemon: [9, 130, 149, 169, 242, 248] },
+        ],
+      },
+    ],
+  },
+  {
+    gameId: 'diamond',
+    name: 'Diamond',
+    badge: '💎',
+    teams: [
+      { rank: 1, pokemon: [149, 205, 395, 442, 445, 462] },
+      { rank: 2, pokemon: [130, 149, 442, 445, 448, 462] },
+      { rank: 3, pokemon: [62, 149, 376, 442, 445, 462] },
+      { rank: 4, pokemon: [149, 376, 395, 442, 445, 462] },
+      { rank: 5, pokemon: [149, 227, 395, 442, 445, 462] },
+    ],
+    starterTeams: [
+      {
+        starters: [389],
+        name: 'Torterra',
+        teams: [
+          { rank: 1, pokemon: [62, 149, 389, 395, 442, 462] },
+          { rank: 2, pokemon: [149, 205, 389, 395, 442, 462] },
+          { rank: 3, pokemon: [149, 205, 306, 389, 395, 442] },
+          { rank: 4, pokemon: [130, 149, 389, 442, 448, 462] },
+          { rank: 5, pokemon: [149, 205, 389, 395, 442, 476] },
+        ],
+      },
+      {
+        starters: [392],
+        name: 'Infernape',
+        teams: [
+          { rank: 1, pokemon: [227, 392, 395, 442, 445, 462] },
+          { rank: 2, pokemon: [149, 392, 395, 442, 445, 462] },
+          { rank: 3, pokemon: [376, 392, 395, 426, 445, 462] },
+          { rank: 4, pokemon: [149, 376, 392, 395, 442, 462] },
+          { rank: 5, pokemon: [130, 376, 392, 442, 445, 462] },
+        ],
+      },
+      {
+        starters: [395],
+        name: 'Empoleon',
+        teams: [
+          { rank: 1, pokemon: [149, 205, 395, 442, 445, 462] },
+          { rank: 2, pokemon: [149, 376, 395, 442, 445, 462] },
+          { rank: 3, pokemon: [149, 227, 395, 442, 445, 462] },
+          { rank: 4, pokemon: [149, 395, 442, 445, 448, 462] },
+          { rank: 5, pokemon: [149, 205, 395, 442, 462, 472] },
+        ],
+      },
+    ],
+    bstTeams: [
+      { rank: 1, pokemon: [59, 149, 248, 289, 376, 445] },
+      { rank: 2, pokemon: [149, 248, 289, 376, 445, 468] },
+      { rank: 3, pokemon: [130, 149, 248, 289, 376, 445] },
+      { rank: 4, pokemon: [149, 242, 248, 289, 376, 445] },
+      { rank: 5, pokemon: [131, 149, 248, 289, 376, 445] },
+    ],
+    bstStarterTeams: [
+      {
+        starters: [389],
+        name: 'Torterra',
+        teams: [
+          { rank: 1, pokemon: [149, 248, 289, 376, 389, 445] },
+          { rank: 2, pokemon: [59, 149, 248, 289, 376, 389] },
+          { rank: 3, pokemon: [59, 149, 248, 289, 389, 445] },
+          { rank: 4, pokemon: [59, 149, 289, 376, 389, 445] },
+          { rank: 5, pokemon: [59, 248, 289, 376, 389, 445] },
+        ],
+      },
+      {
+        starters: [392],
+        name: 'Infernape',
+        teams: [
+          { rank: 1, pokemon: [149, 248, 289, 376, 392, 445] },
+          { rank: 2, pokemon: [59, 149, 248, 289, 376, 392] },
+          { rank: 3, pokemon: [59, 149, 248, 289, 392, 445] },
+          { rank: 4, pokemon: [59, 149, 289, 376, 392, 445] },
+          { rank: 5, pokemon: [59, 248, 289, 376, 392, 445] },
+        ],
+      },
+      {
+        starters: [395],
+        name: 'Empoleon',
+        teams: [
+          { rank: 1, pokemon: [149, 248, 289, 376, 395, 445] },
+          { rank: 2, pokemon: [59, 149, 248, 289, 376, 395] },
+          { rank: 3, pokemon: [59, 149, 248, 289, 395, 445] },
+          { rank: 4, pokemon: [59, 149, 289, 376, 395, 445] },
+          { rank: 5, pokemon: [59, 248, 289, 376, 395, 445] },
+        ],
+      },
+    ],
+  },
+  {
+    gameId: 'pearl',
+    name: 'Pearl',
+    badge: '🔘',
+    teams: [
+      { rank: 1, pokemon: [149, 205, 395, 442, 445, 462] },
+      { rank: 2, pokemon: [205, 373, 395, 442, 445, 462] },
+      { rank: 3, pokemon: [130, 149, 442, 445, 448, 462] },
+      { rank: 4, pokemon: [130, 373, 442, 445, 448, 462] },
+      { rank: 5, pokemon: [62, 149, 376, 442, 445, 462] },
+    ],
+    starterTeams: [
+      {
+        starters: [389],
+        name: 'Torterra',
+        teams: [
+          { rank: 1, pokemon: [62, 149, 389, 395, 442, 462] },
+          { rank: 2, pokemon: [62, 373, 389, 395, 442, 462] },
+          { rank: 3, pokemon: [149, 205, 389, 395, 442, 462] },
+          { rank: 4, pokemon: [205, 373, 389, 395, 442, 462] },
+          { rank: 5, pokemon: [130, 149, 389, 442, 448, 462] },
+        ],
+      },
+      {
+        starters: [392],
+        name: 'Infernape',
+        teams: [
+          { rank: 1, pokemon: [227, 392, 395, 442, 445, 462] },
+          { rank: 2, pokemon: [149, 392, 395, 442, 445, 462] },
+          { rank: 3, pokemon: [373, 392, 395, 442, 445, 462] },
+          { rank: 4, pokemon: [376, 392, 395, 426, 445, 462] },
+          { rank: 5, pokemon: [149, 376, 392, 395, 442, 462] },
+        ],
+      },
+      {
+        starters: [395],
+        name: 'Empoleon',
+        teams: [
+          { rank: 1, pokemon: [149, 205, 395, 442, 445, 462] },
+          { rank: 2, pokemon: [205, 373, 395, 442, 445, 462] },
+          { rank: 3, pokemon: [149, 376, 395, 442, 445, 462] },
+          { rank: 4, pokemon: [373, 376, 395, 442, 445, 462] },
+          { rank: 5, pokemon: [149, 227, 395, 442, 445, 462] },
+        ],
+      },
+    ],
+    bstTeams: [
+      { rank: 1, pokemon: [59, 149, 289, 373, 376, 445] },
+      { rank: 2, pokemon: [149, 289, 373, 376, 445, 468] },
+      { rank: 3, pokemon: [130, 149, 289, 373, 376, 445] },
+      { rank: 4, pokemon: [149, 242, 289, 373, 376, 445] },
+      { rank: 5, pokemon: [131, 149, 289, 373, 376, 445] },
+    ],
+    bstStarterTeams: [
+      {
+        starters: [389],
+        name: 'Torterra',
+        teams: [
+          { rank: 1, pokemon: [149, 289, 373, 376, 389, 445] },
+          { rank: 2, pokemon: [59, 149, 289, 373, 376, 389] },
+          { rank: 3, pokemon: [59, 149, 289, 373, 389, 445] },
+          { rank: 4, pokemon: [59, 149, 289, 376, 389, 445] },
+          { rank: 5, pokemon: [59, 289, 373, 376, 389, 445] },
+        ],
+      },
+      {
+        starters: [392],
+        name: 'Infernape',
+        teams: [
+          { rank: 1, pokemon: [149, 289, 373, 376, 392, 445] },
+          { rank: 2, pokemon: [59, 149, 289, 373, 376, 392] },
+          { rank: 3, pokemon: [59, 149, 289, 373, 392, 445] },
+          { rank: 4, pokemon: [59, 149, 289, 376, 392, 445] },
+          { rank: 5, pokemon: [59, 289, 373, 376, 392, 445] },
+        ],
+      },
+      {
+        starters: [395],
+        name: 'Empoleon',
+        teams: [
+          { rank: 1, pokemon: [149, 289, 373, 376, 395, 445] },
+          { rank: 2, pokemon: [59, 149, 289, 373, 376, 395] },
+          { rank: 3, pokemon: [59, 149, 289, 373, 395, 445] },
+          { rank: 4, pokemon: [59, 149, 289, 376, 395, 445] },
+          { rank: 5, pokemon: [59, 289, 373, 376, 395, 445] },
+        ],
+      },
+    ],
+  },
+  {
+    gameId: 'platinum',
+    name: 'Platinum',
+    badge: '⚪',
+    teams: [
+      { rank: 1, pokemon: [149, 205, 395, 442, 445, 462] },
+      { rank: 2, pokemon: [205, 373, 395, 442, 445, 462] },
+      { rank: 3, pokemon: [130, 149, 442, 445, 448, 462] },
+      { rank: 4, pokemon: [130, 373, 442, 445, 448, 462] },
+      { rank: 5, pokemon: [62, 149, 376, 442, 445, 462] },
+    ],
+    starterTeams: [
+      {
+        starters: [389],
+        name: 'Torterra',
+        teams: [
+          { rank: 1, pokemon: [62, 149, 389, 395, 442, 462] },
+          { rank: 2, pokemon: [62, 373, 389, 395, 442, 462] },
+          { rank: 3, pokemon: [149, 205, 389, 395, 442, 462] },
+          { rank: 4, pokemon: [205, 373, 389, 395, 442, 462] },
+          { rank: 5, pokemon: [149, 205, 306, 389, 395, 442] },
+        ],
+      },
+      {
+        starters: [392],
+        name: 'Infernape',
+        teams: [
+          { rank: 1, pokemon: [227, 392, 395, 442, 445, 462] },
+          { rank: 2, pokemon: [149, 392, 395, 442, 445, 462] },
+          { rank: 3, pokemon: [373, 392, 395, 442, 445, 462] },
+          { rank: 4, pokemon: [376, 392, 395, 426, 445, 462] },
+          { rank: 5, pokemon: [149, 376, 392, 395, 442, 462] },
+        ],
+      },
+      {
+        starters: [395],
+        name: 'Empoleon',
+        teams: [
+          { rank: 1, pokemon: [149, 205, 395, 442, 445, 462] },
+          { rank: 2, pokemon: [205, 373, 395, 442, 445, 462] },
+          { rank: 3, pokemon: [149, 376, 395, 442, 445, 462] },
+          { rank: 4, pokemon: [373, 376, 395, 442, 445, 462] },
+          { rank: 5, pokemon: [149, 227, 395, 442, 445, 462] },
+        ],
+      },
+    ],
+    bstTeams: [
+      { rank: 1, pokemon: [149, 248, 289, 373, 376, 445] },
+      { rank: 2, pokemon: [59, 149, 248, 289, 373, 376] },
+      { rank: 3, pokemon: [59, 149, 248, 289, 373, 445] },
+      { rank: 4, pokemon: [59, 149, 248, 289, 376, 445] },
+      { rank: 5, pokemon: [59, 149, 289, 373, 376, 445] },
+    ],
+    bstStarterTeams: [
+      {
+        starters: [389],
+        name: 'Torterra',
+        teams: [
+          { rank: 1, pokemon: [149, 248, 289, 373, 376, 389] },
+          { rank: 2, pokemon: [149, 248, 289, 373, 389, 445] },
+          { rank: 3, pokemon: [149, 248, 289, 376, 389, 445] },
+          { rank: 4, pokemon: [149, 289, 373, 376, 389, 445] },
+          { rank: 5, pokemon: [248, 289, 373, 376, 389, 445] },
+        ],
+      },
+      {
+        starters: [392],
+        name: 'Infernape',
+        teams: [
+          { rank: 1, pokemon: [149, 248, 289, 373, 376, 392] },
+          { rank: 2, pokemon: [149, 248, 289, 373, 392, 445] },
+          { rank: 3, pokemon: [149, 248, 289, 376, 392, 445] },
+          { rank: 4, pokemon: [149, 289, 373, 376, 392, 445] },
+          { rank: 5, pokemon: [248, 289, 373, 376, 392, 445] },
+        ],
+      },
+      {
+        starters: [395],
+        name: 'Empoleon',
+        teams: [
+          { rank: 1, pokemon: [149, 248, 289, 373, 376, 395] },
+          { rank: 2, pokemon: [149, 248, 289, 373, 395, 445] },
+          { rank: 3, pokemon: [149, 248, 289, 376, 395, 445] },
+          { rank: 4, pokemon: [149, 289, 373, 376, 395, 445] },
+          { rank: 5, pokemon: [248, 289, 373, 376, 395, 445] },
+        ],
+      },
+    ],
+  },
+  {
+    gameId: 'heartgold',
+    name: 'HeartGold',
+    badge: '💛',
+    teams: [
+      { rank: 1, pokemon: [62, 130, 149, 248, 462, 472] },
+      { rank: 2, pokemon: [62, 149, 260, 430, 437, 462] },
+      { rank: 3, pokemon: [62, 149, 248, 437, 462, 472] },
+      { rank: 4, pokemon: [130, 149, 248, 257, 260, 462] },
+      { rank: 5, pokemon: [62, 149, 260, 429, 437, 462] },
+    ],
+    starterTeams: [
+      {
+        starters: [154],
+        name: 'Meganium',
+        teams: [
+          { rank: 1, pokemon: [130, 149, 154, 248, 260, 462] },
+          { rank: 2, pokemon: [149, 154, 248, 257, 260, 462] },
+          { rank: 3, pokemon: [149, 154, 248, 260, 462, 475] },
+          { rank: 4, pokemon: [6, 149, 154, 248, 260, 462] },
+          { rank: 5, pokemon: [62, 149, 154, 248, 260, 462] },
+        ],
+      },
+      {
+        starters: [157],
+        name: 'Typhlosion',
+        teams: [
+          { rank: 1, pokemon: [62, 149, 157, 260, 429, 462] },
+          { rank: 2, pokemon: [62, 149, 157, 429, 462, 472] },
+          { rank: 3, pokemon: [62, 149, 157, 197, 260, 462] },
+          { rank: 4, pokemon: [62, 149, 157, 197, 462, 472] },
+          { rank: 5, pokemon: [149, 157, 248, 260, 462, 475] },
+        ],
+      },
+      {
+        starters: [160],
+        name: 'Feraligatr',
+        teams: [
+          { rank: 1, pokemon: [130, 149, 160, 248, 462, 472] },
+          { rank: 2, pokemon: [149, 160, 257, 260, 430, 462] },
+          { rank: 3, pokemon: [149, 160, 248, 462, 472, 475] },
+          { rank: 4, pokemon: [149, 160, 257, 260, 429, 462] },
+          { rank: 5, pokemon: [62, 149, 160, 248, 462, 472] },
+        ],
+      },
+    ],
+    bstTeams: [
+      { rank: 1, pokemon: [59, 130, 143, 149, 248, 468] },
+      { rank: 2, pokemon: [59, 130, 149, 242, 248, 468] },
+      { rank: 3, pokemon: [59, 143, 149, 242, 248, 468] },
+      { rank: 4, pokemon: [59, 130, 131, 149, 248, 468] },
+      { rank: 5, pokemon: [59, 130, 149, 169, 248, 468] },
+    ],
+    bstStarterTeams: [
+      {
+        starters: [154],
+        name: 'Meganium',
+        teams: [
+          { rank: 1, pokemon: [59, 130, 149, 154, 248, 468] },
+          { rank: 2, pokemon: [59, 143, 149, 154, 248, 468] },
+          { rank: 3, pokemon: [59, 149, 154, 242, 248, 468] },
+          { rank: 4, pokemon: [59, 131, 149, 154, 248, 468] },
+          { rank: 5, pokemon: [59, 149, 154, 169, 248, 468] },
+        ],
+      },
+      {
+        starters: [157],
+        name: 'Typhlosion',
+        teams: [
+          { rank: 1, pokemon: [59, 130, 149, 157, 248, 468] },
+          { rank: 2, pokemon: [59, 143, 149, 157, 248, 468] },
+          { rank: 3, pokemon: [59, 149, 157, 242, 248, 468] },
+          { rank: 4, pokemon: [59, 131, 149, 157, 248, 468] },
+          { rank: 5, pokemon: [59, 149, 157, 169, 248, 468] },
+        ],
+      },
+      {
+        starters: [160],
+        name: 'Feraligatr',
+        teams: [
+          { rank: 1, pokemon: [59, 130, 149, 160, 248, 468] },
+          { rank: 2, pokemon: [59, 143, 149, 160, 248, 468] },
+          { rank: 3, pokemon: [59, 149, 160, 242, 248, 468] },
+          { rank: 4, pokemon: [59, 131, 149, 160, 248, 468] },
+          { rank: 5, pokemon: [59, 149, 160, 169, 248, 468] },
+        ],
+      },
+    ],
+  },
+  {
+    gameId: 'soulsilver',
+    name: 'SoulSilver',
+    badge: '🤍',
+    teams: [
+      { rank: 1, pokemon: [130, 149, 227, 248, 260, 462] },
+      { rank: 2, pokemon: [149, 227, 257, 260, 430, 462] },
+      { rank: 3, pokemon: [149, 227, 248, 257, 260, 462] },
+      { rank: 4, pokemon: [149, 227, 248, 260, 462, 475] },
+      { rank: 5, pokemon: [149, 227, 248, 260, 462, 468] },
+    ],
+    starterTeams: [
+      {
+        starters: [154],
+        name: 'Meganium',
+        teams: [
+          { rank: 1, pokemon: [130, 149, 154, 248, 260, 462] },
+          { rank: 2, pokemon: [149, 154, 227, 248, 260, 462] },
+          { rank: 3, pokemon: [149, 154, 248, 257, 260, 462] },
+          { rank: 4, pokemon: [149, 154, 248, 260, 462, 475] },
+          { rank: 5, pokemon: [149, 154, 227, 248, 257, 260] },
+        ],
+      },
+      {
+        starters: [157],
+        name: 'Typhlosion',
+        teams: [
+          { rank: 1, pokemon: [149, 157, 227, 248, 260, 462] },
+          { rank: 2, pokemon: [149, 157, 227, 260, 429, 462] },
+          { rank: 3, pokemon: [62, 149, 157, 260, 429, 462] },
+          { rank: 4, pokemon: [149, 157, 197, 227, 260, 462] },
+          { rank: 5, pokemon: [62, 149, 157, 227, 260, 462] },
+        ],
+      },
+      {
+        starters: [160],
+        name: 'Feraligatr',
+        teams: [
+          { rank: 1, pokemon: [149, 160, 227, 248, 260, 462] },
+          { rank: 2, pokemon: [149, 160, 227, 248, 462, 475] },
+          { rank: 3, pokemon: [149, 160, 257, 260, 430, 462] },
+          { rank: 4, pokemon: [149, 160, 227, 229, 260, 462] },
+          { rank: 5, pokemon: [149, 160, 227, 260, 429, 462] },
+        ],
+      },
+    ],
+    bstTeams: [
+      { rank: 1, pokemon: [130, 143, 149, 242, 248, 468] },
+      { rank: 2, pokemon: [130, 131, 143, 149, 248, 468] },
+      { rank: 3, pokemon: [130, 143, 149, 169, 248, 468] },
+      { rank: 4, pokemon: [130, 143, 149, 248, 260, 468] },
+      { rank: 5, pokemon: [130, 143, 149, 248, 462, 468] },
+    ],
+    bstStarterTeams: [
+      {
+        starters: [154],
+        name: 'Meganium',
+        teams: [
+          { rank: 1, pokemon: [130, 143, 149, 154, 248, 468] },
+          { rank: 2, pokemon: [130, 149, 154, 242, 248, 468] },
+          { rank: 3, pokemon: [143, 149, 154, 242, 248, 468] },
+          { rank: 4, pokemon: [130, 131, 149, 154, 248, 468] },
+          { rank: 5, pokemon: [130, 149, 154, 169, 248, 468] },
+        ],
+      },
+      {
+        starters: [157],
+        name: 'Typhlosion',
+        teams: [
+          { rank: 1, pokemon: [130, 143, 149, 157, 248, 468] },
+          { rank: 2, pokemon: [130, 149, 157, 242, 248, 468] },
+          { rank: 3, pokemon: [143, 149, 157, 242, 248, 468] },
+          { rank: 4, pokemon: [130, 131, 149, 157, 248, 468] },
+          { rank: 5, pokemon: [130, 149, 157, 169, 248, 468] },
+        ],
+      },
+      {
+        starters: [160],
+        name: 'Feraligatr',
+        teams: [
+          { rank: 1, pokemon: [130, 143, 149, 160, 248, 468] },
+          { rank: 2, pokemon: [130, 149, 160, 242, 248, 468] },
+          { rank: 3, pokemon: [143, 149, 160, 242, 248, 468] },
+          { rank: 4, pokemon: [130, 131, 149, 160, 248, 468] },
+          { rank: 5, pokemon: [130, 149, 160, 169, 248, 468] },
         ],
       },
     ],
