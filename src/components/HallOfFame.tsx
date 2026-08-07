@@ -1,6 +1,11 @@
 import React, { memo, useState, useMemo, useEffect } from 'react';
 import { ArrowLeft, ChevronDown, ChevronUp, ShieldCheck, AlertTriangle, Zap } from 'lucide-react';
-import { HALL_OF_FAME_DATA, HallOfFameGame, HallOfFameTeam } from '../data/hallOfFameData';
+import {
+  HALL_OF_FAME_DATA,
+  HallOfFameGame,
+  HallOfFameStarterGroup,
+  HallOfFameTeam,
+} from '../data/hallOfFameData';
 import { Pokemon, ResolvedTeam, PokemonType } from '../types';
 import { VERSION_TO_SPRITE_STYLE } from '../utils/spriteUtils';
 import { resolvePokemon, GAME_DEXES } from '../data/pokemonData';
@@ -247,6 +252,59 @@ function TeamRow({ team, gameId, gen, rosterById, typeChartData }: {
   );
 }
 
+function StarterGroup({ group, gameId, gen, rosterById, typeChartData }: {
+  group: HallOfFameStarterGroup;
+  gameId: string;
+  gen: number;
+  rosterById: Map<number, Pokemon>;
+  typeChartData: TypeChartData | null;
+}) {
+  const [open, setOpen] = useState(false);
+  const starter = rosterById.get(group.starter);
+
+  return (
+    <div className={`hof-starter-group ${open ? 'hof-starter-open' : ''}`}>
+      <button
+        type="button"
+        className="hof-starter-header"
+        onClick={() => setOpen(!open)}
+        aria-expanded={open}
+      >
+        <img
+          className="hof-sprite hof-starter-sprite"
+          src={buildSpritePath(group.starter, starter?.name ?? group.name, gameId)}
+          alt={group.name}
+          loading="lazy"
+          onError={(e) => {
+            const img = e.currentTarget;
+            const fallback = `https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/${group.starter}.png`;
+            if (img.src !== fallback) img.src = fallback;
+          }}
+        />
+        <span className="hof-starter-name">{group.name}</span>
+        <span className="hof-expand-icon">
+          {open ? <ChevronUp size={16} /> : <ChevronDown size={16} />}
+        </span>
+      </button>
+
+      {open && (
+        <div className="hof-teams-list">
+          {group.teams.map((team) => (
+            <TeamRow
+              key={team.rank}
+              team={team}
+              gameId={gameId}
+              gen={gen}
+              rosterById={rosterById}
+              typeChartData={typeChartData}
+            />
+          ))}
+        </div>
+      )}
+    </div>
+  );
+}
+
 function GameSection({ game, gen, typeChartData, rosterById }: {
   game: HallOfFameGame;
   gen: number;
@@ -261,6 +319,22 @@ function GameSection({ game, gen, typeChartData, rosterById }: {
           <TeamRow key={team.rank} team={team} gameId={game.gameId} gen={gen} rosterById={rosterById} typeChartData={typeChartData} />
         ))}
       </div>
+
+      {game.starterTeams && game.starterTeams.length > 0 && (
+        <div className="hof-starters">
+          <h3 className="hof-starters-title">Best team with each starter</h3>
+          {game.starterTeams.map((group) => (
+            <StarterGroup
+              key={group.starter}
+              group={group}
+              gameId={game.gameId}
+              gen={gen}
+              rosterById={rosterById}
+              typeChartData={typeChartData}
+            />
+          ))}
+        </div>
+      )}
     </div>
   );
 }

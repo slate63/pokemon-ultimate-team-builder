@@ -1470,6 +1470,76 @@ h1, h2, h3, h4, h5, h6 {
   image-rendering: pixelated;
 }
 
+.hof-starters {
+  margin-top: 1.25rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--border-color);
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.hof-starters-title {
+  font-size: 0.8rem;
+  font-family: var(--font-heading);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--text-muted);
+  margin: 0 0 0.25rem 0;
+}
+
+.hof-starter-group {
+  border-radius: 8px;
+  transition: all 0.2s ease;
+}
+
+.hof-starter-open {
+  background: rgba(255, 255, 255, 0.03);
+  border: 1px solid var(--border-color);
+  padding-bottom: 0.5rem;
+}
+
+.hof-starter-header {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  width: 100%;
+  padding: 0.4rem 0.75rem;
+  background: rgba(255, 255, 255, 0.03);
+  border: 1px solid transparent;
+  border-radius: 8px;
+  color: inherit;
+  font: inherit;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.hof-starter-header:hover {
+  background: rgba(255, 255, 255, 0.06);
+  border-color: var(--border-color);
+}
+
+.hof-starter-open .hof-starter-header {
+  border-bottom: 1px solid var(--border-color);
+  border-radius: 8px 8px 0 0;
+  margin-bottom: 0.5rem;
+}
+
+.hof-starter-sprite {
+  flex: 0 0 auto;
+  max-width: 36px;
+}
+
+.hof-starter-name {
+  font-family: var(--font-heading);
+  font-size: 0.95rem;
+  color: var(--text-main);
+}
+
+.hof-starter-group .hof-teams-list {
+  padding: 0 0.5rem;
+}
+
 .hof-team-entry {
   border-radius: 8px;
   transition: all 0.2s ease;
