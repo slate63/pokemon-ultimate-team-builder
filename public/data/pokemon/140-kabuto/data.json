@@ -47,7 +47,7 @@
         "blue",
         "yellow"
       ],
-      "description": "A POK\u00e9MON that was resurrected from a fossil found in what was once the ocean floor eons ago.",
+      "description": "A POKéMON that was resurrected from a fossil found in what was once the ocean floor eons ago.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -107,7 +107,7 @@
         "rock-smash"
       ],
       "availability": [],
-      "description": "A POK\u00e9MON that was resurrected from a fossil found in what was once the ocean floor eons ago.",
+      "description": "A POKéMON that was resurrected from a fossil found in what was once the ocean floor eons ago.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -191,7 +191,7 @@
         "firered",
         "leafgreen"
       ],
-      "description": "A POK\u00e9MON that was resurrected from a fossil found in what was once the ocean floor eons ago.",
+      "description": "A POKéMON that was resurrected from a fossil found in what was once the ocean floor eons ago.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -280,7 +280,7 @@
         "weak-armor"
       ],
       "availability": [],
-      "description": "A POK\u00e9MON that was resurrected from a fossil found in what was once the ocean floor eons ago.",
+      "description": "A POKéMON that was resurrected from a fossil found in what was once the ocean floor eons ago.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -366,7 +366,7 @@
         "weak-armor"
       ],
       "availability": [],
-      "description": "A POK\u00e9MON that was resurrected from a fossil found in what was once the ocean floor eons ago.",
+      "description": "A POKéMON that was resurrected from a fossil found in what was once the ocean floor eons ago.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -460,7 +460,7 @@
         "omega-ruby",
         "alpha-sapphire"
       ],
-      "description": "A POK\u00e9MON that was resurrected from a fossil found in what was once the ocean floor eons ago.",
+      "description": "A POKéMON that was resurrected from a fossil found in what was once the ocean floor eons ago.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -548,9 +548,11 @@
       ],
       "availability": [
         "ultra-sun",
-        "ultra-moon"
+        "ultra-moon",
+        "lets-go-pikachu",
+        "lets-go-eevee"
       ],
-      "description": "A POK\u00e9MON that was resurrected from a fossil found in what was once the ocean floor eons ago.",
+      "description": "A POKéMON that was resurrected from a fossil found in what was once the ocean floor eons ago.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -645,7 +647,7 @@
         "brilliant-diamond",
         "shining-pearl"
       ],
-      "description": "A POK\u00e9MON that was resurrected from a fossil found in what was once the ocean floor eons ago.",
+      "description": "A POKéMON that was resurrected from a fossil found in what was once the ocean floor eons ago.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -678,7 +680,7 @@
         "scarlet",
         "violet"
       ],
-      "description": "A POK\u00e9MON that was resurrected from a fossil found in what was once the ocean floor eons ago.",
+      "description": "A POKéMON that was resurrected from a fossil found in what was once the ocean floor eons ago.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,

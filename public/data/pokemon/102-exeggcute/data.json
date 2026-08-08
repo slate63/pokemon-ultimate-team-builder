@@ -557,7 +557,9 @@
         "sun",
         "moon",
         "ultra-sun",
-        "ultra-moon"
+        "ultra-moon",
+        "lets-go-pikachu",
+        "lets-go-eevee"
       ],
       "description": "Using telepathy only they can receive, they always form a cluster of six EXEGGCUTE.",
       "is_legendary": false,

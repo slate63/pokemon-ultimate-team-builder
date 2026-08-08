@@ -717,7 +717,9 @@
       ],
       "availability": [
         "ultra-sun",
-        "ultra-moon"
+        "ultra-moon",
+        "lets-go-pikachu",
+        "lets-go-eevee"
       ],
       "description": "If interrupted while it is miming, it will slap around the offender with its broad hands.",
       "is_legendary": false,

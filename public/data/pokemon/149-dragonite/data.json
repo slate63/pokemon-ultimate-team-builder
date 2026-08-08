@@ -56,7 +56,7 @@
         "blue",
         "yellow"
       ],
-      "description": "An extremely rarely seen marine POK\u00e9MON. Its intelligence is said to match that of humans.",
+      "description": "An extremely rarely seen marine POKéMON. Its intelligence is said to match that of humans.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": true,
@@ -138,7 +138,7 @@
         "silver",
         "crystal"
       ],
-      "description": "An extremely rarely seen marine POK\u00e9MON. Its intelligence is said to match that of humans.",
+      "description": "An extremely rarely seen marine POKéMON. Its intelligence is said to match that of humans.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": true,
@@ -236,7 +236,7 @@
         "firered",
         "leafgreen"
       ],
-      "description": "An extremely rarely seen marine POK\u00e9MON. Its intelligence is said to match that of humans.",
+      "description": "An extremely rarely seen marine POKéMON. Its intelligence is said to match that of humans.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": true,
@@ -355,7 +355,7 @@
         "heartgold",
         "soulsilver"
       ],
-      "description": "An extremely rarely seen marine POK\u00e9MON. Its intelligence is said to match that of humans.",
+      "description": "An extremely rarely seen marine POKéMON. Its intelligence is said to match that of humans.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": true,
@@ -466,7 +466,7 @@
         "black-2",
         "white-2"
       ],
-      "description": "An extremely rarely seen marine POK\u00e9MON. Its intelligence is said to match that of humans.",
+      "description": "An extremely rarely seen marine POKéMON. Its intelligence is said to match that of humans.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": true,
@@ -584,7 +584,7 @@
         "omega-ruby",
         "alpha-sapphire"
       ],
-      "description": "An extremely rarely seen marine POK\u00e9MON. Its intelligence is said to match that of humans.",
+      "description": "An extremely rarely seen marine POKéMON. Its intelligence is said to match that of humans.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": true,
@@ -694,9 +694,11 @@
         "sun",
         "moon",
         "ultra-sun",
-        "ultra-moon"
+        "ultra-moon",
+        "lets-go-pikachu",
+        "lets-go-eevee"
       ],
-      "description": "An extremely rarely seen marine POK\u00e9MON. Its intelligence is said to match that of humans.",
+      "description": "An extremely rarely seen marine POKéMON. Its intelligence is said to match that of humans.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": true,
@@ -817,7 +819,7 @@
         "brilliant-diamond",
         "shining-pearl"
       ],
-      "description": "An extremely rarely seen marine POK\u00e9MON. Its intelligence is said to match that of humans.",
+      "description": "An extremely rarely seen marine POKéMON. Its intelligence is said to match that of humans.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": true,
@@ -932,7 +934,7 @@
         "scarlet",
         "violet"
       ],
-      "description": "An extremely rarely seen marine POK\u00e9MON. Its intelligence is said to match that of humans.",
+      "description": "An extremely rarely seen marine POKéMON. Its intelligence is said to match that of humans.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": true,

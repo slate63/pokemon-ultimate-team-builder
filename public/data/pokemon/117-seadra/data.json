@@ -46,7 +46,7 @@
         "blue",
         "yellow"
       ],
-      "description": "Capable of swim\u00ad ming backwards by rapidly flapping its wing-like pectoral fins and stout tail.",
+      "description": "Capable of swim­ ming backwards by rapidly flapping its wing-like pectoral fins and stout tail.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": true,
@@ -106,7 +106,7 @@
         "silver",
         "crystal"
       ],
-      "description": "Capable of swim\u00ad ming backwards by rapidly flapping its wing-like pectoral fins and stout tail.",
+      "description": "Capable of swim­ ming backwards by rapidly flapping its wing-like pectoral fins and stout tail.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -178,7 +178,7 @@
         "firered",
         "leafgreen"
       ],
-      "description": "Capable of swim\u00ad ming backwards by rapidly flapping its wing-like pectoral fins and stout tail.",
+      "description": "Capable of swim­ ming backwards by rapidly flapping its wing-like pectoral fins and stout tail.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -261,7 +261,7 @@
         "heartgold",
         "soulsilver"
       ],
-      "description": "Capable of swim\u00ad ming backwards by rapidly flapping its wing-like pectoral fins and stout tail.",
+      "description": "Capable of swim­ ming backwards by rapidly flapping its wing-like pectoral fins and stout tail.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -337,7 +337,7 @@
         "black-2",
         "white-2"
       ],
-      "description": "Capable of swim\u00ad ming backwards by rapidly flapping its wing-like pectoral fins and stout tail.",
+      "description": "Capable of swim­ ming backwards by rapidly flapping its wing-like pectoral fins and stout tail.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -416,7 +416,7 @@
         "omega-ruby",
         "alpha-sapphire"
       ],
-      "description": "Capable of swim\u00ad ming backwards by rapidly flapping its wing-like pectoral fins and stout tail.",
+      "description": "Capable of swim­ ming backwards by rapidly flapping its wing-like pectoral fins and stout tail.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -492,9 +492,11 @@
         "sun",
         "moon",
         "ultra-sun",
-        "ultra-moon"
+        "ultra-moon",
+        "lets-go-pikachu",
+        "lets-go-eevee"
       ],
-      "description": "Capable of swim\u00ad ming backwards by rapidly flapping its wing-like pectoral fins and stout tail.",
+      "description": "Capable of swim­ ming backwards by rapidly flapping its wing-like pectoral fins and stout tail.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -574,7 +576,7 @@
         "brilliant-diamond",
         "shining-pearl"
       ],
-      "description": "Capable of swim\u00ad ming backwards by rapidly flapping its wing-like pectoral fins and stout tail.",
+      "description": "Capable of swim­ ming backwards by rapidly flapping its wing-like pectoral fins and stout tail.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -651,7 +653,7 @@
         "scarlet",
         "violet"
       ],
-      "description": "Capable of swim\u00ad ming backwards by rapidly flapping its wing-like pectoral fins and stout tail.",
+      "description": "Capable of swim­ ming backwards by rapidly flapping its wing-like pectoral fins and stout tail.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,

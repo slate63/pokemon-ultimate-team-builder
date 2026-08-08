@@ -60,7 +60,7 @@
         "blue",
         "yellow"
       ],
-      "description": "It is said that Charizard\u2019s fire burns hotter if it has experienced harsh battles.",
+      "description": "It is said that Charizard’s fire burns hotter if it has experienced harsh battles.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": true,
@@ -131,7 +131,7 @@
         "rock-smash"
       ],
       "availability": [],
-      "description": "It is said that Charizard\u2019s fire burns hotter if it has experienced harsh battles.",
+      "description": "It is said that Charizard’s fire burns hotter if it has experienced harsh battles.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": true,
@@ -225,7 +225,7 @@
         "firered",
         "leafgreen"
       ],
-      "description": "It is said that Charizard\u2019s fire burns hotter if it has experienced harsh battles.",
+      "description": "It is said that Charizard’s fire burns hotter if it has experienced harsh battles.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": true,
@@ -330,7 +330,7 @@
         "heartgold",
         "soulsilver"
       ],
-      "description": "It is said that Charizard\u2019s fire burns hotter if it has experienced harsh battles.",
+      "description": "It is said that Charizard’s fire burns hotter if it has experienced harsh battles.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": true,
@@ -429,7 +429,7 @@
         "solar-power"
       ],
       "availability": [],
-      "description": "It is said that Charizard\u2019s fire burns hotter if it has experienced harsh battles.",
+      "description": "It is said that Charizard’s fire burns hotter if it has experienced harsh battles.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": true,
@@ -538,7 +538,7 @@
         "omega-ruby",
         "alpha-sapphire"
       ],
-      "description": "It is said that Charizard\u2019s fire burns hotter if it has experienced harsh battles.",
+      "description": "It is said that Charizard’s fire burns hotter if it has experienced harsh battles.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": true,
@@ -638,9 +638,11 @@
       ],
       "availability": [
         "ultra-sun",
-        "ultra-moon"
+        "ultra-moon",
+        "lets-go-pikachu",
+        "lets-go-eevee"
       ],
-      "description": "It is said that Charizard\u2019s fire burns hotter if it has experienced harsh battles.",
+      "description": "It is said that Charizard’s fire burns hotter if it has experienced harsh battles.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": true,
@@ -755,7 +757,7 @@
         "brilliant-diamond",
         "shining-pearl"
       ],
-      "description": "It is said that Charizard\u2019s fire burns hotter if it has experienced harsh battles.",
+      "description": "It is said that Charizard’s fire burns hotter if it has experienced harsh battles.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": true,
@@ -863,7 +865,7 @@
         "scarlet",
         "violet"
       ],
-      "description": "It is said that Charizard\u2019s fire burns hotter if it has experienced harsh battles.",
+      "description": "It is said that Charizard’s fire burns hotter if it has experienced harsh battles.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": true,

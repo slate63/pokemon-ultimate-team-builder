@@ -25,7 +25,7 @@
         "blue",
         "yellow"
       ],
-      "description": "This POK\u00e9MON is vulnerable to attack while its shell is soft, exposing its weak and tender body.",
+      "description": "This POKéMON is vulnerable to attack while its shell is soft, exposing its weak and tender body.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -54,7 +54,7 @@
         "gold",
         "crystal"
       ],
-      "description": "This POK\u00e9MON is vulnerable to attack while its shell is soft, exposing its weak and tender body.",
+      "description": "This POKéMON is vulnerable to attack while its shell is soft, exposing its weak and tender body.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -86,7 +86,7 @@
         "firered",
         "leafgreen"
       ],
-      "description": "This POK\u00e9MON is vulnerable to attack while its shell is soft, exposing its weak and tender body.",
+      "description": "This POKéMON is vulnerable to attack while its shell is soft, exposing its weak and tender body.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -123,7 +123,7 @@
         "platinum",
         "heartgold"
       ],
-      "description": "This POK\u00e9MON is vulnerable to attack while its shell is soft, exposing its weak and tender body.",
+      "description": "This POKéMON is vulnerable to attack while its shell is soft, exposing its weak and tender body.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -157,7 +157,7 @@
       "availability": [
         "white"
       ],
-      "description": "This POK\u00e9MON is vulnerable to attack while its shell is soft, exposing its weak and tender body.",
+      "description": "This POKéMON is vulnerable to attack while its shell is soft, exposing its weak and tender body.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -194,7 +194,7 @@
         "omega-ruby",
         "alpha-sapphire"
       ],
-      "description": "This POK\u00e9MON is vulnerable to attack while its shell is soft, exposing its weak and tender body.",
+      "description": "This POKéMON is vulnerable to attack while its shell is soft, exposing its weak and tender body.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -229,9 +229,11 @@
         "sun",
         "moon",
         "ultra-sun",
-        "ultra-moon"
+        "ultra-moon",
+        "lets-go-pikachu",
+        "lets-go-eevee"
       ],
-      "description": "This POK\u00e9MON is vulnerable to attack while its shell is soft, exposing its weak and tender body.",
+      "description": "This POKéMON is vulnerable to attack while its shell is soft, exposing its weak and tender body.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -267,7 +269,7 @@
         "brilliant-diamond",
         "shining-pearl"
       ],
-      "description": "This POK\u00e9MON is vulnerable to attack while its shell is soft, exposing its weak and tender body.",
+      "description": "This POKéMON is vulnerable to attack while its shell is soft, exposing its weak and tender body.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -297,7 +299,7 @@
         "scarlet",
         "violet"
       ],
-      "description": "This POK\u00e9MON is vulnerable to attack while its shell is soft, exposing its weak and tender body.",
+      "description": "This POKéMON is vulnerable to attack while its shell is soft, exposing its weak and tender body.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,

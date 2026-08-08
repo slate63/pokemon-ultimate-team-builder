@@ -510,7 +510,9 @@
         "chlorophyll",
         "run-away"
       ],
-      "availability": [],
+      "availability": [
+        "lets-go-pikachu"
+      ],
       "description": "During the day, it keeps its face buried in the ground. At night, it wanders around sowing its seeds.",
       "is_legendary": false,
       "is_mythical": false,

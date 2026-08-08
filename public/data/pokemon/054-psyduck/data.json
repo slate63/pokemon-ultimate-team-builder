@@ -55,7 +55,7 @@
         "blue",
         "yellow"
       ],
-      "description": "While lulling its enemies with its vacant look, this wily POK\u00e9MON will use psychokinetic powers.",
+      "description": "While lulling its enemies with its vacant look, this wily POKéMON will use psychokinetic powers.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -129,7 +129,7 @@
         "silver",
         "crystal"
       ],
-      "description": "While lulling its enemies with its vacant look, this wily POK\u00e9MON will use psychokinetic powers.",
+      "description": "While lulling its enemies with its vacant look, this wily POKéMON will use psychokinetic powers.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -225,7 +225,7 @@
         "emerald",
         "firered"
       ],
-      "description": "While lulling its enemies with its vacant look, this wily POK\u00e9MON will use psychokinetic powers.",
+      "description": "While lulling its enemies with its vacant look, this wily POKéMON will use psychokinetic powers.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -332,7 +332,7 @@
         "heartgold",
         "soulsilver"
       ],
-      "description": "While lulling its enemies with its vacant look, this wily POK\u00e9MON will use psychokinetic powers.",
+      "description": "While lulling its enemies with its vacant look, this wily POKéMON will use psychokinetic powers.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -437,7 +437,7 @@
         "black-2",
         "white-2"
       ],
-      "description": "While lulling its enemies with its vacant look, this wily POK\u00e9MON will use psychokinetic powers.",
+      "description": "While lulling its enemies with its vacant look, this wily POKéMON will use psychokinetic powers.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -546,7 +546,7 @@
         "omega-ruby",
         "alpha-sapphire"
       ],
-      "description": "While lulling its enemies with its vacant look, this wily POK\u00e9MON will use psychokinetic powers.",
+      "description": "While lulling its enemies with its vacant look, this wily POKéMON will use psychokinetic powers.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -647,9 +647,11 @@
         "sun",
         "moon",
         "ultra-sun",
-        "ultra-moon"
+        "ultra-moon",
+        "lets-go-pikachu",
+        "lets-go-eevee"
       ],
-      "description": "While lulling its enemies with its vacant look, this wily POK\u00e9MON will use psychokinetic powers.",
+      "description": "While lulling its enemies with its vacant look, this wily POKéMON will use psychokinetic powers.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -752,7 +754,7 @@
         "shining-pearl",
         "legends-arceus"
       ],
-      "description": "While lulling its enemies with its vacant look, this wily POK\u00e9MON will use psychokinetic powers.",
+      "description": "While lulling its enemies with its vacant look, this wily POKéMON will use psychokinetic powers.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -855,7 +857,7 @@
         "scarlet",
         "violet"
       ],
-      "description": "While lulling its enemies with its vacant look, this wily POK\u00e9MON will use psychokinetic powers.",
+      "description": "While lulling its enemies with its vacant look, this wily POKéMON will use psychokinetic powers.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,

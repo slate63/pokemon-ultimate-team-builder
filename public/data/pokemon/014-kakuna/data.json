@@ -25,7 +25,7 @@
         "red",
         "blue"
       ],
-      "description": "Almost incapable of moving, this POK\u00e9MON can only harden its shell to protect itself from predators.",
+      "description": "Almost incapable of moving, this POKéMON can only harden its shell to protect itself from predators.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -55,7 +55,7 @@
         "silver",
         "crystal"
       ],
-      "description": "Almost incapable of moving, this POK\u00e9MON can only harden its shell to protect itself from predators.",
+      "description": "Almost incapable of moving, this POKéMON can only harden its shell to protect itself from predators.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -88,7 +88,7 @@
         "firered",
         "leafgreen"
       ],
-      "description": "Almost incapable of moving, this POK\u00e9MON can only harden its shell to protect itself from predators.",
+      "description": "Almost incapable of moving, this POKéMON can only harden its shell to protect itself from predators.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -126,7 +126,7 @@
         "platinum",
         "soulsilver"
       ],
-      "description": "Almost incapable of moving, this POK\u00e9MON can only harden its shell to protect itself from predators.",
+      "description": "Almost incapable of moving, this POKéMON can only harden its shell to protect itself from predators.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -161,7 +161,7 @@
       "availability": [
         "black"
       ],
-      "description": "Almost incapable of moving, this POK\u00e9MON can only harden its shell to protect itself from predators.",
+      "description": "Almost incapable of moving, this POKéMON can only harden its shell to protect itself from predators.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -199,7 +199,7 @@
         "omega-ruby",
         "alpha-sapphire"
       ],
-      "description": "Almost incapable of moving, this POK\u00e9MON can only harden its shell to protect itself from predators.",
+      "description": "Almost incapable of moving, this POKéMON can only harden its shell to protect itself from predators.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -233,9 +233,11 @@
       ],
       "availability": [
         "ultra-sun",
-        "ultra-moon"
+        "ultra-moon",
+        "lets-go-pikachu",
+        "lets-go-eevee"
       ],
-      "description": "Almost incapable of moving, this POK\u00e9MON can only harden its shell to protect itself from predators.",
+      "description": "Almost incapable of moving, this POKéMON can only harden its shell to protect itself from predators.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -270,7 +272,7 @@
         "brilliant-diamond",
         "shining-pearl"
       ],
-      "description": "Almost incapable of moving, this POK\u00e9MON can only harden its shell to protect itself from predators.",
+      "description": "Almost incapable of moving, this POKéMON can only harden its shell to protect itself from predators.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -301,7 +303,7 @@
         "scarlet",
         "violet"
       ],
-      "description": "Almost incapable of moving, this POK\u00e9MON can only harden its shell to protect itself from predators.",
+      "description": "Almost incapable of moving, this POKéMON can only harden its shell to protect itself from predators.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,

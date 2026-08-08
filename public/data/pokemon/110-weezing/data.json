@@ -519,7 +519,9 @@
         "neutralizing-gas",
         "stench"
       ],
-      "availability": [],
+      "availability": [
+        "lets-go-eevee"
+      ],
       "description": "Where two kinds of poison gases meet, 2 KOFFINGs can fuse into a WEEZING over many years.",
       "is_legendary": false,
       "is_mythical": false,

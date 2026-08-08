@@ -593,7 +593,9 @@
       ],
       "availability": [
         "ultra-sun",
-        "ultra-moon"
+        "ultra-moon",
+        "lets-go-pikachu",
+        "lets-go-eevee"
       ],
       "description": "After birth, its back swells and hardens into a shell. Powerfully sprays foam from its mouth.",
       "is_legendary": false,

@@ -48,7 +48,7 @@
         "blue",
         "yellow"
       ],
-      "description": "Living wherever there is food available, it ceaselessly scav\u00ad enges for edibles the entire day.",
+      "description": "Living wherever there is food available, it ceaselessly scav­ enges for edibles the entire day.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -116,7 +116,7 @@
         "silver",
         "crystal"
       ],
-      "description": "Living wherever there is food available, it ceaselessly scav\u00ad enges for edibles the entire day.",
+      "description": "Living wherever there is food available, it ceaselessly scav­ enges for edibles the entire day.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -201,7 +201,7 @@
         "firered",
         "leafgreen"
       ],
-      "description": "Living wherever there is food available, it ceaselessly scav\u00ad enges for edibles the entire day.",
+      "description": "Living wherever there is food available, it ceaselessly scav­ enges for edibles the entire day.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -299,7 +299,7 @@
         "heartgold",
         "soulsilver"
       ],
-      "description": "Living wherever there is food available, it ceaselessly scav\u00ad enges for edibles the entire day.",
+      "description": "Living wherever there is food available, it ceaselessly scav­ enges for edibles the entire day.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -395,7 +395,7 @@
         "black-2",
         "white-2"
       ],
-      "description": "Living wherever there is food available, it ceaselessly scav\u00ad enges for edibles the entire day.",
+      "description": "Living wherever there is food available, it ceaselessly scav­ enges for edibles the entire day.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -490,7 +490,7 @@
         "omega-ruby",
         "alpha-sapphire"
       ],
-      "description": "Living wherever there is food available, it ceaselessly scav\u00ad enges for edibles the entire day.",
+      "description": "Living wherever there is food available, it ceaselessly scav­ enges for edibles the entire day.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -579,9 +579,11 @@
       ],
       "availability": [
         "ultra-sun",
-        "ultra-moon"
+        "ultra-moon",
+        "lets-go-pikachu",
+        "lets-go-eevee"
       ],
-      "description": "Living wherever there is food available, it ceaselessly scav\u00ad enges for edibles the entire day.",
+      "description": "Living wherever there is food available, it ceaselessly scav­ enges for edibles the entire day.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -667,7 +669,7 @@
         "brilliant-diamond",
         "shining-pearl"
       ],
-      "description": "Living wherever there is food available, it ceaselessly scav\u00ad enges for edibles the entire day.",
+      "description": "Living wherever there is food available, it ceaselessly scav­ enges for edibles the entire day.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -699,7 +701,7 @@
         "scarlet",
         "violet"
       ],
-      "description": "Living wherever there is food available, it ceaselessly scav\u00ad enges for edibles the entire day.",
+      "description": "Living wherever there is food available, it ceaselessly scav­ enges for edibles the entire day.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,

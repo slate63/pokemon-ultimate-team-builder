@@ -566,7 +566,8 @@
         "sun",
         "moon",
         "ultra-sun",
-        "ultra-moon"
+        "ultra-moon",
+        "lets-go-eevee"
       ],
       "description": "If it fails to crush the victim in its pincers, it will swing it around and toss it hard.",
       "is_legendary": false,

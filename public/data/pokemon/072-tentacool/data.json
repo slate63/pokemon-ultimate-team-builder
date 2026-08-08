@@ -582,7 +582,9 @@
         "sun",
         "moon",
         "ultra-sun",
-        "ultra-moon"
+        "ultra-moon",
+        "lets-go-pikachu",
+        "lets-go-eevee"
       ],
       "description": "Drifts in shallow seas. Anglers who hook them by accident are often punished by its stinging acid.",
       "is_legendary": false,

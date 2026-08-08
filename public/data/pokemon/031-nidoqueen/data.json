@@ -681,7 +681,10 @@
         "rivalry",
         "sheer-force"
       ],
-      "availability": [],
+      "availability": [
+        "lets-go-pikachu",
+        "lets-go-eevee"
+      ],
       "description": "Its hard scales provide strong protection. It uses its hefty bulk to execute powerful moves.",
       "is_legendary": false,
       "is_mythical": false,

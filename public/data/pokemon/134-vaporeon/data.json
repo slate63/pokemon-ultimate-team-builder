@@ -551,7 +551,9 @@
         "sun",
         "moon",
         "ultra-sun",
-        "ultra-moon"
+        "ultra-moon",
+        "lets-go-pikachu",
+        "lets-go-eevee"
       ],
       "description": "Lives close to water. Its long tail is ridged with a fin which is often mistaken for a mermaid's.",
       "is_legendary": false,

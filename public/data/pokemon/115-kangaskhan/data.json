@@ -729,7 +729,9 @@
         "sun",
         "moon",
         "ultra-sun",
-        "ultra-moon"
+        "ultra-moon",
+        "lets-go-pikachu",
+        "lets-go-eevee"
       ],
       "description": "The infant rarely ventures out of its mother's protective pouch until it is 3 years old.",
       "is_legendary": false,

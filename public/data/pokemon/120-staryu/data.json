@@ -55,7 +55,7 @@
         "blue",
         "yellow"
       ],
-      "description": "An enigmatic POK\u00e9MON that can effortlessly regenerate any appendage it loses in battle.",
+      "description": "An enigmatic POKéMON that can effortlessly regenerate any appendage it loses in battle.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -123,7 +123,7 @@
         "silver",
         "crystal"
       ],
-      "description": "An enigmatic POK\u00e9MON that can effortlessly regenerate any appendage it loses in battle.",
+      "description": "An enigmatic POKéMON that can effortlessly regenerate any appendage it loses in battle.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -202,7 +202,7 @@
         "emerald",
         "leafgreen"
       ],
-      "description": "An enigmatic POK\u00e9MON that can effortlessly regenerate any appendage it loses in battle.",
+      "description": "An enigmatic POKéMON that can effortlessly regenerate any appendage it loses in battle.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -293,7 +293,7 @@
         "heartgold",
         "soulsilver"
       ],
-      "description": "An enigmatic POK\u00e9MON that can effortlessly regenerate any appendage it loses in battle.",
+      "description": "An enigmatic POKéMON that can effortlessly regenerate any appendage it loses in battle.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -379,7 +379,7 @@
         "black-2",
         "white-2"
       ],
-      "description": "An enigmatic POK\u00e9MON that can effortlessly regenerate any appendage it loses in battle.",
+      "description": "An enigmatic POKéMON that can effortlessly regenerate any appendage it loses in battle.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -470,7 +470,7 @@
         "omega-ruby",
         "alpha-sapphire"
       ],
-      "description": "An enigmatic POK\u00e9MON that can effortlessly regenerate any appendage it loses in battle.",
+      "description": "An enigmatic POKéMON that can effortlessly regenerate any appendage it loses in battle.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -557,9 +557,11 @@
         "sun",
         "moon",
         "ultra-sun",
-        "ultra-moon"
+        "ultra-moon",
+        "lets-go-pikachu",
+        "lets-go-eevee"
       ],
-      "description": "An enigmatic POK\u00e9MON that can effortlessly regenerate any appendage it loses in battle.",
+      "description": "An enigmatic POKéMON that can effortlessly regenerate any appendage it loses in battle.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -642,7 +644,7 @@
         "brilliant-diamond",
         "shining-pearl"
       ],
-      "description": "An enigmatic POK\u00e9MON that can effortlessly regenerate any appendage it loses in battle.",
+      "description": "An enigmatic POKéMON that can effortlessly regenerate any appendage it loses in battle.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -674,7 +676,7 @@
         "scarlet",
         "violet"
       ],
-      "description": "An enigmatic POK\u00e9MON that can effortlessly regenerate any appendage it loses in battle.",
+      "description": "An enigmatic POKéMON that can effortlessly regenerate any appendage it loses in battle.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,

@@ -52,7 +52,7 @@
         "blue",
         "yellow"
       ],
-      "description": "Long considered a mythical POK\u00e9MON until recently when a small colony was found living underwater.",
+      "description": "Long considered a mythical POKéMON until recently when a small colony was found living underwater.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -124,7 +124,7 @@
         "silver",
         "crystal"
       ],
-      "description": "Long considered a mythical POK\u00e9MON until recently when a small colony was found living underwater.",
+      "description": "Long considered a mythical POKéMON until recently when a small colony was found living underwater.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -206,7 +206,7 @@
         "firered",
         "leafgreen"
       ],
-      "description": "Long considered a mythical POK\u00e9MON until recently when a small colony was found living underwater.",
+      "description": "Long considered a mythical POKéMON until recently when a small colony was found living underwater.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -297,7 +297,7 @@
         "heartgold",
         "soulsilver"
       ],
-      "description": "Long considered a mythical POK\u00e9MON until recently when a small colony was found living underwater.",
+      "description": "Long considered a mythical POKéMON until recently when a small colony was found living underwater.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -384,7 +384,7 @@
         "black-2",
         "white-2"
       ],
-      "description": "Long considered a mythical POK\u00e9MON until recently when a small colony was found living underwater.",
+      "description": "Long considered a mythical POKéMON until recently when a small colony was found living underwater.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -474,7 +474,7 @@
         "omega-ruby",
         "alpha-sapphire"
       ],
-      "description": "Long considered a mythical POK\u00e9MON until recently when a small colony was found living underwater.",
+      "description": "Long considered a mythical POKéMON until recently when a small colony was found living underwater.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -561,9 +561,11 @@
         "sun",
         "moon",
         "ultra-sun",
-        "ultra-moon"
+        "ultra-moon",
+        "lets-go-pikachu",
+        "lets-go-eevee"
       ],
-      "description": "Long considered a mythical POK\u00e9MON until recently when a small colony was found living underwater.",
+      "description": "Long considered a mythical POKéMON until recently when a small colony was found living underwater.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -654,7 +656,7 @@
         "brilliant-diamond",
         "shining-pearl"
       ],
-      "description": "Long considered a mythical POK\u00e9MON until recently when a small colony was found living underwater.",
+      "description": "Long considered a mythical POKéMON until recently when a small colony was found living underwater.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -739,7 +741,7 @@
         "scarlet",
         "violet"
       ],
-      "description": "Long considered a mythical POK\u00e9MON until recently when a small colony was found living underwater.",
+      "description": "Long considered a mythical POKéMON until recently when a small colony was found living underwater.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,

@@ -656,7 +656,9 @@
         "sun",
         "moon",
         "ultra-sun",
-        "ultra-moon"
+        "ultra-moon",
+        "lets-go-pikachu",
+        "lets-go-eevee"
       ],
       "description": "Its massive bones are 1000 times harder than human bones. It can easily knock a trailer flying.",
       "is_legendary": false,

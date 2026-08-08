@@ -503,7 +503,10 @@
         "tinted-lens",
         "run-away"
       ],
-      "availability": [],
+      "availability": [
+        "lets-go-pikachu",
+        "lets-go-eevee"
+      ],
       "description": "Its big eyes are actually clusters of tiny eyes. At night, its kind is drawn by light.",
       "is_legendary": false,
       "is_mythical": false,

@@ -247,7 +247,9 @@
         "sun",
         "moon",
         "ultra-sun",
-        "ultra-moon"
+        "ultra-moon",
+        "lets-go-pikachu",
+        "lets-go-eevee"
       ],
       "description": "In the distant past, it was somewhat stronger than the horribly weak descendants that exist today.",
       "is_legendary": false,

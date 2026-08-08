@@ -684,7 +684,10 @@
         "rivalry",
         "sheer-force"
       ],
-      "availability": [],
+      "availability": [
+        "lets-go-pikachu",
+        "lets-go-eevee"
+      ],
       "description": "It uses its powerful tail in battle to smash, constrict, then break the prey's bones.",
       "is_legendary": false,
       "is_mythical": false,

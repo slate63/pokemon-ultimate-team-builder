@@ -240,7 +240,9 @@
       ],
       "availability": [
         "ultra-sun",
-        "ultra-moon"
+        "ultra-moon",
+        "lets-go-pikachu",
+        "lets-go-eevee"
       ],
       "description": "Often found in forests, eating leaves. It has a sharp venomous stinger on its head.",
       "is_legendary": false,

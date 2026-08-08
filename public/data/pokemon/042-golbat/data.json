@@ -536,7 +536,9 @@
         "sun",
         "moon",
         "ultra-sun",
-        "ultra-moon"
+        "ultra-moon",
+        "lets-go-pikachu",
+        "lets-go-eevee"
       ],
       "description": "Once it strikes, it will not stop draining energy from the victim even if it gets too heavy to fly.",
       "is_legendary": false,

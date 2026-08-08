@@ -35,6 +35,8 @@ const GAME_COLORS: Record<string, { bg: string; border: string; text: string }> 
   moon: { bg: "rgba(147, 51, 234, 0.15)", border: "rgba(147, 51, 234, 0.3)", text: "rgb(192, 132, 252)" },
   "ultra-sun": { bg: "rgba(217, 119, 6, 0.15)", border: "rgba(217, 119, 6, 0.3)", text: "rgb(251, 191, 36)" },
   "ultra-moon": { bg: "rgba(126, 34, 206, 0.15)", border: "rgba(126, 34, 206, 0.3)", text: "rgb(192, 132, 252)" },
+  "lets-go-pikachu": { bg: "rgba(250, 204, 21, 0.15)", border: "rgba(250, 204, 21, 0.3)", text: "rgb(253, 224, 71)" },
+  "lets-go-eevee": { bg: "rgba(180, 118, 74, 0.15)", border: "rgba(180, 118, 74, 0.3)", text: "rgb(214, 158, 110)" },
   sword: { bg: "rgba(14, 165, 233, 0.15)", border: "rgba(14, 165, 233, 0.3)", text: "rgb(56, 189, 248)" },
   shield: { bg: "rgba(225, 29, 72, 0.15)", border: "rgba(225, 29, 72, 0.3)", text: "rgb(251, 113, 133)" },
   "brilliant-diamond": { bg: "rgba(56, 189, 248, 0.15)", border: "rgba(56, 189, 248, 0.3)", text: "rgb(125, 211, 252)" },

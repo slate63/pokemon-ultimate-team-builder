@@ -537,7 +537,9 @@
       ],
       "availability": [
         "ultra-sun",
-        "ultra-moon"
+        "ultra-moon",
+        "lets-go-pikachu",
+        "lets-go-eevee"
       ],
       "description": "When it swings its burning tail, it elevates the temperature to unbearably high levels.",
       "is_legendary": false,

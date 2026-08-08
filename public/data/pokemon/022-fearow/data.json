@@ -485,7 +485,9 @@
         "sun",
         "moon",
         "ultra-sun",
-        "ultra-moon"
+        "ultra-moon",
+        "lets-go-pikachu",
+        "lets-go-eevee"
       ],
       "description": "With its huge and magnificent wings, it can keep aloft without ever having to land for rest.",
       "is_legendary": false,

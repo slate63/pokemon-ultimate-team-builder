@@ -480,7 +480,9 @@
         "chlorophyll",
         "stench"
       ],
-      "availability": [],
+      "availability": [
+        "lets-go-pikachu"
+      ],
       "description": "The fluid that oozes from its mouth isn't drool. It is a nectar that is used to attract prey.",
       "is_legendary": false,
       "is_mythical": false,

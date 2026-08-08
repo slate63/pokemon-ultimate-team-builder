@@ -599,7 +599,9 @@
         "sticky-hold",
         "poison-touch"
       ],
-      "availability": [],
+      "availability": [
+        "lets-go-pikachu"
+      ],
       "description": "Appears in filthy areas. Thrives by sucking up polluted sludge that is pumped out of factories.",
       "is_legendary": false,
       "is_mythical": false,

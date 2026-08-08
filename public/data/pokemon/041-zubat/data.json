@@ -570,7 +570,9 @@
         "sun",
         "moon",
         "ultra-sun",
-        "ultra-moon"
+        "ultra-moon",
+        "lets-go-pikachu",
+        "lets-go-eevee"
       ],
       "description": "It has no eyes. Instead, it relies on its ultrasonic cries for echolocation to flit about in darkness.",
       "is_legendary": false,

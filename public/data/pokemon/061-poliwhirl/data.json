@@ -540,7 +540,9 @@
         "sun",
         "moon",
         "ultra-sun",
-        "ultra-moon"
+        "ultra-moon",
+        "lets-go-pikachu",
+        "lets-go-eevee"
       ],
       "description": "Capable of living in or out of water. When out of water, it sweats to keep its body slimy.",
       "is_legendary": false,

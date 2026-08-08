@@ -47,7 +47,7 @@
         "blue",
         "yellow"
       ],
-      "description": "A carnivorous POK\u00e9MON that traps and eats bugs. It uses its root feet to soak up needed moisture.",
+      "description": "A carnivorous POKéMON that traps and eats bugs. It uses its root feet to soak up needed moisture.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -111,7 +111,7 @@
         "silver",
         "crystal"
       ],
-      "description": "A carnivorous POK\u00e9MON that traps and eats bugs. It uses its root feet to soak up needed moisture.",
+      "description": "A carnivorous POKéMON that traps and eats bugs. It uses its root feet to soak up needed moisture.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -185,7 +185,7 @@
       "availability": [
         "leafgreen"
       ],
-      "description": "A carnivorous POK\u00e9MON that traps and eats bugs. It uses its root feet to soak up needed moisture.",
+      "description": "A carnivorous POKéMON that traps and eats bugs. It uses its root feet to soak up needed moisture.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -273,7 +273,7 @@
         "heartgold",
         "soulsilver"
       ],
-      "description": "A carnivorous POK\u00e9MON that traps and eats bugs. It uses its root feet to soak up needed moisture.",
+      "description": "A carnivorous POKéMON that traps and eats bugs. It uses its root feet to soak up needed moisture.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -356,7 +356,7 @@
         "gluttony"
       ],
       "availability": [],
-      "description": "A carnivorous POK\u00e9MON that traps and eats bugs. It uses its root feet to soak up needed moisture.",
+      "description": "A carnivorous POKéMON that traps and eats bugs. It uses its root feet to soak up needed moisture.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -450,7 +450,7 @@
         "omega-ruby",
         "alpha-sapphire"
       ],
-      "description": "A carnivorous POK\u00e9MON that traps and eats bugs. It uses its root feet to soak up needed moisture.",
+      "description": "A carnivorous POKéMON that traps and eats bugs. It uses its root feet to soak up needed moisture.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -539,9 +539,10 @@
       ],
       "availability": [
         "sun",
-        "moon"
+        "moon",
+        "lets-go-eevee"
       ],
-      "description": "A carnivorous POK\u00e9MON that traps and eats bugs. It uses its root feet to soak up needed moisture.",
+      "description": "A carnivorous POKéMON that traps and eats bugs. It uses its root feet to soak up needed moisture.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -623,7 +624,7 @@
         "brilliant-diamond",
         "shining-pearl"
       ],
-      "description": "A carnivorous POK\u00e9MON that traps and eats bugs. It uses its root feet to soak up needed moisture.",
+      "description": "A carnivorous POKéMON that traps and eats bugs. It uses its root feet to soak up needed moisture.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -709,7 +710,7 @@
         "scarlet",
         "violet"
       ],
-      "description": "A carnivorous POK\u00e9MON that traps and eats bugs. It uses its root feet to soak up needed moisture.",
+      "description": "A carnivorous POKéMON that traps and eats bugs. It uses its root feet to soak up needed moisture.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,

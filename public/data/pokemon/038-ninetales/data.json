@@ -476,7 +476,9 @@
         "flash-fire",
         "drought"
       ],
-      "availability": [],
+      "availability": [
+        "lets-go-eevee"
+      ],
       "description": "Very smart and very vengeful. Grabbing one of its many tails could result in a 1000-year curse.",
       "is_legendary": false,
       "is_mythical": false,

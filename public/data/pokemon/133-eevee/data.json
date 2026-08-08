@@ -516,7 +516,8 @@
         "sun",
         "moon",
         "ultra-sun",
-        "ultra-moon"
+        "ultra-moon",
+        "lets-go-eevee"
       ],
       "description": "Its genetic code is irregular. It may mutate if it is exposed to radiation from element STONEs.",
       "is_legendary": false,

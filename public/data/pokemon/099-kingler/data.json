@@ -554,7 +554,10 @@
         "shell-armor",
         "sheer-force"
       ],
-      "availability": [],
+      "availability": [
+        "lets-go-pikachu",
+        "lets-go-eevee"
+      ],
       "description": "The large pincer has 10000 hp of crushing power. However, its huge size makes it unwieldy to use.",
       "is_legendary": false,
       "is_mythical": false,

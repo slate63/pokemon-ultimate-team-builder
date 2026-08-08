@@ -49,7 +49,7 @@
         "blue",
         "yellow"
       ],
-      "description": "It stays mostly in dark, damp places, the preference not of the bug, but of the big mush\u00ad rooms on its back.",
+      "description": "It stays mostly in dark, damp places, the preference not of the bug, but of the big mush­ rooms on its back.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": true,
@@ -111,7 +111,7 @@
         "silver",
         "crystal"
       ],
-      "description": "It stays mostly in dark, damp places, the preference not of the bug, but of the big mush\u00ad rooms on its back.",
+      "description": "It stays mostly in dark, damp places, the preference not of the bug, but of the big mush­ rooms on its back.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": true,
@@ -186,7 +186,7 @@
         "firered",
         "leafgreen"
       ],
-      "description": "It stays mostly in dark, damp places, the preference not of the bug, but of the big mush\u00ad rooms on its back.",
+      "description": "It stays mostly in dark, damp places, the preference not of the bug, but of the big mush­ rooms on its back.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": true,
@@ -272,7 +272,7 @@
         "heartgold",
         "soulsilver"
       ],
-      "description": "It stays mostly in dark, damp places, the preference not of the bug, but of the big mush\u00ad rooms on its back.",
+      "description": "It stays mostly in dark, damp places, the preference not of the bug, but of the big mush­ rooms on its back.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": true,
@@ -356,7 +356,7 @@
         "damp"
       ],
       "availability": [],
-      "description": "It stays mostly in dark, damp places, the preference not of the bug, but of the big mush\u00ad rooms on its back.",
+      "description": "It stays mostly in dark, damp places, the preference not of the bug, but of the big mush­ rooms on its back.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": true,
@@ -446,7 +446,7 @@
         "omega-ruby",
         "alpha-sapphire"
       ],
-      "description": "It stays mostly in dark, damp places, the preference not of the bug, but of the big mush\u00ad rooms on its back.",
+      "description": "It stays mostly in dark, damp places, the preference not of the bug, but of the big mush­ rooms on its back.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": true,
@@ -531,9 +531,11 @@
         "sun",
         "moon",
         "ultra-sun",
-        "ultra-moon"
+        "ultra-moon",
+        "lets-go-pikachu",
+        "lets-go-eevee"
       ],
-      "description": "It stays mostly in dark, damp places, the preference not of the bug, but of the big mush\u00ad rooms on its back.",
+      "description": "It stays mostly in dark, damp places, the preference not of the bug, but of the big mush­ rooms on its back.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": true,
@@ -611,7 +613,7 @@
         "shining-pearl",
         "legends-arceus"
       ],
-      "description": "It stays mostly in dark, damp places, the preference not of the bug, but of the big mush\u00ad rooms on its back.",
+      "description": "It stays mostly in dark, damp places, the preference not of the bug, but of the big mush­ rooms on its back.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": true,
@@ -644,7 +646,7 @@
         "scarlet",
         "violet"
       ],
-      "description": "It stays mostly in dark, damp places, the preference not of the bug, but of the big mush\u00ad rooms on its back.",
+      "description": "It stays mostly in dark, damp places, the preference not of the bug, but of the big mush­ rooms on its back.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": true,

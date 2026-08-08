@@ -49,7 +49,7 @@
         "blue",
         "yellow"
       ],
-      "description": "A legendary bird POK\u00e9MON that is said to appear from clouds while dropping enormous lightning bolts.",
+      "description": "A legendary bird POKéMON that is said to appear from clouds while dropping enormous lightning bolts.",
       "is_legendary": true,
       "is_mythical": false,
       "is_fully_evolved": true,
@@ -108,7 +108,7 @@
         "rock-smash"
       ],
       "availability": [],
-      "description": "A legendary bird POK\u00e9MON that is said to appear from clouds while dropping enormous lightning bolts.",
+      "description": "A legendary bird POKéMON that is said to appear from clouds while dropping enormous lightning bolts.",
       "is_legendary": true,
       "is_mythical": false,
       "is_fully_evolved": true,
@@ -180,7 +180,7 @@
         "firered",
         "leafgreen"
       ],
-      "description": "A legendary bird POK\u00e9MON that is said to appear from clouds while dropping enormous lightning bolts.",
+      "description": "A legendary bird POKéMON that is said to appear from clouds while dropping enormous lightning bolts.",
       "is_legendary": true,
       "is_mythical": false,
       "is_fully_evolved": true,
@@ -267,7 +267,7 @@
         "heartgold",
         "soulsilver"
       ],
-      "description": "A legendary bird POK\u00e9MON that is said to appear from clouds while dropping enormous lightning bolts.",
+      "description": "A legendary bird POKéMON that is said to appear from clouds while dropping enormous lightning bolts.",
       "is_legendary": true,
       "is_mythical": false,
       "is_fully_evolved": true,
@@ -344,7 +344,7 @@
         "static"
       ],
       "availability": [],
-      "description": "A legendary bird POK\u00e9MON that is said to appear from clouds while dropping enormous lightning bolts.",
+      "description": "A legendary bird POKéMON that is said to appear from clouds while dropping enormous lightning bolts.",
       "is_legendary": true,
       "is_mythical": false,
       "is_fully_evolved": true,
@@ -430,7 +430,7 @@
         "omega-ruby",
         "alpha-sapphire"
       ],
-      "description": "A legendary bird POK\u00e9MON that is said to appear from clouds while dropping enormous lightning bolts.",
+      "description": "A legendary bird POKéMON that is said to appear from clouds while dropping enormous lightning bolts.",
       "is_legendary": true,
       "is_mythical": false,
       "is_fully_evolved": true,
@@ -512,9 +512,11 @@
       ],
       "availability": [
         "ultra-sun",
-        "ultra-moon"
+        "ultra-moon",
+        "lets-go-pikachu",
+        "lets-go-eevee"
       ],
-      "description": "A legendary bird POK\u00e9MON that is said to appear from clouds while dropping enormous lightning bolts.",
+      "description": "A legendary bird POKéMON that is said to appear from clouds while dropping enormous lightning bolts.",
       "is_legendary": true,
       "is_mythical": false,
       "is_fully_evolved": true,
@@ -602,7 +604,7 @@
         "brilliant-diamond",
         "shining-pearl"
       ],
-      "description": "A legendary bird POK\u00e9MON that is said to appear from clouds while dropping enormous lightning bolts.",
+      "description": "A legendary bird POKéMON that is said to appear from clouds while dropping enormous lightning bolts.",
       "is_legendary": true,
       "is_mythical": false,
       "is_fully_evolved": true,
@@ -685,7 +687,7 @@
         "scarlet",
         "violet"
       ],
-      "description": "A legendary bird POK\u00e9MON that is said to appear from clouds while dropping enormous lightning bolts.",
+      "description": "A legendary bird POKéMON that is said to appear from clouds while dropping enormous lightning bolts.",
       "is_legendary": true,
       "is_mythical": false,
       "is_fully_evolved": true,

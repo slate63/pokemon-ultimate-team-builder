@@ -240,7 +240,9 @@
         "sun",
         "moon",
         "ultra-sun",
-        "ultra-moon"
+        "ultra-moon",
+        "lets-go-pikachu",
+        "lets-go-eevee"
       ],
       "description": "Its short feet are tipped with suction pads that enable it to tirelessly climb slopes and walls.",
       "is_legendary": false,

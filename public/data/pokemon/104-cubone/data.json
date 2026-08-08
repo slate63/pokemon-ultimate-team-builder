@@ -57,7 +57,7 @@
         "blue",
         "yellow"
       ],
-      "description": "Because it never removes its skull helmet, no one has ever seen this POK\u00e9MON's real face.",
+      "description": "Because it never removes its skull helmet, no one has ever seen this POKéMON's real face.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -135,7 +135,7 @@
         "silver",
         "crystal"
       ],
-      "description": "Because it never removes its skull helmet, no one has ever seen this POK\u00e9MON's real face.",
+      "description": "Because it never removes its skull helmet, no one has ever seen this POKéMON's real face.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -229,7 +229,7 @@
         "firered",
         "leafgreen"
       ],
-      "description": "Because it never removes its skull helmet, no one has ever seen this POK\u00e9MON's real face.",
+      "description": "Because it never removes its skull helmet, no one has ever seen this POKéMON's real face.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -334,7 +334,7 @@
         "heartgold",
         "soulsilver"
       ],
-      "description": "Because it never removes its skull helmet, no one has ever seen this POK\u00e9MON's real face.",
+      "description": "Because it never removes its skull helmet, no one has ever seen this POKéMON's real face.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -436,7 +436,7 @@
         "black",
         "white"
       ],
-      "description": "Because it never removes its skull helmet, no one has ever seen this POK\u00e9MON's real face.",
+      "description": "Because it never removes its skull helmet, no one has ever seen this POKéMON's real face.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -544,7 +544,7 @@
         "omega-ruby",
         "alpha-sapphire"
       ],
-      "description": "Because it never removes its skull helmet, no one has ever seen this POK\u00e9MON's real face.",
+      "description": "Because it never removes its skull helmet, no one has ever seen this POKéMON's real face.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -647,9 +647,11 @@
         "sun",
         "moon",
         "ultra-sun",
-        "ultra-moon"
+        "ultra-moon",
+        "lets-go-pikachu",
+        "lets-go-eevee"
       ],
-      "description": "Because it never removes its skull helmet, no one has ever seen this POK\u00e9MON's real face.",
+      "description": "Because it never removes its skull helmet, no one has ever seen this POKéMON's real face.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -753,7 +755,7 @@
         "brilliant-diamond",
         "shining-pearl"
       ],
-      "description": "Because it never removes its skull helmet, no one has ever seen this POK\u00e9MON's real face.",
+      "description": "Because it never removes its skull helmet, no one has ever seen this POKéMON's real face.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -785,7 +787,7 @@
         "scarlet",
         "violet"
       ],
-      "description": "Because it never removes its skull helmet, no one has ever seen this POK\u00e9MON's real face.",
+      "description": "Because it never removes its skull helmet, no one has ever seen this POKéMON's real face.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,

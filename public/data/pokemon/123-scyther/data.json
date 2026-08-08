@@ -555,7 +555,8 @@
         "sun",
         "moon",
         "ultra-sun",
-        "ultra-moon"
+        "ultra-moon",
+        "lets-go-pikachu"
       ],
       "description": "With ninja-like agility and speed, it can create the illusion that there is more than one.",
       "is_legendary": false,

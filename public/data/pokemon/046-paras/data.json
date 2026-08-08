@@ -48,7 +48,7 @@
         "blue",
         "yellow"
       ],
-      "description": "Burrows to suck tree roots. The mushrooms on its back grow by draw\u00ad ing nutrients from the bug host.",
+      "description": "Burrows to suck tree roots. The mushrooms on its back grow by draw­ ing nutrients from the bug host.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -116,7 +116,7 @@
         "silver",
         "crystal"
       ],
-      "description": "Burrows to suck tree roots. The mushrooms on its back grow by draw\u00ad ing nutrients from the bug host.",
+      "description": "Burrows to suck tree roots. The mushrooms on its back grow by draw­ ing nutrients from the bug host.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -197,7 +197,7 @@
         "firered",
         "leafgreen"
       ],
-      "description": "Burrows to suck tree roots. The mushrooms on its back grow by draw\u00ad ing nutrients from the bug host.",
+      "description": "Burrows to suck tree roots. The mushrooms on its back grow by draw­ ing nutrients from the bug host.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -290,7 +290,7 @@
         "heartgold",
         "soulsilver"
       ],
-      "description": "Burrows to suck tree roots. The mushrooms on its back grow by draw\u00ad ing nutrients from the bug host.",
+      "description": "Burrows to suck tree roots. The mushrooms on its back grow by draw­ ing nutrients from the bug host.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -383,7 +383,7 @@
         "damp"
       ],
       "availability": [],
-      "description": "Burrows to suck tree roots. The mushrooms on its back grow by draw\u00ad ing nutrients from the bug host.",
+      "description": "Burrows to suck tree roots. The mushrooms on its back grow by draw­ ing nutrients from the bug host.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -485,7 +485,7 @@
         "omega-ruby",
         "alpha-sapphire"
       ],
-      "description": "Burrows to suck tree roots. The mushrooms on its back grow by draw\u00ad ing nutrients from the bug host.",
+      "description": "Burrows to suck tree roots. The mushrooms on its back grow by draw­ ing nutrients from the bug host.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -582,9 +582,11 @@
         "sun",
         "moon",
         "ultra-sun",
-        "ultra-moon"
+        "ultra-moon",
+        "lets-go-pikachu",
+        "lets-go-eevee"
       ],
-      "description": "Burrows to suck tree roots. The mushrooms on its back grow by draw\u00ad ing nutrients from the bug host.",
+      "description": "Burrows to suck tree roots. The mushrooms on its back grow by draw­ ing nutrients from the bug host.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -672,7 +674,7 @@
         "shining-pearl",
         "legends-arceus"
       ],
-      "description": "Burrows to suck tree roots. The mushrooms on its back grow by draw\u00ad ing nutrients from the bug host.",
+      "description": "Burrows to suck tree roots. The mushrooms on its back grow by draw­ ing nutrients from the bug host.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -705,7 +707,7 @@
         "scarlet",
         "violet"
       ],
-      "description": "Burrows to suck tree roots. The mushrooms on its back grow by draw\u00ad ing nutrients from the bug host.",
+      "description": "Burrows to suck tree roots. The mushrooms on its back grow by draw­ ing nutrients from the bug host.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,

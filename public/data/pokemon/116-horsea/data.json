@@ -533,7 +533,9 @@
         "sun",
         "moon",
         "ultra-sun",
-        "ultra-moon"
+        "ultra-moon",
+        "lets-go-pikachu",
+        "lets-go-eevee"
       ],
       "description": "Known to shoot down flying bugs with precision blasts of ink from the surface of the water.",
       "is_legendary": false,

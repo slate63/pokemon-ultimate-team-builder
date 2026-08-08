@@ -566,7 +566,10 @@
         "rivalry",
         "hustle"
       ],
-      "availability": [],
+      "availability": [
+        "lets-go-pikachu",
+        "lets-go-eevee"
+      ],
       "description": "Stiffens its ears to sense danger. The larger its horns, the more powerful its secreted venom.",
       "is_legendary": false,
       "is_mythical": false,

@@ -68,7 +68,7 @@
         "blue",
         "yellow"
       ],
-      "description": "A rare and elusive POK\u00e9MON that is said to bring happiness to those who manage to get it.",
+      "description": "A rare and elusive POKéMON that is said to bring happiness to those who manage to get it.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": true,
@@ -149,7 +149,7 @@
         "silver",
         "crystal"
       ],
-      "description": "A rare and elusive POK\u00e9MON that is said to bring happiness to those who manage to get it.",
+      "description": "A rare and elusive POKéMON that is said to bring happiness to those who manage to get it.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -254,7 +254,7 @@
         "firered",
         "leafgreen"
       ],
-      "description": "A rare and elusive POK\u00e9MON that is said to bring happiness to those who manage to get it.",
+      "description": "A rare and elusive POKéMON that is said to bring happiness to those who manage to get it.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -378,7 +378,7 @@
         "heartgold",
         "soulsilver"
       ],
-      "description": "A rare and elusive POK\u00e9MON that is said to bring happiness to those who manage to get it.",
+      "description": "A rare and elusive POKéMON that is said to bring happiness to those who manage to get it.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -502,7 +502,7 @@
         "black-2",
         "white-2"
       ],
-      "description": "A rare and elusive POK\u00e9MON that is said to bring happiness to those who manage to get it.",
+      "description": "A rare and elusive POKéMON that is said to bring happiness to those who manage to get it.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -633,7 +633,7 @@
         "omega-ruby",
         "alpha-sapphire"
       ],
-      "description": "A rare and elusive POK\u00e9MON that is said to bring happiness to those who manage to get it.",
+      "description": "A rare and elusive POKéMON that is said to bring happiness to those who manage to get it.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -762,9 +762,11 @@
         "sun",
         "moon",
         "ultra-sun",
-        "ultra-moon"
+        "ultra-moon",
+        "lets-go-pikachu",
+        "lets-go-eevee"
       ],
-      "description": "A rare and elusive POK\u00e9MON that is said to bring happiness to those who manage to get it.",
+      "description": "A rare and elusive POKéMON that is said to bring happiness to those who manage to get it.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -900,7 +902,7 @@
         "shining-pearl",
         "legends-arceus"
       ],
-      "description": "A rare and elusive POK\u00e9MON that is said to bring happiness to those who manage to get it.",
+      "description": "A rare and elusive POKéMON that is said to bring happiness to those who manage to get it.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -1010,7 +1012,7 @@
         "scarlet",
         "violet"
       ],
-      "description": "A rare and elusive POK\u00e9MON that is said to bring happiness to those who manage to get it.",
+      "description": "A rare and elusive POKéMON that is said to bring happiness to those who manage to get it.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,

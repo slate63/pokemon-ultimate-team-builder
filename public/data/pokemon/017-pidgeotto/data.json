@@ -46,7 +46,7 @@
         "blue",
         "yellow"
       ],
-      "description": "Very protective of its sprawling territorial area, this POK\u00e9MON will fiercely peck at any intruder.",
+      "description": "Very protective of its sprawling territorial area, this POKéMON will fiercely peck at any intruder.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -104,7 +104,7 @@
         "silver",
         "crystal"
       ],
-      "description": "Very protective of its sprawling territorial area, this POK\u00e9MON will fiercely peck at any intruder.",
+      "description": "Very protective of its sprawling territorial area, this POKéMON will fiercely peck at any intruder.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -172,7 +172,7 @@
         "firered",
         "leafgreen"
       ],
-      "description": "Very protective of its sprawling territorial area, this POK\u00e9MON will fiercely peck at any intruder.",
+      "description": "Very protective of its sprawling territorial area, this POKéMON will fiercely peck at any intruder.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -254,7 +254,7 @@
         "heartgold",
         "soulsilver"
       ],
-      "description": "Very protective of its sprawling territorial area, this POK\u00e9MON will fiercely peck at any intruder.",
+      "description": "Very protective of its sprawling territorial area, this POKéMON will fiercely peck at any intruder.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -323,7 +323,7 @@
         "big-pecks"
       ],
       "availability": [],
-      "description": "Very protective of its sprawling territorial area, this POK\u00e9MON will fiercely peck at any intruder.",
+      "description": "Very protective of its sprawling territorial area, this POKéMON will fiercely peck at any intruder.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -399,7 +399,7 @@
         "omega-ruby",
         "alpha-sapphire"
       ],
-      "description": "Very protective of its sprawling territorial area, this POK\u00e9MON will fiercely peck at any intruder.",
+      "description": "Very protective of its sprawling territorial area, this POKéMON will fiercely peck at any intruder.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -472,9 +472,11 @@
       ],
       "availability": [
         "ultra-sun",
-        "ultra-moon"
+        "ultra-moon",
+        "lets-go-pikachu",
+        "lets-go-eevee"
       ],
-      "description": "Very protective of its sprawling territorial area, this POK\u00e9MON will fiercely peck at any intruder.",
+      "description": "Very protective of its sprawling territorial area, this POKéMON will fiercely peck at any intruder.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -542,7 +544,7 @@
         "brilliant-diamond",
         "shining-pearl"
       ],
-      "description": "Very protective of its sprawling territorial area, this POK\u00e9MON will fiercely peck at any intruder.",
+      "description": "Very protective of its sprawling territorial area, this POKéMON will fiercely peck at any intruder.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -575,7 +577,7 @@
         "scarlet",
         "violet"
       ],
-      "description": "Very protective of its sprawling territorial area, this POK\u00e9MON will fiercely peck at any intruder.",
+      "description": "Very protective of its sprawling territorial area, this POKéMON will fiercely peck at any intruder.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,

@@ -47,7 +47,7 @@
         "blue",
         "yellow"
       ],
-      "description": "Although small, its venomous barbs render this POK\u00e9MON dangerous. The female has smaller horns.",
+      "description": "Although small, its venomous barbs render this POKéMON dangerous. The female has smaller horns.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -115,7 +115,7 @@
         "silver",
         "crystal"
       ],
-      "description": "Although small, its venomous barbs render this POK\u00e9MON dangerous. The female has smaller horns.",
+      "description": "Although small, its venomous barbs render this POKéMON dangerous. The female has smaller horns.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -201,7 +201,7 @@
         "firered",
         "leafgreen"
       ],
-      "description": "Although small, its venomous barbs render this POK\u00e9MON dangerous. The female has smaller horns.",
+      "description": "Although small, its venomous barbs render this POKéMON dangerous. The female has smaller horns.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -296,7 +296,7 @@
         "heartgold",
         "soulsilver"
       ],
-      "description": "Although small, its venomous barbs render this POK\u00e9MON dangerous. The female has smaller horns.",
+      "description": "Although small, its venomous barbs render this POKéMON dangerous. The female has smaller horns.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -384,7 +384,7 @@
         "hustle"
       ],
       "availability": [],
-      "description": "Although small, its venomous barbs render this POK\u00e9MON dangerous. The female has smaller horns.",
+      "description": "Although small, its venomous barbs render this POKéMON dangerous. The female has smaller horns.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -483,7 +483,7 @@
         "omega-ruby",
         "alpha-sapphire"
       ],
-      "description": "Although small, its venomous barbs render this POK\u00e9MON dangerous. The female has smaller horns.",
+      "description": "Although small, its venomous barbs render this POKéMON dangerous. The female has smaller horns.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -570,8 +570,11 @@
         "rivalry",
         "hustle"
       ],
-      "availability": [],
-      "description": "Although small, its venomous barbs render this POK\u00e9MON dangerous. The female has smaller horns.",
+      "availability": [
+        "lets-go-pikachu",
+        "lets-go-eevee"
+      ],
+      "description": "Although small, its venomous barbs render this POKéMON dangerous. The female has smaller horns.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -661,7 +664,7 @@
         "brilliant-diamond",
         "shining-pearl"
       ],
-      "description": "Although small, its venomous barbs render this POK\u00e9MON dangerous. The female has smaller horns.",
+      "description": "Although small, its venomous barbs render this POKéMON dangerous. The female has smaller horns.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -693,7 +696,7 @@
         "scarlet",
         "violet"
       ],
-      "description": "Although small, its venomous barbs render this POK\u00e9MON dangerous. The female has smaller horns.",
+      "description": "Although small, its venomous barbs render this POKéMON dangerous. The female has smaller horns.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,

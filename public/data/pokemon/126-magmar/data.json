@@ -516,7 +516,8 @@
         "sun",
         "moon",
         "ultra-sun",
-        "ultra-moon"
+        "ultra-moon",
+        "lets-go-eevee"
       ],
       "description": "Its body always burns with an orange glow that enables it to hide perfectly among flames.",
       "is_legendary": false,

@@ -522,7 +522,9 @@
       ],
       "availability": [
         "ultra-sun",
-        "ultra-moon"
+        "ultra-moon",
+        "lets-go-pikachu",
+        "lets-go-eevee"
       ],
       "description": "Often hides in water to stalk unwary prey. For swimming fast, it moves its ears to maintain balance.",
       "is_legendary": false,

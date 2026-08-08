@@ -595,7 +595,9 @@
         "technician",
         "unnerve"
       ],
-      "availability": [],
+      "availability": [
+        "lets-go-eevee"
+      ],
       "description": "Although its fur has many admirers, it is tough to raise as a pet because of its fickle meanness.",
       "is_legendary": false,
       "is_mythical": false,

@@ -44,7 +44,7 @@
         "red",
         "yellow"
       ],
-      "description": "A POK\u00e9MON that has been admired since the past for its beauty. It runs agilely as if on wings.",
+      "description": "A POKéMON that has been admired since the past for its beauty. It runs agilely as if on wings.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": true,
@@ -100,7 +100,7 @@
         "gold",
         "crystal"
       ],
-      "description": "A POK\u00e9MON that has been admired since the past for its beauty. It runs agilely as if on wings.",
+      "description": "A POKéMON that has been admired since the past for its beauty. It runs agilely as if on wings.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": true,
@@ -167,7 +167,7 @@
       "availability": [
         "firered"
       ],
-      "description": "A POK\u00e9MON that has been admired since the past for its beauty. It runs agilely as if on wings.",
+      "description": "A POKéMON that has been admired since the past for its beauty. It runs agilely as if on wings.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": true,
@@ -247,7 +247,7 @@
         "platinum",
         "heartgold"
       ],
-      "description": "A POK\u00e9MON that has been admired since the past for its beauty. It runs agilely as if on wings.",
+      "description": "A POKéMON that has been admired since the past for its beauty. It runs agilely as if on wings.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": true,
@@ -327,7 +327,7 @@
         "black-2",
         "white-2"
       ],
-      "description": "A POK\u00e9MON that has been admired since the past for its beauty. It runs agilely as if on wings.",
+      "description": "A POKéMON that has been admired since the past for its beauty. It runs agilely as if on wings.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": true,
@@ -409,7 +409,7 @@
         "omega-ruby",
         "alpha-sapphire"
       ],
-      "description": "A POK\u00e9MON that has been admired since the past for its beauty. It runs agilely as if on wings.",
+      "description": "A POKéMON that has been admired since the past for its beauty. It runs agilely as if on wings.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": true,
@@ -486,9 +486,10 @@
         "sun",
         "moon",
         "ultra-sun",
-        "ultra-moon"
+        "ultra-moon",
+        "lets-go-pikachu"
       ],
-      "description": "A POK\u00e9MON that has been admired since the past for its beauty. It runs agilely as if on wings.",
+      "description": "A POKéMON that has been admired since the past for its beauty. It runs agilely as if on wings.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": true,
@@ -584,7 +585,7 @@
         "shining-pearl",
         "legends-arceus"
       ],
-      "description": "A POK\u00e9MON that has been admired since the past for its beauty. It runs agilely as if on wings.",
+      "description": "A POKéMON that has been admired since the past for its beauty. It runs agilely as if on wings.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": true,
@@ -673,7 +674,7 @@
         "scarlet",
         "violet"
       ],
-      "description": "A POK\u00e9MON that has been admired since the past for its beauty. It runs agilely as if on wings.",
+      "description": "A POKéMON that has been admired since the past for its beauty. It runs agilely as if on wings.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": true,

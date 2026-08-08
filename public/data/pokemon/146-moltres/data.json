@@ -491,7 +491,9 @@
       ],
       "availability": [
         "ultra-sun",
-        "ultra-moon"
+        "ultra-moon",
+        "lets-go-pikachu",
+        "lets-go-eevee"
       ],
       "description": "Known as the legendary bird of fire. Every flap of its wings creates a dazzling flash of flames.",
       "is_legendary": true,

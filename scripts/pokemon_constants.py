@@ -36,7 +36,7 @@ GEN_GAMES: Dict[int, Set[str]] = {
     4: {"diamond", "pearl", "platinum", "heartgold", "soulsilver"},
     5: {"black", "white", "black-2", "white-2"},
     6: {"x", "y", "omega-ruby", "alpha-sapphire"},
-    7: {"sun", "moon", "ultra-sun", "ultra-moon"},
+    7: {"sun", "moon", "ultra-sun", "ultra-moon", "lets-go-pikachu", "lets-go-eevee"},
     8: {"sword", "shield", "brilliant-diamond", "shining-pearl", "legends-arceus"},
     9: {"scarlet", "violet"},
 }
@@ -157,6 +157,20 @@ SHIELD_EXCLUSIVES = {222, 453, 454, 765, 246, 247, 248, 270, 271, 272, 875, 889}
 
 BD_EXCLUSIVES = {198, 246, 247, 248, 338, 408, 409, 434, 435, 483}
 SP_EXCLUSIVES = {200, 216, 217, 337, 410, 411, 431, 432, 484}
+
+# Let's Go, Pikachu! / Let's Go, Eevee! (Gen 7 side games).
+# PokeAPI's `letsgo-kanto` pokedex is exactly Kanto 1-151 plus Meltan & Melmetal.
+LETS_GO_DEX: Set[int] = set(range(1, 152)) | {808, 809}
+
+# Wild/version exclusives. Pikachu and Eevee are each the partner-and-wild exclusive
+# of their own version.
+LETS_GO_PIKACHU_EXCLUSIVES = {25, 27, 28, 43, 44, 45, 56, 57, 58, 59, 88, 89, 123, 125}
+LETS_GO_EEVEE_EXCLUSIVES = {37, 38, 52, 53, 69, 70, 71, 109, 110, 126, 127, 133}
+
+# In the Let's Go dex but not obtainable inside the games themselves:
+# Mew ships only with the Poké Ball Plus peripheral, and Meltan/Melmetal
+# require transferring from Pokémon GO.
+LETS_GO_UNOBTAINABLE = {151, 808, 809}
 
 LEGENDS_ARCEUS_DEX: Set[int] = {
     155, 156, 157, 501, 502, 503, 722, 723, 724,

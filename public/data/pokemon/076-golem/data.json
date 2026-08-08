@@ -576,7 +576,9 @@
       ],
       "availability": [
         "sun",
-        "moon"
+        "moon",
+        "lets-go-pikachu",
+        "lets-go-eevee"
       ],
       "description": "Its boulder-like body is extremely hard. It can easily withstand dynamite blasts without damage.",
       "is_legendary": false,

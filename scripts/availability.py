@@ -40,6 +40,10 @@ from pokemon_constants import (
     BD_EXCLUSIVES,
     SP_EXCLUSIVES,
     LEGENDS_ARCEUS_DEX,
+    LETS_GO_DEX,
+    LETS_GO_PIKACHU_EXCLUSIVES,
+    LETS_GO_EEVEE_EXCLUSIVES,
+    LETS_GO_UNOBTAINABLE,
     VIOLET_EXCLUSIVES,
     SCARLET_EXCLUSIVES,
 )
@@ -221,6 +225,9 @@ def get_pokemon_availability_for_gen(
     elif target_gen == 9:
         if native_gen <= 9:
             raw_available.update({"scarlet", "violet"})
+    elif target_gen == 7 and pokemon_id in LETS_GO_DEX:
+        # PokeAPI has no encounter table for Let's Go, so drive it off the letsgo-kanto dex.
+        raw_available.update({"lets-go-pikachu", "lets-go-eevee"})
     elif target_gen == 6 and not (raw_available & {"omega-ruby", "alpha-sapphire"}) and pokemon_id <= 386:
         raw_available.update({"omega-ruby", "alpha-sapphire"})
 
@@ -292,6 +299,14 @@ def get_pokemon_availability_for_gen(
             continue
         if game == "ultra-moon" and pokemon_id in ULTRA_SUN_EXCLUSIVES:
             continue
+        if game in ("lets-go-pikachu", "lets-go-eevee") and (
+            pokemon_id not in LETS_GO_DEX or pokemon_id in LETS_GO_UNOBTAINABLE
+        ):
+            continue
+        if game == "lets-go-pikachu" and pokemon_id in LETS_GO_EEVEE_EXCLUSIVES:
+            continue
+        if game == "lets-go-eevee" and pokemon_id in LETS_GO_PIKACHU_EXCLUSIVES:
+            continue
         if game == "sword" and pokemon_id in SHIELD_EXCLUSIVES:
             continue
         if game == "shield" and pokemon_id in SWORD_EXCLUSIVES:
@@ -314,7 +329,8 @@ def get_pokemon_availability_for_gen(
         "emerald", "firered", "leafgreen", "diamond", "pearl", "platinum",
         "heartgold", "soulsilver", "black", "white", "black-2", "white-2",
         "x", "y", "omega-ruby", "alpha-sapphire", "sun", "moon", "ultra-sun",
-        "ultra-moon", "sword", "shield", "brilliant-diamond", "shining-pearl",
+        "ultra-moon", "lets-go-pikachu", "lets-go-eevee",
+        "sword", "shield", "brilliant-diamond", "shining-pearl",
         "legends-arceus", "scarlet", "violet"
     ]
     return [g for g in all_ordered_games if g in filtered_games]

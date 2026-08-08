@@ -539,7 +539,8 @@
         "sun",
         "moon",
         "ultra-sun",
-        "ultra-moon"
+        "ultra-moon",
+        "lets-go-pikachu"
       ],
       "description": "Normally found near power plants, they can wander away and cause major blackouts in cities.",
       "is_legendary": false,

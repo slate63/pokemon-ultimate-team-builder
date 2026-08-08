@@ -493,7 +493,9 @@
       ],
       "availability": [
         "ultra-sun",
-        "ultra-moon"
+        "ultra-moon",
+        "lets-go-pikachu",
+        "lets-go-eevee"
       ],
       "description": "Stores thermal energy in its body. Swims at a steady 8 knots even in intensely cold waters.",
       "is_legendary": false,

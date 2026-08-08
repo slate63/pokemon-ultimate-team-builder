@@ -61,7 +61,7 @@
         "blue",
         "yellow"
       ],
-      "description": "A timid fairy POK\u00e9MON that is rarely seen. It will run and hide the moment it senses people.",
+      "description": "A timid fairy POKéMON that is rarely seen. It will run and hide the moment it senses people.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": true,
@@ -135,7 +135,7 @@
         "silver",
         "crystal"
       ],
-      "description": "A timid fairy POK\u00e9MON that is rarely seen. It will run and hide the moment it senses people.",
+      "description": "A timid fairy POKéMON that is rarely seen. It will run and hide the moment it senses people.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": true,
@@ -230,7 +230,7 @@
         "firered",
         "leafgreen"
       ],
-      "description": "A timid fairy POK\u00e9MON that is rarely seen. It will run and hide the moment it senses people.",
+      "description": "A timid fairy POKéMON that is rarely seen. It will run and hide the moment it senses people.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": true,
@@ -343,7 +343,7 @@
         "heartgold",
         "soulsilver"
       ],
-      "description": "A timid fairy POK\u00e9MON that is rarely seen. It will run and hide the moment it senses people.",
+      "description": "A timid fairy POKéMON that is rarely seen. It will run and hide the moment it senses people.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": true,
@@ -456,7 +456,7 @@
         "black-2",
         "white-2"
       ],
-      "description": "A timid fairy POK\u00e9MON that is rarely seen. It will run and hide the moment it senses people.",
+      "description": "A timid fairy POKéMON that is rarely seen. It will run and hide the moment it senses people.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": true,
@@ -573,7 +573,7 @@
         "omega-ruby",
         "alpha-sapphire"
       ],
-      "description": "A timid fairy POK\u00e9MON that is rarely seen. It will run and hide the moment it senses people.",
+      "description": "A timid fairy POKéMON that is rarely seen. It will run and hide the moment it senses people.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": true,
@@ -686,9 +686,11 @@
         "sun",
         "moon",
         "ultra-sun",
-        "ultra-moon"
+        "ultra-moon",
+        "lets-go-pikachu",
+        "lets-go-eevee"
       ],
-      "description": "A timid fairy POK\u00e9MON that is rarely seen. It will run and hide the moment it senses people.",
+      "description": "A timid fairy POKéMON that is rarely seen. It will run and hide the moment it senses people.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": true,
@@ -829,7 +831,7 @@
         "shining-pearl",
         "legends-arceus"
       ],
-      "description": "A timid fairy POK\u00e9MON that is rarely seen. It will run and hide the moment it senses people.",
+      "description": "A timid fairy POKéMON that is rarely seen. It will run and hide the moment it senses people.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": true,
@@ -957,7 +959,7 @@
         "scarlet",
         "violet"
       ],
-      "description": "A timid fairy POK\u00e9MON that is rarely seen. It will run and hide the moment it senses people.",
+      "description": "A timid fairy POKéMON that is rarely seen. It will run and hide the moment it senses people.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": true,

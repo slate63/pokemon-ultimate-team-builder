@@ -53,7 +53,7 @@
         "blue",
         "yellow"
       ],
-      "description": "A mystical POK\u00e9MON that exudes a gentle aura. Has the ability to change climate conditions.",
+      "description": "A mystical POKéMON that exudes a gentle aura. Has the ability to change climate conditions.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -121,7 +121,7 @@
         "silver",
         "crystal"
       ],
-      "description": "A mystical POK\u00e9MON that exudes a gentle aura. Has the ability to change climate conditions.",
+      "description": "A mystical POKéMON that exudes a gentle aura. Has the ability to change climate conditions.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -197,7 +197,7 @@
         "firered",
         "leafgreen"
       ],
-      "description": "A mystical POK\u00e9MON that exudes a gentle aura. Has the ability to change climate conditions.",
+      "description": "A mystical POKéMON that exudes a gentle aura. Has the ability to change climate conditions.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -282,7 +282,7 @@
         "heartgold",
         "soulsilver"
       ],
-      "description": "A mystical POK\u00e9MON that exudes a gentle aura. Has the ability to change climate conditions.",
+      "description": "A mystical POKéMON that exudes a gentle aura. Has the ability to change climate conditions.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -362,7 +362,7 @@
         "black-2",
         "white-2"
       ],
-      "description": "A mystical POK\u00e9MON that exudes a gentle aura. Has the ability to change climate conditions.",
+      "description": "A mystical POKéMON that exudes a gentle aura. Has the ability to change climate conditions.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -446,7 +446,7 @@
         "omega-ruby",
         "alpha-sapphire"
       ],
-      "description": "A mystical POK\u00e9MON that exudes a gentle aura. Has the ability to change climate conditions.",
+      "description": "A mystical POKéMON that exudes a gentle aura. Has the ability to change climate conditions.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -527,9 +527,11 @@
         "sun",
         "moon",
         "ultra-sun",
-        "ultra-moon"
+        "ultra-moon",
+        "lets-go-pikachu",
+        "lets-go-eevee"
       ],
-      "description": "A mystical POK\u00e9MON that exudes a gentle aura. Has the ability to change climate conditions.",
+      "description": "A mystical POKéMON that exudes a gentle aura. Has the ability to change climate conditions.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -614,7 +616,7 @@
         "brilliant-diamond",
         "shining-pearl"
       ],
-      "description": "A mystical POK\u00e9MON that exudes a gentle aura. Has the ability to change climate conditions.",
+      "description": "A mystical POKéMON that exudes a gentle aura. Has the ability to change climate conditions.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -695,7 +697,7 @@
         "scarlet",
         "violet"
       ],
-      "description": "A mystical POK\u00e9MON that exudes a gentle aura. Has the ability to change climate conditions.",
+      "description": "A mystical POKéMON that exudes a gentle aura. Has the ability to change climate conditions.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,

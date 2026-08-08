@@ -54,7 +54,7 @@
         "blue",
         "yellow"
       ],
-      "description": "When several of these POK\u00e9MON gather, their electricity could build and cause lightning storms.",
+      "description": "When several of these POKéMON gather, their electricity could build and cause lightning storms.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -119,7 +119,7 @@
         "silver",
         "crystal"
       ],
-      "description": "When several of these POK\u00e9MON gather, their electricity could build and cause lightning storms.",
+      "description": "When several of these POKéMON gather, their electricity could build and cause lightning storms.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -201,7 +201,7 @@
         "firered",
         "leafgreen"
       ],
-      "description": "When several of these POK\u00e9MON gather, their electricity could build and cause lightning storms.",
+      "description": "When several of these POKéMON gather, their electricity could build and cause lightning storms.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -286,7 +286,7 @@
         "heartgold",
         "soulsilver"
       ],
-      "description": "When several of these POK\u00e9MON gather, their electricity could build and cause lightning storms.",
+      "description": "When several of these POKéMON gather, their electricity could build and cause lightning storms.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -361,7 +361,7 @@
         "lightning-rod"
       ],
       "availability": [],
-      "description": "When several of these POK\u00e9MON gather, their electricity could build and cause lightning storms.",
+      "description": "When several of these POKéMON gather, their electricity could build and cause lightning storms.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -449,7 +449,7 @@
         "omega-ruby",
         "alpha-sapphire"
       ],
-      "description": "When several of these POK\u00e9MON gather, their electricity could build and cause lightning storms.",
+      "description": "When several of these POKéMON gather, their electricity could build and cause lightning storms.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -532,9 +532,10 @@
         "sun",
         "moon",
         "ultra-sun",
-        "ultra-moon"
+        "ultra-moon",
+        "lets-go-pikachu"
       ],
-      "description": "When several of these POK\u00e9MON gather, their electricity could build and cause lightning storms.",
+      "description": "When several of these POKéMON gather, their electricity could build and cause lightning storms.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -631,7 +632,7 @@
         "shining-pearl",
         "legends-arceus"
       ],
-      "description": "When several of these POK\u00e9MON gather, their electricity could build and cause lightning storms.",
+      "description": "When several of these POKéMON gather, their electricity could build and cause lightning storms.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -722,7 +723,7 @@
         "scarlet",
         "violet"
       ],
-      "description": "When several of these POK\u00e9MON gather, their electricity could build and cause lightning storms.",
+      "description": "When several of these POKéMON gather, their electricity could build and cause lightning storms.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,

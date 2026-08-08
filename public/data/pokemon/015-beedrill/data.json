@@ -522,7 +522,9 @@
       ],
       "availability": [
         "ultra-sun",
-        "ultra-moon"
+        "ultra-moon",
+        "lets-go-pikachu",
+        "lets-go-eevee"
       ],
       "description": "Flies at high speed and attacks using its large venomous stingers on its forelegs and tail.",
       "is_legendary": false,

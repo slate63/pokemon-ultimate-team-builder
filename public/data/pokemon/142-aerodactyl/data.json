@@ -47,7 +47,7 @@
         "blue",
         "yellow"
       ],
-      "description": "A ferocious, pre\u00ad historic POK\u00e9MON that goes for the enemy's throat with its serrated saw-like fangs.",
+      "description": "A ferocious, pre­ historic POKéMON that goes for the enemy's throat with its serrated saw-like fangs.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": true,
@@ -111,7 +111,7 @@
         "rock-smash"
       ],
       "availability": [],
-      "description": "A ferocious, pre\u00ad historic POK\u00e9MON that goes for the enemy's throat with its serrated saw-like fangs.",
+      "description": "A ferocious, pre­ historic POKéMON that goes for the enemy's throat with its serrated saw-like fangs.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": true,
@@ -195,7 +195,7 @@
         "firered",
         "leafgreen"
       ],
-      "description": "A ferocious, pre\u00ad historic POK\u00e9MON that goes for the enemy's throat with its serrated saw-like fangs.",
+      "description": "A ferocious, pre­ historic POKéMON that goes for the enemy's throat with its serrated saw-like fangs.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": true,
@@ -299,7 +299,7 @@
         "unnerve"
       ],
       "availability": [],
-      "description": "A ferocious, pre\u00ad historic POK\u00e9MON that goes for the enemy's throat with its serrated saw-like fangs.",
+      "description": "A ferocious, pre­ historic POKéMON that goes for the enemy's throat with its serrated saw-like fangs.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": true,
@@ -399,7 +399,7 @@
         "unnerve"
       ],
       "availability": [],
-      "description": "A ferocious, pre\u00ad historic POK\u00e9MON that goes for the enemy's throat with its serrated saw-like fangs.",
+      "description": "A ferocious, pre­ historic POKéMON that goes for the enemy's throat with its serrated saw-like fangs.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": true,
@@ -505,7 +505,7 @@
         "omega-ruby",
         "alpha-sapphire"
       ],
-      "description": "A ferocious, pre\u00ad historic POK\u00e9MON that goes for the enemy's throat with its serrated saw-like fangs.",
+      "description": "A ferocious, pre­ historic POKéMON that goes for the enemy's throat with its serrated saw-like fangs.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": true,
@@ -609,9 +609,11 @@
         "sun",
         "moon",
         "ultra-sun",
-        "ultra-moon"
+        "ultra-moon",
+        "lets-go-pikachu",
+        "lets-go-eevee"
       ],
-      "description": "A ferocious, pre\u00ad historic POK\u00e9MON that goes for the enemy's throat with its serrated saw-like fangs.",
+      "description": "A ferocious, pre­ historic POKéMON that goes for the enemy's throat with its serrated saw-like fangs.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": true,
@@ -715,7 +717,7 @@
         "brilliant-diamond",
         "shining-pearl"
       ],
-      "description": "A ferocious, pre\u00ad historic POK\u00e9MON that goes for the enemy's throat with its serrated saw-like fangs.",
+      "description": "A ferocious, pre­ historic POKéMON that goes for the enemy's throat with its serrated saw-like fangs.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": true,
@@ -748,7 +750,7 @@
         "scarlet",
         "violet"
       ],
-      "description": "A ferocious, pre\u00ad historic POK\u00e9MON that goes for the enemy's throat with its serrated saw-like fangs.",
+      "description": "A ferocious, pre­ historic POKéMON that goes for the enemy's throat with its serrated saw-like fangs.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": true,

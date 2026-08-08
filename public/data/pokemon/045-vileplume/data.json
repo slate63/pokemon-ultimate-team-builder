@@ -461,7 +461,9 @@
         "chlorophyll",
         "effect-spore"
       ],
-      "availability": [],
+      "availability": [
+        "lets-go-pikachu"
+      ],
       "description": "The larger its petals, the more toxic pollen it contains. Its big head is heavy and hard to hold up.",
       "is_legendary": false,
       "is_mythical": false,

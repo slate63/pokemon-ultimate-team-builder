@@ -493,7 +493,10 @@
         "early-bird",
         "tangled-feet"
       ],
-      "availability": [],
+      "availability": [
+        "lets-go-pikachu",
+        "lets-go-eevee"
+      ],
       "description": "Uses its three brains to execute complex plans. While two heads sleep, one head stays awake.",
       "is_legendary": false,
       "is_mythical": false,

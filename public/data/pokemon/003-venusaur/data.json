@@ -543,7 +543,9 @@
       ],
       "availability": [
         "ultra-sun",
-        "ultra-moon"
+        "ultra-moon",
+        "lets-go-pikachu",
+        "lets-go-eevee"
       ],
       "description": "The plant blooms when it is absorbing solar energy. It stays on the move to seek sunlight.",
       "is_legendary": false,

@@ -535,7 +535,9 @@
         "sun",
         "moon",
         "ultra-sun",
-        "ultra-moon"
+        "ultra-moon",
+        "lets-go-pikachu",
+        "lets-go-eevee"
       ],
       "description": "In battle, it flaps its wings at high speed to release highly toxic dust into the air.",
       "is_legendary": false,

@@ -49,7 +49,7 @@
         "substitute"
       ],
       "availability": [],
-      "description": "A POK\u00e9MON that consists entirely of programming code. Capable of moving freely in cyberspace.",
+      "description": "A POKéMON that consists entirely of programming code. Capable of moving freely in cyberspace.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": true,
@@ -112,7 +112,7 @@
         "psych-up"
       ],
       "availability": [],
-      "description": "A POK\u00e9MON that consists entirely of programming code. Capable of moving freely in cyberspace.",
+      "description": "A POKéMON that consists entirely of programming code. Capable of moving freely in cyberspace.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -189,7 +189,7 @@
         "analytic"
       ],
       "availability": [],
-      "description": "A POK\u00e9MON that consists entirely of programming code. Capable of moving freely in cyberspace.",
+      "description": "A POKéMON that consists entirely of programming code. Capable of moving freely in cyberspace.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -279,7 +279,7 @@
       "availability": [
         "platinum"
       ],
-      "description": "A POK\u00e9MON that consists entirely of programming code. Capable of moving freely in cyberspace.",
+      "description": "A POKéMON that consists entirely of programming code. Capable of moving freely in cyberspace.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -367,7 +367,7 @@
         "analytic"
       ],
       "availability": [],
-      "description": "A POK\u00e9MON that consists entirely of programming code. Capable of moving freely in cyberspace.",
+      "description": "A POKéMON that consists entirely of programming code. Capable of moving freely in cyberspace.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -461,7 +461,7 @@
         "omega-ruby",
         "alpha-sapphire"
       ],
-      "description": "A POK\u00e9MON that consists entirely of programming code. Capable of moving freely in cyberspace.",
+      "description": "A POKéMON that consists entirely of programming code. Capable of moving freely in cyberspace.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -555,9 +555,11 @@
         "sun",
         "moon",
         "ultra-sun",
-        "ultra-moon"
+        "ultra-moon",
+        "lets-go-pikachu",
+        "lets-go-eevee"
       ],
-      "description": "A POK\u00e9MON that consists entirely of programming code. Capable of moving freely in cyberspace.",
+      "description": "A POKéMON that consists entirely of programming code. Capable of moving freely in cyberspace.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -652,7 +654,7 @@
         "shining-pearl",
         "legends-arceus"
       ],
-      "description": "A POK\u00e9MON that consists entirely of programming code. Capable of moving freely in cyberspace.",
+      "description": "A POKéMON that consists entirely of programming code. Capable of moving freely in cyberspace.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -732,7 +734,7 @@
         "scarlet",
         "violet"
       ],
-      "description": "A POK\u00e9MON that consists entirely of programming code. Capable of moving freely in cyberspace.",
+      "description": "A POKéMON that consists entirely of programming code. Capable of moving freely in cyberspace.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,

@@ -527,7 +527,9 @@
       ],
       "availability": [
         "ultra-sun",
-        "ultra-moon"
+        "ultra-moon",
+        "lets-go-pikachu",
+        "lets-go-eevee"
       ],
       "description": "The protruding horn on its head is very hard. It is used for bashing through thick ice.",
       "is_legendary": false,

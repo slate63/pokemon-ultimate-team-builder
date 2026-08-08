@@ -528,7 +528,9 @@
         "sun",
         "moon",
         "ultra-sun",
-        "ultra-moon"
+        "ultra-moon",
+        "lets-go-pikachu",
+        "lets-go-eevee"
       ],
       "description": "Its tail fin billows like an elegant ballroom dress, giving it the nickname of the Water Queen.",
       "is_legendary": false,

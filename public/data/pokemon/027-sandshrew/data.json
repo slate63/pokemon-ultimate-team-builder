@@ -587,7 +587,9 @@
         "sand-veil",
         "sand-rush"
       ],
-      "availability": [],
+      "availability": [
+        "lets-go-pikachu"
+      ],
       "description": "Burrows deep underground in arid locations far from water. It only emerges to hunt for food.",
       "is_legendary": false,
       "is_mythical": false,

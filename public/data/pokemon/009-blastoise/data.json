@@ -57,7 +57,7 @@
         "blue",
         "yellow"
       ],
-      "description": "A brutal POK\u00e9MON with pressurized water jets on its shell. They are used for high speed tackles.",
+      "description": "A brutal POKéMON with pressurized water jets on its shell. They are used for high speed tackles.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": true,
@@ -124,7 +124,7 @@
         "whirlpool"
       ],
       "availability": [],
-      "description": "A brutal POK\u00e9MON with pressurized water jets on its shell. They are used for high speed tackles.",
+      "description": "A brutal POKéMON with pressurized water jets on its shell. They are used for high speed tackles.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": true,
@@ -211,7 +211,7 @@
         "firered",
         "leafgreen"
       ],
-      "description": "A brutal POK\u00e9MON with pressurized water jets on its shell. They are used for high speed tackles.",
+      "description": "A brutal POKéMON with pressurized water jets on its shell. They are used for high speed tackles.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": true,
@@ -308,7 +308,7 @@
         "heartgold",
         "soulsilver"
       ],
-      "description": "A brutal POK\u00e9MON with pressurized water jets on its shell. They are used for high speed tackles.",
+      "description": "A brutal POKéMON with pressurized water jets on its shell. They are used for high speed tackles.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": true,
@@ -396,7 +396,7 @@
         "rain-dish"
       ],
       "availability": [],
-      "description": "A brutal POK\u00e9MON with pressurized water jets on its shell. They are used for high speed tackles.",
+      "description": "A brutal POKéMON with pressurized water jets on its shell. They are used for high speed tackles.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": true,
@@ -495,7 +495,7 @@
         "omega-ruby",
         "alpha-sapphire"
       ],
-      "description": "A brutal POK\u00e9MON with pressurized water jets on its shell. They are used for high speed tackles.",
+      "description": "A brutal POKéMON with pressurized water jets on its shell. They are used for high speed tackles.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": true,
@@ -586,9 +586,11 @@
       ],
       "availability": [
         "ultra-sun",
-        "ultra-moon"
+        "ultra-moon",
+        "lets-go-pikachu",
+        "lets-go-eevee"
       ],
-      "description": "A brutal POK\u00e9MON with pressurized water jets on its shell. They are used for high speed tackles.",
+      "description": "A brutal POKéMON with pressurized water jets on its shell. They are used for high speed tackles.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": true,
@@ -696,7 +698,7 @@
         "brilliant-diamond",
         "shining-pearl"
       ],
-      "description": "A brutal POK\u00e9MON with pressurized water jets on its shell. They are used for high speed tackles.",
+      "description": "A brutal POKéMON with pressurized water jets on its shell. They are used for high speed tackles.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": true,
@@ -799,7 +801,7 @@
         "scarlet",
         "violet"
       ],
-      "description": "A brutal POK\u00e9MON with pressurized water jets on its shell. They are used for high speed tackles.",
+      "description": "A brutal POKéMON with pressurized water jets on its shell. They are used for high speed tackles.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": true,

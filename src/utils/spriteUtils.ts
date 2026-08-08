@@ -190,6 +190,9 @@ export const VERSION_TO_SPRITE_STYLE: Record<string, string> = {
   'moon': 'usum',
   'ultra-sun': 'usum',
   'ultra-moon': 'usum',
+  // Let's Go has no 2D sprite set of its own; its models match HOME's style
+  'lets-go-pikachu': 'home',
+  'lets-go-eevee': 'home',
   // Gen 8
   'sword': 'modern',
   'shield': 'modern',

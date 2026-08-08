@@ -667,7 +667,9 @@
         "sun",
         "moon",
         "ultra-sun",
-        "ultra-moon"
+        "ultra-moon",
+        "lets-go-pikachu",
+        "lets-go-eevee"
       ],
       "description": "The body is soft and rubbery. When angered, it will suck in air and inflate itself to an enormous size.",
       "is_legendary": false,

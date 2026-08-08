@@ -47,7 +47,7 @@
         "blue",
         "yellow"
       ],
-      "description": "A Pok\u00e9mon that appears to be a plant. It captures unwary prey by dousing them with a toxic powder.",
+      "description": "A Pokémon that appears to be a plant. It captures unwary prey by dousing them with a toxic powder.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -106,7 +106,7 @@
         "silver",
         "crystal"
       ],
-      "description": "A Pok\u00e9mon that appears to be a plant. It captures unwary prey by dousing them with a toxic powder.",
+      "description": "A Pokémon that appears to be a plant. It captures unwary prey by dousing them with a toxic powder.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -174,7 +174,7 @@
       "availability": [
         "leafgreen"
       ],
-      "description": "A Pok\u00e9mon that appears to be a plant. It captures unwary prey by dousing them with a toxic powder.",
+      "description": "A Pokémon that appears to be a plant. It captures unwary prey by dousing them with a toxic powder.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -255,7 +255,7 @@
         "heartgold",
         "soulsilver"
       ],
-      "description": "A Pok\u00e9mon that appears to be a plant. It captures unwary prey by dousing them with a toxic powder.",
+      "description": "A Pokémon that appears to be a plant. It captures unwary prey by dousing them with a toxic powder.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -329,7 +329,7 @@
         "gluttony"
       ],
       "availability": [],
-      "description": "A Pok\u00e9mon that appears to be a plant. It captures unwary prey by dousing them with a toxic powder.",
+      "description": "A Pokémon that appears to be a plant. It captures unwary prey by dousing them with a toxic powder.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -411,7 +411,7 @@
         "omega-ruby",
         "alpha-sapphire"
       ],
-      "description": "A Pok\u00e9mon that appears to be a plant. It captures unwary prey by dousing them with a toxic powder.",
+      "description": "A Pokémon that appears to be a plant. It captures unwary prey by dousing them with a toxic powder.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -487,9 +487,10 @@
       ],
       "availability": [
         "sun",
-        "moon"
+        "moon",
+        "lets-go-eevee"
       ],
-      "description": "A Pok\u00e9mon that appears to be a plant. It captures unwary prey by dousing them with a toxic powder.",
+      "description": "A Pokémon that appears to be a plant. It captures unwary prey by dousing them with a toxic powder.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -558,7 +559,7 @@
         "brilliant-diamond",
         "shining-pearl"
       ],
-      "description": "A Pok\u00e9mon that appears to be a plant. It captures unwary prey by dousing them with a toxic powder.",
+      "description": "A Pokémon that appears to be a plant. It captures unwary prey by dousing them with a toxic powder.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -647,7 +648,7 @@
         "scarlet",
         "violet"
       ],
-      "description": "A Pok\u00e9mon that appears to be a plant. It captures unwary prey by dousing them with a toxic powder.",
+      "description": "A Pokémon that appears to be a plant. It captures unwary prey by dousing them with a toxic powder.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,

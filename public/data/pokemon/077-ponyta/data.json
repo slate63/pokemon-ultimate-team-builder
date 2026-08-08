@@ -506,7 +506,10 @@
         "flash-fire",
         "flame-body"
       ],
-      "availability": [],
+      "availability": [
+        "lets-go-pikachu",
+        "lets-go-eevee"
+      ],
       "description": "Its hooves are 10 times harder than diamonds. It can trample anything completely flat in little time.",
       "is_legendary": false,
       "is_mythical": false,

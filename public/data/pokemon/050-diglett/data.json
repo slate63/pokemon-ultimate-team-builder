@@ -516,7 +516,9 @@
       ],
       "availability": [
         "ultra-sun",
-        "ultra-moon"
+        "ultra-moon",
+        "lets-go-pikachu",
+        "lets-go-eevee"
       ],
       "description": "Lives about one yard underground where it feeds on plant roots. It sometimes appears above ground.",
       "is_legendary": false,

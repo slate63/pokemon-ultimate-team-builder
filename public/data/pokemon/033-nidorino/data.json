@@ -50,7 +50,7 @@
         "blue",
         "yellow"
       ],
-      "description": "An aggressive POK\u00e9MON that is quick to attack. The horn on its head secretes a powerful venom.",
+      "description": "An aggressive POKéMON that is quick to attack. The horn on its head secretes a powerful venom.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -114,7 +114,7 @@
         "silver",
         "crystal"
       ],
-      "description": "An aggressive POK\u00e9MON that is quick to attack. The horn on its head secretes a powerful venom.",
+      "description": "An aggressive POKéMON that is quick to attack. The horn on its head secretes a powerful venom.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -193,7 +193,7 @@
         "firered",
         "leafgreen"
       ],
-      "description": "An aggressive POK\u00e9MON that is quick to attack. The horn on its head secretes a powerful venom.",
+      "description": "An aggressive POKéMON that is quick to attack. The horn on its head secretes a powerful venom.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -278,7 +278,7 @@
         "heartgold",
         "soulsilver"
       ],
-      "description": "An aggressive POK\u00e9MON that is quick to attack. The horn on its head secretes a powerful venom.",
+      "description": "An aggressive POKéMON that is quick to attack. The horn on its head secretes a powerful venom.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -354,7 +354,7 @@
         "hustle"
       ],
       "availability": [],
-      "description": "An aggressive POK\u00e9MON that is quick to attack. The horn on its head secretes a powerful venom.",
+      "description": "An aggressive POKéMON that is quick to attack. The horn on its head secretes a powerful venom.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -439,7 +439,7 @@
         "omega-ruby",
         "alpha-sapphire"
       ],
-      "description": "An aggressive POK\u00e9MON that is quick to attack. The horn on its head secretes a powerful venom.",
+      "description": "An aggressive POKéMON that is quick to attack. The horn on its head secretes a powerful venom.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -514,8 +514,11 @@
         "rivalry",
         "hustle"
       ],
-      "availability": [],
-      "description": "An aggressive POK\u00e9MON that is quick to attack. The horn on its head secretes a powerful venom.",
+      "availability": [
+        "lets-go-pikachu",
+        "lets-go-eevee"
+      ],
+      "description": "An aggressive POKéMON that is quick to attack. The horn on its head secretes a powerful venom.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -598,7 +601,7 @@
         "brilliant-diamond",
         "shining-pearl"
       ],
-      "description": "An aggressive POK\u00e9MON that is quick to attack. The horn on its head secretes a powerful venom.",
+      "description": "An aggressive POKéMON that is quick to attack. The horn on its head secretes a powerful venom.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -630,7 +633,7 @@
         "scarlet",
         "violet"
       ],
-      "description": "An aggressive POK\u00e9MON that is quick to attack. The horn on its head secretes a powerful venom.",
+      "description": "An aggressive POKéMON that is quick to attack. The horn on its head secretes a powerful venom.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,

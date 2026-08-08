@@ -528,7 +528,9 @@
         "sun",
         "moon",
         "ultra-sun",
-        "ultra-moon"
+        "ultra-moon",
+        "lets-go-pikachu",
+        "lets-go-eevee"
       ],
       "description": "Its newly grown legs prevent it from running. It appears to prefer swimming than trying to stand.",
       "is_legendary": false,

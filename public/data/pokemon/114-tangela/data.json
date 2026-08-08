@@ -49,7 +49,7 @@
         "blue",
         "yellow"
       ],
-      "description": "The whole body is swathed with wide vines that are similar to sea\u00ad weed. Its vines shake as it walks.",
+      "description": "The whole body is swathed with wide vines that are similar to sea­ weed. Its vines shake as it walks.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": true,
@@ -116,7 +116,7 @@
         "silver",
         "crystal"
       ],
-      "description": "The whole body is swathed with wide vines that are similar to sea\u00ad weed. Its vines shake as it walks.",
+      "description": "The whole body is swathed with wide vines that are similar to sea­ weed. Its vines shake as it walks.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": true,
@@ -197,7 +197,7 @@
         "firered",
         "leafgreen"
       ],
-      "description": "The whole body is swathed with wide vines that are similar to sea\u00ad weed. Its vines shake as it walks.",
+      "description": "The whole body is swathed with wide vines that are similar to sea­ weed. Its vines shake as it walks.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": true,
@@ -294,7 +294,7 @@
         "heartgold",
         "soulsilver"
       ],
-      "description": "The whole body is swathed with wide vines that are similar to sea\u00ad weed. Its vines shake as it walks.",
+      "description": "The whole body is swathed with wide vines that are similar to sea­ weed. Its vines shake as it walks.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -388,7 +388,7 @@
         "black-2",
         "white-2"
       ],
-      "description": "The whole body is swathed with wide vines that are similar to sea\u00ad weed. Its vines shake as it walks.",
+      "description": "The whole body is swathed with wide vines that are similar to sea­ weed. Its vines shake as it walks.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -485,7 +485,7 @@
         "omega-ruby",
         "alpha-sapphire"
       ],
-      "description": "The whole body is swathed with wide vines that are similar to sea\u00ad weed. Its vines shake as it walks.",
+      "description": "The whole body is swathed with wide vines that are similar to sea­ weed. Its vines shake as it walks.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -575,8 +575,11 @@
         "leaf-guard",
         "regenerator"
       ],
-      "availability": [],
-      "description": "The whole body is swathed with wide vines that are similar to sea\u00ad weed. Its vines shake as it walks.",
+      "availability": [
+        "lets-go-pikachu",
+        "lets-go-eevee"
+      ],
+      "description": "The whole body is swathed with wide vines that are similar to sea­ weed. Its vines shake as it walks.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -669,7 +672,7 @@
         "shining-pearl",
         "legends-arceus"
       ],
-      "description": "The whole body is swathed with wide vines that are similar to sea\u00ad weed. Its vines shake as it walks.",
+      "description": "The whole body is swathed with wide vines that are similar to sea­ weed. Its vines shake as it walks.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -701,7 +704,7 @@
         "scarlet",
         "violet"
       ],
-      "description": "The whole body is swathed with wide vines that are similar to sea\u00ad weed. Its vines shake as it walks.",
+      "description": "The whole body is swathed with wide vines that are similar to sea­ weed. Its vines shake as it walks.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,

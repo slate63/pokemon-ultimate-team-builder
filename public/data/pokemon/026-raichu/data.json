@@ -508,7 +508,9 @@
         "sun",
         "moon",
         "ultra-sun",
-        "ultra-moon"
+        "ultra-moon",
+        "lets-go-pikachu",
+        "lets-go-eevee"
       ],
       "description": "Its long tail serves as a ground to protect itself from its own high voltage power.",
       "is_legendary": false,

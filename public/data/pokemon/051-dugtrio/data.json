@@ -501,7 +501,9 @@
       ],
       "availability": [
         "ultra-sun",
-        "ultra-moon"
+        "ultra-moon",
+        "lets-go-pikachu",
+        "lets-go-eevee"
       ],
       "description": "A team of DIGLETT triplets. It triggers huge earthquakes by burrowing 60 miles underground.",
       "is_legendary": false,

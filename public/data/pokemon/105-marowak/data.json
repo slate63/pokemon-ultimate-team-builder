@@ -624,7 +624,9 @@
         "sun",
         "moon",
         "ultra-sun",
-        "ultra-moon"
+        "ultra-moon",
+        "lets-go-pikachu",
+        "lets-go-eevee"
       ],
       "description": "The bone it holds is its key weapon. It throws the bone skillfully like a boomerang to KO targets.",
       "is_legendary": false,

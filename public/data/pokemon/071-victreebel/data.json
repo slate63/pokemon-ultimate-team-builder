@@ -483,7 +483,8 @@
       ],
       "availability": [
         "sun",
-        "moon"
+        "moon",
+        "lets-go-eevee"
       ],
       "description": "Said to live in huge colonies deep in jungles, although no one has ever returned from there.",
       "is_legendary": false,

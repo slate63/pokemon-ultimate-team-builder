@@ -545,7 +545,9 @@
         "neutralizing-gas",
         "stench"
       ],
-      "availability": [],
+      "availability": [
+        "lets-go-eevee"
+      ],
       "description": "Because it stores several kinds of toxic gases in its body, it is prone to exploding without warning.",
       "is_legendary": false,
       "is_mythical": false,

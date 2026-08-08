@@ -227,7 +227,9 @@
         "sun",
         "moon",
         "ultra-sun",
-        "ultra-moon"
+        "ultra-moon",
+        "lets-go-pikachu",
+        "lets-go-eevee"
       ],
       "description": "When it spots an enemy, its body transfigures into an almost-perfect copy of its opponent.",
       "is_legendary": false,

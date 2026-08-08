@@ -564,7 +564,9 @@
       ],
       "availability": [
         "ultra-sun",
-        "ultra-moon"
+        "ultra-moon",
+        "lets-go-pikachu",
+        "lets-go-eevee"
       ],
       "description": "Although long extinct, in rare cases, it can be genetically resurrected from fossils.",
       "is_legendary": false,

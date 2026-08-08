@@ -573,7 +573,9 @@
       ],
       "availability": [
         "sun",
-        "moon"
+        "moon",
+        "lets-go-pikachu",
+        "lets-go-eevee"
       ],
       "description": "Found in fields and mountains. Mistaking them for boulders, people often step or trip on them.",
       "is_legendary": false,

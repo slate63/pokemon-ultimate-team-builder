@@ -577,7 +577,9 @@
       ],
       "availability": [
         "ultra-sun",
-        "ultra-moon"
+        "ultra-moon",
+        "lets-go-pikachu",
+        "lets-go-eevee"
       ],
       "description": "It burrows through the ground at a speed of 50 mph while feeding on large boulders.",
       "is_legendary": false,

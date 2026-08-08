@@ -614,7 +614,9 @@
         "sun",
         "moon",
         "ultra-sun",
-        "ultra-moon"
+        "ultra-moon",
+        "lets-go-pikachu",
+        "lets-go-eevee"
       ],
       "description": "It emits special alpha waves from its body that induce headaches just by being close by.",
       "is_legendary": false,

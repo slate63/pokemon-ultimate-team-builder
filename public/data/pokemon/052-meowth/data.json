@@ -606,7 +606,9 @@
         "technician",
         "unnerve"
       ],
-      "availability": [],
+      "availability": [
+        "lets-go-eevee"
+      ],
       "description": "Adores circular objects. Wanders the streets on a nightly basis to look for dropped loose change.",
       "is_legendary": false,
       "is_mythical": false,

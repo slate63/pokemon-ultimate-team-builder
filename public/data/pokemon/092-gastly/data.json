@@ -44,7 +44,7 @@
         "blue",
         "yellow"
       ],
-      "description": "Almost invisible, this gaseous POK\u00e9MON cloaks the target and puts it to sleep without notice.",
+      "description": "Almost invisible, this gaseous POKéMON cloaks the target and puts it to sleep without notice.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -109,7 +109,7 @@
         "silver",
         "crystal"
       ],
-      "description": "Almost invisible, this gaseous POK\u00e9MON cloaks the target and puts it to sleep without notice.",
+      "description": "Almost invisible, this gaseous POKéMON cloaks the target and puts it to sleep without notice.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -187,7 +187,7 @@
         "firered",
         "leafgreen"
       ],
-      "description": "Almost invisible, this gaseous POK\u00e9MON cloaks the target and puts it to sleep without notice.",
+      "description": "Almost invisible, this gaseous POKéMON cloaks the target and puts it to sleep without notice.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -285,7 +285,7 @@
         "heartgold",
         "soulsilver"
       ],
-      "description": "Almost invisible, this gaseous POK\u00e9MON cloaks the target and puts it to sleep without notice.",
+      "description": "Almost invisible, this gaseous POKéMON cloaks the target and puts it to sleep without notice.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -381,7 +381,7 @@
         "levitate"
       ],
       "availability": [],
-      "description": "Almost invisible, this gaseous POK\u00e9MON cloaks the target and puts it to sleep without notice.",
+      "description": "Almost invisible, this gaseous POKéMON cloaks the target and puts it to sleep without notice.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -486,7 +486,7 @@
         "omega-ruby",
         "alpha-sapphire"
       ],
-      "description": "Almost invisible, this gaseous POK\u00e9MON cloaks the target and puts it to sleep without notice.",
+      "description": "Almost invisible, this gaseous POKéMON cloaks the target and puts it to sleep without notice.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -590,9 +590,11 @@
         "sun",
         "moon",
         "ultra-sun",
-        "ultra-moon"
+        "ultra-moon",
+        "lets-go-pikachu",
+        "lets-go-eevee"
       ],
-      "description": "Almost invisible, this gaseous POK\u00e9MON cloaks the target and puts it to sleep without notice.",
+      "description": "Almost invisible, this gaseous POKéMON cloaks the target and puts it to sleep without notice.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -695,7 +697,7 @@
         "shining-pearl",
         "legends-arceus"
       ],
-      "description": "Almost invisible, this gaseous POK\u00e9MON cloaks the target and puts it to sleep without notice.",
+      "description": "Almost invisible, this gaseous POKéMON cloaks the target and puts it to sleep without notice.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -788,7 +790,7 @@
         "scarlet",
         "violet"
       ],
-      "description": "Almost invisible, this gaseous POK\u00e9MON cloaks the target and puts it to sleep without notice.",
+      "description": "Almost invisible, this gaseous POKéMON cloaks the target and puts it to sleep without notice.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,

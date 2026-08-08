@@ -56,7 +56,7 @@
         "blue",
         "yellow"
       ],
-      "description": "A POK\u00e9MON that has been over\u00ad hunted almost to extinction. It can ferry people across the water.",
+      "description": "A POKéMON that has been over­ hunted almost to extinction. It can ferry people across the water.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": true,
@@ -128,7 +128,7 @@
         "silver",
         "crystal"
       ],
-      "description": "A POK\u00e9MON that has been over\u00ad hunted almost to extinction. It can ferry people across the water.",
+      "description": "A POKéMON that has been over­ hunted almost to extinction. It can ferry people across the water.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": true,
@@ -214,7 +214,7 @@
         "firered",
         "leafgreen"
       ],
-      "description": "A POK\u00e9MON that has been over\u00ad hunted almost to extinction. It can ferry people across the water.",
+      "description": "A POKéMON that has been over­ hunted almost to extinction. It can ferry people across the water.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": true,
@@ -319,7 +319,7 @@
         "heartgold",
         "soulsilver"
       ],
-      "description": "A POK\u00e9MON that has been over\u00ad hunted almost to extinction. It can ferry people across the water.",
+      "description": "A POKéMON that has been over­ hunted almost to extinction. It can ferry people across the water.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": true,
@@ -424,7 +424,7 @@
         "black-2",
         "white-2"
       ],
-      "description": "A POK\u00e9MON that has been over\u00ad hunted almost to extinction. It can ferry people across the water.",
+      "description": "A POKéMON that has been over­ hunted almost to extinction. It can ferry people across the water.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": true,
@@ -533,7 +533,7 @@
         "omega-ruby",
         "alpha-sapphire"
       ],
-      "description": "A POK\u00e9MON that has been over\u00ad hunted almost to extinction. It can ferry people across the water.",
+      "description": "A POKéMON that has been over­ hunted almost to extinction. It can ferry people across the water.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": true,
@@ -637,9 +637,11 @@
         "sun",
         "moon",
         "ultra-sun",
-        "ultra-moon"
+        "ultra-moon",
+        "lets-go-pikachu",
+        "lets-go-eevee"
       ],
-      "description": "A POK\u00e9MON that has been over\u00ad hunted almost to extinction. It can ferry people across the water.",
+      "description": "A POKéMON that has been over­ hunted almost to extinction. It can ferry people across the water.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": true,
@@ -744,7 +746,7 @@
         "brilliant-diamond",
         "shining-pearl"
       ],
-      "description": "A POK\u00e9MON that has been over\u00ad hunted almost to extinction. It can ferry people across the water.",
+      "description": "A POKéMON that has been over­ hunted almost to extinction. It can ferry people across the water.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": true,
@@ -845,7 +847,7 @@
         "scarlet",
         "violet"
       ],
-      "description": "A POK\u00e9MON that has been over\u00ad hunted almost to extinction. It can ferry people across the water.",
+      "description": "A POKéMON that has been over­ hunted almost to extinction. It can ferry people across the water.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": true,

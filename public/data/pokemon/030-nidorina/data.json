@@ -519,7 +519,10 @@
         "rivalry",
         "hustle"
       ],
-      "availability": [],
+      "availability": [
+        "lets-go-pikachu",
+        "lets-go-eevee"
+      ],
       "description": "The female's horn develops slowly. Prefers physical attacks such as clawing and biting.",
       "is_legendary": false,
       "is_mythical": false,

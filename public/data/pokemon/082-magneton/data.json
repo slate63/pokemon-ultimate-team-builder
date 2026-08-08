@@ -530,7 +530,9 @@
         "sun",
         "moon",
         "ultra-sun",
-        "ultra-moon"
+        "ultra-moon",
+        "lets-go-pikachu",
+        "lets-go-eevee"
       ],
       "description": "Formed by several MAGNEMITEs linked together. They frequently appear when sunspots flare up.",
       "is_legendary": false,

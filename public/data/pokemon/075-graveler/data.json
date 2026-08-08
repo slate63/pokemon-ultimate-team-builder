@@ -543,7 +543,9 @@
       ],
       "availability": [
         "sun",
-        "moon"
+        "moon",
+        "lets-go-pikachu",
+        "lets-go-eevee"
       ],
       "description": "Rolls down slopes to move. It rolls over any obstacle without slowing or changing its direction.",
       "is_legendary": false,

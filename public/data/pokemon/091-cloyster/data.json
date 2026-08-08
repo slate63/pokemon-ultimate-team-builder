@@ -480,7 +480,9 @@
         "sun",
         "moon",
         "ultra-sun",
-        "ultra-moon"
+        "ultra-moon",
+        "lets-go-pikachu",
+        "lets-go-eevee"
       ],
       "description": "When attacked, it launches its horns in quick volleys. Its innards have never been seen.",
       "is_legendary": false,

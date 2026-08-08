@@ -493,7 +493,9 @@
       "availability": [
         "sun",
         "ultra-sun",
-        "ultra-moon"
+        "ultra-moon",
+        "lets-go-pikachu",
+        "lets-go-eevee"
       ],
       "description": "It stores electric energy under very high pressure. It often explodes with little or no provocation.",
       "is_legendary": false,

@@ -638,7 +638,9 @@
       ],
       "availability": [
         "ultra-sun",
-        "ultra-moon"
+        "ultra-moon",
+        "lets-go-pikachu",
+        "lets-go-eevee"
       ],
       "description": "It seductively wiggles its hips as it walks. It can cause people to dance in unison with it.",
       "is_legendary": false,

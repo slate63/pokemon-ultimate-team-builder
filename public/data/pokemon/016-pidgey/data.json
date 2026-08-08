@@ -501,7 +501,9 @@
       ],
       "availability": [
         "ultra-sun",
-        "ultra-moon"
+        "ultra-moon",
+        "lets-go-pikachu",
+        "lets-go-eevee"
       ],
       "description": "A common sight in forests and woods. It flaps its wings at ground level to kick up blinding sand.",
       "is_legendary": false,

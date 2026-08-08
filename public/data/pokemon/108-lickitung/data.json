@@ -701,7 +701,9 @@
       ],
       "availability": [
         "ultra-sun",
-        "ultra-moon"
+        "ultra-moon",
+        "lets-go-pikachu",
+        "lets-go-eevee"
       ],
       "description": "Its tongue can be extended like a chameleon's. It leaves a tingling sensation when it licks enemies.",
       "is_legendary": false,

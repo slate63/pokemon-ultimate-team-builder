@@ -565,7 +565,9 @@
         "sun",
         "moon",
         "ultra-sun",
-        "ultra-moon"
+        "ultra-moon",
+        "lets-go-pikachu",
+        "lets-go-eevee"
       ],
       "description": "When it targets an enemy, it charges furiously while whipping its body with its long tails.",
       "is_legendary": false,

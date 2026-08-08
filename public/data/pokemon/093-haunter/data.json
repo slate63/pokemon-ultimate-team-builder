@@ -44,7 +44,7 @@
         "blue",
         "yellow"
       ],
-      "description": "Because of its ability to slip through block walls, it is said to be from an\u00ad other dimension.",
+      "description": "Because of its ability to slip through block walls, it is said to be from an­ other dimension.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -106,7 +106,7 @@
         "silver",
         "crystal"
       ],
-      "description": "Because of its ability to slip through block walls, it is said to be from an\u00ad other dimension.",
+      "description": "Because of its ability to slip through block walls, it is said to be from an­ other dimension.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -179,7 +179,7 @@
         "firered",
         "leafgreen"
       ],
-      "description": "Because of its ability to slip through block walls, it is said to be from an\u00ad other dimension.",
+      "description": "Because of its ability to slip through block walls, it is said to be from an­ other dimension.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -275,7 +275,7 @@
         "heartgold",
         "soulsilver"
       ],
-      "description": "Because of its ability to slip through block walls, it is said to be from an\u00ad other dimension.",
+      "description": "Because of its ability to slip through block walls, it is said to be from an­ other dimension.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -366,7 +366,7 @@
         "levitate"
       ],
       "availability": [],
-      "description": "Because of its ability to slip through block walls, it is said to be from an\u00ad other dimension.",
+      "description": "Because of its ability to slip through block walls, it is said to be from an­ other dimension.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -465,7 +465,7 @@
         "omega-ruby",
         "alpha-sapphire"
       ],
-      "description": "Because of its ability to slip through block walls, it is said to be from an\u00ad other dimension.",
+      "description": "Because of its ability to slip through block walls, it is said to be from an­ other dimension.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -563,9 +563,11 @@
         "sun",
         "moon",
         "ultra-sun",
-        "ultra-moon"
+        "ultra-moon",
+        "lets-go-pikachu",
+        "lets-go-eevee"
       ],
-      "description": "Because of its ability to slip through block walls, it is said to be from an\u00ad other dimension.",
+      "description": "Because of its ability to slip through block walls, it is said to be from an­ other dimension.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -665,7 +667,7 @@
         "shining-pearl",
         "legends-arceus"
       ],
-      "description": "Because of its ability to slip through block walls, it is said to be from an\u00ad other dimension.",
+      "description": "Because of its ability to slip through block walls, it is said to be from an­ other dimension.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -760,7 +762,7 @@
         "scarlet",
         "violet"
       ],
-      "description": "Because of its ability to slip through block walls, it is said to be from an\u00ad other dimension.",
+      "description": "Because of its ability to slip through block walls, it is said to be from an­ other dimension.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,

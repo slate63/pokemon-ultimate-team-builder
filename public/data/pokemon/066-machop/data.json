@@ -625,7 +625,9 @@
         "sun",
         "moon",
         "ultra-sun",
-        "ultra-moon"
+        "ultra-moon",
+        "lets-go-pikachu",
+        "lets-go-eevee"
       ],
       "description": "Loves to build its muscles. It trains in all styles of martial arts to become even stronger.",
       "is_legendary": false,

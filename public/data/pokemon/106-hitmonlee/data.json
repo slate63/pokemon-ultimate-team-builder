@@ -545,7 +545,10 @@
         "reckless",
         "unburden"
       ],
-      "availability": [],
+      "availability": [
+        "lets-go-pikachu",
+        "lets-go-eevee"
+      ],
       "description": "When in a hurry, its legs lengthen progressively. It runs smoothly with extra long, loping strides.",
       "is_legendary": false,
       "is_mythical": false,

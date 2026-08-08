@@ -568,7 +568,9 @@
         "sun",
         "moon",
         "ultra-sun",
-        "ultra-moon"
+        "ultra-moon",
+        "lets-go-pikachu",
+        "lets-go-eevee"
       ],
       "description": "An adept swimmer at both the front crawl and breast stroke. Easily overtakes the best human swimmers.",
       "is_legendary": false,

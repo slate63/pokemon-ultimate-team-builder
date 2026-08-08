@@ -519,7 +519,9 @@
         "sun",
         "moon",
         "ultra-sun",
-        "ultra-moon"
+        "ultra-moon",
+        "lets-go-pikachu",
+        "lets-go-eevee"
       ],
       "description": "Legend has it that on rare occasions, one of its heads will drop off and continue on as an EXEGGCUTE.",
       "is_legendary": false,

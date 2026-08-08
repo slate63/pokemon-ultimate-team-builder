@@ -45,7 +45,7 @@
         "blue",
         "yellow"
       ],
-      "description": "Usually found in power plants. Easily mistaken for a POK\u00e9 BALL, they have zapped many people.",
+      "description": "Usually found in power plants. Easily mistaken for a POKé BALL, they have zapped many people.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -101,7 +101,7 @@
         "silver",
         "crystal"
       ],
-      "description": "Usually found in power plants. Easily mistaken for a POK\u00e9 BALL, they have zapped many people.",
+      "description": "Usually found in power plants. Easily mistaken for a POKé BALL, they have zapped many people.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -172,7 +172,7 @@
         "firered",
         "leafgreen"
       ],
-      "description": "Usually found in power plants. Easily mistaken for a POK\u00e9 BALL, they have zapped many people.",
+      "description": "Usually found in power plants. Easily mistaken for a POKé BALL, they have zapped many people.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -250,7 +250,7 @@
         "heartgold",
         "soulsilver"
       ],
-      "description": "Usually found in power plants. Easily mistaken for a POK\u00e9 BALL, they have zapped many people.",
+      "description": "Usually found in power plants. Easily mistaken for a POKé BALL, they have zapped many people.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -321,7 +321,7 @@
         "aftermath"
       ],
       "availability": [],
-      "description": "Usually found in power plants. Easily mistaken for a POK\u00e9 BALL, they have zapped many people.",
+      "description": "Usually found in power plants. Easily mistaken for a POKé BALL, they have zapped many people.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -402,7 +402,7 @@
         "omega-ruby",
         "alpha-sapphire"
       ],
-      "description": "Usually found in power plants. Easily mistaken for a POK\u00e9 BALL, they have zapped many people.",
+      "description": "Usually found in power plants. Easily mistaken for a POKé BALL, they have zapped many people.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -478,9 +478,11 @@
       "availability": [
         "sun",
         "ultra-sun",
-        "ultra-moon"
+        "ultra-moon",
+        "lets-go-pikachu",
+        "lets-go-eevee"
       ],
-      "description": "Usually found in power plants. Easily mistaken for a POK\u00e9 BALL, they have zapped many people.",
+      "description": "Usually found in power plants. Easily mistaken for a POKé BALL, they have zapped many people.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -550,7 +552,7 @@
         "brilliant-diamond",
         "shining-pearl"
       ],
-      "description": "Usually found in power plants. Easily mistaken for a POK\u00e9 BALL, they have zapped many people.",
+      "description": "Usually found in power plants. Easily mistaken for a POKé BALL, they have zapped many people.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,
@@ -624,7 +626,7 @@
         "scarlet",
         "violet"
       ],
-      "description": "Usually found in power plants. Easily mistaken for a POK\u00e9 BALL, they have zapped many people.",
+      "description": "Usually found in power plants. Easily mistaken for a POKé BALL, they have zapped many people.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": false,

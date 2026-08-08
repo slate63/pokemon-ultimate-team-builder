@@ -51,7 +51,7 @@
         "blue",
         "yellow"
       ],
-      "description": "A prehistoric POK\u00e9MON that died out when its heavy shell made it impossible to catch prey.",
+      "description": "A prehistoric POKéMON that died out when its heavy shell made it impossible to catch prey.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": true,
@@ -110,7 +110,7 @@
         "whirlpool"
       ],
       "availability": [],
-      "description": "A prehistoric POK\u00e9MON that died out when its heavy shell made it impossible to catch prey.",
+      "description": "A prehistoric POKéMON that died out when its heavy shell made it impossible to catch prey.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": true,
@@ -189,7 +189,7 @@
         "firered",
         "leafgreen"
       ],
-      "description": "A prehistoric POK\u00e9MON that died out when its heavy shell made it impossible to catch prey.",
+      "description": "A prehistoric POKéMON that died out when its heavy shell made it impossible to catch prey.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": true,
@@ -276,7 +276,7 @@
         "weak-armor"
       ],
       "availability": [],
-      "description": "A prehistoric POK\u00e9MON that died out when its heavy shell made it impossible to catch prey.",
+      "description": "A prehistoric POKéMON that died out when its heavy shell made it impossible to catch prey.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": true,
@@ -360,7 +360,7 @@
         "weak-armor"
       ],
       "availability": [],
-      "description": "A prehistoric POK\u00e9MON that died out when its heavy shell made it impossible to catch prey.",
+      "description": "A prehistoric POKéMON that died out when its heavy shell made it impossible to catch prey.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": true,
@@ -450,7 +450,7 @@
         "omega-ruby",
         "alpha-sapphire"
       ],
-      "description": "A prehistoric POK\u00e9MON that died out when its heavy shell made it impossible to catch prey.",
+      "description": "A prehistoric POKéMON that died out when its heavy shell made it impossible to catch prey.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": true,
@@ -535,9 +535,11 @@
       ],
       "availability": [
         "ultra-sun",
-        "ultra-moon"
+        "ultra-moon",
+        "lets-go-pikachu",
+        "lets-go-eevee"
       ],
-      "description": "A prehistoric POK\u00e9MON that died out when its heavy shell made it impossible to catch prey.",
+      "description": "A prehistoric POKéMON that died out when its heavy shell made it impossible to catch prey.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": true,
@@ -629,7 +631,7 @@
         "brilliant-diamond",
         "shining-pearl"
       ],
-      "description": "A prehistoric POK\u00e9MON that died out when its heavy shell made it impossible to catch prey.",
+      "description": "A prehistoric POKéMON that died out when its heavy shell made it impossible to catch prey.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": true,
@@ -662,7 +664,7 @@
         "scarlet",
         "violet"
       ],
-      "description": "A prehistoric POK\u00e9MON that died out when its heavy shell made it impossible to catch prey.",
+      "description": "A prehistoric POKéMON that died out when its heavy shell made it impossible to catch prey.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": true,

@@ -573,7 +573,10 @@
         "shell-armor",
         "sheer-force"
       ],
-      "availability": [],
+      "availability": [
+        "lets-go-pikachu",
+        "lets-go-eevee"
+      ],
       "description": "Its pincers are not only powerful weapons, they are used for balance when walking sideways.",
       "is_legendary": false,
       "is_mythical": false,

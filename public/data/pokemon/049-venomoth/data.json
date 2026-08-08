@@ -536,7 +536,10 @@
         "tinted-lens",
         "wonder-skin"
       ],
-      "availability": [],
+      "availability": [
+        "lets-go-pikachu",
+        "lets-go-eevee"
+      ],
       "description": "The dust-like scales covering its wings are color coded to indicate the kinds of poison it has.",
       "is_legendary": false,
       "is_mythical": false,

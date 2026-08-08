@@ -534,7 +534,9 @@
         "flash-fire",
         "drought"
       ],
-      "availability": [],
+      "availability": [
+        "lets-go-eevee"
+      ],
       "description": "At the time of birth, it has just one tail. The tail splits from its tip as it grows older.",
       "is_legendary": false,
       "is_mythical": false,

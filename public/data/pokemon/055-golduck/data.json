@@ -56,7 +56,7 @@
         "blue",
         "yellow"
       ],
-      "description": "Often seen swim\u00ad ming elegantly by lake shores. It is often mistaken for the Japanese monster, Kappa.",
+      "description": "Often seen swim­ ming elegantly by lake shores. It is often mistaken for the Japanese monster, Kappa.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": true,
@@ -125,7 +125,7 @@
         "silver",
         "crystal"
       ],
-      "description": "Often seen swim\u00ad ming elegantly by lake shores. It is often mistaken for the Japanese monster, Kappa.",
+      "description": "Often seen swim­ ming elegantly by lake shores. It is often mistaken for the Japanese monster, Kappa.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": true,
@@ -215,7 +215,7 @@
         "emerald",
         "firered"
       ],
-      "description": "Often seen swim\u00ad ming elegantly by lake shores. It is often mistaken for the Japanese monster, Kappa.",
+      "description": "Often seen swim­ ming elegantly by lake shores. It is often mistaken for the Japanese monster, Kappa.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": true,
@@ -318,7 +318,7 @@
         "heartgold",
         "soulsilver"
       ],
-      "description": "Often seen swim\u00ad ming elegantly by lake shores. It is often mistaken for the Japanese monster, Kappa.",
+      "description": "Often seen swim­ ming elegantly by lake shores. It is often mistaken for the Japanese monster, Kappa.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": true,
@@ -417,7 +417,7 @@
         "black-2",
         "white-2"
       ],
-      "description": "Often seen swim\u00ad ming elegantly by lake shores. It is often mistaken for the Japanese monster, Kappa.",
+      "description": "Often seen swim­ ming elegantly by lake shores. It is often mistaken for the Japanese monster, Kappa.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": true,
@@ -519,7 +519,7 @@
         "omega-ruby",
         "alpha-sapphire"
       ],
-      "description": "Often seen swim\u00ad ming elegantly by lake shores. It is often mistaken for the Japanese monster, Kappa.",
+      "description": "Often seen swim­ ming elegantly by lake shores. It is often mistaken for the Japanese monster, Kappa.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": true,
@@ -615,9 +615,11 @@
         "sun",
         "moon",
         "ultra-sun",
-        "ultra-moon"
+        "ultra-moon",
+        "lets-go-pikachu",
+        "lets-go-eevee"
       ],
-      "description": "Often seen swim\u00ad ming elegantly by lake shores. It is often mistaken for the Japanese monster, Kappa.",
+      "description": "Often seen swim­ ming elegantly by lake shores. It is often mistaken for the Japanese monster, Kappa.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": true,
@@ -724,7 +726,7 @@
         "shining-pearl",
         "legends-arceus"
       ],
-      "description": "Often seen swim\u00ad ming elegantly by lake shores. It is often mistaken for the Japanese monster, Kappa.",
+      "description": "Often seen swim­ ming elegantly by lake shores. It is often mistaken for the Japanese monster, Kappa.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": true,
@@ -829,7 +831,7 @@
         "scarlet",
         "violet"
       ],
-      "description": "Often seen swim\u00ad ming elegantly by lake shores. It is often mistaken for the Japanese monster, Kappa.",
+      "description": "Often seen swim­ ming elegantly by lake shores. It is often mistaken for the Japanese monster, Kappa.",
       "is_legendary": false,
       "is_mythical": false,
       "is_fully_evolved": true,
