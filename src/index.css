@@ -1404,6 +1404,17 @@ h1, h2, h3, h4, h5, h6 {
   max-width: calc((100% - 2rem) / 3);
 }
 
+/* Four-game generations (5) break 2-per-row so the paired versions sit together */
+.hof-gen-games--wrap2 {
+  flex-wrap: wrap;
+  overflow-x: visible;
+}
+
+.hof-gen-games--wrap2 .hof-game-section {
+  flex: 1 1 calc((100% - 1rem) / 2);
+  max-width: calc((100% - 1rem) / 2);
+}
+
 .hof-game-section {
   background: var(--bg-card);
   border: 1px solid var(--border-color);
@@ -1699,7 +1710,8 @@ h1, h2, h3, h4, h5, h6 {
   .hof-game-section {
     min-width: unset;
   }
-  .hof-gen-games--wrap3 .hof-game-section {
+  .hof-gen-games--wrap3 .hof-game-section,
+  .hof-gen-games--wrap2 .hof-game-section {
     flex-basis: auto;
     max-width: none;
   }
