@@ -34,6 +34,10 @@ GAME_VERSION_MAP: Dict[str, Dict[str, Any]] = {
     "moon":              {"gen": "generation-vii", "sprite_key": "ultra-sun-ultra-moon",        "sprite_dir": "ultra-sun-ultra-moon",      "gen_num": 7},
     "ultra-sun":         {"gen": "generation-vii", "sprite_key": "ultra-sun-ultra-moon",        "sprite_dir": "ultra-sun-ultra-moon",      "gen_num": 7},
     "ultra-moon":        {"gen": "generation-vii", "sprite_key": "ultra-sun-ultra-moon",        "sprite_dir": "ultra-sun-ultra-moon",      "gen_num": 7},
+    # Let's Go has no sprite set in PokeAPI (generation-vii ships only `icons` and
+    # `ultra-sun-ultra-moon`), so its 3D models are represented by the HOME renders.
+    "lets-go-pikachu":   {"gen": "generation-vii", "sprite_key": "home",                        "sprite_dir": "home",                      "gen_num": 7},
+    "lets-go-eevee":     {"gen": "generation-vii", "sprite_key": "home",                        "sprite_dir": "home",                      "gen_num": 7},
     "sword":             {"gen": "generation-viii","sprite_key": None,                          "sprite_dir": None,                         "gen_num": 8},
     "shield":            {"gen": "generation-viii","sprite_key": None,                          "sprite_dir": None,                         "gen_num": 8},
     "brilliant-diamond": {"gen": "generation-viii","sprite_key": "brilliant-diamond-shining-pearl", "sprite_dir": "brilliant-diamond-shining-pearl", "gen_num": 8},
@@ -75,6 +79,8 @@ GAME_DISPLAY_NAMES: Dict[str, str] = {
     "moon": "Pokémon Moon",
     "ultra-sun": "Ultra Sun",
     "ultra-moon": "Ultra Moon",
+    "lets-go-pikachu": "Let's Go, Pikachu!",
+    "lets-go-eevee": "Let's Go, Eevee!",
     "sword": "Pokémon Sword",
     "shield": "Pokémon Shield",
     "brilliant-diamond": "Brilliant Diamond",

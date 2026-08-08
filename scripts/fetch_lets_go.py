@@ -84,12 +84,51 @@ def apply_to_gen7(gen7: Dict, pokemon_id: int, dex: Set[int]) -> bool:
     return True
 
 
+def apply_game_sprites(entry: Dict, pokemon_id: int, dex: Set[int]) -> bool:
+    """Point the Let's Go versions at the local HOME renders.
+
+    PokeAPI ships no Let's Go sprite set, and the games use 3D models, so the
+    HOME renders already on disk are the closest match. Only variants that
+    actually exist are recorded (HOME has front views only).
+    """
+    game_sprites = entry.get("game_sprites")
+    if not isinstance(game_sprites, dict) or not game_sprites:
+        return False
+
+    wanted = versions_for(pokemon_id, dex)
+    changed = False
+    for version in LETS_GO_VERSIONS:
+        if version not in wanted:
+            if game_sprites.pop(version, None) is not None:
+                changed = True
+            continue
+        # Derive the HOME directory from an existing entry so the path prefix
+        # (and any directory naming quirks) stay consistent with the dataset.
+        sample = next((v for v in game_sprites.values() if isinstance(v, dict) and v.get("front_default")), None)
+        if not sample:
+            continue
+        base = sample["front_default"].rsplit("/sprites/", 1)[0] + "/sprites/home"
+        paths = {}
+        for variant in ("front_default", "front_shiny"):
+            rel = f"{base}/{variant}.png".lstrip("./")
+            if (BASE_DIR / "public" / rel).exists():
+                paths[variant] = f"{base}/{variant}.png"
+        if paths and game_sprites.get(version) != paths:
+            game_sprites[version] = paths
+            changed = True
+    return changed
+
+
 def patch_entry(entry: Dict, dex: Set[int]) -> bool:
     pid = entry.get("id")
-    gen7 = (entry.get("generations") or {}).get("7")
-    if not pid or not isinstance(gen7, dict):
+    if not pid:
         return False
-    return apply_to_gen7(gen7, pid, dex)
+    changed = False
+    gen7 = (entry.get("generations") or {}).get("7")
+    if isinstance(gen7, dict):
+        changed = apply_to_gen7(gen7, pid, dex) or changed
+    changed = apply_game_sprites(entry, pid, dex) or changed
+    return changed
 
 
 def patch_file(path: Path, dex: Set[int], indent=None) -> int:
